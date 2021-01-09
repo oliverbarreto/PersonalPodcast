@@ -30,13 +30,23 @@
       <itunes:subtitle>this is a cool episode</itunes:subtitle>
     </item>
     <item>
+      <title>Episode 2 - This goes to the Crazy Ones ...</title>
+      <description><![CDATA[Using pytz, you can make your code timezone-aware with very little hassle.]]></description>
+      <guid isPermaLink="false">https://cdn.listenbox.app/a/ke80jh1DTUlZ.m4a</guid>
+      <enclosure url="https://cdn.listenbox.app/a/u4diDOUjKM4.m4a?show_id=qlovztjorJJv" length="10626878" type="audio/mp4" />
+      <itunes:duration>01:01:01</itunes:duration>
+      <itunes:image href="https://i.ytimg.com/vi/jN2VXxEL5z4/hqdefault.jpg"/>
+      <itunes:order>1</itunes:order>
+      <itunes:subtitle>this is a cool episode</itunes:subtitle>
+    </item>
+    <item>
       <title>Episode 1 - Developer vs BlackFriday...</title>
       <description><![CDATA[Using pytz, you can make your code timezone-aware with very little hassle.]]></description>
       <guid isPermaLink="false">https://cdn.listenbox.app/a/u4diDOUjKM4.m4a</guid>
       <enclosure url="https://cdn.listenbox.app/a/u4diDOUjKM4.m4a?show_id=qlovztjorJJv" length="10626878" type="audio/mp4" />
       <itunes:duration>01:01:01</itunes:duration>
       <itunes:image href="http://oliverbarreto.com/images/site-logo.png"/>
-      <itunes:order>1</itunes:order>
+      <itunes:order>2</itunes:order>
       <itunes:subtitle>this is a cool episode</itunes:subtitle>
     </item>
 
