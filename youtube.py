@@ -1,4 +1,5 @@
 from video import VideoEpisode
+from channel import Channel
 import utils
 
 import pafy
@@ -97,32 +98,32 @@ def pyTube_download(url):
 def create_rss(type, download):
     """Create an example podcast and print it or save it to a file."""
     
-    # Create the Podcast
+    # Create the Podcast & initialize the feed
+    default_channel = Channel.defaultChannel()
+    
     p = Podcast()
-    p.name          = "Oliver's Personal Podcast"
-    p.description   = "I publish interesting things i like to listen to!!!"
-    p.website       = "http://oliverbarreto.com/"
-    p.explicit      = False
-    p.image         = "http://oliverbarreto.com/images/site-logo.png"
+    p.name          = default_channel.name
+    p.description   = default_channel.description
+    p.website       = default_channel.website
+    p.explicit      = default_channel.explicit
+    p.image         = default_channel.image
 
-    p.copyright = "2020 OB Radio"
-    p.language  = "es-ES"
-    p.feed_url  = "https://example.com/feeds/podcast.rss"  # URL of this feed
-    p.category  = Category("News")
+    p.copyright     = default_channel.copyright
+    p.language      = default_channel.language
+    p.feed_url      = default_channel.feed_url
+    p.category      = Category(default_channel.category)
     # p.category = Category('Technology', 'Podcasting')
     # p.xslt      = "https://example.com/feed/stylesheet.xsl"  # URL of XSLT stylesheet
 
-    p.authors   = [Person("Youtube Author", " ")]
-    # p.authors.append(Person("Lars Kiesow", "lkiesow@uos.de"))
-    p.owner     = p.authors[0]
+    p.authors   = [Person(default_channel.authors, default_channel.authors_email)]
+    p.owner     = Person(default_channel.owner, default_channel.owner_email)
 
+    # Other Attributes
+    p.generator = " "
     
-    # Initialize the feed
-    # p.copyright = 'cc-by'
+    # Others for iTunes
     # p.complete = False
     # p.new_feed_url = 'http://example.com/new-feed.rss'
-    # p.owner = Person('John Doe', 'john@example.com')
-    # p.xslt = "http://example.com/stylesheet.xsl"
 
     # e1 = p.add_episode()
     # e1.id = 'http://lernfunk.de/_MEDIAID_123#1'
@@ -149,7 +150,7 @@ def create_rss(type, download):
             position = 0,
             media = Media(download.media_url, size=download.media_size, duration=timedelta(seconds=download.media_duration)),
             image = download.image_url,
-            summary = "")
+            summary = download.summary)
     # ,
     #    Episode(title="Episode 2?",
     #         subtitle="this is a cool episode",
@@ -200,11 +201,12 @@ def pafy_download(url):
     download = VideoEpisode(title  = video.title, 
         description         = video.description,
         subtitle            = video.description, 
+        summary             = htmlencode(video.description),
         video_id            = video.videoid, 
         author              = video.author, 
         image_url           = video.thumb, 
         published           = video.published,
-        keywords           = video.keywords,
+        keywords            = video.keywords,
         media_size          = globals()['filesize'], 
         media_duration      = video.length, 
         position            = 0, 
@@ -213,7 +215,7 @@ def pafy_download(url):
 
     print(download)
 
-    create_rss(type="feed.xml", download= download)
+    create_rss(type="feed.xml", download=download)
 
 
 
