@@ -1,98 +1,35 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss
-  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+      
   <channel>
-    <title>Programmer vs Black Friday</title>
-    <link>https://listenbox.app/i/qlovztjorJJv</link>
-    <description>#Python #Automation #Programming
-Programmer vs Black Friday
-
-Get your .TECH domain for 90% off: https://go.tech/kallehallden
-
-"Clean Code Friday"
-If you want to receive one short email from me every week, where I go through a few of the most useful things I have explored and discovered this week. Things like; favourite apps, articles, podcasts, books, coding tips and tricks. Then feel free to join https://kalletech.com/cleancode/
-
-GITHUB REPO: https://github.com/KalleHallden/BlackFridayScrape
-
-CONTACT: contact@kalletech.com
-
-Follow me on:
-
-TWITCH: https://www.twitch.tv/kallehallden
-INSTAGRAM: https://www.instagram.com/kallehallden/
-TWITTER: https://twitter.com/kallehallden
-GITHUB: https://github.com/kallehallden
-
-
---------------------------------------------------------------------------------------------------------
-GEAR:
-https://kalletech.com/tech/</description>
-    <language>en</language>
-    <pubDate>Fri, 08 Jan 2021 19:32:01 GMT</pubDate>
+    <title>Oliver's Personal Podcast</title>
+    <link>http://oliverbarreto.com/</link>
+    <description>I publish interesting things i like to listen to!!!</description>
+    <itunes:explicit>no</itunes:explicit>
+    <language>es-ES</language>
+    <lastBuildDate>Sat, 09 Jan 2021 11:17:22 +0000</lastBuildDate>
+    <itunes:author>Youtube Author</itunes:author>
+    <managingEditor>  (Youtube Author)</managingEditor>
+    <itunes:category text="News"/>
+    <itunes:image href="http://oliverbarreto.com/images/site-logo.png"/>
     <itunes:owner>
-      <itunes:email />
-      <itunes:name />
+      <itunes:name>Youtube Author</itunes:name>
+      <itunes:email> </itunes:email>
     </itunes:owner>
-    <itunes:author>Kalle Hallden</itunes:author>
-    <itunes:image href="https://i.ytimg.com/vi/jN2VXxEL5z4/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLAWizpgcMcHimaKKxWz5zoUvIgLBw" />
-    <itunes:keywords />
+    <atom:link href="https://example.com/feeds/podcast.rss" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Programmer vs Black Friday</title>
-      <link>https://www.youtube.com/watch?v=jN2VXxEL5z4</link>
-      <description>#Python #Automation #Programming
-Programmer vs Black Friday
-
-Get your .TECH domain for 90% off: https://go.tech/kallehallden
-
-"Clean Code Friday"
-If you want to receive one short email from me every week, where I go through a few of the most useful things I have explored and discovered this week. Things like; favourite apps, articles, podcasts, books, coding tips and tricks. Then feel free to join https://kalletech.com/cleancode/
-
-GITHUB REPO: https://github.com/KalleHallden/BlackFridayScrape
-
-CONTACT: contact@kalletech.com
-
-Follow me on:
-
-TWITCH: https://www.twitch.tv/kallehallden
-INSTAGRAM: https://www.instagram.com/kallehallden/
-TWITTER: https://twitter.com/kallehallden
-GITHUB: https://github.com/kallehallden
-
-
---------------------------------------------------------------------------------------------------------
-GEAR:
-https://kalletech.com/tech/</description>
-      <enclosure url="https://cdn.listenbox.app/a/u4diDOUjKM4.m4a?show_id=qlovztjorJJv" length="10626878" type="audio/mp4" />
+      <title>Episode 1 - This goes to the Crazy Ones...</title>
+      <description><![CDATA[Using pytz, you can make your code timezone-aware with very little hassle.]]></description>
       <pubDate>Thu, 28 Nov 2019 00:00:00 GMT</pubDate>
       <author>Kalle Hallden</author>
-      <guid>qlovztjorJJv:u4diDOUjKM4</guid>
+      <guid isPermaLink="false">httpso://cdn.listenbox.app/a/u4diDOUjKM4.m4a</guid>
+      <enclosure url="https://github.com/thisyearweconquer/thisyearweconquer.github.io/blob/master/mp3s/5_MINUTES_TO_START_YOUR_DAY_RIGHT_BEST_Motivational_Video_EVER.mp3" length="11932295" type="audio/mpeg"/>
       <itunes:duration>00:10:57</itunes:duration>
-      <itunes:order>0</itunes:order>
       <itunes:image href="https://i.ytimg.com/vi/jN2VXxEL5z4/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLAWizpgcMcHimaKKxWz5zoUvIgLBw" />
-      <itunes:keywords />
-      <itunes:subtitle>#Python #Automation #Programming
-Programmer vs Black Friday
-
-Get your .TECH domain for 90% off: https://go.tech/kallehallden
-
-"Clean Code Friday"
-If you want to receive one short email from me every week, where I go through a few of the most useful things I have explored and discovered this week. Things like; favourite apps, articles, podcasts, books, coding tips and tricks. Then feel free to join https://kalletech.com/cleancode/
-
-GITHUB REPO: https://github.com/KalleHallden/BlackFridayScrape
-
-CONTACT: contact@kalletech.com
-
-Follow me on:
-
-TWITCH: https://www.twitch.tv/kallehallden
-INSTAGRAM: https://www.instagram.com/kallehallden/
-TWITTER: https://twitter.com/kallehallden
-GITHUB: https://github.com/kallehallden
-
-
---------------------------------------------------------------------------------------------------------
-GEAR:
-https://kalletech.com/tech/</itunes:subtitle>
+      <itunes:order>0</itunes:order>
+      <itunes:subtitle>this is a cool episode</itunes:subtitle>
     </item>
   </channel>
 </rss>
