@@ -20,7 +20,7 @@
     </itunes:owner>
     <atom:link href="https://example.com/feeds/podcast.rss" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Episode 2 - This goes to the Crazy Ones ...</title>
+      <title>Episode 3 - Another episode  ...</title>
       <description><![CDATA[Using pytz, you can make your code timezone-aware with very little hassle.]]></description>
       <guid isPermaLink="false">https://cdn.listenbox.app/a/qlovztjorJJv.m4a</guid>
       <enclosure url="https://cdn.listenbox.app/a/u4diDOUjKM4.m4a?show_id=qlovztjorJJv" length="10626878" type="audio/mp4" />
