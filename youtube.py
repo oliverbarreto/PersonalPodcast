@@ -150,7 +150,7 @@ def create_rss(type, download):
             position =2,
             media = Media(download.media_url, size=download.media_size, duration=timedelta(seconds=download.media_duration)),
             image = download.image_url,
-            publication_date = datetime.datetime.now(),
+            publication_date = datetime(year=2021, month=1, day=8, hour=10, minute=0, tzinfo=pytz.utc),
             summary = download.summary)
     ,
        Episode(title="Episode 2 - The Crazy Ones",
@@ -158,7 +158,7 @@ def create_rss(type, download):
             position=1,
             image="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png",
             media=Media("https://github.com/oliverbarreto/PersonalPodcast/raw/main/downloaded_with_pytube_Apple%20Steve%20Jobs%20Heres%20To%20The%20Crazy%20Ones.mp4", type="audio/mpeg", size=989, duration=timedelta(hours=0, minutes=1, seconds=1)),
-            publication_date = datetime.datetime.now(),
+            publication_date = datetime(year=2021, month=1, day=6, hour=10, minute=0, tzinfo=pytz.utc),
             summary=htmlencode("wow wow wow summary"))
     ,
         Episode(title="Episode 3 - The Super Crazy",
@@ -166,7 +166,7 @@ def create_rss(type, download):
             position=0,
             image="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png",
             media=Media("https://drive.google.com/file/d/1X5Mwa8V0Su1IDqhcQL7LdzEY0VaMC1Nn", type="audio/mpeg", size=989, duration=timedelta(hours=0, minutes=1, seconds=1)),
-            publication_date = datetime.datetime.now(),
+            publication_date = datetime(year=2021, month=1, day=10, hour=10, minute=0, tzinfo=pytz.utc),
             summary=download.summary)
     ]
 
