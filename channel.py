@@ -29,7 +29,7 @@ class Channel:
         description     = "I publish interesting things i like to listen to!!!", 
         website         = "http://oliverbarreto.com/", 
         explicit        = True, 
-        image           = "http://oliverbarreto.com/images/site-logo.png", 
+        image           = "https://github.com/oliverbarreto/PersonalPodcast/blob/main/site-logo-1400x1400.png", 
         copyright       = "", 
         language        = "es-ES", 
         feed_url        = "https://raw.githubusercontent.com/oliverbarreto/PersonalPodcast/main/feed.xml",
