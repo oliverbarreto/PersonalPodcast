@@ -147,18 +147,17 @@ def create_rss(type, download):
        Episode(title = download.title, 
             subtitle = download.subtitle,
             # id=str(uuid.uuid4()),
-            position = 0,
+            position = 1,
             media = Media(download.media_url, size=download.media_size, duration=timedelta(seconds=download.media_duration)),
             image = download.image_url,
             summary = download.summary)
-    # ,
-    #    Episode(title="Episode 2?",
-    #         subtitle="this is a cool episode",
-    #         position=1,
-    #         image="http://oliverbarreto.com/images/site-logo.png",
-    #         media=Media("http://example.org/ep2.mp3", size=15363464, duration=timedelta(hours=1, minutes=1, seconds=1)),
-    #         summary="The man behind Requests made something useful "
-    #                    "for us command-line nerds.")
+    ,
+       Episode(title="Episode 2 - The Crazy Ones",
+            subtitle="this is a cool episode, this is for th crazy ones",
+            position=0,
+            image="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png",
+            media=Media("https://github.com/oliverbarreto/PersonalPodcast/raw/main/downloaded_with_pytube_Apple%20Steve%20Jobs%20Heres%20To%20The%20Crazy%20Ones.mp4", size=989, duration=timedelta(hours=0, minutes=1, seconds=1)),
+            summary=htmlencode("wow wow wow summary"))
     ]
 
     # Should we just print out, or write to file?
@@ -198,7 +197,7 @@ def pafy_download(url):
     # print(f"dislikes: {video.dislikes}")
     # print(f"keywords: {video.keywords}")
 
-    download = VideoEpisode(title  = video.title, 
+    download = VideoEpisode(title = video.title, 
         description         = video.description,
         subtitle            = video.description, 
         summary             = htmlencode(video.description),
