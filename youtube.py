@@ -210,7 +210,7 @@ def pafy_download(url):
         media_size          = globals()['filesize'], 
         media_duration      = video.length, 
         position            = 0, 
-        media_url           = "http://oliver.barreto.com/media/dummy.mp3"        
+        media_url           = "https://cdn.listenbox.app/a/u4diDOUjKM4.m4a"        
     )
 
     print(download)
