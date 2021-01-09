@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Oliver's Personal Podcast</title>
+    <link>http://oliverbarreto.com/</link>
+    <description>I publish interesting things i like to listen to!!!</description>
+    <itunes:explicit>no</itunes:explicit>
+    <copyright>2020 OB Radio</copyright>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
+    <language>es-ES</language>
+    <lastBuildDate>Sat, 09 Jan 2021 11:17:22 +0000</lastBuildDate>
+    <itunes:author>Youtube Author</itunes:author>
+    <managingEditor>  (Youtube Author)</managingEditor>
+    <itunes:category text="News"/>
+    <itunes:image href="http://oliverbarreto.com/images/site-logo.png"/>
+    <itunes:owner>
+      <itunes:name>Youtube Author</itunes:name>
+      <itunes:email> </itunes:email>
+    </itunes:owner>
+    <atom:link href="https://example.com/feeds/podcast.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Episode 1 - This goes to the Crazy Ones...</title>
+      <description><![CDATA[Using pytz, you can make your code timezone-aware with very little hassle.]]></description>
+      <guid isPermaLink="false">https://github.com/thisyearweconquer/thisyearweconquer.github.io/blob/master/mp3s/5_MINUTES_TO_START_YOUR_DAY_RIGHT_BEST_Motivational_Video_EVER.mp3</guid>
+      <enclosure url="https://github.com/thisyearweconquer/thisyearweconquer.github.io/blob/master/mp3s/5_MINUTES_TO_START_YOUR_DAY_RIGHT_BEST_Motivational_Video_EVER.mp3" length="11932295" type="audio/mpeg"/>
+      <itunes:duration>01:01:01</itunes:duration>
+      <itunes:image href="http://oliverbarreto.com/images/site-logo.png"/>
+      <itunes:order>0</itunes:order>
+      <itunes:subtitle>this is a cool episode</itunes:subtitle>
+    </item>
+  </channel>
+</rss>
