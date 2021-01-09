@@ -147,17 +147,24 @@ def create_rss(type, download):
        Episode(title = download.title, 
             subtitle = download.subtitle,
             # id=str(uuid.uuid4()),
-            position = 1,
+            position =2,
             media = Media(download.media_url, size=download.media_size, duration=timedelta(seconds=download.media_duration)),
             image = download.image_url,
             summary = download.summary)
     ,
        Episode(title="Episode 2 - The Crazy Ones",
             subtitle="this is a cool episode, this is for th crazy ones",
-            position=0,
+            position=1,
             image="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png",
             media=Media("https://github.com/oliverbarreto/PersonalPodcast/raw/main/downloaded_with_pytube_Apple%20Steve%20Jobs%20Heres%20To%20The%20Crazy%20Ones.mp4", type="audio/mpeg", size=989, duration=timedelta(hours=0, minutes=1, seconds=1)),
             summary=htmlencode("wow wow wow summary"))
+    ,
+        Episode(title="Episode 3 - The Super Crazy",
+            subtitle="crazy ones revisited",
+            position=0,
+            image="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png",
+            media=Media("https://drive.google.com/file/d/1X5Mwa8V0Su1IDqhcQL7LdzEY0VaMC1Nn", type="audio/mpeg", size=989, duration=timedelta(hours=0, minutes=1, seconds=1)),
+            summary=download.summary)
     ]
 
     # Should we just print out, or write to file?

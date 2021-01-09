@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator> </generator>
     <language>es-ES</language>
-    <lastBuildDate>Sat, 09 Jan 2021 23:17:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 Jan 2021 23:22:25 +0000</lastBuildDate>
     <itunes:author>Oliver Barreto</itunes:author>
     <managingEditor>oliver.barreto.online@gmail.com (Oliver Barreto)</managingEditor>
     <itunes:category text="News"/>
@@ -47,7 +47,7 @@ https://kalletech.com/tech/]]></description>
       <enclosure url="https://cdn.listenbox.app/a/u4diDOUjKM4.m4a" length="10626878" type="audio/x-m4a"/>
       <itunes:duration>10:57</itunes:duration>
       <itunes:image href="http://i.ytimg.com/vi/jN2VXxEL5z4/default.jpg"/>
-      <itunes:order>1</itunes:order>
+      <itunes:order>2</itunes:order>
       <itunes:subtitle>#Python #Automation #Programming
 Programmer vs Black Friday
 
@@ -79,8 +79,40 @@ https://kalletech.com/tech/</itunes:subtitle>
       <enclosure url="https://github.com/oliverbarreto/PersonalPodcast/raw/main/downloaded_with_pytube_Apple%20Steve%20Jobs%20Heres%20To%20The%20Crazy%20Ones.mp4" length="989" type="audio/mpeg"/>
       <itunes:duration>01:01</itunes:duration>
       <itunes:image href="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png"/>
-      <itunes:order>0</itunes:order>
+      <itunes:order>1</itunes:order>
       <itunes:subtitle>this is a cool episode, this is for th crazy ones</itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 3 - The Super Crazy</title>
+      <description><![CDATA[#Python #Automation #Programming
+Programmer vs Black Friday
+
+Get your .TECH domain for 90% off: https://go.tech/kallehallden
+
+&quot;Clean Code Friday&quot;
+If you want to receive one short email from me every week, where I go through a few of the most useful things I have explored and discovered this week. Things like; favourite apps, articles, podcasts, books, coding tips and tricks. Then feel free to join https://kalletech.com/cleancode/
+
+GITHUB REPO: https://github.com/KalleHallden/BlackFridayScrape
+
+CONTACT: contact@kalletech.com
+
+Follow me on:
+
+TWITCH: https://www.twitch.tv/kallehallden
+INSTAGRAM: https://www.instagram.com/kallehallden/
+TWITTER: https://twitter.com/kallehallden
+GITHUB: https://github.com/kallehallden
+
+
+--------------------------------------------------------------------------------------------------------
+GEAR:
+https://kalletech.com/tech/]]></description>
+      <guid isPermaLink="false">https://drive.google.com/file/d/1X5Mwa8V0Su1IDqhcQL7LdzEY0VaMC1Nn</guid>
+      <enclosure url="https://drive.google.com/file/d/1X5Mwa8V0Su1IDqhcQL7LdzEY0VaMC1Nn" length="989" type="audio/mpeg"/>
+      <itunes:duration>01:01</itunes:duration>
+      <itunes:image href="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png"/>
+      <itunes:order>0</itunes:order>
+      <itunes:subtitle>crazy ones revisited</itunes:subtitle>
     </item>
   </channel>
 </rss>
