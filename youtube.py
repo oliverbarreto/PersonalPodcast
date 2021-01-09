@@ -1,4 +1,4 @@
-from video import Video
+from video import VideoEpisode
 import utils
 
 import pafy
@@ -67,12 +67,7 @@ def on_progress(chunk, file_handle, bytes_remaining):
     bytes_received = filesize - bytes_remaining
     display_progress_bar(bytes_received, filesize)
 
-
-def download(url):
-    # Define the search
-    # YouTube('https://youtube.com/watch?v=2lAe1cqCOXo').streams.first().download()
-    print("Download Started!")
-
+def pyTube_download(url):
     # url = 'https://www.youtube.com/watch?v=UIoruUFrVqs'
     video = YouTube(url)
     video.register_on_progress_callback(on_progress)
@@ -98,51 +93,10 @@ def download(url):
     #list = video.streams.filter(type='audio', mime_type='audio/mp4').order_by('abr').desc().first().download()
     #print(list)
 
-    print("Download Complete!")
 
-
-
-def create_rss():
-    # Create the Podcast
-    p = Podcast()
-    p.name          = "Oliver's Personal Podcast"
-    p.description   = "I publish interesting things i like to listen to !!!",
-    p.website       = "http://oliverbarreto.com/"
-    p.explicit      = True
-    p.image         = "http://oliverbarreto.com/images/site-logo.png"
-
-    # p.copyright = "2020 OB Radio"
-    p.language  = "en-US"
-    # p.authors   = [Person("Oliver Barreto", "oliver.barreto@gmail.com")]
-    p.feed_url  = "https://example.com/feeds/podcast.rss"  # URL of this feed
-    p.category  = Category("News")
-    p.docs      = None
-    # p.owner     = p.authors[0]
-    # p.xslt      = "https://example.com/feed/stylesheet.xsl"  # URL of XSLT stylesheet
-
-    
-    # Add some episodes
-    p.episodes += [
-       Episode(title="Episode 1", 
-            subtitle="this is a cool episode",
-            media=Media("http://example.org/ep1.mp3", 11932295),
-            summary="Using pytz, you can make your code timezone-aware "
-                       "with very little hassle."),
-       Episode(title="Episode 2?",
-            subtitle="this is a cool episode",
-            media=Media("http://example.org/ep2.mp3", 15363464),
-            summary="The man behind Requests made something useful "
-                       "for us command-line nerds.")
-    ]
-
-    # Generate the RSS feed
-    # print(p)
-    p.rss_file('rss.xml', minimize=False)
-
-def example_rss(type):
+def create_rss(type, download):
     """Create an example podcast and print it or save it to a file."""
     
-
     # Create the Podcast
     p = Podcast()
     p.name          = "Oliver's Personal Podcast"
@@ -189,14 +143,13 @@ def example_rss(type):
 
     # Add some episodes
     p.episodes += [
-       Episode(title="Episode 1 - This goes to the Crazy Ones...", 
-            subtitle="this is a cool episode",
+       Episode(title = download.title, 
+            subtitle = download.subtitle,
             # id=str(uuid.uuid4()),
-            position=0,
-            media=Media("https://github.com/thisyearweconquer/thisyearweconquer.github.io/blob/master/mp3s/5_MINUTES_TO_START_YOUR_DAY_RIGHT_BEST_Motivational_Video_EVER.mp3", size=11932295, duration=timedelta(hours=1, minutes=1, seconds=1)),
-            image="http://oliverbarreto.com/images/site-logo.png",
-            summary="Using pytz, you can make your code timezone-aware "
-                       "with very little hassle.")
+            position = 0,
+            media = Media(download.media_url, size=download.media_size, duration=timedelta(seconds=download.media_duration)),
+            image = download.image_url,
+            summary = "")
     # ,
     #    Episode(title="Episode 2?",
     #         subtitle="this is a cool episode",
@@ -206,6 +159,7 @@ def example_rss(type):
     #         summary="The man behind Requests made something useful "
     #                    "for us command-line nerds.")
     ]
+
     # Should we just print out, or write to file?
     if type == 'print':
         # Print
@@ -216,11 +170,64 @@ def example_rss(type):
         print("\n")
         print("feed.xml created !!!")
 
-def pafy_test():
-    url = "https://www.youtube.com/watch?v=-z4NS2zdrZc" # Here is to the Crazy Ones
-    video = pafy.new(url)
-    print(video.title)
     
+
+def pafy_download(url):
+    if not url:
+        url = "https://www.youtube.com/watch?v=-z4NS2zdrZc" # Here is to the Crazy Ones
+    
+    pafy.set_api_key("AIzaSyD5Q22HSOEJKYaNkObyb_38o_gLx24qu5Y")
+    video = pafy.new(url)
+    
+    # print(f"videoid: {video.videoid}")
+
+    # print(f"title: {video.title}")
+    # print(f"description: {video.description}")
+    # print(f"thumb: {video.thumb}")
+    
+    # print(f"duration: {video.duration}")
+    # print(f"length: {video.length}")
+    
+    # print(f"author: {video.author}")
+    # print(f"published: {video.published}")
+
+    # print(f"rating: {video.rating}")
+    # print(f"view count: {video.viewcount}")
+    # print(f"likes: {video.likes}")
+    # print(f"dislikes: {video.dislikes}")
+    # print(f"keywords: {video.keywords}")
+
+    download = VideoEpisode(title  = video.title, 
+        description         = video.description,
+        subtitle            = video.description, 
+        video_id            = video.videoid, 
+        author              = video.author, 
+        image_url           = video.thumb, 
+        published           = video.published,
+        keywords           = video.keywords,
+        media_size          = globals()['filesize'], 
+        media_duration      = video.length, 
+        position            = 0, 
+        media_url           = "http://oliver.barreto.com/media/dummy.mp3"        
+    )
+
+    print(download)
+
+    create_rss(type="feed.xml", download= download)
+
+
+
+
+
+def download(url):
+    # Define the search
+    # YouTube('https://youtube.com/watch?v=2lAe1cqCOXo').streams.first().download()
+    print("Download Started!")
+    pyTube_download(url = url)
+    pafy_download(url = url)
+    print("Download Complete!")
+
+
 
 def main():
     """Command line application to download youtube videos."""
@@ -234,11 +241,10 @@ def main():
     
     if args.url:
         download(url=args.url)
-        example_rss(type="feed.xml")
+        
 
 if __name__ == '__main__':
     main()
-    # pafy_test()
     # create_rss()    #Oliver
-    # example_rss(type="feed.xml")
+    # create_rss(type="feed.xml")
     
