@@ -217,7 +217,7 @@ def example_rss(type):
         print("feed.xml created !!!")
 
 def pafy_test():
-    url = "https://www.youtube.com/watch?v=-z4NS2zdrZc"
+    url = "https://www.youtube.com/watch?v=-z4NS2zdrZc" # Here is to the Crazy Ones
     video = pafy.new(url)
     print(video.title)
     
