@@ -1,5 +1,4 @@
-
-    <?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
     <title>Oliver's Personal Podcast</title>
@@ -9,10 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator> </generator>
     <language>es-ES</language>
-    <lastBuildDate>Sun, 10 Jan 2021 00:19:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Jan 2021 20:12:03 +0000</lastBuildDate>
     <itunes:author>Oliver Barreto</itunes:author>
     <managingEditor>oliver.barreto.online@gmail.com (Oliver Barreto)</managingEditor>
-    <pubDate>Sun, 10 Jan 2021 00:19:39 +0000</pubDate>
+    <pubDate>Mon, 11 Jan 2021 20:12:03 +0000</pubDate>
     <itunes:category text="News"/>
     <itunes:image href="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png"/>
     <itunes:owner>
@@ -21,79 +20,28 @@
     </itunes:owner>
     <atom:link href="https://raw.githubusercontent.com/oliverbarreto/PersonalPodcast/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2x03 Asalto al Capitolio #LaEstirpedelosLibres</title>
-      <description><![CDATA[Asalto al Capitolio #LaEstirpedelosLibres
+      <title>Apple Steve Jobs Heres To The Crazy Ones</title>
+      <description><![CDATA[http://www.NathanHulls.com
 
-WEB:
-• Toda la información en → https://www.ikerjimenez.com/
+Steve Jobs narrates the first of Apples &#x27;Think Different&#x27; commercial &quot;Here&#x27;s to the Crazy Ones&quot;. It never aired. Richard Dreyfuss did the voice over for the original spot that aired.
 
-REDES SOCIALES:
-• Iker Jiménez en Twitter → https://twitter.com/navedelmisterio
-• Iker Jiménez en Instagram → https://www.instagram.com/navedelmisterio_
-• Carmen Porter en Twitter → https://twitter.com/carmenporter_
-• La nave del misterio en Facebook → https://www.facebook.com/navedelmisterio
+&quot;The ones who are crazy enough to think that they can change the world, are the ones who do&quot;
 
-OTROS CANALES EN YOUTUBE:
-• Con C de Carmen → https://www.youtube.com/c/ElvideoblogdeCarmenPorter
-• Retrofútbol de Iker → https://www.youtube.com/c/retrofutboldeiker]]></description>
-      <guid isPermaLink="false">https://cdn.listenbox.app/a/u4diDOUjKM4.m4a</guid>
-      <enclosure url="https://cdn.listenbox.app/a/u4diDOUjKM4.m4a" length="152648453" type="audio/x-m4a"/>
-      <itunes:duration>02:37:12</itunes:duration>
-      <pubDate>Fri, 08 Jan 2021 10:00:00 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/uyyWOksbrRo/default.jpg"/>
-      <itunes:explicit>No</itunes:explicit>
-      <itunes:order>2</itunes:order>
-      <itunes:subtitle>Asalto al Capitolio #LaEstirpedelosLibres
-
-WEB:
-• Toda la información en → https://www.ikerjimenez.com/
-
-REDES SOCIALES:
-• Iker Jiménez en Twitter → https://twitter.com/navedelmisterio
-• Iker Jiménez en Instagram → https://www.instagram.com/navedelmisterio_
-• Carmen Porter en Twitter → https://twitter.com/carmenporter_
-• La nave del misterio en Facebook → https://www.facebook.com/navedelmisterio
-
-OTROS CANALES EN YOUTUBE:
-• Con C de Carmen → https://www.youtube.com/c/ElvideoblogdeCarmenPorter
-• Retrofútbol de Iker → https://www.youtube.com/c/retrofutboldeiker</itunes:subtitle>
-    </item>
-    <item>
-      <title>Episode 2 - The Crazy Ones</title>
-      <description><![CDATA[wow wow wow summary]]></description>
-      <guid isPermaLink="false">https://github.com/oliverbarreto/PersonalPodcast/raw/main/downloaded_with_pytube_Apple%20Steve%20Jobs%20Heres%20To%20The%20Crazy%20Ones.mp4</guid>
-      <enclosure url="https://github.com/oliverbarreto/PersonalPodcast/raw/main/downloaded_with_pytube_Apple%20Steve%20Jobs%20Heres%20To%20The%20Crazy%20Ones.mp4" length="989" type="audio/mpeg"/>
+http://www.nathanhulls.com]]></description>
+      <guid isPermaLink="false">com.audiosack.guid.-z4NS2zdrZc</guid>
+      <enclosure url="http://localhost:8080/static/media/-z4NS2zdrZc.m4a" length="989115" type="audio/x-m4a"/>
       <itunes:duration>01:01</itunes:duration>
-      <pubDate>Wed, 06 Jan 2021 10:00:00 +0000</pubDate>
-      <itunes:image href="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png"/>
-      <itunes:explicit>No</itunes:explicit>
-      <itunes:order>1</itunes:order>
-      <itunes:subtitle>this is a cool episode, this is for th crazy ones</itunes:subtitle>
-    </item>
-    <item>
-      <title>Episode 3 - The Super Crazy</title>
-      <description><![CDATA[Asalto al Capitolio #LaEstirpedelosLibres
-
-WEB:
-• Toda la información en → https://www.ikerjimenez.com/
-
-REDES SOCIALES:
-• Iker Jiménez en Twitter → https://twitter.com/navedelmisterio
-• Iker Jiménez en Instagram → https://www.instagram.com/navedelmisterio_
-• Carmen Porter en Twitter → https://twitter.com/carmenporter_
-• La nave del misterio en Facebook → https://www.facebook.com/navedelmisterio
-
-OTROS CANALES EN YOUTUBE:
-• Con C de Carmen → https://www.youtube.com/c/ElvideoblogdeCarmenPorter
-• Retrofútbol de Iker → https://www.youtube.com/c/retrofutboldeiker]]></description>
-      <guid isPermaLink="false">https://github.com/oliverbarreto/PersonalPodcast/raw/main/downloaded_with_pytube_Apple%20Steve%20Jobs%20Heres%20To%20The%20Crazy%20Ones.mp4</guid>
-      <enclosure url="https://github.com/oliverbarreto/PersonalPodcast/raw/main/downloaded_with_pytube_Apple%20Steve%20Jobs%20Heres%20To%20The%20Crazy%20Ones.mp4" length="989" type="audio/mpeg"/>
-      <itunes:duration>01:01</itunes:duration>
-      <pubDate>Sun, 10 Jan 2021 00:19:39 +0000</pubDate>
-      <itunes:image href="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png"/>
+      <pubDate>Mon, 11 Jan 2021 20:12:03 +0000</pubDate>
+      <itunes:image href="http://i.ytimg.com/vi/-z4NS2zdrZc/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
-      <itunes:subtitle>crazy ones revisited</itunes:subtitle>
+      <itunes:subtitle>http://www.NathanHulls.com
+
+Steve Jobs narrates the first of Apples 'Think Different' commercial "Here's to the Crazy Ones". It never aired. Richard Dreyfuss did the voice over for the original spot that aired.
+
+"The ones who are crazy enough to think that they can change the world, are the ones who do"
+
+http://www.nathanhulls.com</itunes:subtitle>
     </item>
   </channel>
 </rss>
