@@ -8,10 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator> </generator>
     <language>es-ES</language>
-    <lastBuildDate>Mon, 11 Jan 2021 20:22:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Jan 2021 12:28:24 +0000</lastBuildDate>
     <itunes:author>Oliver Barreto</itunes:author>
     <managingEditor>oliver.barreto.online@gmail.com (Oliver Barreto)</managingEditor>
-    <pubDate>Mon, 11 Jan 2021 20:22:51 +0000</pubDate>
+    <pubDate>Wed, 13 Jan 2021 12:28:24 +0000</pubDate>
     <itunes:category text="News"/>
     <itunes:image href="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png"/>
     <itunes:owner>
@@ -20,16 +20,28 @@
     </itunes:owner>
     <atom:link href="https://raw.githubusercontent.com/oliverbarreto/PersonalPodcast/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>People DELETING WhatsApp, Switching to Signal</title>
-      <description><![CDATA[Clip from Lew Later (This is the Samsung Galaxy S21...) - https://youtu.be/yeNYmp-kyBs]]></description>
-      <guid isPermaLink="false">com.audiosack.guid.nKiptYXoAmM</guid>
-      <enclosure url="http://localhost:8080/static/media/nKiptYXoAmM.m4a" length="3597051" type="audio/x-m4a"/>
-      <itunes:duration>03:42</itunes:duration>
-      <pubDate>Mon, 11 Jan 2021 20:22:51 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/nKiptYXoAmM/default.jpg"/>
+      <title>Apple Steve Jobs Heres To The Crazy Ones</title>
+      <description><![CDATA[http://www.NathanHulls.com
+
+Steve Jobs narrates the first of Apples &#x27;Think Different&#x27; commercial &quot;Here&#x27;s to the Crazy Ones&quot;. It never aired. Richard Dreyfuss did the voice over for the original spot that aired.
+
+&quot;The ones who are crazy enough to think that they can change the world, are the ones who do&quot;
+
+http://www.nathanhulls.com]]></description>
+      <guid isPermaLink="false">com.audiosack.guid.-z4NS2zdrZc</guid>
+      <enclosure url="http://localhost:8080/static/media/-z4NS2zdrZc.m4a" length="989115" type="audio/x-m4a"/>
+      <itunes:duration>01:01</itunes:duration>
+      <pubDate>Wed, 13 Jan 2021 12:28:24 +0000</pubDate>
+      <itunes:image href="http://i.ytimg.com/vi/-z4NS2zdrZc/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
-      <itunes:subtitle>Clip from Lew Later (This is the Samsung Galaxy S21...) - https://youtu.be/yeNYmp-kyBs</itunes:subtitle>
+      <itunes:subtitle>http://www.NathanHulls.com
+
+Steve Jobs narrates the first of Apples 'Think Different' commercial "Here's to the Crazy Ones". It never aired. Richard Dreyfuss did the voice over for the original spot that aired.
+
+"The ones who are crazy enough to think that they can change the world, are the ones who do"
+
+http://www.nathanhulls.com</itunes:subtitle>
     </item>
   </channel>
 </rss>
