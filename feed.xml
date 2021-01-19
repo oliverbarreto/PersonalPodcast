@@ -8,10 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator> </generator>
     <language>es-ES</language>
-    <lastBuildDate>Tue, 19 Jan 2021 21:35:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Jan 2021 21:44:34 +0000</lastBuildDate>
     <itunes:author>Oliver Barreto</itunes:author>
     <managingEditor>oliver.barreto.online@gmail.com (Oliver Barreto)</managingEditor>
-    <pubDate>Tue, 19 Jan 2021 21:35:02 +0000</pubDate>
+    <pubDate>Tue, 19 Jan 2021 21:44:34 +0000</pubDate>
     <itunes:category text="News"/>
     <itunes:image href="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png"/>
     <itunes:owner>
@@ -20,16 +20,16 @@
     </itunes:owner>
     <atom:link href="https://raw.githubusercontent.com/oliverbarreto/PersonalPodcast/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>UNDISPUTED - Skip reacts to Antonio Brown's injury situation ahead Buccaneers vs Packers this Sunday</title>
-      <description><![CDATA[UNDISPUTED - Skip reacts to Antonio Brown&#x27;s injury situation ahead Buccaneers vs Packers this Sunday]]></description>
-      <guid isPermaLink="false">com.audiosack.guid.ZPU_PN8l6i8</guid>
-      <enclosure url="http://localhost:8080/static/media/ZPU_PN8l6i8.m4a" length="8338342" type="audio/x-m4a"/>
-      <itunes:duration>08:35</itunes:duration>
-      <pubDate>Tue, 19 Jan 2021 21:35:02 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/ZPU_PN8l6i8/default.jpg"/>
+      <title>UNDISPUTED - Skip "can't wait" Tom Brady win his 7th Super Bowl, talks Bruce Arians impact</title>
+      <description><![CDATA[UNDISPUTED - Skip &quot;can&#x27;t wait&quot; Tom Brady win his 7th Super Bowl, talks Bruce Arians impact]]></description>
+      <guid isPermaLink="false">com.audiosack.guid.X7BKJ4fhs_Y</guid>
+      <enclosure url="http://localhost:8080/static/media/X7BKJ4fhs_Y.m4a" length="12121538" type="audio/x-m4a"/>
+      <itunes:duration>12:29</itunes:duration>
+      <pubDate>Tue, 19 Jan 2021 21:44:34 +0000</pubDate>
+      <itunes:image href="http://i.ytimg.com/vi/X7BKJ4fhs_Y/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
-      <itunes:subtitle>UNDISPUTED - Skip reacts to Antonio Brown's injury situation ahead Buccaneers vs Packers this Sunday</itunes:subtitle>
+      <itunes:subtitle>UNDISPUTED - Skip "can't wait" Tom Brady win his 7th Super Bowl, talks Bruce Arians impact</itunes:subtitle>
     </item>
   </channel>
 </rss>
