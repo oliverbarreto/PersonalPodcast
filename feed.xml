@@ -8,10 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator> </generator>
     <language>es-ES</language>
-    <lastBuildDate>Tue, 19 Jan 2021 20:12:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Jan 2021 21:35:02 +0000</lastBuildDate>
     <itunes:author>Oliver Barreto</itunes:author>
     <managingEditor>oliver.barreto.online@gmail.com (Oliver Barreto)</managingEditor>
-    <pubDate>Tue, 19 Jan 2021 20:12:32 +0000</pubDate>
+    <pubDate>Tue, 19 Jan 2021 21:35:02 +0000</pubDate>
     <itunes:category text="News"/>
     <itunes:image href="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png"/>
     <itunes:owner>
@@ -20,16 +20,16 @@
     </itunes:owner>
     <atom:link href="https://raw.githubusercontent.com/oliverbarreto/PersonalPodcast/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>THE HERD | Colin reacts to Aaron Rodgers shine 3 Total TD, 296 Yds as Packers beat Rams 32-18</title>
-      <description><![CDATA[THE HERD | Colin reacts to Aaron Rodgers shine 3 Total TD, 296 Yds as Packers beat Rams 32-18]]></description>
-      <guid isPermaLink="false">com.audiosack.guid.jfqp1eo0mH0</guid>
-      <enclosure url="http://localhost:8080/static/media/jfqp1eo0mH0.m4a" length="7962590" type="audio/x-m4a"/>
-      <itunes:duration>08:12</itunes:duration>
-      <pubDate>Tue, 19 Jan 2021 20:12:32 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/jfqp1eo0mH0/default.jpg"/>
+      <title>UNDISPUTED - Skip reacts to Antonio Brown's injury situation ahead Buccaneers vs Packers this Sunday</title>
+      <description><![CDATA[UNDISPUTED - Skip reacts to Antonio Brown&#x27;s injury situation ahead Buccaneers vs Packers this Sunday]]></description>
+      <guid isPermaLink="false">com.audiosack.guid.ZPU_PN8l6i8</guid>
+      <enclosure url="http://localhost:8080/static/media/ZPU_PN8l6i8.m4a" length="8338342" type="audio/x-m4a"/>
+      <itunes:duration>08:35</itunes:duration>
+      <pubDate>Tue, 19 Jan 2021 21:35:02 +0000</pubDate>
+      <itunes:image href="http://i.ytimg.com/vi/ZPU_PN8l6i8/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
-      <itunes:subtitle>THE HERD | Colin reacts to Aaron Rodgers shine 3 Total TD, 296 Yds as Packers beat Rams 32-18</itunes:subtitle>
+      <itunes:subtitle>UNDISPUTED - Skip reacts to Antonio Brown's injury situation ahead Buccaneers vs Packers this Sunday</itunes:subtitle>
     </item>
   </channel>
 </rss>
