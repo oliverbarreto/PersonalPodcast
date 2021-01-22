@@ -8,10 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator> </generator>
     <language>es-ES</language>
-    <lastBuildDate>Thu, 21 Jan 2021 21:10:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Jan 2021 08:03:03 +0000</lastBuildDate>
     <itunes:author>Oliver Barreto</itunes:author>
     <managingEditor>oliver.barreto.online@gmail.com (Oliver Barreto)</managingEditor>
-    <pubDate>Thu, 21 Jan 2021 21:10:40 +0000</pubDate>
+    <pubDate>Fri, 22 Jan 2021 08:03:03 +0000</pubDate>
     <itunes:category text="News"/>
     <itunes:image href="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png"/>
     <itunes:owner>
@@ -20,92 +20,90 @@
     </itunes:owner>
     <atom:link href="https://raw.githubusercontent.com/oliverbarreto/PersonalPodcast/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Here's How &amp; Why the M1 Mac Mini replaced my $15K Mac Pro!</title>
-      <description><![CDATA[My Real-World experience replacing my 2019 Mac Pro beats with an M1 Mac Mini for a wide variety of tasks including photo and video editing! 
-Buy the M1 Mac Mini on Amazon (SALE) ➡ https://geni.us/Jaruk4v
+      <title>I NEVER Thought Cooler Master Could do This!</title>
+      <description><![CDATA[The gaming peripherals market is filled with a lot of copycats but also the opinions from a lot of keyboard and mouse enthusiasts.  The best gaming keyboards and the best gaming mice do something different and are designed based on community feedback.  That&#x27;s what Cooler Master is doing with the MM731 which could be the world&#x27;s lightest wireless gaming mouse and MK721.  IF they follow through, these could be some of the best peripherals for gaming and productivity.  
 
-Buy our Apple Merch here! ➡ https://teespring.com/stores/max-tech-store
-Max tech wallpapers ➡ https://bit.ly/2WNc6Qw
+Buy items in this video from Amazon at the links below:
 
-Links to best deals on M1 Macs on Amazon ⬇️
-M1 Mac Mini on Amazon ➡ https://geni.us/jxXFT 
-M1 Mac Mini as tested on B&amp;H ➡ https://bhpho.to/2Jc9Xe8
-M1 MacBook Air 2020 ➡ https://geni.us/tnoeMOc
-M1 MacBook Pro 2020 ➡ https://geni.us/pWUBPum
+Cooler Master MM720 - https://geni.us/MM720    
+Cooler Master MM711 - https://geni.us/MM711B 
+NR200P Black - https://geni.us/NR200PB 
+NR200P White - https://geni.us/NR200PW  
+NR200 Black - https://geni.us/NR200B 
+NR200 Whilte -  https://geni.us/NR200W
 
-Xcode Benchmark built for Max Tech by Maxim Eremenko ➡ https://github.com/devMEremenko/XcodeBenchmark
+Check out the NZXT BLD service - https://nzxt.co/HwcBLD
 
-Apple&#x27;s M1 Mac Mini has already outperformed our $2,550 iMac 5K 2020 in many different performance tasks, so let&#x27;s pit it against the 2019 Mac Pro!
+Subscribe ► https://bit.ly/SubHWC
 
-M1 Mac Mini vs 2020 5K iMac ➡ https://youtu.be/Mf7WY4UkFV4
-M1 Mac Mini vs Intel i7 Mac Mini ➡ https://youtu.be/59gAjXT7qyw
+Review unit provided free of charge by Cooler Master. This video is sponsored by NZXT. As per Hardware Canucks guidelines, no review direction was received from manufacturer. As an Amazon Associate we earn from qualifying purchases. 
 
-Keep in mind that this is Apple&#x27;s very FIRST Apple Silicon SoC for the Mac, and it&#x27;s performing so well!
+Gear list (Available on Amazon): 
+Main Camera (Dmitry) - https://geni.us/SONYA7III
+Main Lens (Dmitry) - https://geni.us/Tamron2875
+Main Camera (Eber) - https://geni.us/CanonEOS-R
+Main Lens (Eber) - https://geni.us/dLL
+Main 2nd Lens (Eber) - https://geni.us/Canon24-70MKII
+Main Camera Mic (D &amp; E) - https://geni.us/RODEMIC
+Cheap 4K Camera (Panasonic G7) - https://geni.us/24nm
+Awesome Slider - https://geni.us/1Hwt
+Our Shotgun Mic - https://geni.us/Sennheiser-MKE600
+----------------------------------------­--------------------
+Our full site: https://bit.ly/HardwareCanucks
+Join Our Forums: https://bit.ly/HWC_Forums
 
-In this video, we compare a bunch of different performance tasks like Final Cut Pro, Xcode, app startup time like Lightroom Classic and Photoshop, Audacity, audio de-noising and more!
+Follow us for more updates!
+Twitter https://bit.ly/HWC_Twitter
+FaceBook https://bit.ly/HWC_Facebook
+Instagram https://bit.ly/HWC_Instagram
+----------------------------------------­---------------
 
-
-10% off unlimited yearly music licensing on Soundstripe (what I use for all my videos) use coupon code &quot;Max&quot; here: http://soundstripe.grsm.io/e/6lv
-
-Shot with (Amazon) ➡ https://geni.us/XE0r
-Lens (B&amp;H) ➡ https://bhpho.to/2DZerxL 
-Mic (Amazon)➡ https://geni.us/83CN3V5
-
-If you enjoy our content please consider supporting us on Patreon. Even $2 a month helps us make more and better content for you!
-https://www.patreon.com/MaxYuryev
--~-~~-~~~-~~-~-
-PRIVACY POLICY and FULL DISCLOSURE:
-°Max Tech is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees  by advertising and linking to amazon.com
-°Max Tech is a participant in the B&amp;H Photo Video affiliate program that provides an advertising commission if you purchase through our links. 
-°If you purchase something from our affiliate links will get a small commission with no extra cost to you. This makes it possible for us to make more videos. Thank you! 
-°We DO NOT collect, store, use, or share any data about you.
--~-~~-~~~-~~-~-]]></description>
-      <guid isPermaLink="false">com.audiosack.guid.QUeOLvGBZjE</guid>
-      <enclosure url="http://oops.hopto.org:9090/static/media/QUeOLvGBZjE.m4a" length="12160008" type="audio/x-m4a"/>
-      <itunes:duration>12:31</itunes:duration>
-      <pubDate>Thu, 21 Jan 2021 21:10:40 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/QUeOLvGBZjE/default.jpg"/>
+#coolermastermm731 #coolermastermk721 #hardwarecanucks]]></description>
+      <guid isPermaLink="false">com.audiosack.guid.eUB85swdFR0</guid>
+      <enclosure url="http://oops.hopto.org:9090/static/media/eUB85swdFR0.m4a" length="9538303" type="audio/x-m4a"/>
+      <itunes:duration>09:49</itunes:duration>
+      <pubDate>Fri, 22 Jan 2021 08:03:03 +0000</pubDate>
+      <itunes:image href="http://i.ytimg.com/vi/eUB85swdFR0/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
-      <itunes:subtitle>My Real-World experience replacing my 2019 Mac Pro beats with an M1 Mac Mini for a wide variety of tasks including photo and video editing! 
-Buy the M1 Mac Mini on Amazon (SALE) ➡ https://geni.us/Jaruk4v
+      <itunes:subtitle>The gaming peripherals market is filled with a lot of copycats but also the opinions from a lot of keyboard and mouse enthusiasts.  The best gaming keyboards and the best gaming mice do something different and are designed based on community feedback.  That's what Cooler Master is doing with the MM731 which could be the world's lightest wireless gaming mouse and MK721.  IF they follow through, these could be some of the best peripherals for gaming and productivity.  
 
-Buy our Apple Merch here! ➡ https://teespring.com/stores/max-tech-store
-Max tech wallpapers ➡ https://bit.ly/2WNc6Qw
+Buy items in this video from Amazon at the links below:
 
-Links to best deals on M1 Macs on Amazon ⬇️
-M1 Mac Mini on Amazon ➡ https://geni.us/jxXFT 
-M1 Mac Mini as tested on B&amp;H ➡ https://bhpho.to/2Jc9Xe8
-M1 MacBook Air 2020 ➡ https://geni.us/tnoeMOc
-M1 MacBook Pro 2020 ➡ https://geni.us/pWUBPum
+Cooler Master MM720 - https://geni.us/MM720    
+Cooler Master MM711 - https://geni.us/MM711B 
+NR200P Black - https://geni.us/NR200PB 
+NR200P White - https://geni.us/NR200PW  
+NR200 Black - https://geni.us/NR200B 
+NR200 Whilte -  https://geni.us/NR200W
 
-Xcode Benchmark built for Max Tech by Maxim Eremenko ➡ https://github.com/devMEremenko/XcodeBenchmark
+Check out the NZXT BLD service - https://nzxt.co/HwcBLD
 
-Apple's M1 Mac Mini has already outperformed our $2,550 iMac 5K 2020 in many different performance tasks, so let's pit it against the 2019 Mac Pro!
+Subscribe ► https://bit.ly/SubHWC
 
-M1 Mac Mini vs 2020 5K iMac ➡ https://youtu.be/Mf7WY4UkFV4
-M1 Mac Mini vs Intel i7 Mac Mini ➡ https://youtu.be/59gAjXT7qyw
+Review unit provided free of charge by Cooler Master. This video is sponsored by NZXT. As per Hardware Canucks guidelines, no review direction was received from manufacturer. As an Amazon Associate we earn from qualifying purchases. 
 
-Keep in mind that this is Apple's very FIRST Apple Silicon SoC for the Mac, and it's performing so well!
+Gear list (Available on Amazon): 
+Main Camera (Dmitry) - https://geni.us/SONYA7III
+Main Lens (Dmitry) - https://geni.us/Tamron2875
+Main Camera (Eber) - https://geni.us/CanonEOS-R
+Main Lens (Eber) - https://geni.us/dLL
+Main 2nd Lens (Eber) - https://geni.us/Canon24-70MKII
+Main Camera Mic (D &amp; E) - https://geni.us/RODEMIC
+Cheap 4K Camera (Panasonic G7) - https://geni.us/24nm
+Awesome Slider - https://geni.us/1Hwt
+Our Shotgun Mic - https://geni.us/Sennheiser-MKE600
+----------------------------------------­--------------------
+Our full site: https://bit.ly/HardwareCanucks
+Join Our Forums: https://bit.ly/HWC_Forums
 
-In this video, we compare a bunch of different performance tasks like Final Cut Pro, Xcode, app startup time like Lightroom Classic and Photoshop, Audacity, audio de-noising and more!
+Follow us for more updates!
+Twitter https://bit.ly/HWC_Twitter
+FaceBook https://bit.ly/HWC_Facebook
+Instagram https://bit.ly/HWC_Instagram
+----------------------------------------­---------------
 
-
-10% off unlimited yearly music licensing on Soundstripe (what I use for all my videos) use coupon code "Max" here: http://soundstripe.grsm.io/e/6lv
-
-Shot with (Amazon) ➡ https://geni.us/XE0r
-Lens (B&amp;H) ➡ https://bhpho.to/2DZerxL 
-Mic (Amazon)➡ https://geni.us/83CN3V5
-
-If you enjoy our content please consider supporting us on Patreon. Even $2 a month helps us make more and better content for you!
-https://www.patreon.com/MaxYuryev
--~-~~-~~~-~~-~-
-PRIVACY POLICY and FULL DISCLOSURE:
-°Max Tech is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees  by advertising and linking to amazon.com
-°Max Tech is a participant in the B&amp;H Photo Video affiliate program that provides an advertising commission if you purchase through our links. 
-°If you purchase something from our affiliate links will get a small commission with no extra cost to you. This makes it possible for us to make more videos. Thank you! 
-°We DO NOT collect, store, use, or share any data about you.
--~-~~-~~~-~~-~-</itunes:subtitle>
+#coolermastermm731 #coolermastermk721 #hardwarecanucks</itunes:subtitle>
     </item>
   </channel>
 </rss>
