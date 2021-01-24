@@ -8,10 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator> </generator>
     <language>es-ES</language>
-    <lastBuildDate>Sun, 24 Jan 2021 07:20:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Jan 2021 07:31:18 +0000</lastBuildDate>
     <itunes:author>Oliver Barreto</itunes:author>
     <managingEditor>oliver.barreto.online@gmail.com (Oliver Barreto)</managingEditor>
-    <pubDate>Sun, 24 Jan 2021 07:20:35 +0000</pubDate>
+    <pubDate>Sun, 24 Jan 2021 07:31:18 +0000</pubDate>
     <itunes:category text="News"/>
     <itunes:image href="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png"/>
     <itunes:owner>
@@ -20,26 +20,16 @@
     </itunes:owner>
     <atom:link href="https://raw.githubusercontent.com/oliverbarreto/PersonalPodcast/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>iPhone 13 - GUYS! The notch! THE NOTCH!</title>
-      <description><![CDATA[EP. 1007 - iPhone 13 - GUYS! The notch! THE NOTCH!
-News about the notch on iPhone 13 and! iMessage on Android is finally here! 
-This episode was sponsored by WeVPN: http://wevpn.com/fpt
-
-Buy the new hoodie: https://teespring.com/toilet-squad-eco-hoodie
-Buy the new t-shirt: https://teespring.com/limited-run-toilet-squad-eco]]></description>
-      <guid isPermaLink="false">com.audiosack.guid.sYptmb0FQ7o</guid>
-      <enclosure url="http://oops.hopto.org:9090/static/media/sYptmb0FQ7o.m4a" length="9505517" type="audio/x-m4a"/>
-      <itunes:duration>09:47</itunes:duration>
-      <pubDate>Sun, 24 Jan 2021 07:20:35 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/sYptmb0FQ7o/default.jpg"/>
+      <title>UNDISPUTED - Skip predicts Super Bowl LV game: Tampa Bay Buccaneers vs Buffalo Bills</title>
+      <description><![CDATA[UNDISPUTED - Skip predicts Super Bowl LV game: Tampa Bay Buccaneers vs Buffalo Bills]]></description>
+      <guid isPermaLink="false">com.audiosack.guid.EyGi1As_BrE</guid>
+      <enclosure url="http://oops.hopto.org:9090/static/media/EyGi1As_BrE.m4a" length="10748662" type="audio/x-m4a"/>
+      <itunes:duration>11:04</itunes:duration>
+      <pubDate>Sun, 24 Jan 2021 07:31:18 +0000</pubDate>
+      <itunes:image href="http://i.ytimg.com/vi/EyGi1As_BrE/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
-      <itunes:subtitle>EP. 1007 - iPhone 13 - GUYS! The notch! THE NOTCH!
-News about the notch on iPhone 13 and! iMessage on Android is finally here! 
-This episode was sponsored by WeVPN: http://wevpn.com/fpt
-
-Buy the new hoodie: https://teespring.com/toilet-squad-eco-hoodie
-Buy the new t-shirt: https://teespring.com/limited-run-toilet-squad-eco</itunes:subtitle>
+      <itunes:subtitle>UNDISPUTED - Skip predicts Super Bowl LV game: Tampa Bay Buccaneers vs Buffalo Bills</itunes:subtitle>
     </item>
   </channel>
 </rss>
