@@ -8,10 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator> </generator>
     <language>es-ES</language>
-    <lastBuildDate>Tue, 26 Jan 2021 18:04:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Jan 2021 18:18:50 +0000</lastBuildDate>
     <itunes:author>Oliver Barreto</itunes:author>
     <managingEditor>oliver.barreto.online@gmail.com (Oliver Barreto)</managingEditor>
-    <pubDate>Tue, 26 Jan 2021 18:04:23 +0000</pubDate>
+    <pubDate>Tue, 26 Jan 2021 18:18:50 +0000</pubDate>
     <itunes:category text="News"/>
     <itunes:image href="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png"/>
     <itunes:owner>
@@ -20,12 +20,24 @@
     </itunes:owner>
     <atom:link href="https://raw.githubusercontent.com/oliverbarreto/PersonalPodcast/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>THE HERD | Colin PRAISE Tom Brady reaches Super Bowl for 10th time in career despite 43 year old</title>
+      <description><![CDATA[THE HERD | Colin PRAISE Tom Brady reaches Super Bowl for 10th time in career despite 43 year old]]></description>
+      <guid isPermaLink="false">com.audiosack.guid.7Hg-ts66jFw</guid>
+      <enclosure url="http://oops.hopto.org:9090/static/media/7Hg-ts66jFw.m4a" length="10972588" type="audio/x-m4a"/>
+      <itunes:duration>11:18</itunes:duration>
+      <pubDate>Tue, 26 Jan 2021 18:18:50 +0000</pubDate>
+      <itunes:image href="http://i.ytimg.com/vi/7Hg-ts66jFw/default.jpg"/>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:order>0</itunes:order>
+      <itunes:subtitle>THE HERD | Colin PRAISE Tom Brady reaches Super Bowl for 10th time in career despite 43 year old</itunes:subtitle>
+    </item>
+    <item>
       <title>UNDISPUTED - Skip SHOCKED Packers might trade Aaron Rodgers to the 49ers</title>
       <description><![CDATA[UNDISPUTED - Skip SHOCKED Packers might trade Aaron Rodgers to the 49ers]]></description>
       <guid isPermaLink="false">com.audiosack.guid.drq13KosQ0k</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/drq13KosQ0k.m4a" length="11995563" type="audio/x-m4a"/>
       <itunes:duration>12:21</itunes:duration>
-      <pubDate>Tue, 26 Jan 2021 18:04:23 +0000</pubDate>
+      <pubDate>Tue, 26 Jan 2021 18:18:50 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/drq13KosQ0k/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
