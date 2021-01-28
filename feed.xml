@@ -8,10 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator> </generator>
     <language>es-ES</language>
-    <lastBuildDate>Thu, 28 Jan 2021 17:58:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Jan 2021 17:59:01 +0000</lastBuildDate>
     <itunes:author>Oliver Barreto</itunes:author>
     <managingEditor>oliver.barreto.online@gmail.com (Oliver Barreto)</managingEditor>
-    <pubDate>Thu, 28 Jan 2021 17:58:37 +0000</pubDate>
+    <pubDate>Thu, 28 Jan 2021 17:59:01 +0000</pubDate>
     <itunes:category text="News"/>
     <itunes:image href="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png"/>
     <itunes:owner>
@@ -25,11 +25,23 @@
       <guid isPermaLink="false">com.audiosack.guid.Mh4HqtP3paU</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/Mh4HqtP3paU.m4a" length="12012086" type="audio/x-m4a"/>
       <itunes:duration>12:22</itunes:duration>
-      <pubDate>Thu, 28 Jan 2021 17:58:37 +0000</pubDate>
+      <pubDate>Thu, 28 Jan 2021 17:59:01 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/Mh4HqtP3paU/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
       <itunes:subtitle>UNDISPUTED - Skip "Woooww" Tom Brady almost changed to jersey No. 7 for 7 Rings</itunes:subtitle>
+    </item>
+    <item>
+      <title>Nick Wright GOES CRAZY Tom Brady Sr: Bill Belichick is "on a little bit of a hot seat right now"</title>
+      <description><![CDATA[Nick Wright GOES CRAZY Tom Brady Sr: Bill Belichick is &quot;on a little bit of a hot seat right now&quot;]]></description>
+      <guid isPermaLink="false">com.audiosack.guid.C2ec3K5VpMk</guid>
+      <enclosure url="http://oops.hopto.org:9090/static/media/C2ec3K5VpMk.m4a" length="8834000" type="audio/x-m4a"/>
+      <itunes:duration>09:06</itunes:duration>
+      <pubDate>Thu, 28 Jan 2021 17:59:01 +0000</pubDate>
+      <itunes:image href="http://i.ytimg.com/vi/C2ec3K5VpMk/default.jpg"/>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:order>0</itunes:order>
+      <itunes:subtitle>Nick Wright GOES CRAZY Tom Brady Sr: Bill Belichick is "on a little bit of a hot seat right now"</itunes:subtitle>
     </item>
     <item>
       <title>Colin Cowherd plays 'Tom or False', decides which stats about Tom Brady are real | NFL | THE HERD</title>
@@ -66,7 +78,7 @@ https://www.youtube.com/c/colincowherd]]></description>
       <guid isPermaLink="false">com.audiosack.guid.JmKzhMI5GCU</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/JmKzhMI5GCU.m4a" length="4341043" type="audio/x-m4a"/>
       <itunes:duration>04:28</itunes:duration>
-      <pubDate>Thu, 28 Jan 2021 17:58:37 +0000</pubDate>
+      <pubDate>Thu, 28 Jan 2021 17:59:01 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/JmKzhMI5GCU/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -107,7 +119,7 @@ https://www.youtube.com/c/colincowherd</itunes:subtitle>
       <guid isPermaLink="false">com.audiosack.guid.7Hg-ts66jFw</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/7Hg-ts66jFw.m4a" length="10972588" type="audio/x-m4a"/>
       <itunes:duration>11:18</itunes:duration>
-      <pubDate>Thu, 28 Jan 2021 17:58:37 +0000</pubDate>
+      <pubDate>Thu, 28 Jan 2021 17:59:01 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/7Hg-ts66jFw/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -119,7 +131,7 @@ https://www.youtube.com/c/colincowherd</itunes:subtitle>
       <guid isPermaLink="false">com.audiosack.guid.drq13KosQ0k</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/drq13KosQ0k.m4a" length="11995563" type="audio/x-m4a"/>
       <itunes:duration>12:21</itunes:duration>
-      <pubDate>Thu, 28 Jan 2021 17:58:37 +0000</pubDate>
+      <pubDate>Thu, 28 Jan 2021 17:59:01 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/drq13KosQ0k/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
