@@ -8,10 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator> </generator>
     <language>es-ES</language>
-    <lastBuildDate>Fri, 29 Jan 2021 19:18:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 Jan 2021 06:18:38 +0000</lastBuildDate>
     <itunes:author>Oliver Barreto</itunes:author>
     <managingEditor>oliver.barreto.online@gmail.com (Oliver Barreto)</managingEditor>
-    <pubDate>Fri, 29 Jan 2021 19:18:59 +0000</pubDate>
+    <pubDate>Sat, 30 Jan 2021 06:18:38 +0000</pubDate>
     <itunes:category text="News"/>
     <itunes:image href="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png"/>
     <itunes:owner>
@@ -20,12 +20,64 @@
     </itunes:owner>
     <atom:link href="https://raw.githubusercontent.com/oliverbarreto/PersonalPodcast/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>La noche de los datos | #MilenioLive | Programa T3x17 (30/01/2021)</title>
+      <description><![CDATA[Desde el comienzo de la pandemia, la guerra de cifras en relación al coronavirus ha provocado una gran sensación de incertidumbre en la población. Los números de contagios y fallecidos varían según quién aporte la información y los registros muestran inquietantes variaciones que resultan difíciles de explicar. 
+
+El caos a la hora de trasladar las cifras ha provocado, además, que algunas empresas o incluso grupos de aficionados a las matemáticas hayan llegado a convertirse en referentes para expertos y medios de comunicación. Su trabajo deja en evidencia las carencias de los organismos oficiales y muestran, en ocasiones, una fotografía mucho más realista de la situación. 
+
+¿A qué se debe esa tremenda diferencia de datos? ¿Qué intereses hay detrás de cada cifra? ¿Podemos fiarnos de los números que nos trasladan los organismos oficiales? ¿Cómo pueden las matemáticas ayudar a predecir el futuro de la pandemia a medio y largo plazo?
+
+Para analizar estas y otras cuestiones esta noche contamos con Nicolás Rodríguez, director y CEO de Dathos Proyectos y Big Data.
+--------------------------------------------------------
+
+WEB:
+• Toda la información en → https://www.ikerjimenez.com/
+
+REDES SOCIALES:
+• Iker Jiménez en Twitter → https://twitter.com/navedelmisterio
+• Iker Jiménez en Instagram → https://www.instagram.com/navedelmisterio_
+• Carmen Porter en Twitter → https://twitter.com/carmenporter_
+• La nave del misterio en Facebook → https://www.facebook.com/navedelmisterio
+
+OTROS CANALES EN YOUTUBE:
+• Con C de Carmen → https://www.youtube.com/c/ElvideoblogdeCarmenPorter
+• Retrofútbol de Iker → https://www.youtube.com/c/retrofutboldeiker]]></description>
+      <guid isPermaLink="false">com.audiosack.guid.B0Tq2HCsj6A</guid>
+      <enclosure url="http://oops.hopto.org:9090/static/media/B0Tq2HCsj6A.m4a" length="132741815" type="audio/x-m4a"/>
+      <itunes:duration>02:16:42</itunes:duration>
+      <pubDate>Sat, 30 Jan 2021 06:18:38 +0000</pubDate>
+      <itunes:image href="http://i.ytimg.com/vi/B0Tq2HCsj6A/default.jpg"/>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:order>0</itunes:order>
+      <itunes:subtitle>Desde el comienzo de la pandemia, la guerra de cifras en relación al coronavirus ha provocado una gran sensación de incertidumbre en la población. Los números de contagios y fallecidos varían según quién aporte la información y los registros muestran inquietantes variaciones que resultan difíciles de explicar. 
+
+El caos a la hora de trasladar las cifras ha provocado, además, que algunas empresas o incluso grupos de aficionados a las matemáticas hayan llegado a convertirse en referentes para expertos y medios de comunicación. Su trabajo deja en evidencia las carencias de los organismos oficiales y muestran, en ocasiones, una fotografía mucho más realista de la situación. 
+
+¿A qué se debe esa tremenda diferencia de datos? ¿Qué intereses hay detrás de cada cifra? ¿Podemos fiarnos de los números que nos trasladan los organismos oficiales? ¿Cómo pueden las matemáticas ayudar a predecir el futuro de la pandemia a medio y largo plazo?
+
+Para analizar estas y otras cuestiones esta noche contamos con Nicolás Rodríguez, director y CEO de Dathos Proyectos y Big Data.
+--------------------------------------------------------
+
+WEB:
+• Toda la información en → https://www.ikerjimenez.com/
+
+REDES SOCIALES:
+• Iker Jiménez en Twitter → https://twitter.com/navedelmisterio
+• Iker Jiménez en Instagram → https://www.instagram.com/navedelmisterio_
+• Carmen Porter en Twitter → https://twitter.com/carmenporter_
+• La nave del misterio en Facebook → https://www.facebook.com/navedelmisterio
+
+OTROS CANALES EN YOUTUBE:
+• Con C de Carmen → https://www.youtube.com/c/ElvideoblogdeCarmenPorter
+• Retrofútbol de Iker → https://www.youtube.com/c/retrofutboldeiker</itunes:subtitle>
+    </item>
+    <item>
       <title>The Herd | The Chiefs should be scared of Tom Brady!! | Colin Cowherd tells Nick Wright</title>
       <description><![CDATA[The Herd | The Chiefs should be scared of Tom Brady!! | Colin Cowherd tells Nick Wright]]></description>
       <guid isPermaLink="false">com.audiosack.guid.pKAi065iqCE</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/pKAi065iqCE.m4a" length="12368310" type="audio/x-m4a"/>
       <itunes:duration>12:44</itunes:duration>
-      <pubDate>Fri, 29 Jan 2021 19:18:59 +0000</pubDate>
+      <pubDate>Sat, 30 Jan 2021 06:18:38 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/pKAi065iqCE/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -89,7 +141,7 @@ Recuerda suscribirte al canal y activar la campanita para no perderte ninguno de
       <guid isPermaLink="false">com.audiosack.guid.8AodLbNl3iE</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/8AodLbNl3iE.m4a" length="34632709" type="audio/x-m4a"/>
       <itunes:duration>35:40</itunes:duration>
-      <pubDate>Fri, 29 Jan 2021 19:18:59 +0000</pubDate>
+      <pubDate>Sat, 30 Jan 2021 06:18:38 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/8AodLbNl3iE/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
