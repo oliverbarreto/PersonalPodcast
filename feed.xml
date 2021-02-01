@@ -8,10 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator> </generator>
     <language>es-ES</language>
-    <lastBuildDate>Sat, 30 Jan 2021 15:47:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Feb 2021 09:37:53 +0000</lastBuildDate>
     <itunes:author>Oliver Barreto</itunes:author>
     <managingEditor>oliver.barreto.online@gmail.com (Oliver Barreto)</managingEditor>
-    <pubDate>Sat, 30 Jan 2021 15:47:38 +0000</pubDate>
+    <pubDate>Mon, 01 Feb 2021 09:37:53 +0000</pubDate>
     <itunes:category text="News"/>
     <itunes:image href="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png"/>
     <itunes:owner>
@@ -19,6 +19,46 @@
       <itunes:email>oliver.barreto.online@gmail.com</itunes:email>
     </itunes:owner>
     <atom:link href="https://raw.githubusercontent.com/oliverbarreto/PersonalPodcast/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Why the algorithm is ruining your life</title>
+      <description><![CDATA[Go to https://www.audible.com/betterideas or text &quot;betterideas&quot; to 500 500 to get your free 30 day trial.
+
+
+
+Nathaniel&#x27;s Channel: https://www.youtube.com/channel/UCrdWRLq10OHuy7HmSckV3Vg
+
+
+My second channel: https://www.youtube.com/channel/UCqRnyszSh6EslfZA-BJfftw
+Subreddit: https://reddit.com/r/betterideas
+Instagram: https://instagram.com/joeyschweitzer
+Twitter: https://twitter.com/joeyschweitz
+
+
+
+Happy birthday Sarah :)]]></description>
+      <guid isPermaLink="false">com.audiosack.guid.8XO53urLcvY</guid>
+      <enclosure url="http://oops.hopto.org:9090/static/media/8XO53urLcvY.m4a" length="12566707" type="audio/x-m4a"/>
+      <itunes:duration>12:56</itunes:duration>
+      <pubDate>Mon, 01 Feb 2021 09:37:53 +0000</pubDate>
+      <itunes:image href="http://i.ytimg.com/vi/8XO53urLcvY/default.jpg"/>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:order>0</itunes:order>
+      <itunes:subtitle>Go to https://www.audible.com/betterideas or text "betterideas" to 500 500 to get your free 30 day trial.
+
+
+
+Nathaniel's Channel: https://www.youtube.com/channel/UCrdWRLq10OHuy7HmSckV3Vg
+
+
+My second channel: https://www.youtube.com/channel/UCqRnyszSh6EslfZA-BJfftw
+Subreddit: https://reddit.com/r/betterideas
+Instagram: https://instagram.com/joeyschweitzer
+Twitter: https://twitter.com/joeyschweitz
+
+
+
+Happy birthday Sarah :)</itunes:subtitle>
+    </item>
     <item>
       <title>🔴  DIRECTO X - ¡LA CENSURA DE LA VERGÜENZA! ...EN LA REUNIÓN SECRETA</title>
       <description><![CDATA[*************** TU COLABORACIÓN ES DE GRAN AYUDA: HAZTE MECENAS DE LA REUNIÓN SECRETA EN HTTP://WWW.PATREON.COM/LAREUNIONSECRETA
@@ -53,7 +93,7 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _]]></descript
       <guid isPermaLink="false">com.audiosack.guid.E0rkWdhWOF8</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/E0rkWdhWOF8.m4a" length="141285394" type="audio/x-m4a"/>
       <itunes:duration>02:25:30</itunes:duration>
-      <pubDate>Sat, 30 Jan 2021 15:47:38 +0000</pubDate>
+      <pubDate>Mon, 01 Feb 2021 09:37:53 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/E0rkWdhWOF8/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -145,7 +185,7 @@ Recuerda suscribirte al canal y activar la campanita para no perderte ninguno de
       <guid isPermaLink="false">com.audiosack.guid.8AodLbNl3iE</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/8AodLbNl3iE.m4a" length="34632709" type="audio/x-m4a"/>
       <itunes:duration>35:40</itunes:duration>
-      <pubDate>Sat, 30 Jan 2021 15:47:38 +0000</pubDate>
+      <pubDate>Mon, 01 Feb 2021 09:37:53 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/8AodLbNl3iE/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
