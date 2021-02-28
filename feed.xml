@@ -8,10 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator> </generator>
     <language>es-ES</language>
-    <lastBuildDate>Sun, 28 Feb 2021 11:01:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Feb 2021 11:17:49 +0000</lastBuildDate>
     <itunes:author>Oliver Barreto</itunes:author>
     <managingEditor>oliver.barreto.online@gmail.com (Oliver Barreto)</managingEditor>
-    <pubDate>Sun, 28 Feb 2021 11:01:37 +0000</pubDate>
+    <pubDate>Sun, 28 Feb 2021 11:17:49 +0000</pubDate>
     <itunes:category text="News"/>
     <itunes:image href="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png"/>
     <itunes:owner>
@@ -20,102 +20,448 @@
     </itunes:owner>
     <atom:link href="https://raw.githubusercontent.com/oliverbarreto/PersonalPodcast/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>A14X Apple TV 6 - You want GOOD News or BAD News First?!</title>
-      <description><![CDATA[The Apple TV 6 has been rumored for a LONG time, and now we&#x27;re finally getting closer to its release. Let&#x27;s discuss some fresh leaks and rumors.. including some BAD News as well..
-Best Game Controller for Apple TV ➡ https://geni.us/e1ly7
+      <title>Distopía: una sociedad indeseable.</title>
+      <description><![CDATA[Esta nueva entrega es posible gracias a los colaboradores de Youtube, Patreon e iVoox. Colabora para que pueda continuar en:
 
-A14 Bionic Leaked Benchmarks ➡ https://youtu.be/W1r_fzvQLmo
-FULL Apple Silicon Macs Explained Playlist ➡ https://www.youtube.com/playlist?list=PLo11Rczpzuj05que94HF80LWD217ToJht
-How Gaming will work on Apple Silicon Macs ➡ https://youtu.be/XOFEwWKPsxo
-Why Apple Silicon ARM Macs will NOT have discrete GPUs! ➡ https://youtu.be/BMs_-bZBqxg
+https://www.youtube.com/channel/UCb2TOOLwTwgAfJ7OeGyAwVw/join
 
-In this video, I show you guys a bunch of leaks about the Apple TV 6, including Apple&#x27;s upcoming game controller.
+https://www.patreon.com/janogarcia
 
-I discuss the history of Apple TV Leaks and rumors, and then I get into the fresh leaks that help give us a release date and more info on what to expect.
+https://www.ivoox.com/podcast-en-libertad_sq_f1781509_1.html
 
-If you enjoyed this video, Tap Like &amp; Subscribe for more videos like this one! 
+https://www.paypal.me/janogarcia
 
+Si desean seguirme o adquirir mis libros, aquí tienen toda la información necesaria para ello:
 
-Xcode Benchmark built for Max Tech by Maxim Eremenko ➡ https://github.com/devMEremenko/XcodeBenchmark
-Max Tech Wallpapers ➡ https://bit.ly/2WNc6Qw
-Buy one of our NEW T-Shirts to help support us! ➡ https://teespring.com/stores/max-tech-store
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Shop on Amazon ➡ https://geni.us/wB2mWqd
-Shop on B&amp;H ➡ https://bhpho.to/2kfoI34
-Shop on Adorama ➡ https://bit.ly/2R7qezq 
+https://www.amazon.es/l/B0755PWSXK?
 
-10% off unlimited yearly music licensing on Soundstripe (what I use for all my videos) use coupon code &quot;Max&quot; here: http://soundstripe.grsm.io/e/6lv
+https://www.instagram.com/ellibrepensador
 
-Shot with (Amazon) ➡ https://geni.us/XE0r
-Lens (B&amp;H) ➡ https://bhpho.to/2DZerxL 
-Mic (Amazon)➡ https://geni.us/83CN3V5
+https://twitter.com/janogarcia_
 
-If you enjoy our content please consider supporting us on Patreon. Even $2 a month helps us make more and better content for you!
-https://www.patreon.com/MaxYuryev
--~-~~-~~~-~~-~-
-PRIVACY POLICY and FULL DISCLOSURE:
-°Max Tech is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees  by advertising and linking to amazon.com
-°Max Tech is a participant in the B&amp;H Photo Video affiliate program that provides an advertising commission if you purchase through our links. 
-°If you purchase something from our affiliate links will get a small commission with no extra cost to you. This makes it possible for us to make more videos. Thank you! 
-°We DO NOT collect, store, use, or share any data about you.
--~-~~-~~~-~~-~-]]></description>
-      <guid isPermaLink="false">com.audiosack.guid.rvBNOdI6AaI</guid>
-      <enclosure url="http://oops.hopto.org:9090/static/media/rvBNOdI6AaI.m4a" length="9733372" type="audio/x-m4a"/>
-      <itunes:duration>10:01</itunes:duration>
-      <pubDate>Sun, 28 Feb 2021 11:01:37 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/rvBNOdI6AaI/default.jpg"/>
+https://www.facebook.com/janogarciaesp]]></description>
+      <guid isPermaLink="false">com.audiosack.guid.JYOCFsCGhXk</guid>
+      <enclosure url="http://oops.hopto.org:9090/static/media/JYOCFsCGhXk.m4a" length="59378401" type="audio/x-m4a"/>
+      <itunes:duration>01:01:09</itunes:duration>
+      <pubDate>Sun, 28 Feb 2021 11:17:49 +0000</pubDate>
+      <itunes:image href="http://i.ytimg.com/vi/JYOCFsCGhXk/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
-      <itunes:subtitle>The Apple TV 6 has been rumored for a LONG time, and now we're finally getting closer to its release. Let's discuss some fresh leaks and rumors.. including some BAD News as well..
-Best Game Controller for Apple TV ➡ https://geni.us/e1ly7
+      <itunes:subtitle>Esta nueva entrega es posible gracias a los colaboradores de Youtube, Patreon e iVoox. Colabora para que pueda continuar en:
 
-A14 Bionic Leaked Benchmarks ➡ https://youtu.be/W1r_fzvQLmo
-FULL Apple Silicon Macs Explained Playlist ➡ https://www.youtube.com/playlist?list=PLo11Rczpzuj05que94HF80LWD217ToJht
-How Gaming will work on Apple Silicon Macs ➡ https://youtu.be/XOFEwWKPsxo
-Why Apple Silicon ARM Macs will NOT have discrete GPUs! ➡ https://youtu.be/BMs_-bZBqxg
+https://www.youtube.com/channel/UCb2TOOLwTwgAfJ7OeGyAwVw/join
 
-In this video, I show you guys a bunch of leaks about the Apple TV 6, including Apple's upcoming game controller.
+https://www.patreon.com/janogarcia
 
-I discuss the history of Apple TV Leaks and rumors, and then I get into the fresh leaks that help give us a release date and more info on what to expect.
+https://www.ivoox.com/podcast-en-libertad_sq_f1781509_1.html
 
-If you enjoyed this video, Tap Like &amp; Subscribe for more videos like this one! 
+https://www.paypal.me/janogarcia
 
+Si desean seguirme o adquirir mis libros, aquí tienen toda la información necesaria para ello:
 
-Xcode Benchmark built for Max Tech by Maxim Eremenko ➡ https://github.com/devMEremenko/XcodeBenchmark
-Max Tech Wallpapers ➡ https://bit.ly/2WNc6Qw
-Buy one of our NEW T-Shirts to help support us! ➡ https://teespring.com/stores/max-tech-store
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Shop on Amazon ➡ https://geni.us/wB2mWqd
-Shop on B&amp;H ➡ https://bhpho.to/2kfoI34
-Shop on Adorama ➡ https://bit.ly/2R7qezq 
+https://www.amazon.es/l/B0755PWSXK?
 
-10% off unlimited yearly music licensing on Soundstripe (what I use for all my videos) use coupon code "Max" here: http://soundstripe.grsm.io/e/6lv
+https://www.instagram.com/ellibrepensador
 
-Shot with (Amazon) ➡ https://geni.us/XE0r
-Lens (B&amp;H) ➡ https://bhpho.to/2DZerxL 
-Mic (Amazon)➡ https://geni.us/83CN3V5
+https://twitter.com/janogarcia_
 
-If you enjoy our content please consider supporting us on Patreon. Even $2 a month helps us make more and better content for you!
-https://www.patreon.com/MaxYuryev
--~-~~-~~~-~~-~-
-PRIVACY POLICY and FULL DISCLOSURE:
-°Max Tech is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees  by advertising and linking to amazon.com
-°Max Tech is a participant in the B&amp;H Photo Video affiliate program that provides an advertising commission if you purchase through our links. 
-°If you purchase something from our affiliate links will get a small commission with no extra cost to you. This makes it possible for us to make more videos. Thank you! 
-°We DO NOT collect, store, use, or share any data about you.
--~-~~-~~~-~~-~-</itunes:subtitle>
+https://www.facebook.com/janogarciaesp</itunes:subtitle>
     </item>
     <item>
-      <title>UNDISPUTED - Skip SHOCKED Packers might trade Aaron Rodgers to the 49ers</title>
-      <description><![CDATA[UNDISPUTED - Skip SHOCKED Packers might trade Aaron Rodgers to the 49ers]]></description>
-      <guid isPermaLink="false">com.audiosack.guid.drq13KosQ0k</guid>
-      <enclosure url="http://oops.hopto.org:9090/static/media/drq13KosQ0k.m4a" length="11995563" type="audio/x-m4a"/>
-      <itunes:duration>12:21</itunes:duration>
-      <pubDate>Sun, 28 Feb 2021 11:01:37 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/drq13KosQ0k/default.jpg"/>
+      <title>¿La luz al final del túnel? | #MilenioLive | Programa T3x21 (27/02/2021)</title>
+      <description><![CDATA[➡️ 𝗦𝗨𝗦𝗖𝗥𝗜𝗕𝗘𝗧𝗘: https://www.youtube.com/c/videoblogdeiker?sub_confirmation=1
+
+Esta noche analizamos la crisis sanitaria global en un momento de claro descenso de los casos. Una de cada tres provincias españolas ha salido ya de la alerta roja por nivel de contagios, lo que se traduce en un menor número de muertes. ¿A qué se debe el veloz descenso de la tercera ola? ¿Podríamos esperar un nuevo repunte en las próximas semanas? Para analizar estas y otras cuestiones nos acompañarán en directo el Dr. Miguel Ángel Pertierra, especialista en Otorrinolaringología y Cirugía, el Dr. Javier Cantón, virólogo especialista en coronavirus MERS-Cov, el Dr. Tomás Camacho, jefe de análisis clínicos de Laboratorios Vithas Lab, y nuestro compañero Pablo Fuente.
+--------------------------------------------------------
+
+WEB:
+• Toda la información en → https://www.ikerjimenez.com/
+
+REDES SOCIALES:
+• Iker Jiménez en Twitter → https://twitter.com/navedelmisterio
+• Iker Jiménez en Instagram → https://www.instagram.com/navedelmisterio_
+• Carmen Porter en Twitter → https://twitter.com/carmenporter_
+• La nave del misterio en Facebook → https://www.facebook.com/navedelmisterio
+
+OTROS CANALES EN YOUTUBE:
+• Con C de Carmen → https://www.youtube.com/c/ElvideoblogdeCarmenPorter
+• Retrofútbol de Iker → https://www.youtube.com/c/retrofutboldeiker]]></description>
+      <guid isPermaLink="false">com.audiosack.guid.b17F4src02o</guid>
+      <enclosure url="http://oops.hopto.org:9090/static/media/b17F4src02o.m4a" length="146012983" type="audio/x-m4a"/>
+      <itunes:duration>02:30:22</itunes:duration>
+      <pubDate>Sun, 28 Feb 2021 11:17:49 +0000</pubDate>
+      <itunes:image href="http://i.ytimg.com/vi/b17F4src02o/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
-      <itunes:subtitle>UNDISPUTED - Skip SHOCKED Packers might trade Aaron Rodgers to the 49ers</itunes:subtitle>
+      <itunes:subtitle>➡️ 𝗦𝗨𝗦𝗖𝗥𝗜𝗕𝗘𝗧𝗘: https://www.youtube.com/c/videoblogdeiker?sub_confirmation=1
+
+Esta noche analizamos la crisis sanitaria global en un momento de claro descenso de los casos. Una de cada tres provincias españolas ha salido ya de la alerta roja por nivel de contagios, lo que se traduce en un menor número de muertes. ¿A qué se debe el veloz descenso de la tercera ola? ¿Podríamos esperar un nuevo repunte en las próximas semanas? Para analizar estas y otras cuestiones nos acompañarán en directo el Dr. Miguel Ángel Pertierra, especialista en Otorrinolaringología y Cirugía, el Dr. Javier Cantón, virólogo especialista en coronavirus MERS-Cov, el Dr. Tomás Camacho, jefe de análisis clínicos de Laboratorios Vithas Lab, y nuestro compañero Pablo Fuente.
+--------------------------------------------------------
+
+WEB:
+• Toda la información en → https://www.ikerjimenez.com/
+
+REDES SOCIALES:
+• Iker Jiménez en Twitter → https://twitter.com/navedelmisterio
+• Iker Jiménez en Instagram → https://www.instagram.com/navedelmisterio_
+• Carmen Porter en Twitter → https://twitter.com/carmenporter_
+• La nave del misterio en Facebook → https://www.facebook.com/navedelmisterio
+
+OTROS CANALES EN YOUTUBE:
+• Con C de Carmen → https://www.youtube.com/c/ElvideoblogdeCarmenPorter
+• Retrofútbol de Iker → https://www.youtube.com/c/retrofutboldeiker</itunes:subtitle>
+    </item>
+    <item>
+      <title>🔴  DIRECTO X - ¡LA GÉNESIS 🦠! ...EN LA REUNIÓN SECRETA</title>
+      <description><![CDATA[*************** TU COLABORACIÓN ES DE GRAN AYUDA: HAZTE MECENAS DE LA REUNIÓN SECRETA EN HTTP://WWW.PATREON.COM/LAREUNIONSECRETA
+
+Esta noche vive el directo de #LaReuniónSecreta desde la 22:00 hora española. Te decimos lo que nadie dice: sin anestesia y sin edulcorantes.
+
+No se lo digas a nadie… ¡PÁSALO! 🔁💪🤫
+
+Conexiones en directo con: 
+
+- Cristina Martín Jiménez (Escritora. Doctora en periodismo)
+- Javier Durán Zamora (Investigador español. Licenciado en Historia por la Universidad de Cádiz)
+
+Con el equipo habitual de La Reunión Secreta: Dr. José Miguel Gaona, Joan Miquel MJ, Carlos Martínez, Lourdes Martínez, Marta Vim y Olga Ralló. 
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+SÍGUENOS EN REDES
+Twitter: https://twitter.com/lrsecreta
+Instagram: https://www.instagram.com/lareunionsecreta/
+Facebook: https://www.facebook.com/LRsecreta
+
+REDES SOCIALES DEL EQUIPO
+| DR. JOSÉ MIGUEL GAONA | - https://twitter.com/doctorgaona
+| DIRECTOR | - Joan Miquel MJ - https://www.instagram.com/official_joan_miquel_mj/
+| PRODUCTORA | - Lourdes Martínez - https://twitter.com/chicadelaradio
+| AYUDANTE DE DIRECCIÓN | - Olga Ralló - https://twitter.com/olgarallo
+| AYUDANTE DE PRODUCCIÓN | - Carlos Martínez - https://twitter.com/Carlitos_martnz
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _]]></description>
+      <guid isPermaLink="false">com.audiosack.guid.JRAwdLxp4_w</guid>
+      <enclosure url="http://oops.hopto.org:9090/static/media/JRAwdLxp4_w.m4a" length="139666873" type="audio/x-m4a"/>
+      <itunes:duration>02:23:50</itunes:duration>
+      <pubDate>Sun, 28 Feb 2021 11:17:49 +0000</pubDate>
+      <itunes:image href="http://i.ytimg.com/vi/JRAwdLxp4_w/default.jpg"/>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:order>0</itunes:order>
+      <itunes:subtitle>*************** TU COLABORACIÓN ES DE GRAN AYUDA: HAZTE MECENAS DE LA REUNIÓN SECRETA EN HTTP://WWW.PATREON.COM/LAREUNIONSECRETA
+
+Esta noche vive el directo de #LaReuniónSecreta desde la 22:00 hora española. Te decimos lo que nadie dice: sin anestesia y sin edulcorantes.
+
+No se lo digas a nadie… ¡PÁSALO! 🔁💪🤫
+
+Conexiones en directo con: 
+
+- Cristina Martín Jiménez (Escritora. Doctora en periodismo)
+- Javier Durán Zamora (Investigador español. Licenciado en Historia por la Universidad de Cádiz)
+
+Con el equipo habitual de La Reunión Secreta: Dr. José Miguel Gaona, Joan Miquel MJ, Carlos Martínez, Lourdes Martínez, Marta Vim y Olga Ralló. 
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+SÍGUENOS EN REDES
+Twitter: https://twitter.com/lrsecreta
+Instagram: https://www.instagram.com/lareunionsecreta/
+Facebook: https://www.facebook.com/LRsecreta
+
+REDES SOCIALES DEL EQUIPO
+| DR. JOSÉ MIGUEL GAONA | - https://twitter.com/doctorgaona
+| DIRECTOR | - Joan Miquel MJ - https://www.instagram.com/official_joan_miquel_mj/
+| PRODUCTORA | - Lourdes Martínez - https://twitter.com/chicadelaradio
+| AYUDANTE DE DIRECCIÓN | - Olga Ralló - https://twitter.com/olgarallo
+| AYUDANTE DE PRODUCCIÓN | - Carlos Martínez - https://twitter.com/Carlitos_martnz
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _</itunes:subtitle>
+    </item>
+    <item>
+      <title>🔴  DIRECTO - ¡ESTO ESTÁ QUE ARDE 🔥! ...EN LA REUNIÓN SECRETA</title>
+      <description><![CDATA[- *************** TU COLABORACIÓN ES DE GRAN AYUDA: HAZTE MECENAS DE LA REUNIÓN SECRETA EN HTTP://WWW.PATREON.COM/LAREUNIONSECRETA
+
+Esta noche vive el directo de #LaReuniónSecreta desde la 22:00 hora española. Te decimos lo que nadie dice: sin anestesia y sin edulcorantes.
+
+No se lo digas a nadie… ¡PÁSALO! 🔁💪🤫
+
+Conexiones en directo con: 
+
+- Federico Bossi desde Argentina 
+- Dr. Elvis García (Epidemiólogo. Doctor en Salud Pública y profesor de Epidemias de la Universidad de Harvard)
+- Dr. Eduardo López-Collazo (Físico Nuclear por Universidad de la Habana || Doctorado en Farmacia en la Universidad Complutense de Madrid  || Ha realizado estancias postdoctorales en diferentes centros como el Max Planck Institute de Freiburg en Alemania, el Instituto de Investigaciones Biomédicas del Consejo Superior de Investigaciones Científicas (CSIC) y en la Brown University de los Estados Unidos. 
+Desde el año 2013 es el director científico del Instituto de Investigación del Hospital Universitario La Paz de Madrid en el que ha participado en su proceso de acreditación. En este centro ha desarrollado diferentes líneas de investigación ligadas a enfermedades como sepsis, metástasis, leucemia, fibrosis quística, SAHS y Síndromes Coronarios Agudos. Además es Investigador Estabilizado del Sistema Nacional de Salud con categoría A, según la evaluación del Fondo de Investigación Sanitaria (FIS).
+Su trabajo de investigación a lo largo de 25 años se ha centrado en el análisis de las defensas humanas en situaciones patológicas como el cáncer, la metástasis y las enfermedades infecciosas. En esta línea, sus trabajos publicados se centran en esta temática y en el impacto de la inmunoterapia).
+- Pablo Fuente (Investigador)
+
+Con el equipo habitual de La Reunión Secreta: Dr. José Miguel Gaona, Joan Miquel MJ, Carlos Martínez, Lourdes Martínez, Marta Vim y Olga Ralló. 
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+SÍGUENOS EN REDES
+Twitter: https://twitter.com/lrsecreta
+Instagram: https://www.instagram.com/lareunionsecreta/
+Facebook: https://www.facebook.com/LRsecreta
+
+REDES SOCIALES DEL EQUIPO
+| DR. JOSÉ MIGUEL GAONA | - https://twitter.com/doctorgaona
+| DIRECTOR | - Joan Miquel MJ - https://www.instagram.com/official_joan_miquel_mj/
+| PRODUCTORA | - Lourdes Martínez - https://twitter.com/chicadelaradio
+| AYUDANTE DE DIRECCIÓN | - Olga Ralló - https://twitter.com/olgarallo
+| AYUDANTE DE PRODUCCIÓN | - Carlos Martínez - https://twitter.com/Carlitos_martnz
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _]]></description>
+      <guid isPermaLink="false">com.audiosack.guid.r0SrseUXWYY</guid>
+      <enclosure url="http://oops.hopto.org:9090/static/media/r0SrseUXWYY.m4a" length="131494163" type="audio/x-m4a"/>
+      <itunes:duration>02:15:25</itunes:duration>
+      <pubDate>Sun, 28 Feb 2021 11:17:49 +0000</pubDate>
+      <itunes:image href="http://i.ytimg.com/vi/r0SrseUXWYY/default.jpg"/>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:order>0</itunes:order>
+      <itunes:subtitle>- *************** TU COLABORACIÓN ES DE GRAN AYUDA: HAZTE MECENAS DE LA REUNIÓN SECRETA EN HTTP://WWW.PATREON.COM/LAREUNIONSECRETA
+
+Esta noche vive el directo de #LaReuniónSecreta desde la 22:00 hora española. Te decimos lo que nadie dice: sin anestesia y sin edulcorantes.
+
+No se lo digas a nadie… ¡PÁSALO! 🔁💪🤫
+
+Conexiones en directo con: 
+
+- Federico Bossi desde Argentina 
+- Dr. Elvis García (Epidemiólogo. Doctor en Salud Pública y profesor de Epidemias de la Universidad de Harvard)
+- Dr. Eduardo López-Collazo (Físico Nuclear por Universidad de la Habana || Doctorado en Farmacia en la Universidad Complutense de Madrid  || Ha realizado estancias postdoctorales en diferentes centros como el Max Planck Institute de Freiburg en Alemania, el Instituto de Investigaciones Biomédicas del Consejo Superior de Investigaciones Científicas (CSIC) y en la Brown University de los Estados Unidos. 
+Desde el año 2013 es el director científico del Instituto de Investigación del Hospital Universitario La Paz de Madrid en el que ha participado en su proceso de acreditación. En este centro ha desarrollado diferentes líneas de investigación ligadas a enfermedades como sepsis, metástasis, leucemia, fibrosis quística, SAHS y Síndromes Coronarios Agudos. Además es Investigador Estabilizado del Sistema Nacional de Salud con categoría A, según la evaluación del Fondo de Investigación Sanitaria (FIS).
+Su trabajo de investigación a lo largo de 25 años se ha centrado en el análisis de las defensas humanas en situaciones patológicas como el cáncer, la metástasis y las enfermedades infecciosas. En esta línea, sus trabajos publicados se centran en esta temática y en el impacto de la inmunoterapia).
+- Pablo Fuente (Investigador)
+
+Con el equipo habitual de La Reunión Secreta: Dr. José Miguel Gaona, Joan Miquel MJ, Carlos Martínez, Lourdes Martínez, Marta Vim y Olga Ralló. 
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+SÍGUENOS EN REDES
+Twitter: https://twitter.com/lrsecreta
+Instagram: https://www.instagram.com/lareunionsecreta/
+Facebook: https://www.facebook.com/LRsecreta
+
+REDES SOCIALES DEL EQUIPO
+| DR. JOSÉ MIGUEL GAONA | - https://twitter.com/doctorgaona
+| DIRECTOR | - Joan Miquel MJ - https://www.instagram.com/official_joan_miquel_mj/
+| PRODUCTORA | - Lourdes Martínez - https://twitter.com/chicadelaradio
+| AYUDANTE DE DIRECCIÓN | - Olga Ralló - https://twitter.com/olgarallo
+| AYUDANTE DE PRODUCCIÓN | - Carlos Martínez - https://twitter.com/Carlitos_martnz
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _</itunes:subtitle>
+    </item>
+    <item>
+      <title>El liberalismo, con Daniel Lacalle y Juan Ramón Rallo</title>
+      <description><![CDATA[Canal de Juan Ramón Rallo: https://www.youtube.com/user/juanrallo
+
+Canal de Daniel Lacalle: https://www.youtube.com/channel/UCoA66gIqiExUIjwyw1cB9Dw
+
+Esta nueva entrega es posible gracias a los colaboradores de Youtube, Patreon e iVoox. Colabora para que pueda continuar en:
+
+https://www.youtube.com/channel/UCb2TOOLwTwgAfJ7OeGyAwVw/join
+
+https://www.patreon.com/janogarcia
+
+https://www.ivoox.com/podcast-en-libertad_sq_f1781509_1.html
+
+https://www.paypal.me/janogarcia
+
+Si desean seguirme o adquirir mis libros, aquí tienen toda la información necesaria para ello:
+
+https://www.amazon.es/l/B0755PWSXK?
+
+https://www.instagram.com/ellibrepensador
+
+https://twitter.com/janogarcia_
+
+https://www.facebook.com/janogarciaesp]]></description>
+      <guid isPermaLink="false">com.audiosack.guid.W1SGynJz_-Y</guid>
+      <enclosure url="http://oops.hopto.org:9090/static/media/W1SGynJz_-Y.m4a" length="86617895" type="audio/x-m4a"/>
+      <itunes:duration>01:29:12</itunes:duration>
+      <pubDate>Sun, 28 Feb 2021 11:17:49 +0000</pubDate>
+      <itunes:image href="http://i.ytimg.com/vi/W1SGynJz_-Y/default.jpg"/>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:order>0</itunes:order>
+      <itunes:subtitle>Canal de Juan Ramón Rallo: https://www.youtube.com/user/juanrallo
+
+Canal de Daniel Lacalle: https://www.youtube.com/channel/UCoA66gIqiExUIjwyw1cB9Dw
+
+Esta nueva entrega es posible gracias a los colaboradores de Youtube, Patreon e iVoox. Colabora para que pueda continuar en:
+
+https://www.youtube.com/channel/UCb2TOOLwTwgAfJ7OeGyAwVw/join
+
+https://www.patreon.com/janogarcia
+
+https://www.ivoox.com/podcast-en-libertad_sq_f1781509_1.html
+
+https://www.paypal.me/janogarcia
+
+Si desean seguirme o adquirir mis libros, aquí tienen toda la información necesaria para ello:
+
+https://www.amazon.es/l/B0755PWSXK?
+
+https://www.instagram.com/ellibrepensador
+
+https://twitter.com/janogarcia_
+
+https://www.facebook.com/janogarciaesp</itunes:subtitle>
+    </item>
+    <item>
+      <title>Why the algorithm is ruining your life</title>
+      <description><![CDATA[Go to https://www.audible.com/betterideas or text &quot;betterideas&quot; to 500 500 to get your free 30 day trial.
+
+
+
+Nathaniel&#x27;s Channel: https://www.youtube.com/channel/UCrdWRLq10OHuy7HmSckV3Vg
+
+
+My second channel: https://www.youtube.com/channel/UCqRnyszSh6EslfZA-BJfftw
+Subreddit: https://reddit.com/r/betterideas
+Instagram: https://instagram.com/joeyschweitzer
+Twitter: https://twitter.com/joeyschweitz
+
+
+
+Happy birthday Sarah :)]]></description>
+      <guid isPermaLink="false">com.audiosack.guid.8XO53urLcvY</guid>
+      <enclosure url="http://oops.hopto.org:9090/static/media/8XO53urLcvY.m4a" length="12566707" type="audio/x-m4a"/>
+      <itunes:duration>12:56</itunes:duration>
+      <pubDate>Sun, 28 Feb 2021 11:17:49 +0000</pubDate>
+      <itunes:image href="http://i.ytimg.com/vi/8XO53urLcvY/default.jpg"/>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:order>0</itunes:order>
+      <itunes:subtitle>Go to https://www.audible.com/betterideas or text "betterideas" to 500 500 to get your free 30 day trial.
+
+
+
+Nathaniel's Channel: https://www.youtube.com/channel/UCrdWRLq10OHuy7HmSckV3Vg
+
+
+My second channel: https://www.youtube.com/channel/UCqRnyszSh6EslfZA-BJfftw
+Subreddit: https://reddit.com/r/betterideas
+Instagram: https://instagram.com/joeyschweitzer
+Twitter: https://twitter.com/joeyschweitz
+
+
+
+Happy birthday Sarah :)</itunes:subtitle>
+    </item>
+    <item>
+      <title>¿Aceptas lo que te sucede? - Enric Más Cerca</title>
+      <description><![CDATA[Cuando algo te moleste, párate un momento. Es posible que el malestar que te genera una situación determinada no sea por la situación en si misma, sino por lo que tu infieres e interpretas de la misma. Aprende más sobre Bioneuroemoción  ➸ aquí http://bit.ly/postgrado-bne
+
+Cuando una situación nos hace infelices, escogemos entre dos opciones: o bien lo apartamos de nuestra vida o bien nos quedamos ahí para vivirlo desde el victimismo. Sin embargo, existe una tercera opción: vivir cada situación conflictiva como una oportunidad de conocernos mejor a nosotros mismos.
+
+Para ello, ante cada situación que vivamos como un problema o una contrariedad podemos seguir los siguientes pasos:
+
+
+1. Cuestionarnos.
+
+La primera pregunta genérica es decirnos: ¿hasta qué punto lo que veo es como es? ¿En qué grado lo estoy interpretando? Por ejemplo, si resulta que nuestra pareja nos engaña, nos podemos preguntar ¿para qué traigo esta situación a mi vida? ¿en qué me engaño?; si resulta que nos miente ¿en qué nos mentimos? Supongamos ahora que alguien opina que la generosidad es adecuada y correcta y que el egoísmo es negativo y perjudicial. Si no es capaz de equilibrar estas opiniones es posible que, por ejemplo, acabe priorizando cumplir con las necesidades de los demás antes que las suyas propias y que el egoísmo de los demás le moleste excesivamente.
+
+Mediante este tipo de reflexiones, podemos empezar a ser capaces de actuar de una manera más responsable ante situaciones de conflicto. Al poner en duda nuestra propia percepción, nos permitimos la opción de comprender que aquello que nos pasa nos trae una información importante para favorecer nuestro desarrollo personal. Las relaciones interpersonales son una magnífica oportunidad para vivir esta experiencia.
+
+
+2. Describir.
+
+Es posible que frente a una situación de dificultad no podamos ver con claridad la información que está ahí justamente porque pone en jaque a nuestras creencias. La propuesta sería hacer un ejercicio descriptivo, libre de adjetivos, interpretaciones y justificaciones. Podemos escribir lo sucedido como si fuera un guión de una escena de teatro. La descripción nos obliga a despojar la situación de aquello que nosotros personalmente le estamos añadiendo. Este ejercicio puede resultar más complejo de lo que parece porque nos obliga a desprendernos de nuestra percepción, es decir, nos invita al desapego. La incomodidad que podamos sentir durante el proceso es la que nos dará la primera pista sobre lo que realmente nos afecta.
+
+
+3. Aprender.
+
+Aprender es abrir la mente a considerar la opción de que hacemos las cosas para conseguir algo de alguien y cuando este alguien no lo hace, nos enfadamos por eso y, además, caemos en el victimismo, pensando que el mundo debería comportarse de otra manera. Aprender es detectar que lo que nos molesta de los demás resulta ser un conflicto entre nuestras propias creencias. Aprender implica aceptar la posibilidad de que lo que nos sucede es necesario para que podamos conoceros.
+
+La otra persona siempre nos refleja una información que sin ella no podríamos ver. Cuando esto se comprende, ya no queremos eliminar la situación. La solución no pasa por suprimir el problema, sino por aceptar la información que lleva implícita y que resuena con información almacenada en nuestro inconsciente. La vida se nos puede manifestar de muchas maneras y todas ellas tienen que ver que con nosotros. En la medida que empecemos a cuestionar nuestras creencias y valores estaremos ampliando nuestra conciencia y comprenderemos que la otra persona que tanto nos molesta la tenemos enfrente porque resuena con nosotros.
+
+ 
+
+“No podemos resolver problemas usando el mismo tipo de pensamiento que usamos cuando los creamos.”
+ 
+Albert Einstein.
+
+https://www.enriccorberainstitute.com/blog/3-consejos-para-enfocar-mis-problemas
+
+
+¡Recuerda suscribirte al canal!: https://bit.ly/2KbekV1
+
+¿Conoces nuestras otras redes sociales?
+
+Youtube Enric Corbera Institute: https://bit.ly/2O23fFR
+
+Facebook Enric Corbera: http://bit.ly/2NcyLzF
+
+Facebook Enric Corbera Institute: http://bit.ly/2PvELVL
+
+Instagram: http://bit.ly/2BDRYZH
+
+Twitter: https://bit.ly/2J6HEwX
+
+Linkedin: https://bit.ly/2TAXYes
+
+Si deseas saber más sobre la Bioneuroemoción® accede a nuestra página web: https://www.enriccorberainstitute.com.
+
+Recuerda suscribirte al canal y activar la campanita para no perderte ninguno de nuestros contenidos: https://bit.ly/2KbekV1]]></description>
+      <guid isPermaLink="false">com.audiosack.guid.8AodLbNl3iE</guid>
+      <enclosure url="http://oops.hopto.org:9090/static/media/8AodLbNl3iE.m4a" length="34632709" type="audio/x-m4a"/>
+      <itunes:duration>35:40</itunes:duration>
+      <pubDate>Sun, 28 Feb 2021 11:17:49 +0000</pubDate>
+      <itunes:image href="http://i.ytimg.com/vi/8AodLbNl3iE/default.jpg"/>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:order>0</itunes:order>
+      <itunes:subtitle>Cuando algo te moleste, párate un momento. Es posible que el malestar que te genera una situación determinada no sea por la situación en si misma, sino por lo que tu infieres e interpretas de la misma. Aprende más sobre Bioneuroemoción  ➸ aquí http://bit.ly/postgrado-bne
+
+Cuando una situación nos hace infelices, escogemos entre dos opciones: o bien lo apartamos de nuestra vida o bien nos quedamos ahí para vivirlo desde el victimismo. Sin embargo, existe una tercera opción: vivir cada situación conflictiva como una oportunidad de conocernos mejor a nosotros mismos.
+
+Para ello, ante cada situación que vivamos como un problema o una contrariedad podemos seguir los siguientes pasos:
+
+
+1. Cuestionarnos.
+
+La primera pregunta genérica es decirnos: ¿hasta qué punto lo que veo es como es? ¿En qué grado lo estoy interpretando? Por ejemplo, si resulta que nuestra pareja nos engaña, nos podemos preguntar ¿para qué traigo esta situación a mi vida? ¿en qué me engaño?; si resulta que nos miente ¿en qué nos mentimos? Supongamos ahora que alguien opina que la generosidad es adecuada y correcta y que el egoísmo es negativo y perjudicial. Si no es capaz de equilibrar estas opiniones es posible que, por ejemplo, acabe priorizando cumplir con las necesidades de los demás antes que las suyas propias y que el egoísmo de los demás le moleste excesivamente.
+
+Mediante este tipo de reflexiones, podemos empezar a ser capaces de actuar de una manera más responsable ante situaciones de conflicto. Al poner en duda nuestra propia percepción, nos permitimos la opción de comprender que aquello que nos pasa nos trae una información importante para favorecer nuestro desarrollo personal. Las relaciones interpersonales son una magnífica oportunidad para vivir esta experiencia.
+
+
+2. Describir.
+
+Es posible que frente a una situación de dificultad no podamos ver con claridad la información que está ahí justamente porque pone en jaque a nuestras creencias. La propuesta sería hacer un ejercicio descriptivo, libre de adjetivos, interpretaciones y justificaciones. Podemos escribir lo sucedido como si fuera un guión de una escena de teatro. La descripción nos obliga a despojar la situación de aquello que nosotros personalmente le estamos añadiendo. Este ejercicio puede resultar más complejo de lo que parece porque nos obliga a desprendernos de nuestra percepción, es decir, nos invita al desapego. La incomodidad que podamos sentir durante el proceso es la que nos dará la primera pista sobre lo que realmente nos afecta.
+
+
+3. Aprender.
+
+Aprender es abrir la mente a considerar la opción de que hacemos las cosas para conseguir algo de alguien y cuando este alguien no lo hace, nos enfadamos por eso y, además, caemos en el victimismo, pensando que el mundo debería comportarse de otra manera. Aprender es detectar que lo que nos molesta de los demás resulta ser un conflicto entre nuestras propias creencias. Aprender implica aceptar la posibilidad de que lo que nos sucede es necesario para que podamos conoceros.
+
+La otra persona siempre nos refleja una información que sin ella no podríamos ver. Cuando esto se comprende, ya no queremos eliminar la situación. La solución no pasa por suprimir el problema, sino por aceptar la información que lleva implícita y que resuena con información almacenada en nuestro inconsciente. La vida se nos puede manifestar de muchas maneras y todas ellas tienen que ver que con nosotros. En la medida que empecemos a cuestionar nuestras creencias y valores estaremos ampliando nuestra conciencia y comprenderemos que la otra persona que tanto nos molesta la tenemos enfrente porque resuena con nosotros.
+
+ 
+
+“No podemos resolver problemas usando el mismo tipo de pensamiento que usamos cuando los creamos.”
+ 
+Albert Einstein.
+
+https://www.enriccorberainstitute.com/blog/3-consejos-para-enfocar-mis-problemas
+
+
+¡Recuerda suscribirte al canal!: https://bit.ly/2KbekV1
+
+¿Conoces nuestras otras redes sociales?
+
+Youtube Enric Corbera Institute: https://bit.ly/2O23fFR
+
+Facebook Enric Corbera: http://bit.ly/2NcyLzF
+
+Facebook Enric Corbera Institute: http://bit.ly/2PvELVL
+
+Instagram: http://bit.ly/2BDRYZH
+
+Twitter: https://bit.ly/2J6HEwX
+
+Linkedin: https://bit.ly/2TAXYes
+
+Si deseas saber más sobre la Bioneuroemoción® accede a nuestra página web: https://www.enriccorberainstitute.com.
+
+Recuerda suscribirte al canal y activar la campanita para no perderte ninguno de nuestros contenidos: https://bit.ly/2KbekV1</itunes:subtitle>
     </item>
   </channel>
 </rss>
