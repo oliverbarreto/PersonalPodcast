@@ -8,10 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator> </generator>
     <language>es-ES</language>
-    <lastBuildDate>Sat, 13 Mar 2021 06:37:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Mar 2021 12:13:21 +0000</lastBuildDate>
     <itunes:author>Oliver Barreto</itunes:author>
     <managingEditor>oliver.barreto.online@gmail.com (Oliver Barreto)</managingEditor>
-    <pubDate>Sat, 13 Mar 2021 06:37:08 +0000</pubDate>
+    <pubDate>Tue, 16 Mar 2021 12:13:21 +0000</pubDate>
     <itunes:category text="News"/>
     <itunes:image href="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png"/>
     <itunes:owner>
@@ -19,6 +19,18 @@
       <itunes:email>oliver.barreto.online@gmail.com</itunes:email>
     </itunes:owner>
     <atom:link href="https://raw.githubusercontent.com/oliverbarreto/PersonalPodcast/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Polémica AstraZeneca #LaEstirpedeLosLibres</title>
+      <description><![CDATA[Polémica AstraZeneca #LaEstirpedeLosLibres]]></description>
+      <guid isPermaLink="false">com.audiosack.guid.T6Bdm4n7KLo</guid>
+      <enclosure url="http://oops.hopto.org:9090/static/media/T6Bdm4n7KLo.m4a" length="101021497" type="audio/x-m4a"/>
+      <itunes:duration>01:44:02</itunes:duration>
+      <pubDate>Tue, 16 Mar 2021 12:13:21 +0000</pubDate>
+      <itunes:image href="http://i.ytimg.com/vi/T6Bdm4n7KLo/default.jpg"/>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:order>0</itunes:order>
+      <itunes:subtitle>Polémica AstraZeneca #LaEstirpedeLosLibres</itunes:subtitle>
+    </item>
     <item>
       <title>AstraZeneca: Bajo la lupa | #MilenioLive | Programa T3x23 (13/03/2021)</title>
       <description><![CDATA[Dinamarca, Noruega, Islandia, Bulgaria y varios otros países han suspendido la inoculación de la vacuna de AstraZeneca tras detectar algunos pacientes que habían desarrollado coágulos entre los casi cinco millones de personas que han recibido la dosis.
@@ -44,7 +56,7 @@ OTROS CANALES EN YOUTUBE:
       <guid isPermaLink="false">com.audiosack.guid.LbqbO5_Jgh8</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/LbqbO5_Jgh8.m4a" length="153004397" type="audio/x-m4a"/>
       <itunes:duration>02:37:34</itunes:duration>
-      <pubDate>Sat, 13 Mar 2021 06:37:08 +0000</pubDate>
+      <pubDate>Tue, 16 Mar 2021 12:13:21 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/LbqbO5_Jgh8/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -93,7 +105,7 @@ https://www.facebook.com/janogarciaesp]]></description>
       <guid isPermaLink="false">com.audiosack.guid.JYOCFsCGhXk</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/JYOCFsCGhXk.m4a" length="59378401" type="audio/x-m4a"/>
       <itunes:duration>01:01:09</itunes:duration>
-      <pubDate>Sat, 13 Mar 2021 06:37:08 +0000</pubDate>
+      <pubDate>Tue, 16 Mar 2021 12:13:21 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/JYOCFsCGhXk/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -124,7 +136,7 @@ https://www.facebook.com/janogarciaesp</itunes:subtitle>
       <guid isPermaLink="false">com.audiosack.guid.cZrSCt0IWXA</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/cZrSCt0IWXA.m4a" length="133874818" type="audio/x-m4a"/>
       <itunes:duration>02:17:52</itunes:duration>
-      <pubDate>Sat, 13 Mar 2021 06:37:08 +0000</pubDate>
+      <pubDate>Tue, 16 Mar 2021 12:13:21 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/cZrSCt0IWXA/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -164,7 +176,7 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _]]></descript
       <guid isPermaLink="false">com.audiosack.guid.JRAwdLxp4_w</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/JRAwdLxp4_w.m4a" length="139666873" type="audio/x-m4a"/>
       <itunes:duration>02:23:50</itunes:duration>
-      <pubDate>Sat, 13 Mar 2021 06:37:08 +0000</pubDate>
+      <pubDate>Tue, 16 Mar 2021 12:13:21 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/JRAwdLxp4_w/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -234,7 +246,7 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _]]></descript
       <guid isPermaLink="false">com.audiosack.guid.r0SrseUXWYY</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/r0SrseUXWYY.m4a" length="131494163" type="audio/x-m4a"/>
       <itunes:duration>02:15:25</itunes:duration>
-      <pubDate>Sat, 13 Mar 2021 06:37:08 +0000</pubDate>
+      <pubDate>Tue, 16 Mar 2021 12:13:21 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/r0SrseUXWYY/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -299,7 +311,7 @@ https://www.facebook.com/janogarciaesp]]></description>
       <guid isPermaLink="false">com.audiosack.guid.W1SGynJz_-Y</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/W1SGynJz_-Y.m4a" length="86617895" type="audio/x-m4a"/>
       <itunes:duration>01:29:12</itunes:duration>
-      <pubDate>Sat, 13 Mar 2021 06:37:08 +0000</pubDate>
+      <pubDate>Tue, 16 Mar 2021 12:13:21 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/W1SGynJz_-Y/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -347,7 +359,7 @@ Happy birthday Sarah :)]]></description>
       <guid isPermaLink="false">com.audiosack.guid.8XO53urLcvY</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/8XO53urLcvY.m4a" length="12566707" type="audio/x-m4a"/>
       <itunes:duration>12:56</itunes:duration>
-      <pubDate>Sat, 13 Mar 2021 06:37:08 +0000</pubDate>
+      <pubDate>Tue, 16 Mar 2021 12:13:21 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/8XO53urLcvY/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -425,7 +437,7 @@ Recuerda suscribirte al canal y activar la campanita para no perderte ninguno de
       <guid isPermaLink="false">com.audiosack.guid.8AodLbNl3iE</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/8AodLbNl3iE.m4a" length="34632709" type="audio/x-m4a"/>
       <itunes:duration>35:40</itunes:duration>
-      <pubDate>Sat, 13 Mar 2021 06:37:08 +0000</pubDate>
+      <pubDate>Tue, 16 Mar 2021 12:13:21 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/8AodLbNl3iE/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
