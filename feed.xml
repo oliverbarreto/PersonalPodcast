@@ -8,10 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator> </generator>
     <language>es-ES</language>
-    <lastBuildDate>Tue, 16 Mar 2021 12:13:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Mar 2021 13:50:05 +0000</lastBuildDate>
     <itunes:author>Oliver Barreto</itunes:author>
     <managingEditor>oliver.barreto.online@gmail.com (Oliver Barreto)</managingEditor>
-    <pubDate>Tue, 16 Mar 2021 12:13:21 +0000</pubDate>
+    <pubDate>Thu, 18 Mar 2021 13:50:05 +0000</pubDate>
     <itunes:category text="News"/>
     <itunes:image href="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png"/>
     <itunes:owner>
@@ -20,66 +20,52 @@
     </itunes:owner>
     <atom:link href="https://raw.githubusercontent.com/oliverbarreto/PersonalPodcast/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Polémica AstraZeneca #LaEstirpedeLosLibres</title>
-      <description><![CDATA[Polémica AstraZeneca #LaEstirpedeLosLibres]]></description>
-      <guid isPermaLink="false">com.audiosack.guid.T6Bdm4n7KLo</guid>
-      <enclosure url="http://oops.hopto.org:9090/static/media/T6Bdm4n7KLo.m4a" length="101021497" type="audio/x-m4a"/>
-      <itunes:duration>01:44:02</itunes:duration>
-      <pubDate>Tue, 16 Mar 2021 12:13:21 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/T6Bdm4n7KLo/default.jpg"/>
+      <title>Juego de tronos.</title>
+      <description><![CDATA[Esta nueva entrega es posible gracias a los colaboradores de Youtube, Patreon e iVoox. Colabora para que pueda continuar en:
+
+https://www.youtube.com/channel/UCb2TOOLwTwgAfJ7OeGyAwVw/join
+
+https://www.patreon.com/janogarcia
+
+https://www.ivoox.com/podcast-en-libertad_sq_f1781509_1.html
+
+https://www.paypal.me/janogarcia
+
+Si desean seguirme o adquirir mis libros, aquí tienen toda la información necesaria para ello:
+
+https://www.amazon.es/kindle-dbs/entity/author/B0755PWSXK?_encoding=UTF8&amp;node=831435031&amp;offse
+
+https://www.instagram.com/ellibrepensador
+
+https://twitter.com/janogarcia_
+
+https://www.facebook.com/janogarciaesp]]></description>
+      <guid isPermaLink="false">com.audiosack.guid.1KMGZpCQ4mw</guid>
+      <enclosure url="http://oops.hopto.org:9090/static/media/1KMGZpCQ4mw.m4a" length="97218458" type="audio/x-m4a"/>
+      <itunes:duration>01:40:07</itunes:duration>
+      <pubDate>Thu, 18 Mar 2021 13:50:05 +0000</pubDate>
+      <itunes:image href="http://i.ytimg.com/vi/1KMGZpCQ4mw/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
-      <itunes:subtitle>Polémica AstraZeneca #LaEstirpedeLosLibres</itunes:subtitle>
-    </item>
-    <item>
-      <title>AstraZeneca: Bajo la lupa | #MilenioLive | Programa T3x23 (13/03/2021)</title>
-      <description><![CDATA[Dinamarca, Noruega, Islandia, Bulgaria y varios otros países han suspendido la inoculación de la vacuna de AstraZeneca tras detectar algunos pacientes que habían desarrollado coágulos entre los casi cinco millones de personas que han recibido la dosis.
+      <itunes:subtitle>Esta nueva entrega es posible gracias a los colaboradores de Youtube, Patreon e iVoox. Colabora para que pueda continuar en:
 
-Esta noche ponemos la lupa en esta preocupante cuestión con la ayuda del Dr. José Miguel Gaona, Pablo Fuente, el Dr. César Carballo y Juan Francisco Maestre, director de servicios de Gamaser, el laboratorio de Global Omnium, una empresa española con más de 125 años de experiencia en la gestión del ciclo integral del agua. 
+https://www.youtube.com/channel/UCb2TOOLwTwgAfJ7OeGyAwVw/join
 
-Y es que hace solo unos días un estudio coordinado por el profesor del Área de Microbiología de la Universidad de Burgos David Rodríguez Lázaro confirmó la presencia del virus en aguas residuales de Brasil en noviembre de 2019, lo que supone que el SARS-CoV-2 circulaba ya por América casi dos meses antes del primer caso notificado en la ciudad de Wuhan.
+https://www.patreon.com/janogarcia
 
---------------------------------------------------------
+https://www.ivoox.com/podcast-en-libertad_sq_f1781509_1.html
 
-WEB:
-• Toda la información en → https://www.ikerjimenez.com/
+https://www.paypal.me/janogarcia
 
-REDES SOCIALES:
-• Iker Jiménez en Twitter → https://twitter.com/navedelmisterio
-• Iker Jiménez en Instagram → https://www.instagram.com/navedelmisterio_
-• Carmen Porter en Twitter → https://twitter.com/carmenporter_
-• La nave del misterio en Facebook → https://www.facebook.com/navedelmisterio
+Si desean seguirme o adquirir mis libros, aquí tienen toda la información necesaria para ello:
 
-OTROS CANALES EN YOUTUBE:
-• Con C de Carmen → https://www.youtube.com/c/ElvideoblogdeCarmenPorter
-• Retrofútbol de Iker → https://www.youtube.com/c/retrofutboldeiker]]></description>
-      <guid isPermaLink="false">com.audiosack.guid.LbqbO5_Jgh8</guid>
-      <enclosure url="http://oops.hopto.org:9090/static/media/LbqbO5_Jgh8.m4a" length="153004397" type="audio/x-m4a"/>
-      <itunes:duration>02:37:34</itunes:duration>
-      <pubDate>Tue, 16 Mar 2021 12:13:21 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/LbqbO5_Jgh8/default.jpg"/>
-      <itunes:explicit>No</itunes:explicit>
-      <itunes:order>0</itunes:order>
-      <itunes:subtitle>Dinamarca, Noruega, Islandia, Bulgaria y varios otros países han suspendido la inoculación de la vacuna de AstraZeneca tras detectar algunos pacientes que habían desarrollado coágulos entre los casi cinco millones de personas que han recibido la dosis.
+https://www.amazon.es/kindle-dbs/entity/author/B0755PWSXK?_encoding=UTF8&amp;node=831435031&amp;offse
 
-Esta noche ponemos la lupa en esta preocupante cuestión con la ayuda del Dr. José Miguel Gaona, Pablo Fuente, el Dr. César Carballo y Juan Francisco Maestre, director de servicios de Gamaser, el laboratorio de Global Omnium, una empresa española con más de 125 años de experiencia en la gestión del ciclo integral del agua. 
+https://www.instagram.com/ellibrepensador
 
-Y es que hace solo unos días un estudio coordinado por el profesor del Área de Microbiología de la Universidad de Burgos David Rodríguez Lázaro confirmó la presencia del virus en aguas residuales de Brasil en noviembre de 2019, lo que supone que el SARS-CoV-2 circulaba ya por América casi dos meses antes del primer caso notificado en la ciudad de Wuhan.
+https://twitter.com/janogarcia_
 
---------------------------------------------------------
-
-WEB:
-• Toda la información en → https://www.ikerjimenez.com/
-
-REDES SOCIALES:
-• Iker Jiménez en Twitter → https://twitter.com/navedelmisterio
-• Iker Jiménez en Instagram → https://www.instagram.com/navedelmisterio_
-• Carmen Porter en Twitter → https://twitter.com/carmenporter_
-• La nave del misterio en Facebook → https://www.facebook.com/navedelmisterio
-
-OTROS CANALES EN YOUTUBE:
-• Con C de Carmen → https://www.youtube.com/c/ElvideoblogdeCarmenPorter
-• Retrofútbol de Iker → https://www.youtube.com/c/retrofutboldeiker</itunes:subtitle>
+https://www.facebook.com/janogarciaesp</itunes:subtitle>
     </item>
     <item>
       <title>Distopía: una sociedad indeseable.</title>
@@ -105,7 +91,7 @@ https://www.facebook.com/janogarciaesp]]></description>
       <guid isPermaLink="false">com.audiosack.guid.JYOCFsCGhXk</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/JYOCFsCGhXk.m4a" length="59378401" type="audio/x-m4a"/>
       <itunes:duration>01:01:09</itunes:duration>
-      <pubDate>Tue, 16 Mar 2021 12:13:21 +0000</pubDate>
+      <pubDate>Thu, 18 Mar 2021 13:50:05 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/JYOCFsCGhXk/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -128,160 +114,6 @@ https://www.instagram.com/ellibrepensador
 https://twitter.com/janogarcia_
 
 https://www.facebook.com/janogarciaesp</itunes:subtitle>
-    </item>
-    <item>
-      <title>Noche en la biblioteca #LaEstirpedelosLibres</title>
-      <description><![CDATA[➡️ Haz clic en el botón 🆄🅽🅸🆁🅼🅴 o entra en el enlace para más información y hacerte miembro del canal: https://www.youtube.com/channel/UCS5gWLAaKdiLQb0m_FGxCDg/join
-•  Y no te pierdas nuestro nuevo canal en Twitch → https://www.twitch.tv/canal_ikerjimenez​]]></description>
-      <guid isPermaLink="false">com.audiosack.guid.cZrSCt0IWXA</guid>
-      <enclosure url="http://oops.hopto.org:9090/static/media/cZrSCt0IWXA.m4a" length="133874818" type="audio/x-m4a"/>
-      <itunes:duration>02:17:52</itunes:duration>
-      <pubDate>Tue, 16 Mar 2021 12:13:21 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/cZrSCt0IWXA/default.jpg"/>
-      <itunes:explicit>No</itunes:explicit>
-      <itunes:order>0</itunes:order>
-      <itunes:subtitle>➡️ Haz clic en el botón 🆄🅽🅸🆁🅼🅴 o entra en el enlace para más información y hacerte miembro del canal: https://www.youtube.com/channel/UCS5gWLAaKdiLQb0m_FGxCDg/join
-•  Y no te pierdas nuestro nuevo canal en Twitch → https://www.twitch.tv/canal_ikerjimenez​</itunes:subtitle>
-    </item>
-    <item>
-      <title>🔴  DIRECTO X - ¡LA GÉNESIS 🦠! ...EN LA REUNIÓN SECRETA</title>
-      <description><![CDATA[*************** TU COLABORACIÓN ES DE GRAN AYUDA: HAZTE MECENAS DE LA REUNIÓN SECRETA EN HTTP://WWW.PATREON.COM/LAREUNIONSECRETA
-
-Esta noche vive el directo de #LaReuniónSecreta desde la 22:00 hora española. Te decimos lo que nadie dice: sin anestesia y sin edulcorantes.
-
-No se lo digas a nadie… ¡PÁSALO! 🔁💪🤫
-
-Conexiones en directo con: 
-
-- Cristina Martín Jiménez (Escritora. Doctora en periodismo)
-- Javier Durán Zamora (Investigador español. Licenciado en Historia por la Universidad de Cádiz)
-
-Con el equipo habitual de La Reunión Secreta: Dr. José Miguel Gaona, Joan Miquel MJ, Carlos Martínez, Lourdes Martínez, Marta Vim y Olga Ralló. 
-
-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
-
-SÍGUENOS EN REDES
-Twitter: https://twitter.com/lrsecreta
-Instagram: https://www.instagram.com/lareunionsecreta/
-Facebook: https://www.facebook.com/LRsecreta
-
-REDES SOCIALES DEL EQUIPO
-| DR. JOSÉ MIGUEL GAONA | - https://twitter.com/doctorgaona
-| DIRECTOR | - Joan Miquel MJ - https://www.instagram.com/official_joan_miquel_mj/
-| PRODUCTORA | - Lourdes Martínez - https://twitter.com/chicadelaradio
-| AYUDANTE DE DIRECCIÓN | - Olga Ralló - https://twitter.com/olgarallo
-| AYUDANTE DE PRODUCCIÓN | - Carlos Martínez - https://twitter.com/Carlitos_martnz
-
-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _]]></description>
-      <guid isPermaLink="false">com.audiosack.guid.JRAwdLxp4_w</guid>
-      <enclosure url="http://oops.hopto.org:9090/static/media/JRAwdLxp4_w.m4a" length="139666873" type="audio/x-m4a"/>
-      <itunes:duration>02:23:50</itunes:duration>
-      <pubDate>Tue, 16 Mar 2021 12:13:21 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/JRAwdLxp4_w/default.jpg"/>
-      <itunes:explicit>No</itunes:explicit>
-      <itunes:order>0</itunes:order>
-      <itunes:subtitle>*************** TU COLABORACIÓN ES DE GRAN AYUDA: HAZTE MECENAS DE LA REUNIÓN SECRETA EN HTTP://WWW.PATREON.COM/LAREUNIONSECRETA
-
-Esta noche vive el directo de #LaReuniónSecreta desde la 22:00 hora española. Te decimos lo que nadie dice: sin anestesia y sin edulcorantes.
-
-No se lo digas a nadie… ¡PÁSALO! 🔁💪🤫
-
-Conexiones en directo con: 
-
-- Cristina Martín Jiménez (Escritora. Doctora en periodismo)
-- Javier Durán Zamora (Investigador español. Licenciado en Historia por la Universidad de Cádiz)
-
-Con el equipo habitual de La Reunión Secreta: Dr. José Miguel Gaona, Joan Miquel MJ, Carlos Martínez, Lourdes Martínez, Marta Vim y Olga Ralló. 
-
-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
-
-SÍGUENOS EN REDES
-Twitter: https://twitter.com/lrsecreta
-Instagram: https://www.instagram.com/lareunionsecreta/
-Facebook: https://www.facebook.com/LRsecreta
-
-REDES SOCIALES DEL EQUIPO
-| DR. JOSÉ MIGUEL GAONA | - https://twitter.com/doctorgaona
-| DIRECTOR | - Joan Miquel MJ - https://www.instagram.com/official_joan_miquel_mj/
-| PRODUCTORA | - Lourdes Martínez - https://twitter.com/chicadelaradio
-| AYUDANTE DE DIRECCIÓN | - Olga Ralló - https://twitter.com/olgarallo
-| AYUDANTE DE PRODUCCIÓN | - Carlos Martínez - https://twitter.com/Carlitos_martnz
-
-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _</itunes:subtitle>
-    </item>
-    <item>
-      <title>🔴  DIRECTO - ¡ESTO ESTÁ QUE ARDE 🔥! ...EN LA REUNIÓN SECRETA</title>
-      <description><![CDATA[- *************** TU COLABORACIÓN ES DE GRAN AYUDA: HAZTE MECENAS DE LA REUNIÓN SECRETA EN HTTP://WWW.PATREON.COM/LAREUNIONSECRETA
-
-Esta noche vive el directo de #LaReuniónSecreta desde la 22:00 hora española. Te decimos lo que nadie dice: sin anestesia y sin edulcorantes.
-
-No se lo digas a nadie… ¡PÁSALO! 🔁💪🤫
-
-Conexiones en directo con: 
-
-- Federico Bossi desde Argentina 
-- Dr. Elvis García (Epidemiólogo. Doctor en Salud Pública y profesor de Epidemias de la Universidad de Harvard)
-- Dr. Eduardo López-Collazo (Físico Nuclear por Universidad de la Habana || Doctorado en Farmacia en la Universidad Complutense de Madrid  || Ha realizado estancias postdoctorales en diferentes centros como el Max Planck Institute de Freiburg en Alemania, el Instituto de Investigaciones Biomédicas del Consejo Superior de Investigaciones Científicas (CSIC) y en la Brown University de los Estados Unidos. 
-Desde el año 2013 es el director científico del Instituto de Investigación del Hospital Universitario La Paz de Madrid en el que ha participado en su proceso de acreditación. En este centro ha desarrollado diferentes líneas de investigación ligadas a enfermedades como sepsis, metástasis, leucemia, fibrosis quística, SAHS y Síndromes Coronarios Agudos. Además es Investigador Estabilizado del Sistema Nacional de Salud con categoría A, según la evaluación del Fondo de Investigación Sanitaria (FIS).
-Su trabajo de investigación a lo largo de 25 años se ha centrado en el análisis de las defensas humanas en situaciones patológicas como el cáncer, la metástasis y las enfermedades infecciosas. En esta línea, sus trabajos publicados se centran en esta temática y en el impacto de la inmunoterapia).
-- Pablo Fuente (Investigador)
-
-Con el equipo habitual de La Reunión Secreta: Dr. José Miguel Gaona, Joan Miquel MJ, Carlos Martínez, Lourdes Martínez, Marta Vim y Olga Ralló. 
-
-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
-
-SÍGUENOS EN REDES
-Twitter: https://twitter.com/lrsecreta
-Instagram: https://www.instagram.com/lareunionsecreta/
-Facebook: https://www.facebook.com/LRsecreta
-
-REDES SOCIALES DEL EQUIPO
-| DR. JOSÉ MIGUEL GAONA | - https://twitter.com/doctorgaona
-| DIRECTOR | - Joan Miquel MJ - https://www.instagram.com/official_joan_miquel_mj/
-| PRODUCTORA | - Lourdes Martínez - https://twitter.com/chicadelaradio
-| AYUDANTE DE DIRECCIÓN | - Olga Ralló - https://twitter.com/olgarallo
-| AYUDANTE DE PRODUCCIÓN | - Carlos Martínez - https://twitter.com/Carlitos_martnz
-
-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _]]></description>
-      <guid isPermaLink="false">com.audiosack.guid.r0SrseUXWYY</guid>
-      <enclosure url="http://oops.hopto.org:9090/static/media/r0SrseUXWYY.m4a" length="131494163" type="audio/x-m4a"/>
-      <itunes:duration>02:15:25</itunes:duration>
-      <pubDate>Tue, 16 Mar 2021 12:13:21 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/r0SrseUXWYY/default.jpg"/>
-      <itunes:explicit>No</itunes:explicit>
-      <itunes:order>0</itunes:order>
-      <itunes:subtitle>- *************** TU COLABORACIÓN ES DE GRAN AYUDA: HAZTE MECENAS DE LA REUNIÓN SECRETA EN HTTP://WWW.PATREON.COM/LAREUNIONSECRETA
-
-Esta noche vive el directo de #LaReuniónSecreta desde la 22:00 hora española. Te decimos lo que nadie dice: sin anestesia y sin edulcorantes.
-
-No se lo digas a nadie… ¡PÁSALO! 🔁💪🤫
-
-Conexiones en directo con: 
-
-- Federico Bossi desde Argentina 
-- Dr. Elvis García (Epidemiólogo. Doctor en Salud Pública y profesor de Epidemias de la Universidad de Harvard)
-- Dr. Eduardo López-Collazo (Físico Nuclear por Universidad de la Habana || Doctorado en Farmacia en la Universidad Complutense de Madrid  || Ha realizado estancias postdoctorales en diferentes centros como el Max Planck Institute de Freiburg en Alemania, el Instituto de Investigaciones Biomédicas del Consejo Superior de Investigaciones Científicas (CSIC) y en la Brown University de los Estados Unidos. 
-Desde el año 2013 es el director científico del Instituto de Investigación del Hospital Universitario La Paz de Madrid en el que ha participado en su proceso de acreditación. En este centro ha desarrollado diferentes líneas de investigación ligadas a enfermedades como sepsis, metástasis, leucemia, fibrosis quística, SAHS y Síndromes Coronarios Agudos. Además es Investigador Estabilizado del Sistema Nacional de Salud con categoría A, según la evaluación del Fondo de Investigación Sanitaria (FIS).
-Su trabajo de investigación a lo largo de 25 años se ha centrado en el análisis de las defensas humanas en situaciones patológicas como el cáncer, la metástasis y las enfermedades infecciosas. En esta línea, sus trabajos publicados se centran en esta temática y en el impacto de la inmunoterapia).
-- Pablo Fuente (Investigador)
-
-Con el equipo habitual de La Reunión Secreta: Dr. José Miguel Gaona, Joan Miquel MJ, Carlos Martínez, Lourdes Martínez, Marta Vim y Olga Ralló. 
-
-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
-
-SÍGUENOS EN REDES
-Twitter: https://twitter.com/lrsecreta
-Instagram: https://www.instagram.com/lareunionsecreta/
-Facebook: https://www.facebook.com/LRsecreta
-
-REDES SOCIALES DEL EQUIPO
-| DR. JOSÉ MIGUEL GAONA | - https://twitter.com/doctorgaona
-| DIRECTOR | - Joan Miquel MJ - https://www.instagram.com/official_joan_miquel_mj/
-| PRODUCTORA | - Lourdes Martínez - https://twitter.com/chicadelaradio
-| AYUDANTE DE DIRECCIÓN | - Olga Ralló - https://twitter.com/olgarallo
-| AYUDANTE DE PRODUCCIÓN | - Carlos Martínez - https://twitter.com/Carlitos_martnz
-
-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _</itunes:subtitle>
     </item>
     <item>
       <title>El liberalismo, con Daniel Lacalle y Juan Ramón Rallo</title>
@@ -311,7 +143,7 @@ https://www.facebook.com/janogarciaesp]]></description>
       <guid isPermaLink="false">com.audiosack.guid.W1SGynJz_-Y</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/W1SGynJz_-Y.m4a" length="86617895" type="audio/x-m4a"/>
       <itunes:duration>01:29:12</itunes:duration>
-      <pubDate>Tue, 16 Mar 2021 12:13:21 +0000</pubDate>
+      <pubDate>Thu, 18 Mar 2021 13:50:05 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/W1SGynJz_-Y/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -359,7 +191,7 @@ Happy birthday Sarah :)]]></description>
       <guid isPermaLink="false">com.audiosack.guid.8XO53urLcvY</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/8XO53urLcvY.m4a" length="12566707" type="audio/x-m4a"/>
       <itunes:duration>12:56</itunes:duration>
-      <pubDate>Tue, 16 Mar 2021 12:13:21 +0000</pubDate>
+      <pubDate>Thu, 18 Mar 2021 13:50:05 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/8XO53urLcvY/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -437,7 +269,7 @@ Recuerda suscribirte al canal y activar la campanita para no perderte ninguno de
       <guid isPermaLink="false">com.audiosack.guid.8AodLbNl3iE</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/8AodLbNl3iE.m4a" length="34632709" type="audio/x-m4a"/>
       <itunes:duration>35:40</itunes:duration>
-      <pubDate>Tue, 16 Mar 2021 12:13:21 +0000</pubDate>
+      <pubDate>Thu, 18 Mar 2021 13:50:05 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/8AodLbNl3iE/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
