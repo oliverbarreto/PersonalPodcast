@@ -8,10 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator> </generator>
     <language>es-ES</language>
-    <lastBuildDate>Sat, 01 May 2021 16:21:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 May 2021 16:30:47 +0000</lastBuildDate>
     <itunes:author>Oliver Barreto</itunes:author>
     <managingEditor>oliver.barreto.online@gmail.com (Oliver Barreto)</managingEditor>
-    <pubDate>Sat, 01 May 2021 16:21:53 +0000</pubDate>
+    <pubDate>Sat, 01 May 2021 16:30:47 +0000</pubDate>
     <itunes:category text="News"/>
     <itunes:image href="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png"/>
     <itunes:owner>
@@ -45,7 +45,7 @@ https://www.facebook.com/janogarciaesp]]></description>
       <guid isPermaLink="false">com.audiosack.guid.09cIy2aVtFo</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/09cIy2aVtFo.m4a" length="81880619" type="audio/x-m4a"/>
       <itunes:duration>01:24:19</itunes:duration>
-      <pubDate>Sat, 01 May 2021 16:21:53 +0000</pubDate>
+      <pubDate>Sat, 01 May 2021 16:30:47 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/09cIy2aVtFo/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -72,6 +72,54 @@ https://twitter.com/janogarcia_
 https://www.facebook.com/janogarciaesp</itunes:subtitle>
     </item>
     <item>
+      <title>El fraude de la izquierda española.</title>
+      <description><![CDATA[Esta nueva entrega es posible gracias a los colaboradores de Youtube, Patreon e iVoox. Colabora para que pueda continuar en:
+
+https://www.youtube.com/channel/UCb2TOOLwTwgAfJ7OeGyAwVw/join
+
+https://www.patreon.com/janogarcia
+
+https://www.ivoox.com/podcast-en-libertad_sq_f1781509_1.html
+
+https://www.paypal.me/janogarcia
+
+Si desean seguirme o adquirir mis libros, aquí tienen toda la información necesaria para ello:
+
+https://www.amazon.es/kindle-dbs/entity/author/B0755PWSXK?_encoding=UTF8&amp;node=831435031&amp;offse
+
+https://www.instagram.com/ellibrepensador
+
+https://twitter.com/janogarcia_
+
+https://www.facebook.com/janogarciaesp]]></description>
+      <guid isPermaLink="false">com.audiosack.guid.IKM3sylYoFI</guid>
+      <enclosure url="http://oops.hopto.org:9090/static/media/IKM3sylYoFI.m4a" length="63320382" type="audio/x-m4a"/>
+      <itunes:duration>01:05:13</itunes:duration>
+      <pubDate>Sat, 01 May 2021 16:30:47 +0000</pubDate>
+      <itunes:image href="http://i.ytimg.com/vi/IKM3sylYoFI/default.jpg"/>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:order>0</itunes:order>
+      <itunes:subtitle>Esta nueva entrega es posible gracias a los colaboradores de Youtube, Patreon e iVoox. Colabora para que pueda continuar en:
+
+https://www.youtube.com/channel/UCb2TOOLwTwgAfJ7OeGyAwVw/join
+
+https://www.patreon.com/janogarcia
+
+https://www.ivoox.com/podcast-en-libertad_sq_f1781509_1.html
+
+https://www.paypal.me/janogarcia
+
+Si desean seguirme o adquirir mis libros, aquí tienen toda la información necesaria para ello:
+
+https://www.amazon.es/kindle-dbs/entity/author/B0755PWSXK?_encoding=UTF8&amp;node=831435031&amp;offse
+
+https://www.instagram.com/ellibrepensador
+
+https://twitter.com/janogarcia_
+
+https://www.facebook.com/janogarciaesp</itunes:subtitle>
+    </item>
+    <item>
       <title>Apple Steve Jobs Heres To The Crazy Ones</title>
       <description><![CDATA[http://www.NathanHulls.com
 
@@ -83,7 +131,7 @@ http://www.nathanhulls.com]]></description>
       <guid isPermaLink="false">com.audiosack.guid.-z4NS2zdrZc</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/-z4NS2zdrZc.m4a" length="989115" type="audio/x-m4a"/>
       <itunes:duration>01:01</itunes:duration>
-      <pubDate>Sat, 01 May 2021 16:21:53 +0000</pubDate>
+      <pubDate>Sat, 01 May 2021 16:30:47 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/-z4NS2zdrZc/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
