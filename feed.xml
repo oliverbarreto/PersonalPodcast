@@ -8,10 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator> </generator>
     <language>es-ES</language>
-    <lastBuildDate>Sat, 01 May 2021 17:21:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 May 2021 20:53:01 +0000</lastBuildDate>
     <itunes:author>Oliver Barreto</itunes:author>
     <managingEditor>oliver.barreto.online@gmail.com (Oliver Barreto)</managingEditor>
-    <pubDate>Sat, 01 May 2021 17:21:33 +0000</pubDate>
+    <pubDate>Sat, 01 May 2021 20:53:01 +0000</pubDate>
     <itunes:category text="News"/>
     <itunes:image href="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png"/>
     <itunes:owner>
@@ -73,7 +73,7 @@ EpidemicSound
       <guid isPermaLink="false">com.audiosack.guid._te_NUAqId8</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/_te_NUAqId8.m4a" length="12274858" type="audio/x-m4a"/>
       <itunes:duration>12:38</itunes:duration>
-      <pubDate>Sat, 01 May 2021 17:21:33 +0000</pubDate>
+      <pubDate>Sat, 01 May 2021 20:53:01 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/_te_NUAqId8/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -153,7 +153,7 @@ https://www.facebook.com/janogarciaesp]]></description>
       <guid isPermaLink="false">com.audiosack.guid.09cIy2aVtFo</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/09cIy2aVtFo.m4a" length="81880619" type="audio/x-m4a"/>
       <itunes:duration>01:24:19</itunes:duration>
-      <pubDate>Sat, 01 May 2021 17:21:33 +0000</pubDate>
+      <pubDate>Sat, 01 May 2021 20:53:01 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/09cIy2aVtFo/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -203,7 +203,7 @@ https://www.facebook.com/janogarciaesp]]></description>
       <guid isPermaLink="false">com.audiosack.guid.IKM3sylYoFI</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/IKM3sylYoFI.m4a" length="63320382" type="audio/x-m4a"/>
       <itunes:duration>01:05:13</itunes:duration>
-      <pubDate>Sat, 01 May 2021 17:21:33 +0000</pubDate>
+      <pubDate>Sat, 01 May 2021 20:53:01 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/IKM3sylYoFI/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -228,6 +228,32 @@ https://twitter.com/janogarcia_
 https://www.facebook.com/janogarciaesp</itunes:subtitle>
     </item>
     <item>
+      <title>The mindset that's changing my life</title>
+      <description><![CDATA[The first 1000 people to use this link will get a free trial of Skillshare Premium Membership: https://skl.sh/betterideas10
+
+Second Channel: https://www.youtube.com/channel/UCqRnyszSh6EslfZA-BJfftw
+
+Instagram: https://instagram.com/joeyschweitzer
+
+Twitter: https://twitter.com/joeyschweitz
+Subreddit: https://reddit.com/r/betterideas]]></description>
+      <guid isPermaLink="false">com.audiosack.guid.B-L8CYwglj4</guid>
+      <enclosure url="http://oops.hopto.org:9090/static/media/B-L8CYwglj4.m4a" length="9038037" type="audio/x-m4a"/>
+      <itunes:duration>09:18</itunes:duration>
+      <pubDate>Sat, 01 May 2021 20:53:01 +0000</pubDate>
+      <itunes:image href="http://i.ytimg.com/vi/B-L8CYwglj4/default.jpg"/>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:order>0</itunes:order>
+      <itunes:subtitle>The first 1000 people to use this link will get a free trial of Skillshare Premium Membership: https://skl.sh/betterideas10
+
+Second Channel: https://www.youtube.com/channel/UCqRnyszSh6EslfZA-BJfftw
+
+Instagram: https://instagram.com/joeyschweitzer
+
+Twitter: https://twitter.com/joeyschweitz
+Subreddit: https://reddit.com/r/betterideas</itunes:subtitle>
+    </item>
+    <item>
       <title>Apple Steve Jobs Heres To The Crazy Ones</title>
       <description><![CDATA[http://www.NathanHulls.com
 
@@ -239,7 +265,7 @@ http://www.nathanhulls.com]]></description>
       <guid isPermaLink="false">com.audiosack.guid.-z4NS2zdrZc</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/-z4NS2zdrZc.m4a" length="989115" type="audio/x-m4a"/>
       <itunes:duration>01:01</itunes:duration>
-      <pubDate>Sat, 01 May 2021 17:21:33 +0000</pubDate>
+      <pubDate>Sat, 01 May 2021 20:53:01 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/-z4NS2zdrZc/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
