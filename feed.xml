@@ -8,10 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator> </generator>
     <language>es-ES</language>
-    <lastBuildDate>Sat, 01 May 2021 20:53:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 May 2021 22:49:32 +0000</lastBuildDate>
     <itunes:author>Oliver Barreto</itunes:author>
     <managingEditor>oliver.barreto.online@gmail.com (Oliver Barreto)</managingEditor>
-    <pubDate>Sat, 01 May 2021 20:53:36 +0000</pubDate>
+    <pubDate>Sat, 01 May 2021 22:49:32 +0000</pubDate>
     <itunes:category text="News"/>
     <itunes:image href="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png"/>
     <itunes:owner>
@@ -19,6 +19,54 @@
       <itunes:email>oliver.barreto.online@gmail.com</itunes:email>
     </itunes:owner>
     <atom:link href="https://raw.githubusercontent.com/oliverbarreto/PersonalPodcast/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Territorio Negro | #MilenioLive​​ | Programa T3x29 (1/05/2021)</title>
+      <description><![CDATA[Los distintos tipos de asesinos son un buen indicador de los problemas de cada sociedad y reflejan nuevas realidades criminales: asesinos capaces de matar y cruzar Europa en muy poco tiempo; jóvenes criminales que cuentan su asesinato en directo por WhatsApp; mujeres que traman su delito sin mancharse las manos; homicidas que se apoyan en la tecnología para salir impunes.
+
+Luis Rendueles y Manuel Marlasca, periodistas de investigación especializados en sucesos, acaban de publicar el libro Territorio Negro, por cuyas páginas desfilan los autores de trece crímenes perfectos cometidos en España en los últimos veinte años.
+
+La obra también rinde homenaje al compromiso y la profesionalidad de los encargados de cazar a los criminales, que cuentan hoy con herramientas nunca vistas. Esta noche en Milenio Live hablamos con ellos, porque la historia de un país también puede contarse por sus tragedias.
+--------------------------------------------------------
+
+WEB:
+• Toda la información en → https://www.ikerjimenez.com/
+
+REDES SOCIALES:
+• Iker Jiménez en Twitter → https://twitter.com/navedelmisterio
+• Iker Jiménez en Instagram → https://www.instagram.com/navedelmisterio_
+• Carmen Porter en Twitter → https://twitter.com/carmenporter_
+• La nave del misterio en Facebook → https://www.facebook.com/navedelmisterio
+
+OTROS CANALES EN YOUTUBE:
+• Con C de Carmen → https://www.youtube.com/c/ElvideoblogdeCarmenPorter
+• Retrofútbol de Iker → https://www.youtube.com/c/retrofutboldeiker]]></description>
+      <guid isPermaLink="false">com.audiosack.guid.1xGsZCGXkfE</guid>
+      <enclosure url="http://oops.hopto.org:9090/static/media/1xGsZCGXkfE.m4a" length="164652911" type="audio/x-m4a"/>
+      <itunes:duration>02:49:34</itunes:duration>
+      <pubDate>Sat, 01 May 2021 22:49:32 +0000</pubDate>
+      <itunes:image href="http://i.ytimg.com/vi/1xGsZCGXkfE/default.jpg"/>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:order>0</itunes:order>
+      <itunes:subtitle>Los distintos tipos de asesinos son un buen indicador de los problemas de cada sociedad y reflejan nuevas realidades criminales: asesinos capaces de matar y cruzar Europa en muy poco tiempo; jóvenes criminales que cuentan su asesinato en directo por WhatsApp; mujeres que traman su delito sin mancharse las manos; homicidas que se apoyan en la tecnología para salir impunes.
+
+Luis Rendueles y Manuel Marlasca, periodistas de investigación especializados en sucesos, acaban de publicar el libro Territorio Negro, por cuyas páginas desfilan los autores de trece crímenes perfectos cometidos en España en los últimos veinte años.
+
+La obra también rinde homenaje al compromiso y la profesionalidad de los encargados de cazar a los criminales, que cuentan hoy con herramientas nunca vistas. Esta noche en Milenio Live hablamos con ellos, porque la historia de un país también puede contarse por sus tragedias.
+--------------------------------------------------------
+
+WEB:
+• Toda la información en → https://www.ikerjimenez.com/
+
+REDES SOCIALES:
+• Iker Jiménez en Twitter → https://twitter.com/navedelmisterio
+• Iker Jiménez en Instagram → https://www.instagram.com/navedelmisterio_
+• Carmen Porter en Twitter → https://twitter.com/carmenporter_
+• La nave del misterio en Facebook → https://www.facebook.com/navedelmisterio
+
+OTROS CANALES EN YOUTUBE:
+• Con C de Carmen → https://www.youtube.com/c/ElvideoblogdeCarmenPorter
+• Retrofútbol de Iker → https://www.youtube.com/c/retrofutboldeiker</itunes:subtitle>
+    </item>
     <item>
       <title>How video games are changing my life</title>
       <description><![CDATA[The first 1000 people to use this link will get 30% off an annual Skillshare Premium Membership: https://skl.sh/betterideas03211
@@ -35,7 +83,7 @@ Twitter: https://twitter.com/joeyschweitz​]]></description>
       <guid isPermaLink="false">com.audiosack.guid.Rim2rXIbVoA</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/Rim2rXIbVoA.m4a" length="19433552" type="audio/x-m4a"/>
       <itunes:duration>20:01</itunes:duration>
-      <pubDate>Sat, 01 May 2021 20:53:36 +0000</pubDate>
+      <pubDate>Sat, 01 May 2021 22:49:32 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/Rim2rXIbVoA/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -105,7 +153,7 @@ EpidemicSound
       <guid isPermaLink="false">com.audiosack.guid._te_NUAqId8</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/_te_NUAqId8.m4a" length="12274858" type="audio/x-m4a"/>
       <itunes:duration>12:38</itunes:duration>
-      <pubDate>Sat, 01 May 2021 20:53:36 +0000</pubDate>
+      <pubDate>Sat, 01 May 2021 22:49:32 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/_te_NUAqId8/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -185,7 +233,7 @@ https://www.facebook.com/janogarciaesp]]></description>
       <guid isPermaLink="false">com.audiosack.guid.09cIy2aVtFo</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/09cIy2aVtFo.m4a" length="81880619" type="audio/x-m4a"/>
       <itunes:duration>01:24:19</itunes:duration>
-      <pubDate>Sat, 01 May 2021 20:53:36 +0000</pubDate>
+      <pubDate>Sat, 01 May 2021 22:49:32 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/09cIy2aVtFo/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -235,7 +283,7 @@ https://www.facebook.com/janogarciaesp]]></description>
       <guid isPermaLink="false">com.audiosack.guid.IKM3sylYoFI</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/IKM3sylYoFI.m4a" length="63320382" type="audio/x-m4a"/>
       <itunes:duration>01:05:13</itunes:duration>
-      <pubDate>Sat, 01 May 2021 20:53:36 +0000</pubDate>
+      <pubDate>Sat, 01 May 2021 22:49:32 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/IKM3sylYoFI/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -272,7 +320,7 @@ Subreddit: https://reddit.com/r/betterideas]]></description>
       <guid isPermaLink="false">com.audiosack.guid.B-L8CYwglj4</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/B-L8CYwglj4.m4a" length="9038037" type="audio/x-m4a"/>
       <itunes:duration>09:18</itunes:duration>
-      <pubDate>Sat, 01 May 2021 20:53:36 +0000</pubDate>
+      <pubDate>Sat, 01 May 2021 22:49:32 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/B-L8CYwglj4/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -297,7 +345,7 @@ http://www.nathanhulls.com]]></description>
       <guid isPermaLink="false">com.audiosack.guid.-z4NS2zdrZc</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/-z4NS2zdrZc.m4a" length="989115" type="audio/x-m4a"/>
       <itunes:duration>01:01</itunes:duration>
-      <pubDate>Sat, 01 May 2021 20:53:36 +0000</pubDate>
+      <pubDate>Sat, 01 May 2021 22:49:32 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/-z4NS2zdrZc/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
