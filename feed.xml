@@ -8,10 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator> </generator>
     <language>es-ES</language>
-    <lastBuildDate>Wed, 19 May 2021 10:19:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 May 2021 18:42:06 +0000</lastBuildDate>
     <itunes:author>Oliver Barreto</itunes:author>
     <managingEditor>oliver.barreto.online@gmail.com (Oliver Barreto)</managingEditor>
-    <pubDate>Wed, 19 May 2021 10:19:45 +0000</pubDate>
+    <pubDate>Sat, 22 May 2021 18:42:06 +0000</pubDate>
     <itunes:category text="News"/>
     <itunes:image href="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png"/>
     <itunes:owner>
@@ -19,6 +19,54 @@
       <itunes:email>oliver.barreto.online@gmail.com</itunes:email>
     </itunes:owner>
     <atom:link href="https://raw.githubusercontent.com/oliverbarreto/PersonalPodcast/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Mesa de Redacción | #MilenioLive​​ | Programa T3x32 (22/05/2021)</title>
+      <description><![CDATA[Tres semanas después de su desaparición, Anna y Olivia siguen en paradero desconocido. La Guardia Civil ha vuelto a rastrear la lancha y el coche de Tomás Gimeno. Además, hoy hemos conocido que, el mismo día de la desaparición, el padre de las niñas envió un paquete a su novia con varios miles de euros. 
+
+Mientras tanto, en Ceuta continúan los ecos de la grave crisis migratoria desatada esta misma semana, con ramificaciones de todo tipo. De hecho, hoy, poco antes de las 18.00 horas, un grupo de entre 250 y 300 personas ha intentado acceder a Melilla por la zona comprendida entre el río de Oro y río Farhana. Además, al menos once inmigrantes -la mayoría menores de edad- de los interceptados en Ceuta han dado positivo en COVID-19, un tema -el de la pandemia y su última hora- del que también hablaremos esta noche. 
+
+Iker Jiménez y Carmen Porter contarán con Francisco Pérez Caballero, periodista especializado en sucesos, Pablo Fuente, investigador y director de El Respeto, Nicolás Rodríguez, director y CEO de Datos Proyectos y Big Data y Chema Gil, codirector del Observatorio de Seguridad Internacional, Técnico Superior de Coordinación y Gestión de Emergencias y medalla al mérito de la Policía Nacional.
+--------------------------------------------------------
+
+WEB:
+• Toda la información en → https://www.ikerjimenez.com/
+
+REDES SOCIALES:
+• Iker Jiménez en Twitter → https://twitter.com/navedelmisterio
+• Iker Jiménez en Instagram → https://www.instagram.com/navedelmisterio_
+• Carmen Porter en Twitter → https://twitter.com/carmenporter_
+• La nave del misterio en Facebook → https://www.facebook.com/navedelmisterio
+
+OTROS CANALES EN YOUTUBE:
+• Con C de Carmen → https://www.youtube.com/c/ElvideoblogdeCarmenPorter
+• Retrofútbol de Iker → https://www.youtube.com/c/retrofutboldeiker]]></description>
+      <guid isPermaLink="false">com.audiosack.guid.a1pf8Swc-_w</guid>
+      <enclosure url="http://oops.hopto.org:9090/static/media/a1pf8Swc-_w.m4a" length="149170996" type="audio/x-m4a"/>
+      <itunes:duration>02:33:37</itunes:duration>
+      <pubDate>Sat, 22 May 2021 18:42:06 +0000</pubDate>
+      <itunes:image href="http://i.ytimg.com/vi/a1pf8Swc-_w/default.jpg"/>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:order>0</itunes:order>
+      <itunes:subtitle>Tres semanas después de su desaparición, Anna y Olivia siguen en paradero desconocido. La Guardia Civil ha vuelto a rastrear la lancha y el coche de Tomás Gimeno. Además, hoy hemos conocido que, el mismo día de la desaparición, el padre de las niñas envió un paquete a su novia con varios miles de euros. 
+
+Mientras tanto, en Ceuta continúan los ecos de la grave crisis migratoria desatada esta misma semana, con ramificaciones de todo tipo. De hecho, hoy, poco antes de las 18.00 horas, un grupo de entre 250 y 300 personas ha intentado acceder a Melilla por la zona comprendida entre el río de Oro y río Farhana. Además, al menos once inmigrantes -la mayoría menores de edad- de los interceptados en Ceuta han dado positivo en COVID-19, un tema -el de la pandemia y su última hora- del que también hablaremos esta noche. 
+
+Iker Jiménez y Carmen Porter contarán con Francisco Pérez Caballero, periodista especializado en sucesos, Pablo Fuente, investigador y director de El Respeto, Nicolás Rodríguez, director y CEO de Datos Proyectos y Big Data y Chema Gil, codirector del Observatorio de Seguridad Internacional, Técnico Superior de Coordinación y Gestión de Emergencias y medalla al mérito de la Policía Nacional.
+--------------------------------------------------------
+
+WEB:
+• Toda la información en → https://www.ikerjimenez.com/
+
+REDES SOCIALES:
+• Iker Jiménez en Twitter → https://twitter.com/navedelmisterio
+• Iker Jiménez en Instagram → https://www.instagram.com/navedelmisterio_
+• Carmen Porter en Twitter → https://twitter.com/carmenporter_
+• La nave del misterio en Facebook → https://www.facebook.com/navedelmisterio
+
+OTROS CANALES EN YOUTUBE:
+• Con C de Carmen → https://www.youtube.com/c/ElvideoblogdeCarmenPorter
+• Retrofútbol de Iker → https://www.youtube.com/c/retrofutboldeiker</itunes:subtitle>
+    </item>
     <item>
       <title>Entrevista a Isabel Díaz Ayuso.</title>
       <description><![CDATA[Esta nueva entrega es posible gracias a los colaboradores de Youtube, Patreon e iVoox. Colabora para que pueda continuar en:
@@ -45,7 +93,7 @@ https://www.facebook.com/janogarciaesp]]></description>
       <guid isPermaLink="false">com.audiosack.guid.Dy9t0OYhSM4</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/Dy9t0OYhSM4.m4a" length="22607392" type="audio/x-m4a"/>
       <itunes:duration>23:17</itunes:duration>
-      <pubDate>Wed, 19 May 2021 10:19:45 +0000</pubDate>
+      <pubDate>Sat, 22 May 2021 18:42:06 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/Dy9t0OYhSM4/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -108,7 +156,7 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _]]></descript
       <guid isPermaLink="false">com.audiosack.guid.MRwrslR3etg</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/MRwrslR3etg.m4a" length="119821807" type="audio/x-m4a"/>
       <itunes:duration>02:03:24</itunes:duration>
-      <pubDate>Wed, 19 May 2021 10:19:45 +0000</pubDate>
+      <pubDate>Sat, 22 May 2021 18:42:06 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/MRwrslR3etg/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -175,7 +223,7 @@ OTROS CANALES EN YOUTUBE:
       <guid isPermaLink="false">com.audiosack.guid.cEB3ZfDCGrs</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/cEB3ZfDCGrs.m4a" length="130784632" type="audio/x-m4a"/>
       <itunes:duration>02:14:41</itunes:duration>
-      <pubDate>Wed, 19 May 2021 10:19:45 +0000</pubDate>
+      <pubDate>Sat, 22 May 2021 18:42:06 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/cEB3ZfDCGrs/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -231,7 +279,7 @@ https://www.facebook.com/janogarciaesp]]></description>
       <guid isPermaLink="false">com.audiosack.guid.qWyaJP--Qmg</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/qWyaJP--Qmg.m4a" length="51550391" type="audio/x-m4a"/>
       <itunes:duration>53:05</itunes:duration>
-      <pubDate>Wed, 19 May 2021 10:19:45 +0000</pubDate>
+      <pubDate>Sat, 22 May 2021 18:42:06 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/qWyaJP--Qmg/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -273,7 +321,7 @@ Twitter: https://twitter.com/joeyschweitz​]]></description>
       <guid isPermaLink="false">com.audiosack.guid.Rim2rXIbVoA</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/Rim2rXIbVoA.m4a" length="19433552" type="audio/x-m4a"/>
       <itunes:duration>20:01</itunes:duration>
-      <pubDate>Wed, 19 May 2021 10:19:45 +0000</pubDate>
+      <pubDate>Sat, 22 May 2021 18:42:06 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/Rim2rXIbVoA/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -313,7 +361,7 @@ https://www.facebook.com/janogarciaesp]]></description>
       <guid isPermaLink="false">com.audiosack.guid.IKM3sylYoFI</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/IKM3sylYoFI.m4a" length="63320382" type="audio/x-m4a"/>
       <itunes:duration>01:05:13</itunes:duration>
-      <pubDate>Wed, 19 May 2021 10:19:45 +0000</pubDate>
+      <pubDate>Sat, 22 May 2021 18:42:06 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/IKM3sylYoFI/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -386,7 +434,7 @@ https://gamebanana.com/gamefiles/17646
       <guid isPermaLink="false">com.audiosack.guid.1jg5zhiO3dw</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/1jg5zhiO3dw.m4a" length="44654036" type="audio/x-m4a"/>
       <itunes:duration>45:59</itunes:duration>
-      <pubDate>Wed, 19 May 2021 10:19:45 +0000</pubDate>
+      <pubDate>Sat, 22 May 2021 18:42:06 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/1jg5zhiO3dw/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -448,7 +496,7 @@ Subreddit: https://reddit.com/r/betterideas]]></description>
       <guid isPermaLink="false">com.audiosack.guid.B-L8CYwglj4</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/B-L8CYwglj4.m4a" length="9038037" type="audio/x-m4a"/>
       <itunes:duration>09:18</itunes:duration>
-      <pubDate>Wed, 19 May 2021 10:19:45 +0000</pubDate>
+      <pubDate>Sat, 22 May 2021 18:42:06 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/B-L8CYwglj4/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -471,7 +519,7 @@ The original commercial narrated by Steve Jobs http://www.youtube.com/watch?v=E2
       <guid isPermaLink="false">com.audiosack.guid.0bgr0KjMijQ</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/0bgr0KjMijQ.m4a" length="1529646" type="audio/x-m4a"/>
       <itunes:duration>01:36</itunes:duration>
-      <pubDate>Wed, 19 May 2021 10:19:45 +0000</pubDate>
+      <pubDate>Sat, 22 May 2021 18:42:06 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/0bgr0KjMijQ/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -493,7 +541,7 @@ http://www.nathanhulls.com]]></description>
       <guid isPermaLink="false">com.audiosack.guid.-z4NS2zdrZc</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/-z4NS2zdrZc.m4a" length="989115" type="audio/x-m4a"/>
       <itunes:duration>01:01</itunes:duration>
-      <pubDate>Wed, 19 May 2021 10:19:45 +0000</pubDate>
+      <pubDate>Sat, 22 May 2021 18:42:06 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/-z4NS2zdrZc/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
