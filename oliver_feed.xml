@@ -1,1 +1,47 @@
-This is a new file
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Personal Podcast</title>
+    <link>http://192.168.1.37:5000/oliver/None</link>
+    <description>I publish interesting things !!!</description>
+    <itunes:explicit>yes</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator> </generator>
+    <language>es-ES</language>
+    <lastBuildDate>Fri, 28 May 2021 12:01:10 +0000</lastBuildDate>
+    <itunes:author>oliver</itunes:author>
+    <managingEditor>oliver.barreto.online@gmail.com (oliver)</managingEditor>
+    <pubDate>Fri, 28 May 2021 12:01:10 +0000</pubDate>
+    <itunes:category text="News"/>
+    <itunes:image href="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png"/>
+    <itunes:owner>
+      <itunes:name>oliver</itunes:name>
+      <itunes:email>oliver.barreto.online@gmail.com</itunes:email>
+    </itunes:owner>
+    <atom:link href="https://raw.githubusercontent.com/oliverbarreto/PersonalPodcast/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Apple Steve Jobs Heres To The Crazy Ones</title>
+      <description><![CDATA[http://www.NathanHulls.com
+
+Steve Jobs narrates the first of Apples &#x27;Think Different&#x27; commercial &quot;Here&#x27;s to the Crazy Ones&quot;. It never aired. Richard Dreyfuss did the voice over for the original spot that aired.
+
+&quot;The ones who are crazy enough to think that they can change the world, are the ones who do&quot;
+
+http://www.nathanhulls.com]]></description>
+      <guid isPermaLink="false">com.audiosack.guid.-z4NS2zdrZc</guid>
+      <enclosure url="http://192.168.1.37:5000/static/media/-z4NS2zdrZc.m4a" length="989115" type="audio/x-m4a"/>
+      <itunes:duration>01:01</itunes:duration>
+      <pubDate>Fri, 28 May 2021 12:01:10 +0000</pubDate>
+      <itunes:image href="http://i.ytimg.com/vi/-z4NS2zdrZc/default.jpg"/>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:order>0</itunes:order>
+      <itunes:subtitle>http://www.NathanHulls.com
+
+Steve Jobs narrates the first of Apples 'Think Different' commercial "Here's to the Crazy Ones". It never aired. Richard Dreyfuss did the voice over for the original spot that aired.
+
+"The ones who are crazy enough to think that they can change the world, are the ones who do"
+
+http://www.nathanhulls.com</itunes:subtitle>
+    </item>
+  </channel>
+</rss>
