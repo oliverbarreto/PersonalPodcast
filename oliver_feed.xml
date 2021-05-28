@@ -1,1 +1,205 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Personal Podcast</title>
+    <link>http://www.oliverbarreto.com</link>
+    <description>I publish interesting things !!!</description>
+    <itunes:explicit>yes</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator> </generator>
+    <language>es-ES</language>
+    <lastBuildDate>Fri, 28 May 2021 10:21:43 +0000</lastBuildDate>
+    <itunes:author>oliver</itunes:author>
+    <managingEditor>oliver.barreto.online@gmail.com (oliver)</managingEditor>
+    <pubDate>Fri, 28 May 2021 10:21:43 +0000</pubDate>
+    <itunes:category text="News"/>
+    <itunes:image href="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png"/>
+    <itunes:owner>
+      <itunes:name>oliver</itunes:name>
+      <itunes:email>oliver.barreto.online@gmail.com</itunes:email>
+    </itunes:owner>
+    <atom:link href="https://raw.githubusercontent.com/oliverbarreto/PersonalPodcast/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>31.- Curso Flask - Helpers</title>
+      <description><![CDATA[⚡️Únete a Premium (+100 cursos) aquí:
+https://codigofacilito.com/suscripcion
 
+--- Clic aquí para todos nuestros cursos y tutoriales: ►http://codigofacilito.com/
+
+Síguenos en Twitter: 
+►http://twitter.com/codigofacilito
+
+&quot;Like&quot; en Facebook:
+►http://facebook.com/codigofacilito
+
+-----
+
+MÁS CURSOS de CódigoFacilito:
+
+Curso para crear una página web en HTML5:
+►http://bit.ly/PaginaWebHTML5
+
+Curso de Ruby 
+► http://bit.ly/RubyFacilito
+
+Curso de Ruby on Rails 
+► http://bit.ly/RailsFacilito
+
+Curso de Python:
+►http://bit.ly/PythonFacilito
+
+Curso de HTML5:
+►http://bit.ly/HTML5Facilito
+
+Curso de WordPress (Crea un tema desde cero):
+► http://bit.ly/WordPressFacilito
+
+Curso de CSS:
+►http://bit.ly/CSSFacilito
+
+Curso de PHP:
+►http://bit.ly/PHPFacilito
+
+Curso de JavaScript y jQuery:
+►http://bit.ly/jQueryFacilito
+
+Curso de Java:
+►http://bit.ly/JavaFacilito
+
+Curso de C++:
+►http://bit.ly/CFacilito
+
+Curso de Xcode:
+►http://bit.ly/XcodeFacilito
+
+-----
+
+Sitio web: 
+►http://codigofacilito.com/
+
+Síguenos en Twitter: 
+►http://twitter.com/codigofacilito
+
+&quot;Like&quot; en Facebook:
+►http://facebook.com/codigofacilito
+
+Suscríbete en YouTube: 
+►http://bit.ly/qHEewR
+
+Únete al Newsletter: 
+►http://bit.ly/CorreoFacilito
+
+-----
+
+
+
+►¿Quiéres ser tutor en CódigoFacilito?
+Escríbeme a alejandroruibal arroba gmail.com y cuéntame porqué te gustaría participar en nuestro proyecto, qué curso te gustaría impartir y  un poco de tu experiencia como programador. Es una excelente manera de compartir tus conocimientos con la comunidad mientras al mismo tiempo generas un ingreso extra.]]></description>
+      <guid isPermaLink="false">com.audiosack.guid._3i_qXVYMBg</guid>
+      <enclosure url="http://192.168.1.37:5000/static/media/_3i_qXVYMBg.m4a" length="4755791" type="audio/x-m4a"/>
+      <itunes:duration>04:59</itunes:duration>
+      <pubDate>Fri, 28 May 2021 10:21:43 +0000</pubDate>
+      <itunes:image href="http://i.ytimg.com/vi/_3i_qXVYMBg/default.jpg"/>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:order>0</itunes:order>
+      <itunes:subtitle>⚡️Únete a Premium (+100 cursos) aquí:
+https://codigofacilito.com/suscripcion
+
+--- Clic aquí para todos nuestros cursos y tutoriales: ►http://codigofacilito.com/
+
+Síguenos en Twitter: 
+►http://twitter.com/codigofacilito
+
+"Like" en Facebook:
+►http://facebook.com/codigofacilito
+
+-----
+
+MÁS CURSOS de CódigoFacilito:
+
+Curso para crear una página web en HTML5:
+►http://bit.ly/PaginaWebHTML5
+
+Curso de Ruby 
+► http://bit.ly/RubyFacilito
+
+Curso de Ruby on Rails 
+► http://bit.ly/RailsFacilito
+
+Curso de Python:
+►http://bit.ly/PythonFacilito
+
+Curso de HTML5:
+►http://bit.ly/HTML5Facilito
+
+Curso de WordPress (Crea un tema desde cero):
+► http://bit.ly/WordPressFacilito
+
+Curso de CSS:
+►http://bit.ly/CSSFacilito
+
+Curso de PHP:
+►http://bit.ly/PHPFacilito
+
+Curso de JavaScript y jQuery:
+►http://bit.ly/jQueryFacilito
+
+Curso de Java:
+►http://bit.ly/JavaFacilito
+
+Curso de C++:
+►http://bit.ly/CFacilito
+
+Curso de Xcode:
+►http://bit.ly/XcodeFacilito
+
+-----
+
+Sitio web: 
+►http://codigofacilito.com/
+
+Síguenos en Twitter: 
+►http://twitter.com/codigofacilito
+
+"Like" en Facebook:
+►http://facebook.com/codigofacilito
+
+Suscríbete en YouTube: 
+►http://bit.ly/qHEewR
+
+Únete al Newsletter: 
+►http://bit.ly/CorreoFacilito
+
+-----
+
+
+
+►¿Quiéres ser tutor en CódigoFacilito?
+Escríbeme a alejandroruibal arroba gmail.com y cuéntame porqué te gustaría participar en nuestro proyecto, qué curso te gustaría impartir y  un poco de tu experiencia como programador. Es una excelente manera de compartir tus conocimientos con la comunidad mientras al mismo tiempo generas un ingreso extra.</itunes:subtitle>
+    </item>
+    <item>
+      <title>Apple Steve Jobs Heres To The Crazy Ones</title>
+      <description><![CDATA[http://www.NathanHulls.com
+
+Steve Jobs narrates the first of Apples &#x27;Think Different&#x27; commercial &quot;Here&#x27;s to the Crazy Ones&quot;. It never aired. Richard Dreyfuss did the voice over for the original spot that aired.
+
+&quot;The ones who are crazy enough to think that they can change the world, are the ones who do&quot;
+
+http://www.nathanhulls.com]]></description>
+      <guid isPermaLink="false">com.audiosack.guid.-z4NS2zdrZc</guid>
+      <enclosure url="http://192.168.1.37:5000/static/media/-z4NS2zdrZc.m4a" length="989115" type="audio/x-m4a"/>
+      <itunes:duration>01:01</itunes:duration>
+      <pubDate>Fri, 28 May 2021 10:21:43 +0000</pubDate>
+      <itunes:image href="http://i.ytimg.com/vi/-z4NS2zdrZc/default.jpg"/>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:order>0</itunes:order>
+      <itunes:subtitle>http://www.NathanHulls.com
+
+Steve Jobs narrates the first of Apples 'Think Different' commercial "Here's to the Crazy Ones". It never aired. Richard Dreyfuss did the voice over for the original spot that aired.
+
+"The ones who are crazy enough to think that they can change the world, are the ones who do"
+
+http://www.nathanhulls.com</itunes:subtitle>
+    </item>
+  </channel>
+</rss>
