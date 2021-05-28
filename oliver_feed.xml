@@ -8,10 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator> </generator>
     <language>es-ES</language>
-    <lastBuildDate>Fri, 28 May 2021 09:35:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 May 2021 09:37:16 +0000</lastBuildDate>
     <itunes:author>oliver</itunes:author>
     <managingEditor>oliver.barreto.online@gmail.com (oliver)</managingEditor>
-    <pubDate>Fri, 28 May 2021 09:35:24 +0000</pubDate>
+    <pubDate>Fri, 28 May 2021 09:37:16 +0000</pubDate>
     <itunes:category text="News"/>
     <itunes:image href="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png"/>
     <itunes:owner>
@@ -39,7 +39,7 @@ dota 2,dota 2 guide,dota 2 pro guide,gameleap guide,dota guide,dota 2 tips,dota 
       <guid isPermaLink="false">com.audiosack.guid.H9CpBIiiFnY</guid>
       <enclosure url="http://192.168.1.37:5000/static/media/H9CpBIiiFnY.m4a" length="21324136" type="audio/x-m4a"/>
       <itunes:duration>21:58</itunes:duration>
-      <pubDate>Fri, 28 May 2021 09:35:24 +0000</pubDate>
+      <pubDate>Fri, 28 May 2021 09:37:16 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/H9CpBIiiFnY/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -71,7 +71,7 @@ http://www.nathanhulls.com]]></description>
       <guid isPermaLink="false">com.audiosack.guid.-z4NS2zdrZc</guid>
       <enclosure url="http://192.168.1.37:5000/static/media/-z4NS2zdrZc.m4a" length="989115" type="audio/x-m4a"/>
       <itunes:duration>01:01</itunes:duration>
-      <pubDate>Fri, 28 May 2021 09:35:24 +0000</pubDate>
+      <pubDate>Fri, 28 May 2021 09:37:16 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/-z4NS2zdrZc/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -162,7 +162,7 @@ Escríbeme a alejandroruibal arroba gmail.com y cuéntame porqué te gustaría p
       <guid isPermaLink="false">com.audiosack.guid._3i_qXVYMBg</guid>
       <enclosure url="http://192.168.1.37:5000/static/media/_3i_qXVYMBg.m4a" length="4755791" type="audio/x-m4a"/>
       <itunes:duration>04:59</itunes:duration>
-      <pubDate>Fri, 28 May 2021 09:35:24 +0000</pubDate>
+      <pubDate>Fri, 28 May 2021 09:37:16 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/_3i_qXVYMBg/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
