@@ -8,10 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator> </generator>
     <language>es-ES</language>
-    <lastBuildDate>Sun, 30 May 2021 17:44:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 May 2021 17:44:49 +0000</lastBuildDate>
     <itunes:author>oliver</itunes:author>
     <managingEditor>oliver.barreto.online@gmail.com (oliver)</managingEditor>
-    <pubDate>Sun, 30 May 2021 17:44:37 +0000</pubDate>
+    <pubDate>Sun, 30 May 2021 17:44:49 +0000</pubDate>
     <itunes:category text="News"/>
     <itunes:image href="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png"/>
     <itunes:owner>
@@ -19,64 +19,6 @@
       <itunes:email>oliver.barreto.online@gmail.com</itunes:email>
     </itunes:owner>
     <atom:link href="https://raw.githubusercontent.com/oliverbarreto/PersonalPodcast/main/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Introducing mZips! Zip and Zip Longest</title>
-      <description><![CDATA[Sign up on Patreon to get your donor role and early access to videos!
-https://patreon.com/mCoding
-
-Feeling generous but don&#x27;t have a Patreon? Donate via PayPal! (No sign up needed.)
-https://www.paypal.com/donate/?hosted_button_id=VJY5SLZ8BJHEE
-
-IN THIS VIDEO...
----------------------------------------------------
-mZips, or just &quot;Zips&quot; are 3 minute or less mCoding videos for content that just can&#x27;t (or shouldn&#x27;t) be stretched to a normal 7-10 minutes timescale.
-
-In this mZip, we look at the Python builtin zip function and a related zip_longest function.
-
-― mCoding with James Murphy (https://mcoding.io)
-
-Source code: https://github.com/mCodingLLC/VideosSampleCode
-Python zip: https://docs.python.org/3/library/functions.html#zip
-Python zip_longest: https://docs.python.org/3/library/itertools.html#itertools.zip_longest
-
-BE ACTIVE IN MY COMMUNITY 😄
----------------------------------------------------
-Discord: https://discord.gg/Ye9yJtZQuN
-Github: https://github.com/mCodingLLC/
-Reddit: https://www.reddit.com/r/mCoding/
-Facebook: https://www.facebook.com/james.mcoding]]></description>
-      <guid isPermaLink="false">com.audiosack.guid.HtvOsPY17qc</guid>
-      <enclosure url="http://192.168.1.37:5000/static/media/HtvOsPY17qc.m4a" length="2823652" type="audio/x-m4a"/>
-      <itunes:duration>02:54</itunes:duration>
-      <pubDate>Sun, 30 May 2021 17:44:37 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/HtvOsPY17qc/default.jpg"/>
-      <itunes:explicit>No</itunes:explicit>
-      <itunes:order>0</itunes:order>
-      <itunes:subtitle>Sign up on Patreon to get your donor role and early access to videos!
-https://patreon.com/mCoding
-
-Feeling generous but don't have a Patreon? Donate via PayPal! (No sign up needed.)
-https://www.paypal.com/donate/?hosted_button_id=VJY5SLZ8BJHEE
-
-IN THIS VIDEO...
----------------------------------------------------
-mZips, or just "Zips" are 3 minute or less mCoding videos for content that just can't (or shouldn't) be stretched to a normal 7-10 minutes timescale.
-
-In this mZip, we look at the Python builtin zip function and a related zip_longest function.
-
-― mCoding with James Murphy (https://mcoding.io)
-
-Source code: https://github.com/mCodingLLC/VideosSampleCode
-Python zip: https://docs.python.org/3/library/functions.html#zip
-Python zip_longest: https://docs.python.org/3/library/itertools.html#itertools.zip_longest
-
-BE ACTIVE IN MY COMMUNITY 😄
----------------------------------------------------
-Discord: https://discord.gg/Ye9yJtZQuN
-Github: https://github.com/mCodingLLC/
-Reddit: https://www.reddit.com/r/mCoding/
-Facebook: https://www.facebook.com/james.mcoding</itunes:subtitle>
-    </item>
     <item>
       <title>Top 5 Mods Full Week! in Whitty, Hex, Tricky, Miku &amp; Sarvente - Friday Night Funkin Mod #1</title>
       <description><![CDATA[This mod is cool, Excellent Full Week... Whitty, Hex, Tricky, Hatsune Miku &amp; Sarvente become Boss?
@@ -126,7 +68,7 @@ https://gamebanana.com/gamefiles/17646
       <guid isPermaLink="false">com.audiosack.guid.1jg5zhiO3dw</guid>
       <enclosure url="http://192.168.1.37:5000/static/media/1jg5zhiO3dw.m4a" length="44654036" type="audio/x-m4a"/>
       <itunes:duration>45:59</itunes:duration>
-      <pubDate>Sun, 30 May 2021 17:44:37 +0000</pubDate>
+      <pubDate>Sun, 30 May 2021 17:44:49 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/1jg5zhiO3dw/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -187,7 +129,7 @@ http://www.nathanhulls.com]]></description>
       <guid isPermaLink="false">com.audiosack.guid.-z4NS2zdrZc</guid>
       <enclosure url="http://192.168.1.37:5000/static/media/-z4NS2zdrZc.m4a" length="989115" type="audio/x-m4a"/>
       <itunes:duration>01:01</itunes:duration>
-      <pubDate>Sun, 30 May 2021 17:44:37 +0000</pubDate>
+      <pubDate>Sun, 30 May 2021 17:44:49 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/-z4NS2zdrZc/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
