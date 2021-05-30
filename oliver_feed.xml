@@ -8,10 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator> </generator>
     <language>es-ES</language>
-    <lastBuildDate>Sun, 30 May 2021 16:02:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 May 2021 16:57:32 +0000</lastBuildDate>
     <itunes:author>oliver</itunes:author>
     <managingEditor>oliver.barreto.online@gmail.com (oliver)</managingEditor>
-    <pubDate>Sun, 30 May 2021 16:02:38 +0000</pubDate>
+    <pubDate>Sun, 30 May 2021 16:57:32 +0000</pubDate>
     <itunes:category text="News"/>
     <itunes:image href="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png"/>
     <itunes:owner>
@@ -19,60 +19,6 @@
       <itunes:email>oliver.barreto.online@gmail.com</itunes:email>
     </itunes:owner>
     <atom:link href="https://raw.githubusercontent.com/oliverbarreto/PersonalPodcast/main/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>What's new in Machine Learning | Keynote</title>
-      <description><![CDATA[Learn about the latest and greatest in machine learning (ML) from Google! We cover what’s available to developers when it comes to creating, understanding, and deploying models for a variety of different applications. From Responsible AI to TensorFlow 2.5, mobile devices, microcontrollers, and beyond. We cover new releases and tools, and you hear about the latest from the Google Cloud Platform, and how to enable an end-to-end machine learning pipeline.
-
-Resources:
-ML Kit: turnkey APIs to use on-device ML in mobile apps → https://goo.gle/3elLJv9
-TensorFlow Hub for real world impact → https://goo.gle/2QNjY5H
-Machine learning for next gen web apps with TensorFlow.js → https://goo.gle/3v6cwBg
-
-Speakers: Kemal El Moujahid, Sarah Sirajuddin, Craig Wiley
-
-Watch more:
-TensorFlow at Google I/O 2021 Playlist → https://goo.gle/io21-TensorFlow-1
-All Google I/O 2021 Keynotes → https://goo.gle/io21-keynotes
-All Google I/O 2021 Sessions → https://goo.gle/io21-allsessions
-
-Subscribe to TensorFlow → https://goo.gle/TensorFlow
-
-
- #GoogleIO #ML/AI
-
-
-
-product: TensorFlow - General; event: Google I/O 2021; fullname: Kemal El Moujahid, Sarah Sirajuddin, Craig Wiley; re_ty: Premiere;]]></description>
-      <guid isPermaLink="false">com.audiosack.guid.qKkjCQlS1g4</guid>
-      <enclosure url="http://192.168.1.37:5000/static/media/qKkjCQlS1g4.m4a" length="32216380" type="audio/x-m4a"/>
-      <itunes:duration>33:11</itunes:duration>
-      <pubDate>Sun, 30 May 2021 16:02:38 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/qKkjCQlS1g4/default.jpg"/>
-      <itunes:explicit>No</itunes:explicit>
-      <itunes:order>0</itunes:order>
-      <itunes:subtitle>Learn about the latest and greatest in machine learning (ML) from Google! We cover what’s available to developers when it comes to creating, understanding, and deploying models for a variety of different applications. From Responsible AI to TensorFlow 2.5, mobile devices, microcontrollers, and beyond. We cover new releases and tools, and you hear about the latest from the Google Cloud Platform, and how to enable an end-to-end machine learning pipeline.
-
-Resources:
-ML Kit: turnkey APIs to use on-device ML in mobile apps → https://goo.gle/3elLJv9
-TensorFlow Hub for real world impact → https://goo.gle/2QNjY5H
-Machine learning for next gen web apps with TensorFlow.js → https://goo.gle/3v6cwBg
-
-Speakers: Kemal El Moujahid, Sarah Sirajuddin, Craig Wiley
-
-Watch more:
-TensorFlow at Google I/O 2021 Playlist → https://goo.gle/io21-TensorFlow-1
-All Google I/O 2021 Keynotes → https://goo.gle/io21-keynotes
-All Google I/O 2021 Sessions → https://goo.gle/io21-allsessions
-
-Subscribe to TensorFlow → https://goo.gle/TensorFlow
-
-
- #GoogleIO #ML/AI
-
-
-
-product: TensorFlow - General; event: Google I/O 2021; fullname: Kemal El Moujahid, Sarah Sirajuddin, Craig Wiley; re_ty: Premiere;</itunes:subtitle>
-    </item>
     <item>
       <title>The Fastest Way to Loop in Python - An Unfortunate Truth</title>
       <description><![CDATA[Sign up on Patreon to get your donor role and early access to videos!
@@ -98,7 +44,7 @@ Facebook: https://www.facebook.com/james.mcoding]]></description>
       <guid isPermaLink="false">com.audiosack.guid.Qgevy75co8c</guid>
       <enclosure url="http://192.168.1.37:5000/static/media/Qgevy75co8c.m4a" length="7861460" type="audio/x-m4a"/>
       <itunes:duration>08:06</itunes:duration>
-      <pubDate>Sun, 30 May 2021 16:02:38 +0000</pubDate>
+      <pubDate>Sun, 30 May 2021 16:57:32 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/Qgevy75co8c/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -172,7 +118,7 @@ https://gamebanana.com/gamefiles/17646
       <guid isPermaLink="false">com.audiosack.guid.1jg5zhiO3dw</guid>
       <enclosure url="http://192.168.1.37:5000/static/media/1jg5zhiO3dw.m4a" length="44654036" type="audio/x-m4a"/>
       <itunes:duration>45:59</itunes:duration>
-      <pubDate>Sun, 30 May 2021 16:02:38 +0000</pubDate>
+      <pubDate>Sun, 30 May 2021 16:57:32 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/1jg5zhiO3dw/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -233,7 +179,7 @@ http://www.nathanhulls.com]]></description>
       <guid isPermaLink="false">com.audiosack.guid.-z4NS2zdrZc</guid>
       <enclosure url="http://192.168.1.37:5000/static/media/-z4NS2zdrZc.m4a" length="989115" type="audio/x-m4a"/>
       <itunes:duration>01:01</itunes:duration>
-      <pubDate>Sun, 30 May 2021 16:02:38 +0000</pubDate>
+      <pubDate>Sun, 30 May 2021 16:57:32 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/-z4NS2zdrZc/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
