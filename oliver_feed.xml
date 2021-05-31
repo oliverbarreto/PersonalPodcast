@@ -8,10 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator> </generator>
     <language>es-ES</language>
-    <lastBuildDate>Mon, 31 May 2021 16:41:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 May 2021 16:44:57 +0000</lastBuildDate>
     <itunes:author>oliver</itunes:author>
     <managingEditor>oliver.barreto.online@gmail.com (oliver)</managingEditor>
-    <pubDate>Mon, 31 May 2021 16:41:31 +0000</pubDate>
+    <pubDate>Mon, 31 May 2021 16:44:57 +0000</pubDate>
     <itunes:category text="News"/>
     <itunes:image href="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png"/>
     <itunes:owner>
@@ -19,6 +19,58 @@
       <itunes:email>oliver.barreto.online@gmail.com</itunes:email>
     </itunes:owner>
     <atom:link href="https://raw.githubusercontent.com/oliverbarreto/PersonalPodcast/main/oliver_feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Spotting and solving everyday problems with machine learning | Session</title>
+      <description><![CDATA[As a developer, when should you use machine learning (ML) and what’s the quickest way to integrate it into your app? In this Session, you learn to spot the most common ML use cases including analyzing multimedia, building smart search, transforming data, and how to quickly build them into your app with user-friendly tools. We use ML to intelligently search through videos and articles, analyze your tennis serve, translate and dub videos, and more using tools like Google Cloud, Firebase, and TensorFlow.
+
+Resources:
+Dale on AI → https://goo.gle/3e0PfuI
+Google Cloud AI → https://goo.gle/3xvTCFM
+
+Speaker: Dale Markowitz
+
+Watch more:
+TensorFlow at Google I/O 2021 Playlist → https://goo.gle/io21-TensorFlow-1
+All Google I/O 2021 Technical Sessions → https://goo.gle/io21-technicalsessions
+All Google I/O 2021 Sessions → https://goo.gle/io21-allsessions
+
+Subscribe to TensorFlow → https://goo.gle/TensorFlow
+
+
+ #GoogleIO #Ml/AI #Firebase #Cloud
+
+
+
+product: Firebase - General, TensorFlow - General; event: Google I/O 2021; fullname: Dale Markowitz; re_ty: Premiere;]]></description>
+      <guid isPermaLink="false">com.audiosack.guid._1QtMPuYIVw</guid>
+      <enclosure url="http://oops.hopto.org:9090/static/media/_1QtMPuYIVw.m4a" length="12337518" type="audio/x-m4a"/>
+      <itunes:duration>12:42</itunes:duration>
+      <pubDate>Mon, 31 May 2021 16:44:57 +0000</pubDate>
+      <itunes:image href="http://i.ytimg.com/vi/_1QtMPuYIVw/default.jpg"/>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:order>0</itunes:order>
+      <itunes:subtitle>As a developer, when should you use machine learning (ML) and what’s the quickest way to integrate it into your app? In this Session, you learn to spot the most common ML use cases including analyzing multimedia, building smart search, transforming data, and how to quickly build them into your app with user-friendly tools. We use ML to intelligently search through videos and articles, analyze your tennis serve, translate and dub videos, and more using tools like Google Cloud, Firebase, and TensorFlow.
+
+Resources:
+Dale on AI → https://goo.gle/3e0PfuI
+Google Cloud AI → https://goo.gle/3xvTCFM
+
+Speaker: Dale Markowitz
+
+Watch more:
+TensorFlow at Google I/O 2021 Playlist → https://goo.gle/io21-TensorFlow-1
+All Google I/O 2021 Technical Sessions → https://goo.gle/io21-technicalsessions
+All Google I/O 2021 Sessions → https://goo.gle/io21-allsessions
+
+Subscribe to TensorFlow → https://goo.gle/TensorFlow
+
+
+ #GoogleIO #Ml/AI #Firebase #Cloud
+
+
+
+product: Firebase - General, TensorFlow - General; event: Google I/O 2021; fullname: Dale Markowitz; re_ty: Premiere;</itunes:subtitle>
+    </item>
     <item>
       <title>M1X Pro &amp; M2 Air Incoming! — Reacting to MASSIVE NEW Mac Leak Bombs!</title>
       <description><![CDATA[🔥 NO ADS and bonus content — CuriosityStream &amp; Nebula for less than $15 a YEAR! https://curiositystream.com/reneritchie/
@@ -85,7 +137,7 @@ Thanks for watching, see you next video!]]></description>
       <guid isPermaLink="false">com.audiosack.guid.IkbRZLxn_-4</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/IkbRZLxn_-4.m4a" length="11013635" type="audio/x-m4a"/>
       <itunes:duration>11:20</itunes:duration>
-      <pubDate>Mon, 31 May 2021 16:41:31 +0000</pubDate>
+      <pubDate>Mon, 31 May 2021 16:44:57 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/IkbRZLxn_-4/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -214,7 +266,7 @@ malan@harvard.edu]]></description>
       <guid isPermaLink="false">com.audiosack.guid.xFFs9UgOAlE</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/xFFs9UgOAlE.m4a" length="47937502" type="audio/x-m4a"/>
       <itunes:duration>01:05:34</itunes:duration>
-      <pubDate>Mon, 31 May 2021 16:41:31 +0000</pubDate>
+      <pubDate>Mon, 31 May 2021 16:44:57 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/xFFs9UgOAlE/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -301,7 +353,7 @@ OTROS CANALES EN YOUTUBE:
       <guid isPermaLink="false">com.audiosack.guid.KUBBAFXIhRQ</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/KUBBAFXIhRQ.m4a" length="158162041" type="audio/x-m4a"/>
       <itunes:duration>02:42:53</itunes:duration>
-      <pubDate>Mon, 31 May 2021 16:41:31 +0000</pubDate>
+      <pubDate>Mon, 31 May 2021 16:44:57 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/KUBBAFXIhRQ/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -337,7 +389,7 @@ http://www.nathanhulls.com]]></description>
       <guid isPermaLink="false">com.audiosack.guid.-z4NS2zdrZc</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/-z4NS2zdrZc.m4a" length="989115" type="audio/x-m4a"/>
       <itunes:duration>01:01</itunes:duration>
-      <pubDate>Mon, 31 May 2021 16:41:31 +0000</pubDate>
+      <pubDate>Mon, 31 May 2021 16:44:57 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/-z4NS2zdrZc/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
