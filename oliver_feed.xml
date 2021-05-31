@@ -8,10 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator> </generator>
     <language>es-ES</language>
-    <lastBuildDate>Sun, 30 May 2021 19:53:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 May 2021 07:37:06 +0000</lastBuildDate>
     <itunes:author>oliver</itunes:author>
     <managingEditor>oliver.barreto.online@gmail.com (oliver)</managingEditor>
-    <pubDate>Sun, 30 May 2021 19:53:33 +0000</pubDate>
+    <pubDate>Mon, 31 May 2021 07:37:06 +0000</pubDate>
     <itunes:category text="News"/>
     <itunes:image href="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png"/>
     <itunes:owner>
@@ -98,7 +98,7 @@ Escríbeme a alejandroruibal arroba gmail.com y cuéntame porqué te gustaría p
       <guid isPermaLink="false">com.audiosack.guid._3i_qXVYMBg</guid>
       <enclosure url="http://192.168.1.37:5000/static/media/_3i_qXVYMBg.m4a" length="4755791" type="audio/x-m4a"/>
       <itunes:duration>04:59</itunes:duration>
-      <pubDate>Sun, 30 May 2021 19:53:33 +0000</pubDate>
+      <pubDate>Mon, 31 May 2021 07:37:06 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/_3i_qXVYMBg/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -206,7 +206,7 @@ Facebook: https://www.facebook.com/james.mcoding]]></description>
       <guid isPermaLink="false">com.audiosack.guid.HtvOsPY17qc</guid>
       <enclosure url="http://192.168.1.37:5000/static/media/HtvOsPY17qc.m4a" length="2823652" type="audio/x-m4a"/>
       <itunes:duration>02:54</itunes:duration>
-      <pubDate>Sun, 30 May 2021 19:53:33 +0000</pubDate>
+      <pubDate>Mon, 31 May 2021 07:37:06 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/HtvOsPY17qc/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -247,7 +247,7 @@ http://www.nathanhulls.com]]></description>
       <guid isPermaLink="false">com.audiosack.guid.-z4NS2zdrZc</guid>
       <enclosure url="http://192.168.1.37:5000/static/media/-z4NS2zdrZc.m4a" length="989115" type="audio/x-m4a"/>
       <itunes:duration>01:01</itunes:duration>
-      <pubDate>Sun, 30 May 2021 19:53:33 +0000</pubDate>
+      <pubDate>Mon, 31 May 2021 07:37:06 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/-z4NS2zdrZc/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
