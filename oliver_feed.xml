@@ -8,10 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator> </generator>
     <language>es-ES</language>
-    <lastBuildDate>Mon, 31 May 2021 07:44:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 May 2021 07:45:40 +0000</lastBuildDate>
     <itunes:author>oliver</itunes:author>
     <managingEditor>oliver.barreto.online@gmail.com (oliver)</managingEditor>
-    <pubDate>Mon, 31 May 2021 07:44:25 +0000</pubDate>
+    <pubDate>Mon, 31 May 2021 07:45:40 +0000</pubDate>
     <itunes:category text="News"/>
     <itunes:image href="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png"/>
     <itunes:owner>
@@ -19,6 +19,164 @@
       <itunes:email>oliver.barreto.online@gmail.com</itunes:email>
     </itunes:owner>
     <atom:link href="https://raw.githubusercontent.com/oliverbarreto/PersonalPodcast/main/oliver_feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>31.- Curso Flask - Helpers</title>
+      <description><![CDATA[⚡️Únete a Premium (+100 cursos) aquí:
+https://codigofacilito.com/suscripcion
+
+--- Clic aquí para todos nuestros cursos y tutoriales: ►http://codigofacilito.com/
+
+Síguenos en Twitter: 
+►http://twitter.com/codigofacilito
+
+&quot;Like&quot; en Facebook:
+►http://facebook.com/codigofacilito
+
+-----
+
+MÁS CURSOS de CódigoFacilito:
+
+Curso para crear una página web en HTML5:
+►http://bit.ly/PaginaWebHTML5
+
+Curso de Ruby 
+► http://bit.ly/RubyFacilito
+
+Curso de Ruby on Rails 
+► http://bit.ly/RailsFacilito
+
+Curso de Python:
+►http://bit.ly/PythonFacilito
+
+Curso de HTML5:
+►http://bit.ly/HTML5Facilito
+
+Curso de WordPress (Crea un tema desde cero):
+► http://bit.ly/WordPressFacilito
+
+Curso de CSS:
+►http://bit.ly/CSSFacilito
+
+Curso de PHP:
+►http://bit.ly/PHPFacilito
+
+Curso de JavaScript y jQuery:
+►http://bit.ly/jQueryFacilito
+
+Curso de Java:
+►http://bit.ly/JavaFacilito
+
+Curso de C++:
+►http://bit.ly/CFacilito
+
+Curso de Xcode:
+►http://bit.ly/XcodeFacilito
+
+-----
+
+Sitio web: 
+►http://codigofacilito.com/
+
+Síguenos en Twitter: 
+►http://twitter.com/codigofacilito
+
+&quot;Like&quot; en Facebook:
+►http://facebook.com/codigofacilito
+
+Suscríbete en YouTube: 
+►http://bit.ly/qHEewR
+
+Únete al Newsletter: 
+►http://bit.ly/CorreoFacilito
+
+-----
+
+
+
+►¿Quiéres ser tutor en CódigoFacilito?
+Escríbeme a alejandroruibal arroba gmail.com y cuéntame porqué te gustaría participar en nuestro proyecto, qué curso te gustaría impartir y  un poco de tu experiencia como programador. Es una excelente manera de compartir tus conocimientos con la comunidad mientras al mismo tiempo generas un ingreso extra.]]></description>
+      <guid isPermaLink="false">com.audiosack.guid._3i_qXVYMBg</guid>
+      <enclosure url="http://oops.hopto.org:9090/static/media/_3i_qXVYMBg.m4a" length="4755791" type="audio/x-m4a"/>
+      <itunes:duration>04:59</itunes:duration>
+      <pubDate>Mon, 31 May 2021 07:45:40 +0000</pubDate>
+      <itunes:image href="http://i.ytimg.com/vi/_3i_qXVYMBg/default.jpg"/>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:order>0</itunes:order>
+      <itunes:subtitle>⚡️Únete a Premium (+100 cursos) aquí:
+https://codigofacilito.com/suscripcion
+
+--- Clic aquí para todos nuestros cursos y tutoriales: ►http://codigofacilito.com/
+
+Síguenos en Twitter: 
+►http://twitter.com/codigofacilito
+
+"Like" en Facebook:
+►http://facebook.com/codigofacilito
+
+-----
+
+MÁS CURSOS de CódigoFacilito:
+
+Curso para crear una página web en HTML5:
+►http://bit.ly/PaginaWebHTML5
+
+Curso de Ruby 
+► http://bit.ly/RubyFacilito
+
+Curso de Ruby on Rails 
+► http://bit.ly/RailsFacilito
+
+Curso de Python:
+►http://bit.ly/PythonFacilito
+
+Curso de HTML5:
+►http://bit.ly/HTML5Facilito
+
+Curso de WordPress (Crea un tema desde cero):
+► http://bit.ly/WordPressFacilito
+
+Curso de CSS:
+►http://bit.ly/CSSFacilito
+
+Curso de PHP:
+►http://bit.ly/PHPFacilito
+
+Curso de JavaScript y jQuery:
+►http://bit.ly/jQueryFacilito
+
+Curso de Java:
+►http://bit.ly/JavaFacilito
+
+Curso de C++:
+►http://bit.ly/CFacilito
+
+Curso de Xcode:
+►http://bit.ly/XcodeFacilito
+
+-----
+
+Sitio web: 
+►http://codigofacilito.com/
+
+Síguenos en Twitter: 
+►http://twitter.com/codigofacilito
+
+"Like" en Facebook:
+►http://facebook.com/codigofacilito
+
+Suscríbete en YouTube: 
+►http://bit.ly/qHEewR
+
+Únete al Newsletter: 
+►http://bit.ly/CorreoFacilito
+
+-----
+
+
+
+►¿Quiéres ser tutor en CódigoFacilito?
+Escríbeme a alejandroruibal arroba gmail.com y cuéntame porqué te gustaría participar en nuestro proyecto, qué curso te gustaría impartir y  un poco de tu experiencia como programador. Es una excelente manera de compartir tus conocimientos con la comunidad mientras al mismo tiempo generas un ingreso extra.</itunes:subtitle>
+    </item>
     <item>
       <title>Apple Steve Jobs Heres To The Crazy Ones</title>
       <description><![CDATA[http://www.NathanHulls.com
@@ -31,7 +189,7 @@ http://www.nathanhulls.com]]></description>
       <guid isPermaLink="false">com.audiosack.guid.-z4NS2zdrZc</guid>
       <enclosure url="http://192.168.1.37:5000/static/media/-z4NS2zdrZc.m4a" length="989115" type="audio/x-m4a"/>
       <itunes:duration>01:01</itunes:duration>
-      <pubDate>Mon, 31 May 2021 07:44:25 +0000</pubDate>
+      <pubDate>Mon, 31 May 2021 07:45:40 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/-z4NS2zdrZc/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
