@@ -8,10 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator> </generator>
     <language>es-ES</language>
-    <lastBuildDate>Mon, 31 May 2021 16:44:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 May 2021 16:46:21 +0000</lastBuildDate>
     <itunes:author>oliver</itunes:author>
     <managingEditor>oliver.barreto.online@gmail.com (oliver)</managingEditor>
-    <pubDate>Mon, 31 May 2021 16:44:57 +0000</pubDate>
+    <pubDate>Mon, 31 May 2021 16:46:21 +0000</pubDate>
     <itunes:category text="News"/>
     <itunes:image href="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png"/>
     <itunes:owner>
@@ -19,6 +19,58 @@
       <itunes:email>oliver.barreto.online@gmail.com</itunes:email>
     </itunes:owner>
     <atom:link href="https://raw.githubusercontent.com/oliverbarreto/PersonalPodcast/main/oliver_feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>El valor de la humildad, el esfuerzo y el trabajo, con Toni Nadal.</title>
+      <description><![CDATA[Esta nueva entrega es posible gracias a los colaboradores de Youtube, Patreon e iVoox. Colabora para que pueda continuar en:
+
+https://www.youtube.com/channel/UCb2TOOLwTwgAfJ7OeGyAwVw/join
+
+https://www.patreon.com/janogarcia
+
+https://www.ivoox.com/podcast-en-libertad_sq_f1781509_1.html
+
+https://www.paypal.me/janogarcia
+
+Si desean seguirme o adquirir mis libros, aquí tienen toda la información necesaria para ello:
+
+https://www.amazon.es/kindle-dbs/entity/author/B0755PWSXK?_encoding=UTF8&amp;node=831435031&amp;offse
+
+https://m.twitch.tv/janogarcia89
+
+https://www.instagram.com/ellibrepensador
+
+https://twitter.com/janogarcia_
+
+https://www.facebook.com/janogarciaesp]]></description>
+      <guid isPermaLink="false">com.audiosack.guid.lN0bdw5nBcw</guid>
+      <enclosure url="http://oops.hopto.org:9090/static/media/lN0bdw5nBcw.m4a" length="46715104" type="audio/x-m4a"/>
+      <itunes:duration>48:06</itunes:duration>
+      <pubDate>Mon, 31 May 2021 16:46:21 +0000</pubDate>
+      <itunes:image href="http://i.ytimg.com/vi/lN0bdw5nBcw/default.jpg"/>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:order>0</itunes:order>
+      <itunes:subtitle>Esta nueva entrega es posible gracias a los colaboradores de Youtube, Patreon e iVoox. Colabora para que pueda continuar en:
+
+https://www.youtube.com/channel/UCb2TOOLwTwgAfJ7OeGyAwVw/join
+
+https://www.patreon.com/janogarcia
+
+https://www.ivoox.com/podcast-en-libertad_sq_f1781509_1.html
+
+https://www.paypal.me/janogarcia
+
+Si desean seguirme o adquirir mis libros, aquí tienen toda la información necesaria para ello:
+
+https://www.amazon.es/kindle-dbs/entity/author/B0755PWSXK?_encoding=UTF8&amp;node=831435031&amp;offse
+
+https://m.twitch.tv/janogarcia89
+
+https://www.instagram.com/ellibrepensador
+
+https://twitter.com/janogarcia_
+
+https://www.facebook.com/janogarciaesp</itunes:subtitle>
+    </item>
     <item>
       <title>Spotting and solving everyday problems with machine learning | Session</title>
       <description><![CDATA[As a developer, when should you use machine learning (ML) and what’s the quickest way to integrate it into your app? In this Session, you learn to spot the most common ML use cases including analyzing multimedia, building smart search, transforming data, and how to quickly build them into your app with user-friendly tools. We use ML to intelligently search through videos and articles, analyze your tennis serve, translate and dub videos, and more using tools like Google Cloud, Firebase, and TensorFlow.
@@ -45,7 +97,7 @@ product: Firebase - General, TensorFlow - General; event: Google I/O 2021; fulln
       <guid isPermaLink="false">com.audiosack.guid._1QtMPuYIVw</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/_1QtMPuYIVw.m4a" length="12337518" type="audio/x-m4a"/>
       <itunes:duration>12:42</itunes:duration>
-      <pubDate>Mon, 31 May 2021 16:44:57 +0000</pubDate>
+      <pubDate>Mon, 31 May 2021 16:46:21 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/_1QtMPuYIVw/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -137,7 +189,7 @@ Thanks for watching, see you next video!]]></description>
       <guid isPermaLink="false">com.audiosack.guid.IkbRZLxn_-4</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/IkbRZLxn_-4.m4a" length="11013635" type="audio/x-m4a"/>
       <itunes:duration>11:20</itunes:duration>
-      <pubDate>Mon, 31 May 2021 16:44:57 +0000</pubDate>
+      <pubDate>Mon, 31 May 2021 16:46:21 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/IkbRZLxn_-4/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -266,7 +318,7 @@ malan@harvard.edu]]></description>
       <guid isPermaLink="false">com.audiosack.guid.xFFs9UgOAlE</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/xFFs9UgOAlE.m4a" length="47937502" type="audio/x-m4a"/>
       <itunes:duration>01:05:34</itunes:duration>
-      <pubDate>Mon, 31 May 2021 16:44:57 +0000</pubDate>
+      <pubDate>Mon, 31 May 2021 16:46:21 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/xFFs9UgOAlE/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -353,7 +405,7 @@ OTROS CANALES EN YOUTUBE:
       <guid isPermaLink="false">com.audiosack.guid.KUBBAFXIhRQ</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/KUBBAFXIhRQ.m4a" length="158162041" type="audio/x-m4a"/>
       <itunes:duration>02:42:53</itunes:duration>
-      <pubDate>Mon, 31 May 2021 16:44:57 +0000</pubDate>
+      <pubDate>Mon, 31 May 2021 16:46:21 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/KUBBAFXIhRQ/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -389,7 +441,7 @@ http://www.nathanhulls.com]]></description>
       <guid isPermaLink="false">com.audiosack.guid.-z4NS2zdrZc</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/-z4NS2zdrZc.m4a" length="989115" type="audio/x-m4a"/>
       <itunes:duration>01:01</itunes:duration>
-      <pubDate>Mon, 31 May 2021 16:44:57 +0000</pubDate>
+      <pubDate>Mon, 31 May 2021 16:46:21 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/-z4NS2zdrZc/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
