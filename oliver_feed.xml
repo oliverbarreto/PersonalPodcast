@@ -8,10 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator> </generator>
     <language>es-ES</language>
-    <lastBuildDate>Mon, 31 May 2021 07:37:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 May 2021 07:37:43 +0000</lastBuildDate>
     <itunes:author>oliver</itunes:author>
     <managingEditor>oliver.barreto.online@gmail.com (oliver)</managingEditor>
-    <pubDate>Mon, 31 May 2021 07:37:06 +0000</pubDate>
+    <pubDate>Mon, 31 May 2021 07:37:43 +0000</pubDate>
     <itunes:category text="News"/>
     <itunes:image href="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png"/>
     <itunes:owner>
@@ -19,6 +19,54 @@
       <itunes:email>oliver.barreto.online@gmail.com</itunes:email>
     </itunes:owner>
     <atom:link href="https://raw.githubusercontent.com/oliverbarreto/PersonalPodcast/main/oliver_feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>La vida se torció | #MilenioLive​​ | Programa T3x33 (29/05/2021)</title>
+      <description><![CDATA[Algo iba mal. Bruno Cardeñosa empezó a sentir molestias hace más de cinco años mientras presentaba su programa de radio. Dolores, inestabilidad, mareos… ¿Qué estaba pasando? En ese momento empezó una odisea. Fueron 17 pruebas. Todas salieron bien, pero en la última los médicos detectaron una serie de heridas en su cerebro. La confirmación llegó poco después: era esclerosis múltiple.
+De la noche a la mañana el mundo se le vino abajo y todos sus planes, sueños y deseos se paralizaron, pero entonces comenzó una lucha y una convivencia con la enfermedad, que le ha llevado a no bajarse nunca del tren de la vida.
+Aunque sabe que él no es ejemplo de nada, espera que este libro se convierta en guía y esperanza para los que atraviesan su mismo miedo.
+El hecho de ser una de las personas más populares en sufrir esclerosis, presentador de un exitoso programa de radio y autor de varios libros, hacen que se convierta en un espejo para todos los afectados por una enfermedad degenerativa y sin cura, cuyas causas son un enigma y cuya curación es una misión imposible. Nunca supo cuál era su misión en la vida, pero ahora sí: ayudar con sus palabras a quienes han visto sus sueños interrumpidos por la enfermedad.
+
+--------------------------------------------------------
+
+WEB:
+• Toda la información en → https://www.ikerjimenez.com/
+
+REDES SOCIALES:
+• Iker Jiménez en Twitter → https://twitter.com/navedelmisterio
+• Iker Jiménez en Instagram → https://www.instagram.com/navedelmisterio_
+• Carmen Porter en Twitter → https://twitter.com/carmenporter_
+• La nave del misterio en Facebook → https://www.facebook.com/navedelmisterio
+
+OTROS CANALES EN YOUTUBE:
+• Con C de Carmen → https://www.youtube.com/c/ElvideoblogdeCarmenPorter
+• Retrofútbol de Iker → https://www.youtube.com/c/retrofutboldeiker]]></description>
+      <guid isPermaLink="false">com.audiosack.guid.KUBBAFXIhRQ</guid>
+      <enclosure url="http://oops.hopto.org:9090/static/media/KUBBAFXIhRQ.m4a" length="158162041" type="audio/x-m4a"/>
+      <itunes:duration>02:42:53</itunes:duration>
+      <pubDate>Mon, 31 May 2021 07:37:43 +0000</pubDate>
+      <itunes:image href="http://i.ytimg.com/vi/KUBBAFXIhRQ/default.jpg"/>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:order>0</itunes:order>
+      <itunes:subtitle>Algo iba mal. Bruno Cardeñosa empezó a sentir molestias hace más de cinco años mientras presentaba su programa de radio. Dolores, inestabilidad, mareos… ¿Qué estaba pasando? En ese momento empezó una odisea. Fueron 17 pruebas. Todas salieron bien, pero en la última los médicos detectaron una serie de heridas en su cerebro. La confirmación llegó poco después: era esclerosis múltiple.
+De la noche a la mañana el mundo se le vino abajo y todos sus planes, sueños y deseos se paralizaron, pero entonces comenzó una lucha y una convivencia con la enfermedad, que le ha llevado a no bajarse nunca del tren de la vida.
+Aunque sabe que él no es ejemplo de nada, espera que este libro se convierta en guía y esperanza para los que atraviesan su mismo miedo.
+El hecho de ser una de las personas más populares en sufrir esclerosis, presentador de un exitoso programa de radio y autor de varios libros, hacen que se convierta en un espejo para todos los afectados por una enfermedad degenerativa y sin cura, cuyas causas son un enigma y cuya curación es una misión imposible. Nunca supo cuál era su misión en la vida, pero ahora sí: ayudar con sus palabras a quienes han visto sus sueños interrumpidos por la enfermedad.
+
+--------------------------------------------------------
+
+WEB:
+• Toda la información en → https://www.ikerjimenez.com/
+
+REDES SOCIALES:
+• Iker Jiménez en Twitter → https://twitter.com/navedelmisterio
+• Iker Jiménez en Instagram → https://www.instagram.com/navedelmisterio_
+• Carmen Porter en Twitter → https://twitter.com/carmenporter_
+• La nave del misterio en Facebook → https://www.facebook.com/navedelmisterio
+
+OTROS CANALES EN YOUTUBE:
+• Con C de Carmen → https://www.youtube.com/c/ElvideoblogdeCarmenPorter
+• Retrofútbol de Iker → https://www.youtube.com/c/retrofutboldeiker</itunes:subtitle>
+    </item>
     <item>
       <title>31.- Curso Flask - Helpers</title>
       <description><![CDATA[⚡️Únete a Premium (+100 cursos) aquí:
@@ -98,7 +146,7 @@ Escríbeme a alejandroruibal arroba gmail.com y cuéntame porqué te gustaría p
       <guid isPermaLink="false">com.audiosack.guid._3i_qXVYMBg</guid>
       <enclosure url="http://192.168.1.37:5000/static/media/_3i_qXVYMBg.m4a" length="4755791" type="audio/x-m4a"/>
       <itunes:duration>04:59</itunes:duration>
-      <pubDate>Mon, 31 May 2021 07:37:06 +0000</pubDate>
+      <pubDate>Mon, 31 May 2021 07:37:43 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/_3i_qXVYMBg/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -206,7 +254,7 @@ Facebook: https://www.facebook.com/james.mcoding]]></description>
       <guid isPermaLink="false">com.audiosack.guid.HtvOsPY17qc</guid>
       <enclosure url="http://192.168.1.37:5000/static/media/HtvOsPY17qc.m4a" length="2823652" type="audio/x-m4a"/>
       <itunes:duration>02:54</itunes:duration>
-      <pubDate>Mon, 31 May 2021 07:37:06 +0000</pubDate>
+      <pubDate>Mon, 31 May 2021 07:37:43 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/HtvOsPY17qc/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -247,7 +295,7 @@ http://www.nathanhulls.com]]></description>
       <guid isPermaLink="false">com.audiosack.guid.-z4NS2zdrZc</guid>
       <enclosure url="http://192.168.1.37:5000/static/media/-z4NS2zdrZc.m4a" length="989115" type="audio/x-m4a"/>
       <itunes:duration>01:01</itunes:duration>
-      <pubDate>Mon, 31 May 2021 07:37:06 +0000</pubDate>
+      <pubDate>Mon, 31 May 2021 07:37:43 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/-z4NS2zdrZc/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
