@@ -8,10 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator> </generator>
     <language>es-ES</language>
-    <lastBuildDate>Tue, 01 Jun 2021 16:25:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jun 2021 16:28:26 +0000</lastBuildDate>
     <itunes:author>oliver</itunes:author>
     <managingEditor>oliver.barreto.online@gmail.com (oliver)</managingEditor>
-    <pubDate>Tue, 01 Jun 2021 16:25:56 +0000</pubDate>
+    <pubDate>Tue, 01 Jun 2021 16:28:26 +0000</pubDate>
     <itunes:category text="News"/>
     <itunes:image href="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png"/>
     <itunes:owner>
@@ -19,6 +19,30 @@
       <itunes:email>oliver.barreto.online@gmail.com</itunes:email>
     </itunes:owner>
     <atom:link href="https://raw.githubusercontent.com/oliverbarreto/PersonalPodcast/main/oliver_feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Apple Steve Jobs Heres To The Crazy Ones</title>
+      <description><![CDATA[http://www.NathanHulls.com
+
+Steve Jobs narrates the first of Apples &#x27;Think Different&#x27; commercial &quot;Here&#x27;s to the Crazy Ones&quot;. It never aired. Richard Dreyfuss did the voice over for the original spot that aired.
+
+&quot;The ones who are crazy enough to think that they can change the world, are the ones who do&quot;
+
+http://www.nathanhulls.com]]></description>
+      <guid isPermaLink="false">com.audiosack.guid.-z4NS2zdrZc</guid>
+      <enclosure url="http://oops.hopto.org:9090/static/media/-z4NS2zdrZc.m4a" length="989115" type="audio/x-m4a"/>
+      <itunes:duration>01:01</itunes:duration>
+      <pubDate>Tue, 01 Jun 2021 16:28:26 +0000</pubDate>
+      <itunes:image href="http://i.ytimg.com/vi/-z4NS2zdrZc/default.jpg"/>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:order>0</itunes:order>
+      <itunes:subtitle>http://www.NathanHulls.com
+
+Steve Jobs narrates the first of Apples 'Think Different' commercial "Here's to the Crazy Ones". It never aired. Richard Dreyfuss did the voice over for the original spot that aired.
+
+"The ones who are crazy enough to think that they can change the world, are the ones who do"
+
+http://www.nathanhulls.com</itunes:subtitle>
+    </item>
     <item>
       <title>CS50 Lecture by Mark Zuckerberg - 7 December 2005</title>
       <description><![CDATA[On 7 December 2005, Mark Zuckerberg joined CS50 for a guest lecture about Facebook and computer science. With Professor Michael D. Smith. Shared with permission.
@@ -82,7 +106,7 @@ malan@harvard.edu]]></description>
       <guid isPermaLink="false">com.audiosack.guid.xFFs9UgOAlE</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/xFFs9UgOAlE.m4a" length="47937502" type="audio/x-m4a"/>
       <itunes:duration>01:05:34</itunes:duration>
-      <pubDate>Tue, 01 Jun 2021 16:25:56 +0000</pubDate>
+      <pubDate>Tue, 01 Jun 2021 16:28:26 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/xFFs9UgOAlE/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -209,7 +233,7 @@ Thanks for watching, see you next video!]]></description>
       <guid isPermaLink="false">com.audiosack.guid.gMU09gfdbfc</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/gMU09gfdbfc.m4a" length="5910747" type="audio/x-m4a"/>
       <itunes:duration>06:05</itunes:duration>
-      <pubDate>Tue, 01 Jun 2021 16:25:56 +0000</pubDate>
+      <pubDate>Tue, 01 Jun 2021 16:28:26 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/gMU09gfdbfc/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
