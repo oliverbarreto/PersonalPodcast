@@ -8,10 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator> </generator>
     <language>es-ES</language>
-    <lastBuildDate>Tue, 01 Jun 2021 09:54:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jun 2021 09:54:34 +0000</lastBuildDate>
     <itunes:author>oliver</itunes:author>
     <managingEditor>oliver.barreto.online@gmail.com (oliver)</managingEditor>
-    <pubDate>Tue, 01 Jun 2021 09:54:21 +0000</pubDate>
+    <pubDate>Tue, 01 Jun 2021 09:54:34 +0000</pubDate>
     <itunes:category text="News"/>
     <itunes:image href="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png"/>
     <itunes:owner>
@@ -48,7 +48,7 @@ Facebook: https://www.facebook.com/james.mcoding]]></description>
       <guid isPermaLink="false">com.audiosack.guid.HtvOsPY17qc</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/HtvOsPY17qc.m4a" length="2823652" type="audio/x-m4a"/>
       <itunes:duration>02:54</itunes:duration>
-      <pubDate>Tue, 01 Jun 2021 09:54:21 +0000</pubDate>
+      <pubDate>Tue, 01 Jun 2021 09:54:34 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/HtvOsPY17qc/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -89,7 +89,7 @@ http://www.nathanhulls.com]]></description>
       <guid isPermaLink="false">com.audiosack.guid.-z4NS2zdrZc</guid>
       <enclosure url="http://192.168.1.37:5000/static/media/-z4NS2zdrZc.m4a" length="989115" type="audio/x-m4a"/>
       <itunes:duration>01:01</itunes:duration>
-      <pubDate>Tue, 01 Jun 2021 09:54:21 +0000</pubDate>
+      <pubDate>Tue, 01 Jun 2021 09:54:34 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/-z4NS2zdrZc/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
