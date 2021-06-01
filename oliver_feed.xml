@@ -8,10 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator> </generator>
     <language>es-ES</language>
-    <lastBuildDate>Tue, 01 Jun 2021 08:38:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jun 2021 09:54:21 +0000</lastBuildDate>
     <itunes:author>oliver</itunes:author>
     <managingEditor>oliver.barreto.online@gmail.com (oliver)</managingEditor>
-    <pubDate>Tue, 01 Jun 2021 08:38:28 +0000</pubDate>
+    <pubDate>Tue, 01 Jun 2021 09:54:21 +0000</pubDate>
     <itunes:category text="News"/>
     <itunes:image href="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png"/>
     <itunes:owner>
@@ -20,366 +20,62 @@
     </itunes:owner>
     <atom:link href="https://raw.githubusercontent.com/oliverbarreto/PersonalPodcast/main/oliver_feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>El valor de la humildad, el esfuerzo y el trabajo, con Toni Nadal.</title>
-      <description><![CDATA[Esta nueva entrega es posible gracias a los colaboradores de Youtube, Patreon e iVoox. Colabora para que pueda continuar en:
+      <title>Introducing mZips! Zip and Zip Longest</title>
+      <description><![CDATA[Sign up on Patreon to get your donor role and early access to videos!
+https://patreon.com/mCoding
 
-https://www.youtube.com/channel/UCb2TOOLwTwgAfJ7OeGyAwVw/join
+Feeling generous but don&#x27;t have a Patreon? Donate via PayPal! (No sign up needed.)
+https://www.paypal.com/donate/?hosted_button_id=VJY5SLZ8BJHEE
 
-https://www.patreon.com/janogarcia
+IN THIS VIDEO...
+---------------------------------------------------
+mZips, or just &quot;Zips&quot; are 3 minute or less mCoding videos for content that just can&#x27;t (or shouldn&#x27;t) be stretched to a normal 7-10 minutes timescale.
 
-https://www.ivoox.com/podcast-en-libertad_sq_f1781509_1.html
+In this mZip, we look at the Python builtin zip function and a related zip_longest function.
 
-https://www.paypal.me/janogarcia
+― mCoding with James Murphy (https://mcoding.io)
 
-Si desean seguirme o adquirir mis libros, aquí tienen toda la información necesaria para ello:
+Source code: https://github.com/mCodingLLC/VideosSampleCode
+Python zip: https://docs.python.org/3/library/functions.html#zip
+Python zip_longest: https://docs.python.org/3/library/itertools.html#itertools.zip_longest
 
-https://www.amazon.es/kindle-dbs/entity/author/B0755PWSXK?_encoding=UTF8&amp;node=831435031&amp;offse
-
-https://m.twitch.tv/janogarcia89
-
-https://www.instagram.com/ellibrepensador
-
-https://twitter.com/janogarcia_
-
-https://www.facebook.com/janogarciaesp]]></description>
-      <guid isPermaLink="false">com.audiosack.guid.lN0bdw5nBcw</guid>
-      <enclosure url="http://oops.hopto.org:9090/static/media/lN0bdw5nBcw.m4a" length="46715104" type="audio/x-m4a"/>
-      <itunes:duration>48:06</itunes:duration>
-      <pubDate>Tue, 01 Jun 2021 08:38:28 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/lN0bdw5nBcw/default.jpg"/>
+BE ACTIVE IN MY COMMUNITY 😄
+---------------------------------------------------
+Discord: https://discord.gg/Ye9yJtZQuN
+Github: https://github.com/mCodingLLC/
+Reddit: https://www.reddit.com/r/mCoding/
+Facebook: https://www.facebook.com/james.mcoding]]></description>
+      <guid isPermaLink="false">com.audiosack.guid.HtvOsPY17qc</guid>
+      <enclosure url="http://oops.hopto.org:9090/static/media/HtvOsPY17qc.m4a" length="2823652" type="audio/x-m4a"/>
+      <itunes:duration>02:54</itunes:duration>
+      <pubDate>Tue, 01 Jun 2021 09:54:21 +0000</pubDate>
+      <itunes:image href="http://i.ytimg.com/vi/HtvOsPY17qc/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
-      <itunes:subtitle>Esta nueva entrega es posible gracias a los colaboradores de Youtube, Patreon e iVoox. Colabora para que pueda continuar en:
+      <itunes:subtitle>Sign up on Patreon to get your donor role and early access to videos!
+https://patreon.com/mCoding
 
-https://www.youtube.com/channel/UCb2TOOLwTwgAfJ7OeGyAwVw/join
+Feeling generous but don't have a Patreon? Donate via PayPal! (No sign up needed.)
+https://www.paypal.com/donate/?hosted_button_id=VJY5SLZ8BJHEE
 
-https://www.patreon.com/janogarcia
+IN THIS VIDEO...
+---------------------------------------------------
+mZips, or just "Zips" are 3 minute or less mCoding videos for content that just can't (or shouldn't) be stretched to a normal 7-10 minutes timescale.
 
-https://www.ivoox.com/podcast-en-libertad_sq_f1781509_1.html
+In this mZip, we look at the Python builtin zip function and a related zip_longest function.
 
-https://www.paypal.me/janogarcia
+― mCoding with James Murphy (https://mcoding.io)
 
-Si desean seguirme o adquirir mis libros, aquí tienen toda la información necesaria para ello:
+Source code: https://github.com/mCodingLLC/VideosSampleCode
+Python zip: https://docs.python.org/3/library/functions.html#zip
+Python zip_longest: https://docs.python.org/3/library/itertools.html#itertools.zip_longest
 
-https://www.amazon.es/kindle-dbs/entity/author/B0755PWSXK?_encoding=UTF8&amp;node=831435031&amp;offse
-
-https://m.twitch.tv/janogarcia89
-
-https://www.instagram.com/ellibrepensador
-
-https://twitter.com/janogarcia_
-
-https://www.facebook.com/janogarciaesp</itunes:subtitle>
-    </item>
-    <item>
-      <title>Spotting and solving everyday problems with machine learning | Session</title>
-      <description><![CDATA[As a developer, when should you use machine learning (ML) and what’s the quickest way to integrate it into your app? In this Session, you learn to spot the most common ML use cases including analyzing multimedia, building smart search, transforming data, and how to quickly build them into your app with user-friendly tools. We use ML to intelligently search through videos and articles, analyze your tennis serve, translate and dub videos, and more using tools like Google Cloud, Firebase, and TensorFlow.
-
-Resources:
-Dale on AI → https://goo.gle/3e0PfuI
-Google Cloud AI → https://goo.gle/3xvTCFM
-
-Speaker: Dale Markowitz
-
-Watch more:
-TensorFlow at Google I/O 2021 Playlist → https://goo.gle/io21-TensorFlow-1
-All Google I/O 2021 Technical Sessions → https://goo.gle/io21-technicalsessions
-All Google I/O 2021 Sessions → https://goo.gle/io21-allsessions
-
-Subscribe to TensorFlow → https://goo.gle/TensorFlow
-
-
- #GoogleIO #Ml/AI #Firebase #Cloud
-
-
-
-product: Firebase - General, TensorFlow - General; event: Google I/O 2021; fullname: Dale Markowitz; re_ty: Premiere;]]></description>
-      <guid isPermaLink="false">com.audiosack.guid._1QtMPuYIVw</guid>
-      <enclosure url="http://oops.hopto.org:9090/static/media/_1QtMPuYIVw.m4a" length="12337518" type="audio/x-m4a"/>
-      <itunes:duration>12:42</itunes:duration>
-      <pubDate>Tue, 01 Jun 2021 08:38:28 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/_1QtMPuYIVw/default.jpg"/>
-      <itunes:explicit>No</itunes:explicit>
-      <itunes:order>0</itunes:order>
-      <itunes:subtitle>As a developer, when should you use machine learning (ML) and what’s the quickest way to integrate it into your app? In this Session, you learn to spot the most common ML use cases including analyzing multimedia, building smart search, transforming data, and how to quickly build them into your app with user-friendly tools. We use ML to intelligently search through videos and articles, analyze your tennis serve, translate and dub videos, and more using tools like Google Cloud, Firebase, and TensorFlow.
-
-Resources:
-Dale on AI → https://goo.gle/3e0PfuI
-Google Cloud AI → https://goo.gle/3xvTCFM
-
-Speaker: Dale Markowitz
-
-Watch more:
-TensorFlow at Google I/O 2021 Playlist → https://goo.gle/io21-TensorFlow-1
-All Google I/O 2021 Technical Sessions → https://goo.gle/io21-technicalsessions
-All Google I/O 2021 Sessions → https://goo.gle/io21-allsessions
-
-Subscribe to TensorFlow → https://goo.gle/TensorFlow
-
-
- #GoogleIO #Ml/AI #Firebase #Cloud
-
-
-
-product: Firebase - General, TensorFlow - General; event: Google I/O 2021; fullname: Dale Markowitz; re_ty: Premiere;</itunes:subtitle>
-    </item>
-    <item>
-      <title>M1X Pro &amp; M2 Air Incoming! — Reacting to MASSIVE NEW Mac Leak Bombs!</title>
-      <description><![CDATA[🔥 NO ADS and bonus content — CuriosityStream &amp; Nebula for less than $15 a YEAR! https://curiositystream.com/reneritchie/
-
-New 14-inch M1X MacBook Pro. New 16-inch M1X MacBook Pro.  New M1X Mac mini Pro. New M1X iMac Pro. New M2 MacBook Air. New M2 MacBook Pro So. Many. New. M&amp;M-series Macs.
-
-But also some weird confusion and… some legit concerns. So let&#x27;s do this!
-
-🔔 SUBSCRIBE  https://www.youtube.com/reneritchie?sub_confirmation=1
-
-🖥 New Apple Products for 2021:
-https://www.youtube.com/playlist?list=PL3XJJi5sAjD1NQJsw9AWgBY2dzOWVpNWo
-
-💻 Apple Silicon Macs (M1): 
-https://www.youtube.com/playlist?list=PL3XJJi5sAjD1sCicSKd0irf5TnQ1KJvPm
-
-📱 iPhone 13 Coverage:
-https://www.youtube.com/playlist?list=PL3XJJi5sAjD2Os17f8JOjnAB47AY-Xmx2
-
-🔗 LINKS
-
-Bloomberg:https://www.bloomberg.com/news/articles/2021-05-18/apple-readies-macbook-pro-macbook-air-revamps-with-faster-chips
-
-Hoodie: Easiest is livestreamingpros.com/store
-
-🙏  PATREON THANK YOU!
-
-Get access to exclusive Discord, previews, even your name in this description or credits! https://www.patreon.com/reneritchie 
-
-Jacob Uribe, John Malkin, Ryan Parman, Roy Burns, Henk van Ess, Paco Arango, Rich Stakounis, Chad Potts, Daniel Pinto, Rod Gray, Daniel Z Wilkerson, Daniel Pasco, Jeffrey David Marraccini, Steven Kaplan, Mark Lussier, Martin Perry, Christopher Wiggins, Dude, Jon Wheeler, Josef, Frederick Lakes Jr., Steven Perry, Michael Dreves, Sam Fingold, Sven Jasper, Kyle Giglio
-
-🍎🎙 APPLE TALK PODCAST
-
-Apple: https://podcasts.apple.com/ca/podcast/apple-talk/id1532933019?i=1000492160142
-
-RSS: https://rss.art19.com/apple-talk
-YouTube: https://www.youtube.com/channel/UCrunioydAXI6z5yuJIHk-0Q/
-
-NEBULA subscribers get a bonus topic each week:
-
-Audio: https://watchnebula.com/apple-talk-podcast
-Video: https://watchnebula.com/apple-talk
-
-DISCLAIMER
-
-This channel does not produce sponsored or paid reviews. Companies occasionally make sample products available to facilitate reviews but provide no payment and get no editorial input, content approval, or advanced previews of the reviews. They see them for the first time when you do. 
-
-Links may contain referrals for affiliate programs that provide this channel with a tiny commission should you make a purchase. They likewise receive zero editorial input or consideration.
-
-📷 Some video and imagery supplied by Getty Images
-🎸 Some music supplied by Epidemic
-
-MORE
-
-⭐️ Nebula: https://watchnebula.com/reneritchie
-🐦 Twitter: https://twitter.com/reneritchie
-📸 Instagram: https://instagram.com/reneritchie
-🌎 Web: https://www.reneritchie.net
-🍎 Podcasts: http://apple.co/reneritchie
-🌥 Overcast: https://overcast.fm/p1644160-NUVafv
-👖 Pocket Cast: https://pca.st/reneritchie
-
-Thanks for watching, see you next video!]]></description>
-      <guid isPermaLink="false">com.audiosack.guid.IkbRZLxn_-4</guid>
-      <enclosure url="http://oops.hopto.org:9090/static/media/IkbRZLxn_-4.m4a" length="11013635" type="audio/x-m4a"/>
-      <itunes:duration>11:20</itunes:duration>
-      <pubDate>Tue, 01 Jun 2021 08:38:28 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/IkbRZLxn_-4/default.jpg"/>
-      <itunes:explicit>No</itunes:explicit>
-      <itunes:order>0</itunes:order>
-      <itunes:subtitle>🔥 NO ADS and bonus content — CuriosityStream &amp; Nebula for less than $15 a YEAR! https://curiositystream.com/reneritchie/
-
-New 14-inch M1X MacBook Pro. New 16-inch M1X MacBook Pro.  New M1X Mac mini Pro. New M1X iMac Pro. New M2 MacBook Air. New M2 MacBook Pro So. Many. New. M&amp;M-series Macs.
-
-But also some weird confusion and… some legit concerns. So let's do this!
-
-🔔 SUBSCRIBE  https://www.youtube.com/reneritchie?sub_confirmation=1
-
-🖥 New Apple Products for 2021:
-https://www.youtube.com/playlist?list=PL3XJJi5sAjD1NQJsw9AWgBY2dzOWVpNWo
-
-💻 Apple Silicon Macs (M1): 
-https://www.youtube.com/playlist?list=PL3XJJi5sAjD1sCicSKd0irf5TnQ1KJvPm
-
-📱 iPhone 13 Coverage:
-https://www.youtube.com/playlist?list=PL3XJJi5sAjD2Os17f8JOjnAB47AY-Xmx2
-
-🔗 LINKS
-
-Bloomberg:https://www.bloomberg.com/news/articles/2021-05-18/apple-readies-macbook-pro-macbook-air-revamps-with-faster-chips
-
-Hoodie: Easiest is livestreamingpros.com/store
-
-🙏  PATREON THANK YOU!
-
-Get access to exclusive Discord, previews, even your name in this description or credits! https://www.patreon.com/reneritchie 
-
-Jacob Uribe, John Malkin, Ryan Parman, Roy Burns, Henk van Ess, Paco Arango, Rich Stakounis, Chad Potts, Daniel Pinto, Rod Gray, Daniel Z Wilkerson, Daniel Pasco, Jeffrey David Marraccini, Steven Kaplan, Mark Lussier, Martin Perry, Christopher Wiggins, Dude, Jon Wheeler, Josef, Frederick Lakes Jr., Steven Perry, Michael Dreves, Sam Fingold, Sven Jasper, Kyle Giglio
-
-🍎🎙 APPLE TALK PODCAST
-
-Apple: https://podcasts.apple.com/ca/podcast/apple-talk/id1532933019?i=1000492160142
-
-RSS: https://rss.art19.com/apple-talk
-YouTube: https://www.youtube.com/channel/UCrunioydAXI6z5yuJIHk-0Q/
-
-NEBULA subscribers get a bonus topic each week:
-
-Audio: https://watchnebula.com/apple-talk-podcast
-Video: https://watchnebula.com/apple-talk
-
-DISCLAIMER
-
-This channel does not produce sponsored or paid reviews. Companies occasionally make sample products available to facilitate reviews but provide no payment and get no editorial input, content approval, or advanced previews of the reviews. They see them for the first time when you do. 
-
-Links may contain referrals for affiliate programs that provide this channel with a tiny commission should you make a purchase. They likewise receive zero editorial input or consideration.
-
-📷 Some video and imagery supplied by Getty Images
-🎸 Some music supplied by Epidemic
-
-MORE
-
-⭐️ Nebula: https://watchnebula.com/reneritchie
-🐦 Twitter: https://twitter.com/reneritchie
-📸 Instagram: https://instagram.com/reneritchie
-🌎 Web: https://www.reneritchie.net
-🍎 Podcasts: http://apple.co/reneritchie
-🌥 Overcast: https://overcast.fm/p1644160-NUVafv
-👖 Pocket Cast: https://pca.st/reneritchie
-
-Thanks for watching, see you next video!</itunes:subtitle>
-    </item>
-    <item>
-      <title>CS50 Lecture by Mark Zuckerberg - 7 December 2005</title>
-      <description><![CDATA[On 7 December 2005, Mark Zuckerberg joined CS50 for a guest lecture about Facebook and computer science. With Professor Michael D. Smith. Shared with permission.
-
-***
-
-HOW TO SUBSCRIBE
-
-http://www.youtube.com/subscription_center?add_user=cs50tv
-
-HOW TO TAKE CS50
-
-edX: https://cs50.edx.org/
-Harvard Extension School: https://cs50.harvard.edu/extension
-Harvard Summer School: https://cs50.harvard.edu/summer
-OpenCourseWare: https://cs50.harvard.edu/x
-
-HOW TO JOIN CS50 COMMUNITIES
-
-Discord: https://discord.gg/T8QZqRx
-Ed: https://cs50.harvard.edu/x/ed
-Facebook Group: https://www.facebook.com/groups/cs50/
-Faceboook Page: https://www.facebook.com/cs50/
-GitHub: https://github.com/cs50
-Gitter: https://gitter.im/cs50/x
-Instagram: https://instagram.com/cs50
-LinkedIn Group: https://www.linkedin.com/groups/7437240/
-LinkedIn Page: https://www.linkedin.com/school/cs50/
-Quora: https://www.quora.com/topic/CS50
-Slack: https://cs50.edx.org/slack
-Snapchat: https://www.snapchat.com/add/cs50
-Twitter: https://twitter.com/cs50
-YouTube: http://www.youtube.com/cs50
-
-HOW TO FOLLOW DAVID J. MALAN
-
-Facebook: https://www.facebook.com/dmalan
-GitHub: https://github.com/dmalan
-Instagram: https://www.instagram.com/davidjmalan/
-LinkedIn: https://www.linkedin.com/in/malan/
-Quora: https://www.quora.com/profile/David-J-Malan
-Twitter: https://twitter.com/davidjmalan
-
-***
-
-CS50 SHOP
-
-https://cs50.harvardshop.com/
-
-***
-
-LICENSE
-
-CC BY-NC-SA 4.0
-Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License
-https://creativecommons.org/licenses/by-nc-sa/4.0/
-
-David J. Malan
-https://cs.harvard.edu/malan
-malan@harvard.edu]]></description>
-      <guid isPermaLink="false">com.audiosack.guid.xFFs9UgOAlE</guid>
-      <enclosure url="http://oops.hopto.org:9090/static/media/xFFs9UgOAlE.m4a" length="47937502" type="audio/x-m4a"/>
-      <itunes:duration>01:05:34</itunes:duration>
-      <pubDate>Tue, 01 Jun 2021 08:38:28 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/xFFs9UgOAlE/default.jpg"/>
-      <itunes:explicit>No</itunes:explicit>
-      <itunes:order>0</itunes:order>
-      <itunes:subtitle>On 7 December 2005, Mark Zuckerberg joined CS50 for a guest lecture about Facebook and computer science. With Professor Michael D. Smith. Shared with permission.
-
-***
-
-HOW TO SUBSCRIBE
-
-http://www.youtube.com/subscription_center?add_user=cs50tv
-
-HOW TO TAKE CS50
-
-edX: https://cs50.edx.org/
-Harvard Extension School: https://cs50.harvard.edu/extension
-Harvard Summer School: https://cs50.harvard.edu/summer
-OpenCourseWare: https://cs50.harvard.edu/x
-
-HOW TO JOIN CS50 COMMUNITIES
-
-Discord: https://discord.gg/T8QZqRx
-Ed: https://cs50.harvard.edu/x/ed
-Facebook Group: https://www.facebook.com/groups/cs50/
-Faceboook Page: https://www.facebook.com/cs50/
-GitHub: https://github.com/cs50
-Gitter: https://gitter.im/cs50/x
-Instagram: https://instagram.com/cs50
-LinkedIn Group: https://www.linkedin.com/groups/7437240/
-LinkedIn Page: https://www.linkedin.com/school/cs50/
-Quora: https://www.quora.com/topic/CS50
-Slack: https://cs50.edx.org/slack
-Snapchat: https://www.snapchat.com/add/cs50
-Twitter: https://twitter.com/cs50
-YouTube: http://www.youtube.com/cs50
-
-HOW TO FOLLOW DAVID J. MALAN
-
-Facebook: https://www.facebook.com/dmalan
-GitHub: https://github.com/dmalan
-Instagram: https://www.instagram.com/davidjmalan/
-LinkedIn: https://www.linkedin.com/in/malan/
-Quora: https://www.quora.com/profile/David-J-Malan
-Twitter: https://twitter.com/davidjmalan
-
-***
-
-CS50 SHOP
-
-https://cs50.harvardshop.com/
-
-***
-
-LICENSE
-
-CC BY-NC-SA 4.0
-Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License
-https://creativecommons.org/licenses/by-nc-sa/4.0/
-
-David J. Malan
-https://cs.harvard.edu/malan
-malan@harvard.edu</itunes:subtitle>
+BE ACTIVE IN MY COMMUNITY 😄
+---------------------------------------------------
+Discord: https://discord.gg/Ye9yJtZQuN
+Github: https://github.com/mCodingLLC/
+Reddit: https://www.reddit.com/r/mCoding/
+Facebook: https://www.facebook.com/james.mcoding</itunes:subtitle>
     </item>
     <item>
       <title>Apple Steve Jobs Heres To The Crazy Ones</title>
@@ -391,9 +87,9 @@ Steve Jobs narrates the first of Apples &#x27;Think Different&#x27; commercial &
 
 http://www.nathanhulls.com]]></description>
       <guid isPermaLink="false">com.audiosack.guid.-z4NS2zdrZc</guid>
-      <enclosure url="http://oops.hopto.org:9090/static/media/-z4NS2zdrZc.m4a" length="989115" type="audio/x-m4a"/>
+      <enclosure url="http://192.168.1.37:5000/static/media/-z4NS2zdrZc.m4a" length="989115" type="audio/x-m4a"/>
       <itunes:duration>01:01</itunes:duration>
-      <pubDate>Tue, 01 Jun 2021 08:38:28 +0000</pubDate>
+      <pubDate>Tue, 01 Jun 2021 09:54:21 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/-z4NS2zdrZc/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
