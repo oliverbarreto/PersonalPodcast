@@ -8,10 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator> </generator>
     <language>es-ES</language>
-    <lastBuildDate>Tue, 01 Jun 2021 19:56:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Jun 2021 04:52:40 +0000</lastBuildDate>
     <itunes:author>oliver</itunes:author>
     <managingEditor>oliver.barreto.online@gmail.com (oliver)</managingEditor>
-    <pubDate>Tue, 01 Jun 2021 19:56:05 +0000</pubDate>
+    <pubDate>Wed, 02 Jun 2021 04:52:40 +0000</pubDate>
     <itunes:category text="News"/>
     <itunes:image href="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png"/>
     <itunes:owner>
@@ -35,7 +35,7 @@ Twitter: https://twitter.com/joeyschweitz]]></description>
       <guid isPermaLink="false">com.audiosack.guid.Rim2rXIbVoA</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/Rim2rXIbVoA.m4a" length="19433552" type="audio/x-m4a"/>
       <itunes:duration>20:01</itunes:duration>
-      <pubDate>Tue, 01 Jun 2021 19:56:05 +0000</pubDate>
+      <pubDate>Wed, 02 Jun 2021 04:52:40 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/Rim2rXIbVoA/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -77,7 +77,7 @@ https://www.facebook.com/janogarciaesp]]></description>
       <guid isPermaLink="false">com.audiosack.guid.lN0bdw5nBcw</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/lN0bdw5nBcw.m4a" length="46715104" type="audio/x-m4a"/>
       <itunes:duration>48:06</itunes:duration>
-      <pubDate>Tue, 01 Jun 2021 19:56:05 +0000</pubDate>
+      <pubDate>Wed, 02 Jun 2021 04:52:40 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/lN0bdw5nBcw/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -115,7 +115,7 @@ http://www.nathanhulls.com]]></description>
       <guid isPermaLink="false">com.audiosack.guid.-z4NS2zdrZc</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/-z4NS2zdrZc.m4a" length="989115" type="audio/x-m4a"/>
       <itunes:duration>01:01</itunes:duration>
-      <pubDate>Tue, 01 Jun 2021 19:56:05 +0000</pubDate>
+      <pubDate>Wed, 02 Jun 2021 04:52:40 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/-z4NS2zdrZc/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -190,7 +190,7 @@ malan@harvard.edu]]></description>
       <guid isPermaLink="false">com.audiosack.guid.xFFs9UgOAlE</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/xFFs9UgOAlE.m4a" length="47937502" type="audio/x-m4a"/>
       <itunes:duration>01:05:34</itunes:duration>
-      <pubDate>Tue, 01 Jun 2021 19:56:05 +0000</pubDate>
+      <pubDate>Wed, 02 Jun 2021 04:52:40 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/xFFs9UgOAlE/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
