@@ -8,10 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator> </generator>
     <language>es-ES</language>
-    <lastBuildDate>Wed, 02 Jun 2021 06:02:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Jun 2021 12:40:10 +0000</lastBuildDate>
     <itunes:author>oliver</itunes:author>
     <managingEditor>oliver.barreto.online@gmail.com (oliver)</managingEditor>
-    <pubDate>Wed, 02 Jun 2021 06:02:00 +0000</pubDate>
+    <pubDate>Thu, 03 Jun 2021 12:40:10 +0000</pubDate>
     <itunes:category text="News"/>
     <itunes:image href="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png"/>
     <itunes:owner>
@@ -19,6 +19,48 @@
       <itunes:email>oliver.barreto.online@gmail.com</itunes:email>
     </itunes:owner>
     <atom:link href="https://raw.githubusercontent.com/oliverbarreto/PersonalPodcast/main/oliver_feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Doja Cat - "Say So" Live | MTV EMA 2020</title>
+      <description><![CDATA[Doja Cat brings an incredible rock rendition of her hit track &#x27;Say So&#x27; at the MTV EMA 2020 in London!
+
+The 2020 MTV EMAs are hosted by Little Mix and feature performances from Jack Harlow, Alicia Keys, Tate McRae, DaBaby, Karol G, David Guetta, Sam Smith, Maluma, Doja Cat, YUNGBLUD, Zara Larsson, Little Mix, Madison Beer, Why Don&#x27;t We, and 24kGoldn.
+
+#MTVEMA2020 #DojaCat
+
+Subscribe to MTV UK for more great videos and exclusives! https://www.youtube.com/c/MTVUK
+
+Get social with MTV @ 
+💋 Twitter: https://twitter.com/MTVUK 
+🍺 Instagram: http://instagram.com/mtvuk 
+💅 Tumblr: http://mtvuk.tumblr.com
+🍿 Facebook: https://www.facebook.com/mtvuk 
+🎷 Official: http://www.mtv.co.uk
+
+MTV UK is your place to watch all your favourites! Live EMAs performances, music artist to follow on MTV Push, latest MTV Movies exclusives and the best from Geordie Shore, Just Tattoo of Us, Teen Mom UK, Ex on The Beach and many many more!]]></description>
+      <guid isPermaLink="false">com.audiosack.guid.PGBeV-Hlqaw</guid>
+      <enclosure url="http://oops.hopto.org:9090/static/media/PGBeV-Hlqaw.m4a" length="4215244" type="audio/x-m4a"/>
+      <itunes:duration>04:20</itunes:duration>
+      <pubDate>Thu, 03 Jun 2021 12:40:10 +0000</pubDate>
+      <itunes:image href="http://i.ytimg.com/vi/PGBeV-Hlqaw/default.jpg"/>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:order>0</itunes:order>
+      <itunes:subtitle>Doja Cat brings an incredible rock rendition of her hit track 'Say So' at the MTV EMA 2020 in London!
+
+The 2020 MTV EMAs are hosted by Little Mix and feature performances from Jack Harlow, Alicia Keys, Tate McRae, DaBaby, Karol G, David Guetta, Sam Smith, Maluma, Doja Cat, YUNGBLUD, Zara Larsson, Little Mix, Madison Beer, Why Don't We, and 24kGoldn.
+
+#MTVEMA2020 #DojaCat
+
+Subscribe to MTV UK for more great videos and exclusives! https://www.youtube.com/c/MTVUK
+
+Get social with MTV @ 
+💋 Twitter: https://twitter.com/MTVUK 
+🍺 Instagram: http://instagram.com/mtvuk 
+💅 Tumblr: http://mtvuk.tumblr.com
+🍿 Facebook: https://www.facebook.com/mtvuk 
+🎷 Official: http://www.mtv.co.uk
+
+MTV UK is your place to watch all your favourites! Live EMAs performances, music artist to follow on MTV Push, latest MTV Movies exclusives and the best from Geordie Shore, Just Tattoo of Us, Teen Mom UK, Ex on The Beach and many many more!</itunes:subtitle>
+    </item>
     <item>
       <title>El valor de la humildad, el esfuerzo y el trabajo, con Toni Nadal.</title>
       <description><![CDATA[Esta nueva entrega es posible gracias a los colaboradores de Youtube, Patreon e iVoox. Colabora para que pueda continuar en:
@@ -45,7 +87,7 @@ https://www.facebook.com/janogarciaesp]]></description>
       <guid isPermaLink="false">com.audiosack.guid.lN0bdw5nBcw</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/lN0bdw5nBcw.m4a" length="46715104" type="audio/x-m4a"/>
       <itunes:duration>48:06</itunes:duration>
-      <pubDate>Wed, 02 Jun 2021 06:02:00 +0000</pubDate>
+      <pubDate>Thu, 03 Jun 2021 12:40:10 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/lN0bdw5nBcw/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -83,7 +125,7 @@ http://www.nathanhulls.com]]></description>
       <guid isPermaLink="false">com.audiosack.guid.-z4NS2zdrZc</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/-z4NS2zdrZc.m4a" length="989115" type="audio/x-m4a"/>
       <itunes:duration>01:01</itunes:duration>
-      <pubDate>Wed, 02 Jun 2021 06:02:00 +0000</pubDate>
+      <pubDate>Thu, 03 Jun 2021 12:40:10 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/-z4NS2zdrZc/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -158,7 +200,7 @@ malan@harvard.edu]]></description>
       <guid isPermaLink="false">com.audiosack.guid.xFFs9UgOAlE</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/xFFs9UgOAlE.m4a" length="47937502" type="audio/x-m4a"/>
       <itunes:duration>01:05:34</itunes:duration>
-      <pubDate>Wed, 02 Jun 2021 06:02:00 +0000</pubDate>
+      <pubDate>Thu, 03 Jun 2021 12:40:10 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/xFFs9UgOAlE/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
