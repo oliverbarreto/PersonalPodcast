@@ -8,10 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator> </generator>
     <language>es-ES</language>
-    <lastBuildDate>Sun, 06 Jun 2021 07:54:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Jun 2021 08:06:48 +0000</lastBuildDate>
     <itunes:author>oliver</itunes:author>
     <managingEditor>oliver.barreto.online@gmail.com (oliver)</managingEditor>
-    <pubDate>Sun, 06 Jun 2021 07:54:58 +0000</pubDate>
+    <pubDate>Sun, 06 Jun 2021 08:06:48 +0000</pubDate>
     <itunes:category text="News"/>
     <itunes:image href="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png"/>
     <itunes:owner>
@@ -19,48 +19,6 @@
       <itunes:email>oliver.barreto.online@gmail.com</itunes:email>
     </itunes:owner>
     <atom:link href="https://raw.githubusercontent.com/oliverbarreto/PersonalPodcast/main/oliver_feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>The Next MacBook</title>
-      <description><![CDATA[Thoughts on the upcoming M1x MacBooks.
-
-Ian Zelbo - https://twitter.com/RendersbyIan
-
-
-If you want to support the channel, consider a Dave2D membership by clicking the “Join” button above!
-
-http://twitter.com/Dave2D
-http://www.instagram.com/Dave2D
-https://discord.gg/Dave2D
-
-Purchases made from store links may give me some money. 
-(It doesn’t cost you extra, so please buy everything)
-Follow me:
-http://twitter.com/Dave2D
-http://www.instagram.com/Dave2D]]></description>
-      <guid isPermaLink="false">com.audiosack.guid.OY2jMXKVhIw</guid>
-      <enclosure url="http://oops.hopto.org:9090/static/media/OY2jMXKVhIw.m4a" length="5768747" type="audio/x-m4a"/>
-      <itunes:duration>05:56</itunes:duration>
-      <pubDate>Sun, 06 Jun 2021 07:54:58 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/OY2jMXKVhIw/default.jpg"/>
-      <itunes:explicit>No</itunes:explicit>
-      <itunes:order>0</itunes:order>
-      <itunes:subtitle>Thoughts on the upcoming M1x MacBooks.
-
-Ian Zelbo - https://twitter.com/RendersbyIan
-
-
-If you want to support the channel, consider a Dave2D membership by clicking the “Join” button above!
-
-http://twitter.com/Dave2D
-http://www.instagram.com/Dave2D
-https://discord.gg/Dave2D
-
-Purchases made from store links may give me some money. 
-(It doesn’t cost you extra, so please buy everything)
-Follow me:
-http://twitter.com/Dave2D
-http://www.instagram.com/Dave2D</itunes:subtitle>
-    </item>
     <item>
       <title>Top 5 Mods Full Week! in Whitty, Hex, Tricky, Miku &amp; Sarvente - Friday Night Funkin Mod #1</title>
       <description><![CDATA[This mod is cool, Excellent Full Week... Whitty, Hex, Tricky, Hatsune Miku &amp; Sarvente become Boss?
@@ -110,7 +68,7 @@ https://gamebanana.com/gamefiles/17646
       <guid isPermaLink="false">com.audiosack.guid.1jg5zhiO3dw</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/1jg5zhiO3dw.m4a" length="44654036" type="audio/x-m4a"/>
       <itunes:duration>45:59</itunes:duration>
-      <pubDate>Sun, 06 Jun 2021 07:54:58 +0000</pubDate>
+      <pubDate>Sun, 06 Jun 2021 08:06:48 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/1jg5zhiO3dw/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -180,7 +138,7 @@ MTV UK is your place to watch all your favourites! Live EMAs performances, music
       <guid isPermaLink="false">com.audiosack.guid.PGBeV-Hlqaw</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/PGBeV-Hlqaw.m4a" length="4215244" type="audio/x-m4a"/>
       <itunes:duration>04:20</itunes:duration>
-      <pubDate>Sun, 06 Jun 2021 07:54:58 +0000</pubDate>
+      <pubDate>Sun, 06 Jun 2021 08:06:48 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/PGBeV-Hlqaw/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -227,7 +185,7 @@ https://www.facebook.com/janogarciaesp]]></description>
       <guid isPermaLink="false">com.audiosack.guid.lN0bdw5nBcw</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/lN0bdw5nBcw.m4a" length="46715104" type="audio/x-m4a"/>
       <itunes:duration>48:06</itunes:duration>
-      <pubDate>Sun, 06 Jun 2021 07:54:58 +0000</pubDate>
+      <pubDate>Sun, 06 Jun 2021 08:06:48 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/lN0bdw5nBcw/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -265,7 +223,7 @@ http://www.nathanhulls.com]]></description>
       <guid isPermaLink="false">com.audiosack.guid.-z4NS2zdrZc</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/-z4NS2zdrZc.m4a" length="989115" type="audio/x-m4a"/>
       <itunes:duration>01:01</itunes:duration>
-      <pubDate>Sun, 06 Jun 2021 07:54:58 +0000</pubDate>
+      <pubDate>Sun, 06 Jun 2021 08:06:48 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/-z4NS2zdrZc/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -340,7 +298,7 @@ malan@harvard.edu]]></description>
       <guid isPermaLink="false">com.audiosack.guid.xFFs9UgOAlE</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/xFFs9UgOAlE.m4a" length="47937502" type="audio/x-m4a"/>
       <itunes:duration>01:05:34</itunes:duration>
-      <pubDate>Sun, 06 Jun 2021 07:54:58 +0000</pubDate>
+      <pubDate>Sun, 06 Jun 2021 08:06:48 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/xFFs9UgOAlE/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
