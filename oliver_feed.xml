@@ -8,10 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator> </generator>
     <language>es-ES</language>
-    <lastBuildDate>Tue, 08 Jun 2021 07:13:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Jun 2021 07:13:57 +0000</lastBuildDate>
     <itunes:author>oliver</itunes:author>
     <managingEditor>oliver.barreto.online@gmail.com (oliver)</managingEditor>
-    <pubDate>Tue, 08 Jun 2021 07:13:35 +0000</pubDate>
+    <pubDate>Tue, 08 Jun 2021 07:13:57 +0000</pubDate>
     <itunes:category text="News"/>
     <itunes:image href="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png"/>
     <itunes:owner>
@@ -20,6 +20,50 @@
     </itunes:owner>
     <atom:link href="https://raw.githubusercontent.com/oliverbarreto/PersonalPodcast/main/oliver_feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>macOS Monterey Hands on First Look!!</title>
+      <description><![CDATA[WWDC 2021 may not have brought the Macs that were long rumored, but it did bring some very interesting new software features to macOS, iOS, and iPadOS with the release of macOS Monterey, iOS 15, and iPadOS. In this hands on first look review of macOS Monterey we&#x27;ll look at the features including new safari, shortcuts, new Maps, and Universal Control, as well as Spatial Audio and Quick Notes updates!
+
+Follow me on Twitter: https://twitter.com/LukeMiani
+
+Follow me on Twitch: https://www.twitch.tv/lukemiani
+
+Join my Subreddit! https://www.reddit.com/r/lukemianiyoutube
+
+Gear: 
+iFixit Pro Toolkit: https://amzn.to/3bYIzdM
+Panasonic Lumix GH5: https://amzn.to/3b3oMtj
+Leica 12-60MM Lens: https://amzn.to/3hQ5URf
+Sennheiser MKH 416: https://amzn.to/31zGwt2 
+Zoom H6: https://amzn.to/2ECYSk6
+Sennheiser MKE 440: https://amzn.to/2JRwIRU
+Edelkrone SliderOne V2: https://amzn.to/33mTZmt
+*Amazon Links are affiliate codes and generate small commission to support the channel*]]></description>
+      <guid isPermaLink="false">com.audiosack.guid.lAvxrTkNfXc</guid>
+      <enclosure url="http://oops.hopto.org:9090/static/media/lAvxrTkNfXc.m4a" length="12392529" type="audio/x-m4a"/>
+      <itunes:duration>12:46</itunes:duration>
+      <pubDate>Tue, 08 Jun 2021 07:13:57 +0000</pubDate>
+      <itunes:image href="http://i.ytimg.com/vi/lAvxrTkNfXc/default.jpg"/>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:order>0</itunes:order>
+      <itunes:subtitle>WWDC 2021 may not have brought the Macs that were long rumored, but it did bring some very interesting new software features to macOS, iOS, and iPadOS with the release of macOS Monterey, iOS 15, and iPadOS. In this hands on first look review of macOS Monterey we'll look at the features including new safari, shortcuts, new Maps, and Universal Control, as well as Spatial Audio and Quick Notes updates!
+
+Follow me on Twitter: https://twitter.com/LukeMiani
+
+Follow me on Twitch: https://www.twitch.tv/lukemiani
+
+Join my Subreddit! https://www.reddit.com/r/lukemianiyoutube
+
+Gear: 
+iFixit Pro Toolkit: https://amzn.to/3bYIzdM
+Panasonic Lumix GH5: https://amzn.to/3b3oMtj
+Leica 12-60MM Lens: https://amzn.to/3hQ5URf
+Sennheiser MKH 416: https://amzn.to/31zGwt2 
+Zoom H6: https://amzn.to/2ECYSk6
+Sennheiser MKE 440: https://amzn.to/2JRwIRU
+Edelkrone SliderOne V2: https://amzn.to/33mTZmt
+*Amazon Links are affiliate codes and generate small commission to support the channel*</itunes:subtitle>
+    </item>
+    <item>
       <title>WWDC Event Recap</title>
       <description><![CDATA[What happened at WWDC’s keynote today? Well, let’s discuss.
 
@@ -27,7 +71,7 @@ Powered by Restream https://restream.io/]]></description>
       <guid isPermaLink="false">com.audiosack.guid.RZXFQI7zt5k</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/RZXFQI7zt5k.m4a" length="88969159" type="audio/x-m4a"/>
       <itunes:duration>01:31:37</itunes:duration>
-      <pubDate>Tue, 08 Jun 2021 07:13:35 +0000</pubDate>
+      <pubDate>Tue, 08 Jun 2021 07:13:57 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/RZXFQI7zt5k/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -80,7 +124,7 @@ PRIVACY POLICY and FULL DISCLOSURE:
       <guid isPermaLink="false">com.audiosack.guid._6cCVzrzgPI</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/_6cCVzrzgPI.m4a" length="10104630" type="audio/x-m4a"/>
       <itunes:duration>10:24</itunes:duration>
-      <pubDate>Tue, 08 Jun 2021 07:13:35 +0000</pubDate>
+      <pubDate>Tue, 08 Jun 2021 07:13:57 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/_6cCVzrzgPI/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -156,7 +200,7 @@ OTROS CANALES EN YOUTUBE:
       <guid isPermaLink="false">com.audiosack.guid.HiPOAn_DVm4</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/HiPOAn_DVm4.m4a" length="135632160" type="audio/x-m4a"/>
       <itunes:duration>02:19:41</itunes:duration>
-      <pubDate>Tue, 08 Jun 2021 07:13:35 +0000</pubDate>
+      <pubDate>Tue, 08 Jun 2021 07:13:57 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/HiPOAn_DVm4/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -255,7 +299,7 @@ Thanks for watching, see you next video!]]></description>
       <guid isPermaLink="false">com.audiosack.guid.u8SvkK7GrHY</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/u8SvkK7GrHY.m4a" length="9851977" type="audio/x-m4a"/>
       <itunes:duration>10:09</itunes:duration>
-      <pubDate>Tue, 08 Jun 2021 07:13:35 +0000</pubDate>
+      <pubDate>Tue, 08 Jun 2021 07:13:57 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/u8SvkK7GrHY/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -372,7 +416,7 @@ https://gamebanana.com/gamefiles/17646
       <guid isPermaLink="false">com.audiosack.guid.1jg5zhiO3dw</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/1jg5zhiO3dw.m4a" length="44654036" type="audio/x-m4a"/>
       <itunes:duration>45:59</itunes:duration>
-      <pubDate>Tue, 08 Jun 2021 07:13:35 +0000</pubDate>
+      <pubDate>Tue, 08 Jun 2021 07:13:57 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/1jg5zhiO3dw/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -442,7 +486,7 @@ MTV UK is your place to watch all your favourites! Live EMAs performances, music
       <guid isPermaLink="false">com.audiosack.guid.PGBeV-Hlqaw</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/PGBeV-Hlqaw.m4a" length="4215244" type="audio/x-m4a"/>
       <itunes:duration>04:20</itunes:duration>
-      <pubDate>Tue, 08 Jun 2021 07:13:35 +0000</pubDate>
+      <pubDate>Tue, 08 Jun 2021 07:13:57 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/PGBeV-Hlqaw/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -489,7 +533,7 @@ https://www.facebook.com/janogarciaesp]]></description>
       <guid isPermaLink="false">com.audiosack.guid.lN0bdw5nBcw</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/lN0bdw5nBcw.m4a" length="46715104" type="audio/x-m4a"/>
       <itunes:duration>48:06</itunes:duration>
-      <pubDate>Tue, 08 Jun 2021 07:13:35 +0000</pubDate>
+      <pubDate>Tue, 08 Jun 2021 07:13:57 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/lN0bdw5nBcw/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -527,7 +571,7 @@ http://www.nathanhulls.com]]></description>
       <guid isPermaLink="false">com.audiosack.guid.-z4NS2zdrZc</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/-z4NS2zdrZc.m4a" length="989115" type="audio/x-m4a"/>
       <itunes:duration>01:01</itunes:duration>
-      <pubDate>Tue, 08 Jun 2021 07:13:35 +0000</pubDate>
+      <pubDate>Tue, 08 Jun 2021 07:13:57 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/-z4NS2zdrZc/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -602,7 +646,7 @@ malan@harvard.edu]]></description>
       <guid isPermaLink="false">com.audiosack.guid.xFFs9UgOAlE</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/xFFs9UgOAlE.m4a" length="47937502" type="audio/x-m4a"/>
       <itunes:duration>01:05:34</itunes:duration>
-      <pubDate>Tue, 08 Jun 2021 07:13:35 +0000</pubDate>
+      <pubDate>Tue, 08 Jun 2021 07:13:57 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/xFFs9UgOAlE/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
