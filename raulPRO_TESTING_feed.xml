@@ -1,1 +1,34 @@
-
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Personal Podcast</title>
+    <link>http://192.168.1.37:5000/raul/publicprofile</link>
+    <description>I publish interesting things !!!</description>
+    <itunes:explicit>yes</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator> </generator>
+    <language>es-ES</language>
+    <lastBuildDate>Wed, 09 Jun 2021 12:56:23 +0000</lastBuildDate>
+    <itunes:author>raulPRO</itunes:author>
+    <managingEditor>raul.barretoacosta@gmail.com (raulPRO)</managingEditor>
+    <pubDate>Wed, 09 Jun 2021 12:56:23 +0000</pubDate>
+    <itunes:category text="News"/>
+    <itunes:image href="/static/channel_logos/raulPRO.png"/>
+    <itunes:owner>
+      <itunes:name>raulPRO</itunes:name>
+      <itunes:email>raul.barretoacosta@gmail.com</itunes:email>
+    </itunes:owner>
+    <atom:link href="https://raw.githubusercontent.com/oliverbarreto/PersonalPodcast/main/raul_feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Fortnite: Capítulo 2 - Temporada 7 | Tráiler narrativo</title>
+      <description><![CDATA[Los alienígenas se han infiltrado en la isla y la Doctora Slone dirige las fuerzas de la Orden Imaginada contra ellos. https://www.fortnite.com]]></description>
+      <guid isPermaLink="false">com.uuebcast.uuid.NlcDN6CgBWA</guid>
+      <enclosure url="http://192.168.1.37:5000/static/media/NlcDN6CgBWA.m4a" length="1620052" type="audio/x-m4a"/>
+      <pubDate>Wed, 09 Jun 2021 12:56:23 +0000</pubDate>
+      <itunes:image href="http://i.ytimg.com/vi/NlcDN6CgBWA/hqdefault.jpg"/>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:order>0</itunes:order>
+      <itunes:subtitle>Los alienígenas se han infiltrado en la isla y la Doctora Slone dirige las fuerzas de la Orden Imaginada contra ellos. https://www.fortnite.com</itunes:subtitle>
+    </item>
+  </channel>
+</rss>
