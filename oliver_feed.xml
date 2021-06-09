@@ -8,10 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator> </generator>
     <language>es-ES</language>
-    <lastBuildDate>Wed, 09 Jun 2021 07:24:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Jun 2021 07:25:01 +0000</lastBuildDate>
     <itunes:author>oliver</itunes:author>
     <managingEditor>oliver.barreto.online@gmail.com (oliver)</managingEditor>
-    <pubDate>Wed, 09 Jun 2021 07:24:21 +0000</pubDate>
+    <pubDate>Wed, 09 Jun 2021 07:25:01 +0000</pubDate>
     <itunes:category text="News"/>
     <itunes:image href="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png"/>
     <itunes:owner>
@@ -19,6 +19,36 @@
       <itunes:email>oliver.barreto.online@gmail.com</itunes:email>
     </itunes:owner>
     <atom:link href="https://raw.githubusercontent.com/oliverbarreto/PersonalPodcast/main/oliver_feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Apple Hid iOS 15 and macOS Monterey Features!</title>
+      <description><![CDATA[In Apple&#x27;s 2021 WWDC keynote, they failed to mention a lot of awesome new features. 
+RAVPower 120W PD GanII Desktop Charging Station
+https://amzn.to/3px2Ei3
+Final price: $79.99 (after the coupon)
+
+Subscribe to my podcast Flashback! - http://relay.fm/flashback
+Follow me on Twitter - http://twitter.com/snazzyq
+Follow me on Instagram - http://instagram.com/snazzyq
+
+WWDC 21 happened yesterday. We got work on the upcoming iOS 15, iPadOS 15, and watchOS 8, as well as the new macOS 12 Monterey. Let&#x27;s dive deep into the keynote&#x27;s announcements, what they may mean, and some of the best features that Apple weirdly left out. I&#x27;m talking about you, our blessed returned love-child the magnifying glass!]]></description>
+      <guid isPermaLink="false">com.audiosack.guid.ub1orZyHraI</guid>
+      <enclosure url="http://oops.hopto.org:9090/static/media/ub1orZyHraI.m4a" length="22906537" type="audio/x-m4a"/>
+      <itunes:duration>23:35</itunes:duration>
+      <pubDate>Wed, 09 Jun 2021 07:25:01 +0000</pubDate>
+      <itunes:image href="http://i.ytimg.com/vi/ub1orZyHraI/default.jpg"/>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:order>0</itunes:order>
+      <itunes:subtitle>In Apple's 2021 WWDC keynote, they failed to mention a lot of awesome new features. 
+RAVPower 120W PD GanII Desktop Charging Station
+https://amzn.to/3px2Ei3
+Final price: $79.99 (after the coupon)
+
+Subscribe to my podcast Flashback! - http://relay.fm/flashback
+Follow me on Twitter - http://twitter.com/snazzyq
+Follow me on Instagram - http://instagram.com/snazzyq
+
+WWDC 21 happened yesterday. We got work on the upcoming iOS 15, iPadOS 15, and watchOS 8, as well as the new macOS 12 Monterey. Let's dive deep into the keynote's announcements, what they may mean, and some of the best features that Apple weirdly left out. I'm talking about you, our blessed returned love-child the magnifying glass!</itunes:subtitle>
+    </item>
     <item>
       <title>"El Bill Gates español" #LaEstirpedelosLibres</title>
       <description><![CDATA[José Luis Domínguez es probablemente el hombre que más contribuyó a la implantación masiva de los ordenadores domésticos en España. Fue el fundador de la empresa Indescomp y el auténtico introductor de la marca Amstrad en nuestro país.
@@ -29,7 +59,7 @@ Desde 1985 hasta 1989 Indescomp publicó, bajo el nombre de Amstrad User, una re
       <guid isPermaLink="false">com.audiosack.guid.9icPvZ8V2YQ</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/9icPvZ8V2YQ.m4a" length="124526131" type="audio/x-m4a"/>
       <itunes:duration>02:08:14</itunes:duration>
-      <pubDate>Wed, 09 Jun 2021 07:24:21 +0000</pubDate>
+      <pubDate>Wed, 09 Jun 2021 07:25:01 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/9icPvZ8V2YQ/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -99,7 +129,7 @@ Thanks for watching, see you next video!]]></description>
       <guid isPermaLink="false">com.audiosack.guid.jmAcw4MuPbk</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/jmAcw4MuPbk.m4a" length="14774125" type="audio/x-m4a"/>
       <itunes:duration>15:13</itunes:duration>
-      <pubDate>Wed, 09 Jun 2021 07:24:21 +0000</pubDate>
+      <pubDate>Wed, 09 Jun 2021 07:25:01 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/jmAcw4MuPbk/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -181,7 +211,7 @@ Edelkrone SliderOne V2: https://amzn.to/33mTZmt
       <guid isPermaLink="false">com.audiosack.guid.lAvxrTkNfXc</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/lAvxrTkNfXc.m4a" length="12392529" type="audio/x-m4a"/>
       <itunes:duration>12:46</itunes:duration>
-      <pubDate>Wed, 09 Jun 2021 07:24:21 +0000</pubDate>
+      <pubDate>Wed, 09 Jun 2021 07:25:01 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/lAvxrTkNfXc/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -211,7 +241,7 @@ Powered by Restream https://restream.io/]]></description>
       <guid isPermaLink="false">com.audiosack.guid.RZXFQI7zt5k</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/RZXFQI7zt5k.m4a" length="88969159" type="audio/x-m4a"/>
       <itunes:duration>01:31:37</itunes:duration>
-      <pubDate>Wed, 09 Jun 2021 07:24:21 +0000</pubDate>
+      <pubDate>Wed, 09 Jun 2021 07:25:01 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/RZXFQI7zt5k/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -264,7 +294,7 @@ PRIVACY POLICY and FULL DISCLOSURE:
       <guid isPermaLink="false">com.audiosack.guid._6cCVzrzgPI</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/_6cCVzrzgPI.m4a" length="10104630" type="audio/x-m4a"/>
       <itunes:duration>10:24</itunes:duration>
-      <pubDate>Wed, 09 Jun 2021 07:24:21 +0000</pubDate>
+      <pubDate>Wed, 09 Jun 2021 07:25:01 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/_6cCVzrzgPI/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -340,7 +370,7 @@ OTROS CANALES EN YOUTUBE:
       <guid isPermaLink="false">com.audiosack.guid.HiPOAn_DVm4</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/HiPOAn_DVm4.m4a" length="135632160" type="audio/x-m4a"/>
       <itunes:duration>02:19:41</itunes:duration>
-      <pubDate>Wed, 09 Jun 2021 07:24:21 +0000</pubDate>
+      <pubDate>Wed, 09 Jun 2021 07:25:01 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/HiPOAn_DVm4/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -439,7 +469,7 @@ Thanks for watching, see you next video!]]></description>
       <guid isPermaLink="false">com.audiosack.guid.u8SvkK7GrHY</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/u8SvkK7GrHY.m4a" length="9851977" type="audio/x-m4a"/>
       <itunes:duration>10:09</itunes:duration>
-      <pubDate>Wed, 09 Jun 2021 07:24:21 +0000</pubDate>
+      <pubDate>Wed, 09 Jun 2021 07:25:01 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/u8SvkK7GrHY/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -556,7 +586,7 @@ https://gamebanana.com/gamefiles/17646
       <guid isPermaLink="false">com.audiosack.guid.1jg5zhiO3dw</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/1jg5zhiO3dw.m4a" length="44654036" type="audio/x-m4a"/>
       <itunes:duration>45:59</itunes:duration>
-      <pubDate>Wed, 09 Jun 2021 07:24:21 +0000</pubDate>
+      <pubDate>Wed, 09 Jun 2021 07:25:01 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/1jg5zhiO3dw/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -626,7 +656,7 @@ MTV UK is your place to watch all your favourites! Live EMAs performances, music
       <guid isPermaLink="false">com.audiosack.guid.PGBeV-Hlqaw</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/PGBeV-Hlqaw.m4a" length="4215244" type="audio/x-m4a"/>
       <itunes:duration>04:20</itunes:duration>
-      <pubDate>Wed, 09 Jun 2021 07:24:21 +0000</pubDate>
+      <pubDate>Wed, 09 Jun 2021 07:25:01 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/PGBeV-Hlqaw/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -673,7 +703,7 @@ https://www.facebook.com/janogarciaesp]]></description>
       <guid isPermaLink="false">com.audiosack.guid.lN0bdw5nBcw</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/lN0bdw5nBcw.m4a" length="46715104" type="audio/x-m4a"/>
       <itunes:duration>48:06</itunes:duration>
-      <pubDate>Wed, 09 Jun 2021 07:24:21 +0000</pubDate>
+      <pubDate>Wed, 09 Jun 2021 07:25:01 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/lN0bdw5nBcw/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -711,7 +741,7 @@ http://www.nathanhulls.com]]></description>
       <guid isPermaLink="false">com.audiosack.guid.-z4NS2zdrZc</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/-z4NS2zdrZc.m4a" length="989115" type="audio/x-m4a"/>
       <itunes:duration>01:01</itunes:duration>
-      <pubDate>Wed, 09 Jun 2021 07:24:21 +0000</pubDate>
+      <pubDate>Wed, 09 Jun 2021 07:25:01 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/-z4NS2zdrZc/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -786,7 +816,7 @@ malan@harvard.edu]]></description>
       <guid isPermaLink="false">com.audiosack.guid.xFFs9UgOAlE</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/xFFs9UgOAlE.m4a" length="47937502" type="audio/x-m4a"/>
       <itunes:duration>01:05:34</itunes:duration>
-      <pubDate>Wed, 09 Jun 2021 07:24:21 +0000</pubDate>
+      <pubDate>Wed, 09 Jun 2021 07:25:01 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/xFFs9UgOAlE/default.jpg"/>
       <itunes:explicit>No</itunes:explicit>
       <itunes:order>0</itunes:order>
