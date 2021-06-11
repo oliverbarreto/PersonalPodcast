@@ -8,10 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator> </generator>
     <language>es-ES</language>
-    <lastBuildDate>Wed, 09 Jun 2021 15:25:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Jun 2021 19:29:43 +0000</lastBuildDate>
     <itunes:author>oliver</itunes:author>
     <managingEditor>oliver.barreto.online@gmail.com (oliver)</managingEditor>
-    <pubDate>Wed, 09 Jun 2021 15:25:29 +0000</pubDate>
+    <pubDate>Fri, 11 Jun 2021 19:29:43 +0000</pubDate>
     <itunes:category text="News"/>
     <itunes:image href="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png"/>
     <itunes:owner>
@@ -19,6 +19,30 @@
       <itunes:email>oliver.barreto.online@gmail.com</itunes:email>
     </itunes:owner>
     <atom:link href="https://raw.githubusercontent.com/oliverbarreto/PersonalPodcast/main/oliver_feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Something has to change... this CAN'T continue... - JayzTwoCents</title>
+      <description><![CDATA[Get your JayzTwoCents Merch Here! - https://www.jayztwocents.com
+The GIVEAWAY! - https://www.youtube.com/watch?v=mPBJP7GsAGw
+
+○○○○○○ Items featured in this video available at Amazon ○○○○○○
+
+► Amazon US - http://bit.ly/1meybOF
+► Amazon UK - http://amzn.to/Zx813L
+► Amazon Canada - http://amzn.to/1tl6vc6
+
+••• Follow me on your favorite Social Media! •••
+Facebook: http://www.facebook.com/jayztwocents
+Twitter: http://www.twitter.com/jayztwocents
+Instagram: http://instagram.com/jayztwocents#
+SUBSCRIBE! http://bit.ly/sub2JayzTwoCents]]></description>
+      <guid isPermaLink="false">com.uuebcast.uuid.zbJavxNZ1Z8</guid>
+      <enclosure url="http://oops.hopto.org:9090/static/media/zbJavxNZ1Z8.m4a" length="12308583" type="audio/x-m4a"/>
+      <pubDate>Fri, 11 Jun 2021 19:29:43 +0000</pubDate>
+      <itunes:image href="http://i.ytimg.com/vi/zbJavxNZ1Z8/hqdefault.jpg"/>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:order>0</itunes:order>
+      <itunes:subtitle>by JayzTwoCents published on Thursday, June  3 2021 at 19:08:16</itunes:subtitle>
+    </item>
     <item>
       <title>Apple Steve Jobs Heres To The Crazy Ones - Nathan Hulls</title>
       <description><![CDATA[http://www.NathanHulls.com
@@ -30,7 +54,7 @@ Steve Jobs narrates the first of Apples &#x27;Think Different&#x27; commercial &
 http://www.nathanhulls.com]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.-z4NS2zdrZc</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/-z4NS2zdrZc.m4a" length="989115" type="audio/x-m4a"/>
-      <pubDate>Wed, 09 Jun 2021 15:25:29 +0000</pubDate>
+      <pubDate>Fri, 11 Jun 2021 19:29:43 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/-z4NS2zdrZc/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -45,7 +69,7 @@ Gracias al ordenador CPC 464 de la empresa Amstrad marcó un hito en la historia
 Desde 1985 hasta 1989 Indescomp publicó, bajo el nombre de Amstrad User, una revista dedicada exclusivamente a los usuarios de Amstrad en España.]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.9icPvZ8V2YQ</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/9icPvZ8V2YQ.m4a" length="124526131" type="audio/x-m4a"/>
-      <pubDate>Wed, 09 Jun 2021 15:25:29 +0000</pubDate>
+      <pubDate>Fri, 11 Jun 2021 19:29:43 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/9icPvZ8V2YQ/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -65,7 +89,7 @@ Follow me on Instagram - http://instagram.com/snazzyq
 WWDC 21 happened yesterday. We got work on the upcoming iOS 15, iPadOS 15, and watchOS 8, as well as the new macOS 12 Monterey. Let&#x27;s dive deep into the keynote&#x27;s announcements, what they may mean, and some of the best features that Apple weirdly left out. I&#x27;m talking about you, our blessed returned love-child the magnifying glass!]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.ub1orZyHraI</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/ub1orZyHraI.m4a" length="22906537" type="audio/x-m4a"/>
-      <pubDate>Wed, 09 Jun 2021 15:25:29 +0000</pubDate>
+      <pubDate>Fri, 11 Jun 2021 19:29:43 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/ub1orZyHraI/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -130,7 +154,7 @@ MORE
 Thanks for watching, see you next video!]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.jmAcw4MuPbk</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/jmAcw4MuPbk.m4a" length="14774125" type="audio/x-m4a"/>
-      <pubDate>Wed, 09 Jun 2021 15:25:29 +0000</pubDate>
+      <pubDate>Fri, 11 Jun 2021 19:29:43 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/jmAcw4MuPbk/default.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -238,7 +262,7 @@ https://gamebanana.com/gamefiles/17646
 #FNF #FridayNightFunkin]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.1jg5zhiO3dw</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/1jg5zhiO3dw.m4a" length="44654036" type="audio/x-m4a"/>
-      <pubDate>Wed, 09 Jun 2021 15:25:29 +0000</pubDate>
+      <pubDate>Fri, 11 Jun 2021 19:29:43 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/1jg5zhiO3dw/default.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -307,7 +331,7 @@ Get social with MTV @
 MTV UK is your place to watch all your favourites! Live EMAs performances, music artist to follow on MTV Push, latest MTV Movies exclusives and the best from Geordie Shore, Just Tattoo of Us, Teen Mom UK, Ex on The Beach and many many more!]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.PGBeV-Hlqaw</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/PGBeV-Hlqaw.m4a" length="4215244" type="audio/x-m4a"/>
-      <pubDate>Wed, 09 Jun 2021 15:25:29 +0000</pubDate>
+      <pubDate>Fri, 11 Jun 2021 19:29:43 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/PGBeV-Hlqaw/default.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -353,7 +377,7 @@ https://twitter.com/janogarcia_
 https://www.facebook.com/janogarciaesp]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.lN0bdw5nBcw</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/lN0bdw5nBcw.m4a" length="46715104" type="audio/x-m4a"/>
-      <pubDate>Wed, 09 Jun 2021 15:25:29 +0000</pubDate>
+      <pubDate>Fri, 11 Jun 2021 19:29:43 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/lN0bdw5nBcw/default.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -441,7 +465,7 @@ https://cs.harvard.edu/malan
 malan@harvard.edu]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.xFFs9UgOAlE</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/xFFs9UgOAlE.m4a" length="47937502" type="audio/x-m4a"/>
-      <pubDate>Wed, 09 Jun 2021 15:25:29 +0000</pubDate>
+      <pubDate>Fri, 11 Jun 2021 19:29:43 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/xFFs9UgOAlE/default.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
