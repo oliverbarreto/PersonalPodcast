@@ -1,1 +1,73 @@
-This is a new file
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Personal Podcast</title>
+    <link>http://oops.hopto.org:9090/pmarpac/publicprofile</link>
+    <description>I publish interesting things !!!</description>
+    <itunes:explicit>yes</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator> </generator>
+    <language>es-ES</language>
+    <lastBuildDate>Fri, 11 Jun 2021 17:09:53 +0000</lastBuildDate>
+    <itunes:author>pmarpac</itunes:author>
+    <managingEditor>pmarpac@gmail.com (pmarpac)</managingEditor>
+    <pubDate>Fri, 11 Jun 2021 17:09:53 +0000</pubDate>
+    <itunes:category text="News"/>
+    <itunes:image href="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png"/>
+    <itunes:owner>
+      <itunes:name>pmarpac</itunes:name>
+      <itunes:email>pmarpac@gmail.com</itunes:email>
+    </itunes:owner>
+    <atom:link href="https://raw.githubusercontent.com/oliverbarreto/PersonalPodcast/main/pmarpac_feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>El Dinero SÍ que Vale Algo | Fe de Erratas - QuantumFracture</title>
+      <description><![CDATA[En el vídeo de las criptomonedas y la evolución del dinero hemos cometido algunos errores que algunos economistas nos han apuntado. ¡Me encantaría poder matizarlos!
+
+👩‍🔧 ¡Más información sobre la Gala de Premios al Inventor Europeo!
+http://bit.ly/inventoraward21
+
+⚛️No te pierdas ningún vídeo: solo tienes que... SUSCRIBIRTE, ¡es GRATIS!: https://www.youtube.com/user/QuantumFracture
+🐦¡Sígueme en TWITTER! https://twitter.com/QuantumFracture
+📘¡Y también en FACEBOOK! https://www.facebook.com/QuantumFracture
+📸¡Y (sí, como no) también en INSTAGRAM! https://instagram.com/quantumfracture/
+🌐¡Nuestra nueva web!  https://quantumfracture.es/
+
+✊¡HAZTE MIEMBRO DE QF! Increíbles ventajas (elegir el tema de un vídeo, directo exclusivo, insignias, emojis...) te esperan https://www.youtube.com/user/QuantumFracture/join 
+
+El canal de Óscar, Ecolibrium
+https://www.youtube.com/channel/UC4smD2_rkueMgLDDiCLoaKQ
+
+El canal de Artem, Geekconomy
+https://www.youtube.com/channel/UCzsthLcm0x9BC5_WBcjtBZQ
+
+Y (otro valioso crítico) el canal de Fonseca, VisualPolitik
+https://www.youtube.com/c/VisualPolitikTV
+
+Las animaciones aquí mostradas no pretenden ser precisas, sino mostrar aspectos cualitativos. Tienen propósitos educativos.
+
+-- EL MERCHANDISING DE QUANTUM FRACTURE --
+
+Lámina: EL ÁRBOL DE QUANTUM FRACTURE
+https://mastersoflol.com/product/el-arbol-de-quantum-fracture
+
+Lámina: LOS 9 TIPOS DE UNIVERSOS
+https://mastersoflol.com/product/los-9-tipos-de-universos 
+
+Lámina: DESMONTANDO EL MODELO DE LA TIERRA PLANA 
+https://mastersoflol.com/product/desmontando-el-modelo-de-la-tierra-plana
+
+Lámina: TRAP DEL TERRAPLANISMO
+https://mastersoflol.com/product/trap-del-terraplanismo 
+
+Página de MASTERS OF LOL
+https://mastersoflol.com/]]></description>
+      <guid isPermaLink="false">com.uuebcast.uuid.kJubxRNE_gw</guid>
+      <enclosure url="http://oops.hopto.org:9090/static/media/kJubxRNE_gw.m4a" length="9078319" type="audio/x-m4a"/>
+      <pubDate>Fri, 11 Jun 2021 17:09:53 +0000</pubDate>
+      <itunes:image href="http://i.ytimg.com/vi/kJubxRNE_gw/hqdefault.jpg"/>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:order>0</itunes:order>
+      <itunes:subtitle>by QuantumFracture published on Thursday, June  3 2021 at 18:00:12</itunes:subtitle>
+    </item>
+  </channel>
+</rss>
