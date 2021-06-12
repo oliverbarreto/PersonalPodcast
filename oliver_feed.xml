@@ -8,10 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator> </generator>
     <language>es-ES</language>
-    <lastBuildDate>Sat, 12 Jun 2021 05:54:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Jun 2021 14:46:54 +0000</lastBuildDate>
     <itunes:author>oliver</itunes:author>
     <managingEditor>oliver.barreto.online@gmail.com (oliver)</managingEditor>
-    <pubDate>Sat, 12 Jun 2021 05:54:21 +0000</pubDate>
+    <pubDate>Sat, 12 Jun 2021 14:46:54 +0000</pubDate>
     <itunes:category text="News"/>
     <itunes:image href="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png"/>
     <itunes:owner>
@@ -19,29 +19,6 @@
       <itunes:email>oliver.barreto.online@gmail.com</itunes:email>
     </itunes:owner>
     <atom:link href="https://raw.githubusercontent.com/oliverbarreto/PersonalPodcast/main/oliver_feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>iOS 15, macOS 12 Monterey &amp; watchOS 8 Released! WWDC June 7 Event - iupdate</title>
-      <description><![CDATA[This is everything that Apple announced at WWDC and my thoughts. More iOS 15 and iPadOS 15 coverage coming up later today!
-
-Timestamps
-0:00 Intro
-0:52 watchOS 8
-2:44 macOS 12 Monterey
-5:19 iPadOS 15
-6:39 iOS 15
-
-Follow iupdate
-Instagram: https://instagram.com/iup.date
-Twitter: https://www.twitter.com/iupdate
-Apple blog: https://appletrack.org]]></description>
-      <guid isPermaLink="false">com.uuebcast.uuid.GNukSYccQzQ</guid>
-      <enclosure url="http://oops.hopto.org:9090/static/media/GNukSYccQzQ.m4a" length="10890302" type="audio/x-m4a"/>
-      <pubDate>Sat, 12 Jun 2021 05:54:21 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/GNukSYccQzQ/hqdefault.jpg"/>
-      <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>0</itunes:order>
-      <itunes:subtitle>by iupdate published on Monday, June  7 2021 at 20:41:14</itunes:subtitle>
-    </item>
     <item>
       <title>La noticia más extraña de la Historia | #MilenioLive​​ | Programa T3x35 (12/06/2021) - Canal Iker Jiménez</title>
       <description><![CDATA[El 9 de octubre de 1989, un mes antes de la caída del Muro de Berlín, la comedida agencia estatal de la Unión Soviética lanzó una noticia de fábula: en la ciudad de Voronezh, a 500 kilómetros al sureste de Moscú, unos niños dijeron haber visto aterrizar una esfera de luz de la que emergieron dos o tres humanoides gigantes sin cuello y con tres ojos. La noticia abrió los telediarios de medio planeta y halló eco en las principales cabeceras de la prensa occidental. 
@@ -63,7 +40,7 @@ OTROS CANALES EN YOUTUBE:
 • Retrofútbol de Iker → https://www.youtube.com/c/retrofutboldeiker]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.jTQOpt1QRhQ</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/jTQOpt1QRhQ.m4a" length="128837869" type="audio/x-m4a"/>
-      <pubDate>Sat, 12 Jun 2021 05:54:21 +0000</pubDate>
+      <pubDate>Sat, 12 Jun 2021 14:46:54 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/jTQOpt1QRhQ/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -80,7 +57,7 @@ Steve Jobs narrates the first of Apples &#x27;Think Different&#x27; commercial &
 http://www.nathanhulls.com]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.-z4NS2zdrZc</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/-z4NS2zdrZc.m4a" length="989115" type="audio/x-m4a"/>
-      <pubDate>Sat, 12 Jun 2021 05:54:21 +0000</pubDate>
+      <pubDate>Sat, 12 Jun 2021 14:46:54 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/-z4NS2zdrZc/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -95,7 +72,7 @@ Gracias al ordenador CPC 464 de la empresa Amstrad marcó un hito en la historia
 Desde 1985 hasta 1989 Indescomp publicó, bajo el nombre de Amstrad User, una revista dedicada exclusivamente a los usuarios de Amstrad en España.]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.9icPvZ8V2YQ</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/9icPvZ8V2YQ.m4a" length="124526131" type="audio/x-m4a"/>
-      <pubDate>Sat, 12 Jun 2021 05:54:21 +0000</pubDate>
+      <pubDate>Sat, 12 Jun 2021 14:46:54 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/9icPvZ8V2YQ/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -149,7 +126,7 @@ https://gamebanana.com/gamefiles/17646
 #FNF #FridayNightFunkin]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.1jg5zhiO3dw</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/1jg5zhiO3dw.m4a" length="44654036" type="audio/x-m4a"/>
-      <pubDate>Sat, 12 Jun 2021 05:54:21 +0000</pubDate>
+      <pubDate>Sat, 12 Jun 2021 14:46:54 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/1jg5zhiO3dw/default.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -218,7 +195,7 @@ Get social with MTV @
 MTV UK is your place to watch all your favourites! Live EMAs performances, music artist to follow on MTV Push, latest MTV Movies exclusives and the best from Geordie Shore, Just Tattoo of Us, Teen Mom UK, Ex on The Beach and many many more!]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.PGBeV-Hlqaw</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/PGBeV-Hlqaw.m4a" length="4215244" type="audio/x-m4a"/>
-      <pubDate>Sat, 12 Jun 2021 05:54:21 +0000</pubDate>
+      <pubDate>Sat, 12 Jun 2021 14:46:54 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/PGBeV-Hlqaw/default.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -264,7 +241,7 @@ https://twitter.com/janogarcia_
 https://www.facebook.com/janogarciaesp]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.lN0bdw5nBcw</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/lN0bdw5nBcw.m4a" length="46715104" type="audio/x-m4a"/>
-      <pubDate>Sat, 12 Jun 2021 05:54:21 +0000</pubDate>
+      <pubDate>Sat, 12 Jun 2021 14:46:54 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/lN0bdw5nBcw/default.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -352,7 +329,7 @@ https://cs.harvard.edu/malan
 malan@harvard.edu]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.xFFs9UgOAlE</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/xFFs9UgOAlE.m4a" length="47937502" type="audio/x-m4a"/>
-      <pubDate>Sat, 12 Jun 2021 05:54:21 +0000</pubDate>
+      <pubDate>Sat, 12 Jun 2021 14:46:54 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/xFFs9UgOAlE/default.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
