@@ -8,10 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator> </generator>
     <language>es-ES</language>
-    <lastBuildDate>Sat, 19 Jun 2021 04:46:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Jun 2021 04:57:18 +0000</lastBuildDate>
     <itunes:author>oliver</itunes:author>
     <managingEditor>oliver.barreto.online@gmail.com (oliver)</managingEditor>
-    <pubDate>Sat, 19 Jun 2021 04:46:27 +0000</pubDate>
+    <pubDate>Sat, 19 Jun 2021 04:57:18 +0000</pubDate>
     <itunes:category text="News"/>
     <itunes:image href="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png"/>
     <itunes:owner>
@@ -19,6 +19,27 @@
       <itunes:email>oliver.barreto.online@gmail.com</itunes:email>
     </itunes:owner>
     <atom:link href="https://raw.githubusercontent.com/oliverbarreto/PersonalPodcast/main/oliver_feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>10. Introduction to Neuroscience I - Stanford</title>
+      <description><![CDATA[(April 21, 2010) Nathan Woodling and Anthony Chung-Ming Ng give a broad overview of the field of neuroscience and how it relates to human biology. They discuss the different lobes of the brain and the cells within as well as neuropharmacology and re-uptake.
+
+
+Stanford University
+http://www.stanford.edu
+
+Stanford Department of Biology
+http://biology.stanford.edu/
+
+Stanford University Channel on YouTube
+http://www.youtube.com/stanford]]></description>
+      <guid isPermaLink="false">com.uuebcast.uuid.5031rWXgdYo</guid>
+      <enclosure url="http://oops.hopto.org:9090/static/media/5031rWXgdYo.m4a" length="57736014" type="audio/x-m4a"/>
+      <pubDate>Sat, 19 Jun 2021 04:57:18 +0000</pubDate>
+      <itunes:image href="http://i.ytimg.com/vi/5031rWXgdYo/hqdefault.jpg"/>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:order>0</itunes:order>
+      <itunes:subtitle>by Stanford published on Wednesday, February  2 2011 at 00:40:54</itunes:subtitle>
+    </item>
     <item>
       <title>Bribes &amp; Manipulation: LG Wants to Control Our Editorial Direction - Hardware Unboxed</title>
       <description><![CDATA[Support us on Patreon: https://www.patreon.com/hardwareunboxed
@@ -41,7 +62,7 @@ Instagram - https://www.instagram.com/hardwareunboxed/
 Music By: https://soundcloud.com/lakeyinspired]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.J5DuXeqnA-w</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/J5DuXeqnA-w.m4a" length="20631144" type="audio/x-m4a"/>
-      <pubDate>Sat, 19 Jun 2021 04:46:27 +0000</pubDate>
+      <pubDate>Sat, 19 Jun 2021 04:57:18 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/J5DuXeqnA-w/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -72,7 +93,7 @@ OTROS CANALES EN YOUTUBE:
 • Retrofútbol de Iker → https://www.youtube.com/c/retrofutboldeiker]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.IdvNkrorIFs</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/IdvNkrorIFs.m4a" length="128237707" type="audio/x-m4a"/>
-      <pubDate>Sat, 19 Jun 2021 04:46:27 +0000</pubDate>
+      <pubDate>Sat, 19 Jun 2021 04:57:18 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/IdvNkrorIFs/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -139,7 +160,7 @@ MORE
 Thanks for watching, see you next video!]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.YklfFOlvk3k</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/YklfFOlvk3k.m4a" length="13414192" type="audio/x-m4a"/>
-      <pubDate>Sat, 19 Jun 2021 04:46:27 +0000</pubDate>
+      <pubDate>Sat, 19 Jun 2021 04:57:18 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/YklfFOlvk3k/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -233,7 +254,7 @@ Audio file(s) provided by Epidemic Sound
 http://www.epidemicsound.com/]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.-UtNMafjpdY</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/-UtNMafjpdY.m4a" length="12515254" type="audio/x-m4a"/>
-      <pubDate>Sat, 19 Jun 2021 04:46:27 +0000</pubDate>
+      <pubDate>Sat, 19 Jun 2021 04:57:18 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/-UtNMafjpdY/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -315,7 +336,7 @@ https://www.hellomayuko.com
 This video was sponsored by The INNO-vation Program and KADOKAWA ASCII Research Laboratories, Inc.]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.GqMSWuSeDPA</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/GqMSWuSeDPA.m4a" length="19806992" type="audio/x-m4a"/>
-      <pubDate>Sat, 19 Jun 2021 04:46:27 +0000</pubDate>
+      <pubDate>Sat, 19 Jun 2021 04:57:18 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/GqMSWuSeDPA/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -384,7 +405,7 @@ MORE
 Thanks for watching, see you next video!]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.SwyLhOoVIJc</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/SwyLhOoVIJc.m4a" length="12881246" type="audio/x-m4a"/>
-      <pubDate>Sat, 19 Jun 2021 04:46:27 +0000</pubDate>
+      <pubDate>Sat, 19 Jun 2021 04:57:18 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/SwyLhOoVIJc/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -411,7 +432,7 @@ OTROS CANALES EN YOUTUBE:
 • Retrofútbol de Iker → https://www.youtube.com/c/retrofutboldeiker]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.jTQOpt1QRhQ</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/jTQOpt1QRhQ.m4a" length="128837869" type="audio/x-m4a"/>
-      <pubDate>Sat, 19 Jun 2021 04:46:27 +0000</pubDate>
+      <pubDate>Sat, 19 Jun 2021 04:57:18 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/jTQOpt1QRhQ/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -428,7 +449,7 @@ Steve Jobs narrates the first of Apples &#x27;Think Different&#x27; commercial &
 http://www.nathanhulls.com]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.-z4NS2zdrZc</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/-z4NS2zdrZc.m4a" length="989115" type="audio/x-m4a"/>
-      <pubDate>Sat, 19 Jun 2021 04:46:27 +0000</pubDate>
+      <pubDate>Sat, 19 Jun 2021 04:57:18 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/-z4NS2zdrZc/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -443,7 +464,7 @@ Gracias al ordenador CPC 464 de la empresa Amstrad marcó un hito en la historia
 Desde 1985 hasta 1989 Indescomp publicó, bajo el nombre de Amstrad User, una revista dedicada exclusivamente a los usuarios de Amstrad en España.]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.9icPvZ8V2YQ</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/9icPvZ8V2YQ.m4a" length="124526131" type="audio/x-m4a"/>
-      <pubDate>Sat, 19 Jun 2021 04:46:27 +0000</pubDate>
+      <pubDate>Sat, 19 Jun 2021 04:57:18 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/9icPvZ8V2YQ/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -497,7 +518,7 @@ https://gamebanana.com/gamefiles/17646
 #FNF #FridayNightFunkin]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.1jg5zhiO3dw</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/1jg5zhiO3dw.m4a" length="44654036" type="audio/x-m4a"/>
-      <pubDate>Sat, 19 Jun 2021 04:46:27 +0000</pubDate>
+      <pubDate>Sat, 19 Jun 2021 04:57:18 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/1jg5zhiO3dw/default.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -566,7 +587,7 @@ Get social with MTV @
 MTV UK is your place to watch all your favourites! Live EMAs performances, music artist to follow on MTV Push, latest MTV Movies exclusives and the best from Geordie Shore, Just Tattoo of Us, Teen Mom UK, Ex on The Beach and many many more!]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.PGBeV-Hlqaw</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/PGBeV-Hlqaw.m4a" length="4215244" type="audio/x-m4a"/>
-      <pubDate>Sat, 19 Jun 2021 04:46:27 +0000</pubDate>
+      <pubDate>Sat, 19 Jun 2021 04:57:18 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/PGBeV-Hlqaw/default.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -612,7 +633,7 @@ https://twitter.com/janogarcia_
 https://www.facebook.com/janogarciaesp]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.lN0bdw5nBcw</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/lN0bdw5nBcw.m4a" length="46715104" type="audio/x-m4a"/>
-      <pubDate>Sat, 19 Jun 2021 04:46:27 +0000</pubDate>
+      <pubDate>Sat, 19 Jun 2021 04:57:18 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/lN0bdw5nBcw/default.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -700,7 +721,7 @@ https://cs.harvard.edu/malan
 malan@harvard.edu]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.xFFs9UgOAlE</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/xFFs9UgOAlE.m4a" length="47937502" type="audio/x-m4a"/>
-      <pubDate>Sat, 19 Jun 2021 04:46:27 +0000</pubDate>
+      <pubDate>Sat, 19 Jun 2021 04:57:18 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/xFFs9UgOAlE/default.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
