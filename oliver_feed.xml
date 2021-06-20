@@ -8,10 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator> </generator>
     <language>es-ES</language>
-    <lastBuildDate>Sun, 20 Jun 2021 21:35:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Jun 2021 21:36:23 +0000</lastBuildDate>
     <itunes:author>oliver</itunes:author>
     <managingEditor>oliver.barreto.online@gmail.com (oliver)</managingEditor>
-    <pubDate>Sun, 20 Jun 2021 21:35:35 +0000</pubDate>
+    <pubDate>Sun, 20 Jun 2021 21:36:23 +0000</pubDate>
     <itunes:category text="News"/>
     <itunes:image href="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png"/>
     <itunes:owner>
@@ -19,6 +19,73 @@
       <itunes:email>oliver.barreto.online@gmail.com</itunes:email>
     </itunes:owner>
     <atom:link href="https://raw.githubusercontent.com/oliverbarreto/PersonalPodcast/main/oliver_feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>How Apple Private Relay Shuts Down Data Profiling - Rene Ritchie</title>
+      <description><![CDATA[☎️ SAVE with http://rene.ting.com and get a $25 service credit!
+
+Apple’s new Private Relay. Part of iCloud+. The not a geo-hop, not a corporate tunnel, not-a-VPN....  that will soon be protecting your IP… and identity online. But what does any of that even mean?
+
+What Private Relay will do, what it’s designed to do, is encrypt all your connections, including any legacy connections not using https, to obfuscate your real IP address, and to prevent anyone, even Apple, from knowing both who you are and where you’re connecting to on the web.
+
+🔔 SUBSCRIBE  https://www.youtube.com/reneritchie?sub_confirmation=1
+
+🖥 New Apple Products for 2021:
+https://www.youtube.com/playlist?list=PL3XJJi5sAjD1NQJsw9AWgBY2dzOWVpNWo
+
+💻 Apple Silicon Macs (M1): 
+https://www.youtube.com/playlist?list=PL3XJJi5sAjD1sCicSKd0irf5TnQ1KJvPm
+
+📱 iPhone 13 Coverage:
+https://www.youtube.com/playlist?list=PL3XJJi5sAjD2Os17f8JOjnAB47AY-Xmx2
+
+🔗 LINKS
+
+🙏  PATREON THANK YOU!
+
+Get access to exclusive Discord, previews, even your name in this description or credits! https://www.patreon.com/reneritchie 
+
+Jacob Uribe, John Malkin, Ryan Parman, Roy Burns, Henk van Ess, Paco Arango, Rich Stakounis, Chad Potts, Daniel Pinto, Rod Gray, Daniel Z Wilkerson, Daniel Pasco, Jeffrey David Marraccini, Steven Kaplan, Mark Lussier, Martin Perry, Christopher Wiggins, Dude, Jon Wheeler, Josef, Frederick Lakes Jr., Steven Perry, Michael Dreves, Sam Fingold, Sven Jasper, Kyle Giglio
+
+🍎🎙 APPLE TALK PODCAST
+
+Apple: https://podcasts.apple.com/ca/podcast/apple-talk/id1532933019?i=1000492160142
+
+RSS: https://rss.art19.com/apple-talk
+YouTube: https://www.youtube.com/channel/UCrunioydAXI6z5yuJIHk-0Q/
+
+NEBULA subscribers get a bonus topic each week:
+
+Audio: https://watchnebula.com/apple-talk-podcast
+Video: https://watchnebula.com/apple-talk
+
+DISCLAIMER
+
+This channel does not produce sponsored or paid reviews. Companies occasionally make sample products available to facilitate reviews but provide no payment and get no editorial input, content approval, or advanced previews of the reviews. They see them for the first time when you do. 
+
+Links may contain referrals for affiliate programs that provide this channel with a tiny commission should you make a purchase. They likewise receive zero editorial input or consideration.
+
+📷 Some video and imagery supplied by Getty Images
+🎸 Some music supplied by Epidemic
+
+MORE
+
+⭐️ Nebula: https://watchnebula.com/reneritchie
+🐦 Twitter: https://twitter.com/reneritchie
+📸 Instagram: https://instagram.com/reneritchie
+🌎 Web: https://www.reneritchie.net
+🍎 Podcasts: http://apple.co/reneritchie
+🌥 Overcast: https://overcast.fm/p1644160-NUVafv
+👖 Pocket Cast: https://pca.st/reneritchie
+
+Thanks for watching, see you next video!]]></description>
+      <guid isPermaLink="false">com.uuebcast.uuid.YisUywtzZK0</guid>
+      <enclosure url="http://oops.hopto.org:9090/static/media/YisUywtzZK0.m4a" length="9318767" type="audio/x-m4a"/>
+      <pubDate>Sun, 20 Jun 2021 21:36:23 +0000</pubDate>
+      <itunes:image href="http://i.ytimg.com/vi/YisUywtzZK0/hqdefault.jpg"/>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:order>0</itunes:order>
+      <itunes:subtitle>by Rene Ritchie published on Saturday, June 19 2021 at 19:30:51</itunes:subtitle>
+    </item>
     <item>
       <title>DO NOT Wait for the Apple Watch Series 7! (NEW Leaks) - Max Tech</title>
       <description><![CDATA[We just got the absolute WORST News for the Apple Watch Series 7, so in this video, we discuss all of the leaks to find out if you should or shouldn&#x27;t wait for the Series 7!
@@ -62,7 +129,7 @@ PRIVACY POLICY and FULL DISCLOSURE:
 -~-~~-~~~-~~-~-]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.S1FexbA_EOg</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/S1FexbA_EOg.m4a" length="9309399" type="audio/x-m4a"/>
-      <pubDate>Sun, 20 Jun 2021 21:35:35 +0000</pubDate>
+      <pubDate>Sun, 20 Jun 2021 21:36:23 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/S1FexbA_EOg/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -90,7 +157,7 @@ Instagram - https://www.instagram.com/hardwareunboxed/
 Music By: https://soundcloud.com/lakeyinspired]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.J5DuXeqnA-w</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/J5DuXeqnA-w.m4a" length="20631144" type="audio/x-m4a"/>
-      <pubDate>Sun, 20 Jun 2021 21:35:35 +0000</pubDate>
+      <pubDate>Sun, 20 Jun 2021 21:36:23 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/J5DuXeqnA-w/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -172,7 +239,7 @@ https://www.hellomayuko.com
 This video was sponsored by The INNO-vation Program and KADOKAWA ASCII Research Laboratories, Inc.]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.GqMSWuSeDPA</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/GqMSWuSeDPA.m4a" length="19806992" type="audio/x-m4a"/>
-      <pubDate>Sun, 20 Jun 2021 21:35:35 +0000</pubDate>
+      <pubDate>Sun, 20 Jun 2021 21:36:23 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/GqMSWuSeDPA/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -241,7 +308,7 @@ MORE
 Thanks for watching, see you next video!]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.SwyLhOoVIJc</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/SwyLhOoVIJc.m4a" length="12881246" type="audio/x-m4a"/>
-      <pubDate>Sun, 20 Jun 2021 21:35:35 +0000</pubDate>
+      <pubDate>Sun, 20 Jun 2021 21:36:23 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/SwyLhOoVIJc/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -258,7 +325,7 @@ Steve Jobs narrates the first of Apples &#x27;Think Different&#x27; commercial &
 http://www.nathanhulls.com]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.-z4NS2zdrZc</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/-z4NS2zdrZc.m4a" length="989115" type="audio/x-m4a"/>
-      <pubDate>Sun, 20 Jun 2021 21:35:35 +0000</pubDate>
+      <pubDate>Sun, 20 Jun 2021 21:36:23 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/-z4NS2zdrZc/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -273,7 +340,7 @@ Gracias al ordenador CPC 464 de la empresa Amstrad marcó un hito en la historia
 Desde 1985 hasta 1989 Indescomp publicó, bajo el nombre de Amstrad User, una revista dedicada exclusivamente a los usuarios de Amstrad en España.]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.9icPvZ8V2YQ</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/9icPvZ8V2YQ.m4a" length="124526131" type="audio/x-m4a"/>
-      <pubDate>Sun, 20 Jun 2021 21:35:35 +0000</pubDate>
+      <pubDate>Sun, 20 Jun 2021 21:36:23 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/9icPvZ8V2YQ/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -327,7 +394,7 @@ https://gamebanana.com/gamefiles/17646
 #FNF #FridayNightFunkin]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.1jg5zhiO3dw</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/1jg5zhiO3dw.m4a" length="44654036" type="audio/x-m4a"/>
-      <pubDate>Sun, 20 Jun 2021 21:35:35 +0000</pubDate>
+      <pubDate>Sun, 20 Jun 2021 21:36:23 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/1jg5zhiO3dw/default.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -396,7 +463,7 @@ Get social with MTV @
 MTV UK is your place to watch all your favourites! Live EMAs performances, music artist to follow on MTV Push, latest MTV Movies exclusives and the best from Geordie Shore, Just Tattoo of Us, Teen Mom UK, Ex on The Beach and many many more!]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.PGBeV-Hlqaw</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/PGBeV-Hlqaw.m4a" length="4215244" type="audio/x-m4a"/>
-      <pubDate>Sun, 20 Jun 2021 21:35:35 +0000</pubDate>
+      <pubDate>Sun, 20 Jun 2021 21:36:23 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/PGBeV-Hlqaw/default.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -442,7 +509,7 @@ https://twitter.com/janogarcia_
 https://www.facebook.com/janogarciaesp]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.lN0bdw5nBcw</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/lN0bdw5nBcw.m4a" length="46715104" type="audio/x-m4a"/>
-      <pubDate>Sun, 20 Jun 2021 21:35:35 +0000</pubDate>
+      <pubDate>Sun, 20 Jun 2021 21:36:23 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/lN0bdw5nBcw/default.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -530,7 +597,7 @@ https://cs.harvard.edu/malan
 malan@harvard.edu]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.xFFs9UgOAlE</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/xFFs9UgOAlE.m4a" length="47937502" type="audio/x-m4a"/>
-      <pubDate>Sun, 20 Jun 2021 21:35:35 +0000</pubDate>
+      <pubDate>Sun, 20 Jun 2021 21:36:23 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/xFFs9UgOAlE/default.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
