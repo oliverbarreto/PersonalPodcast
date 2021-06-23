@@ -8,10 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator> </generator>
     <language>es-ES</language>
-    <lastBuildDate>Wed, 23 Jun 2021 06:16:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Jun 2021 06:16:16 +0000</lastBuildDate>
     <itunes:author>oliver</itunes:author>
     <managingEditor>oliver.barreto.online@gmail.com (oliver)</managingEditor>
-    <pubDate>Wed, 23 Jun 2021 06:16:12 +0000</pubDate>
+    <pubDate>Wed, 23 Jun 2021 06:16:16 +0000</pubDate>
     <itunes:category text="News"/>
     <itunes:image href="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png"/>
     <itunes:owner>
@@ -19,88 +19,6 @@
       <itunes:email>oliver.barreto.online@gmail.com</itunes:email>
     </itunes:owner>
     <atom:link href="https://raw.githubusercontent.com/oliverbarreto/PersonalPodcast/main/oliver_feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Why Japan fell behind in the tech industry - mayuko</title>
-      <description><![CDATA[Thank you so much to the INNO-vation program for partnering with me on this video. Make sure to check out their challenges as they just opened up their program for Summer 2021!
-
-INNO-vation Home Page: https://bit.ly/3yHrP5L
-Twitter: https://bit.ly/2RJt2Jl
-Facebook: https://bit.ly/2SxAXJC
-Instagram: https://bit.ly/2RJtuY3
-InnoUvators home page*: https://bit.ly/3c1aNpp
-
-*InnoUvators is a separate brand that showcases the technologies born from the Disruptive Challenge.
-
-And thank you so much to the folks I interviewed for this video and graciously gave me their time and shared their insights. You can check them out here:
-Yuka Ohishi https://www.youtube.com/channel/UC1JMhM9TJT7yMLx8ZtbDO8g
-Eric Turner https://twitter.com/_etdev
-Kenta Hara https://twitter.com/hellokenta_ja
-Kenji Rikitake https://twitter.com/jj1bdx
-Hiro https://twitter.com/atsuhio
-
-📼 Other videos you might enjoy 👇👇👇
-Being Bilingual in Japanese and English: https://youtu.be/wJHY-xkURvg
-How I stay in touch with my Japanese roots: https://youtu.be/HuosuBLOZRw
-Growing up Japanese and American: https://youtu.be/y_DNzbCtFXA
-Best Keyboards for Programming: https://youtu.be/VZTsdI-hbpw
-Why is Burnout so common in tech?: https://youtu.be/hQX-BtFp-Rc
-I also vlog: https://youtu.be/g_IJXwNUGNk
-
-🔖c h a p t e r s 🔖
-00:00 - Intro
-2:21 - Impressions
-3:45 - (Part 1) History of Japan
-5:46 - (Part 2) My guesses
-7:27 - (Part 3) Software is &quot;second class&quot;
-10:25 - (Part 4) When everything changed
-12:24 - (Part 5) Challenges ahead
-16:30 - (Part 6) Japan&#x27;s Next step, The INNO-vation program
-19:36 - Outtro
-
-💖 m o r e  m a y u k o 💖
-Become a member and support my channel: https://youtube.com/hellomayuko/join
-Japanese Youtube Channel:https://www.youtube.com/channel/UClHbaIGALnVB0aoWO-BOpqQ
-Twitch (Coworking sessions M-F): https://www.twitch.tv/hellomayuko
-Monthly Newsletter (A mix of tech &amp; non-tech stuff on my mind): https://news.hellomayuko.com
-Merch: https://store.hellomayuko.com
-Instagram: https://www.instagram.com/hellomayuko/
-Twitter: https://twitter.com/hellomayuko
-Muko&#x27;s Corner Podcast: https://anchor.fm/mayuko-inoue
-Hanko (My iOS Developer Academy): https://academy.hanko.tech
-
-🛠m y  g e a r 🛠 
-COMPUTER(similar): https://geni.us/zgTMbP3
-KEYBOARD: https://geni.us/ZPolJe2
-MOUSE: https://geni.us/QRIoB
-MONITOR: https://geni.us/5CsiA
-DESK PAD: https://bit.ly/2UvPQd1
-MY AMAZON STORE: https://www.amazon.com/shop/mayuko
-PRETTY DESK THINGS BY GROVEMADE: https://glnk.io/7yrj/mayukoinoue
-STATIONARY &amp; QUALITY GOODS BY TOPDRAWER: https://shrsl.com/2hxay
-Links above affiliate links, where I make a small commission from your purchase at no extra cost to you, helping me to fund this channel!
-
-🎧m u s i c 🎧
-Blue Wednesday - Murmuration (feat. Shopan)
-Music provided by Chillhop: http://chillhop.com/listen
-Chillhop on Spotify: http://bit.ly/ChillhopSpotify
-
-🌸a b o u t 🌸
-Mayuko Inoue is a content creator and Software Engineer. After working in Silicon Valley tech companies like Intuit, Patreon, and Netflix for six years as an iOS Engineer, she became a full-time creator in 2020. Her work aims to help people find their way through the tech industry by sharing her own experiences navigating this world through technology, career advice, and lifestyle videos. She is passionate about discussions around mental health, cultural identity, and creating technology with empathy and compassion.
-
-✉️c o n t a c t ✉️
-If you&#x27;d like to sponsor a video: sponsor@hellomayuko.com
-Other business inquiries: business@helloMayuko.com
-https://www.hellomayuko.com
-
-This video was sponsored by The INNO-vation Program and KADOKAWA ASCII Research Laboratories, Inc.]]></description>
-      <guid isPermaLink="false">com.uuebcast.uuid.GqMSWuSeDPA</guid>
-      <enclosure url="http://oops.hopto.org:9090/static/media/GqMSWuSeDPA.m4a" length="19806992" type="audio/x-m4a"/>
-      <pubDate>Wed, 23 Jun 2021 06:16:12 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/GqMSWuSeDPA/hqdefault.jpg"/>
-      <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>0</itunes:order>
-      <itunes:subtitle>by mayuko published on Friday, June 11 2021 at 17:29:39</itunes:subtitle>
-    </item>
     <item>
       <title>Apple Leaving Intel Macs Behind? — M1 Exclusives! - Rene Ritchie</title>
       <description><![CDATA[🔥 NO ADS + bonus content! CuriosityStream &amp; Nebula for less than $15 a YEAR! https://curiositystream.com/reneritchie/
@@ -164,7 +82,7 @@ MORE
 Thanks for watching, see you next video!]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.SwyLhOoVIJc</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/SwyLhOoVIJc.m4a" length="12881246" type="audio/x-m4a"/>
-      <pubDate>Wed, 23 Jun 2021 06:16:12 +0000</pubDate>
+      <pubDate>Wed, 23 Jun 2021 06:16:16 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/SwyLhOoVIJc/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -181,7 +99,7 @@ Steve Jobs narrates the first of Apples &#x27;Think Different&#x27; commercial &
 http://www.nathanhulls.com]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.-z4NS2zdrZc</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/-z4NS2zdrZc.m4a" length="989115" type="audio/x-m4a"/>
-      <pubDate>Wed, 23 Jun 2021 06:16:12 +0000</pubDate>
+      <pubDate>Wed, 23 Jun 2021 06:16:16 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/-z4NS2zdrZc/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -196,7 +114,7 @@ Gracias al ordenador CPC 464 de la empresa Amstrad marcó un hito en la historia
 Desde 1985 hasta 1989 Indescomp publicó, bajo el nombre de Amstrad User, una revista dedicada exclusivamente a los usuarios de Amstrad en España.]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.9icPvZ8V2YQ</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/9icPvZ8V2YQ.m4a" length="124526131" type="audio/x-m4a"/>
-      <pubDate>Wed, 23 Jun 2021 06:16:12 +0000</pubDate>
+      <pubDate>Wed, 23 Jun 2021 06:16:16 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/9icPvZ8V2YQ/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -250,7 +168,7 @@ https://gamebanana.com/gamefiles/17646
 #FNF #FridayNightFunkin]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.1jg5zhiO3dw</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/1jg5zhiO3dw.m4a" length="44654036" type="audio/x-m4a"/>
-      <pubDate>Wed, 23 Jun 2021 06:16:12 +0000</pubDate>
+      <pubDate>Wed, 23 Jun 2021 06:16:16 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/1jg5zhiO3dw/default.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -319,7 +237,7 @@ Get social with MTV @
 MTV UK is your place to watch all your favourites! Live EMAs performances, music artist to follow on MTV Push, latest MTV Movies exclusives and the best from Geordie Shore, Just Tattoo of Us, Teen Mom UK, Ex on The Beach and many many more!]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.PGBeV-Hlqaw</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/PGBeV-Hlqaw.m4a" length="4215244" type="audio/x-m4a"/>
-      <pubDate>Wed, 23 Jun 2021 06:16:12 +0000</pubDate>
+      <pubDate>Wed, 23 Jun 2021 06:16:16 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/PGBeV-Hlqaw/default.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -365,7 +283,7 @@ https://twitter.com/janogarcia_
 https://www.facebook.com/janogarciaesp]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.lN0bdw5nBcw</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/lN0bdw5nBcw.m4a" length="46715104" type="audio/x-m4a"/>
-      <pubDate>Wed, 23 Jun 2021 06:16:12 +0000</pubDate>
+      <pubDate>Wed, 23 Jun 2021 06:16:16 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/lN0bdw5nBcw/default.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -453,7 +371,7 @@ https://cs.harvard.edu/malan
 malan@harvard.edu]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.xFFs9UgOAlE</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/xFFs9UgOAlE.m4a" length="47937502" type="audio/x-m4a"/>
-      <pubDate>Wed, 23 Jun 2021 06:16:12 +0000</pubDate>
+      <pubDate>Wed, 23 Jun 2021 06:16:16 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/xFFs9UgOAlE/default.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
