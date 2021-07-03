@@ -8,10 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator> </generator>
     <language>es-ES</language>
-    <lastBuildDate>Sat, 03 Jul 2021 07:35:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Jul 2021 07:40:18 +0000</lastBuildDate>
     <itunes:author>oliver</itunes:author>
     <managingEditor>oliver.barreto.online@gmail.com (oliver)</managingEditor>
-    <pubDate>Sat, 03 Jul 2021 07:35:23 +0000</pubDate>
+    <pubDate>Sat, 03 Jul 2021 07:40:18 +0000</pubDate>
     <itunes:category text="News"/>
     <itunes:image href="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png"/>
     <itunes:owner>
@@ -19,6 +19,57 @@
       <itunes:email>oliver.barreto.online@gmail.com</itunes:email>
     </itunes:owner>
     <atom:link href="https://raw.githubusercontent.com/oliverbarreto/PersonalPodcast/main/oliver_feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Is Apple Lying to Us? - ZONEofTECH</title>
+      <description><![CDATA[Is Apple Evil or just way too Powerful? Let&#x27;s look at some facts and see. 
+▶ Get Surfshark VPN at https://surfshark.deals/zoneoftech and enter promo code ZONEOFTECH for 83% off and 3 extra months for free!
+
+*Thanks to Surfshark for Sponsoring this Video!
+
+▶ MacBook Pro M1 - https://geni.us/ZoTMBPM1
+▶ iPad Pro 11 - https://geni.us/ZoT2021iPadPro11
+▶ iPhone 12 - https://geni.us/ZoTiphone12
+▶ Support ZONEofTECH when shopping through Amazon - https://geni.us/ZoTAmazon
+
+As an affiliate we earn a small commission from qualifying purchases made using the links above
+▂ ▂ ▂ ▂ ▂ ▂ ▂ ▂ ▂ ▂ ▂ ▂ ▂ ▂ ▂ ▂ ▂ ▂ ▂ ▂ ▂ ▂ ▂
+
+😁 Subscribe (It&#x27;s FREE) - https://goo.gl/yMWV8c
+🤳 Instagram - http://instagram.com/ZONEofTECH
+🐤 Twitter - http://twitter.com/ZONEofTECH
+📘 Facebook - http://facebook.com/ZONEofTECH
+📱 Concepts - https://instagram.com/ZONEofCONCEPTS
+❤️ Team - https://www.zoneoftech.com/meet-the-team
+
+🍿 Support ZONEofTECH and get Exclusive Rewards! - https://youtube.com/zoneoftech/join
+
+Business Enquiries: business@zoneoftech.com
+▂ ▂ ▂ ▂ ▂ ▂ ▂ ▂ ▂ ▂ ▂ ▂ ▂ ▂ ▂ ▂ ▂ ▂ ▂ ▂ ▂ ▂ ▂
+
+Intro Song:
+A New Way - Lesion X https://soundcloud.com/lesionxbeats
+Creative Commons — Attribution 3.0 Unported — CC BY 3.0
+Free Download / Stream: https://bit.ly/_a-new-way
+Music promoted by Audio Library https://youtu.be/KT6TzepZ3LA
+
+Outro Song:
+Bisiesto by Hiracutch https://soundcloud.com/hiracutch
+Creative Commons — Attribution 3.0 Unported — CC BY 3.0
+Free Download / Stream: https://bit.ly/bisiesto-hiracutch
+Music promoted by Audio Library https://youtu.be/3Lf7LuhwI5o
+
+Background Music:
+EpidemicSound
+
+#Apple]]></description>
+      <guid isPermaLink="false">com.uuebcast.uuid.0VfpZe1sMBk</guid>
+      <enclosure url="http://oops.hopto.org:9090/static/media/0VfpZe1sMBk.m4a" length="18011921" type="audio/x-m4a"/>
+      <pubDate>Sat, 03 Jul 2021 07:40:18 +0000</pubDate>
+      <itunes:image href="http://i.ytimg.com/vi/0VfpZe1sMBk/hqdefault.jpg"/>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:order>0</itunes:order>
+      <itunes:subtitle>by ZONEofTECH published on Wednesday, June 30 2021 at 17:45:41</itunes:subtitle>
+    </item>
     <item>
       <title>Vacunas y ADE - Radio El Respeto</title>
       <description><![CDATA[El ADE es un fenómeno que consiste en que los anticuerpos, en vez de combatir al virus, facilitan la infección y agravan la enfermedad. Algo así como si se aliaran con él. Es muy inusual, perose ha observado con el dengue y con el zika, con una de las candidatas a vacuna contra el VRS y el sarampión, pero siempre de detectó en los ensayos y se retiraron.
@@ -50,7 +101,7 @@ Twitter Pablo Fuente → https://twitter.com/PabloFuente
 Instagram El Respeto → https://www.instagram.com/pablofuente/]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.WSTdVKOBJb8</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/WSTdVKOBJb8.m4a" length="9160558" type="audio/x-m4a"/>
-      <pubDate>Sat, 03 Jul 2021 07:35:23 +0000</pubDate>
+      <pubDate>Sat, 03 Jul 2021 07:40:18 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/WSTdVKOBJb8/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -67,7 +118,7 @@ Steve Jobs narrates the first of Apples &#x27;Think Different&#x27; commercial &
 http://www.nathanhulls.com]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.-z4NS2zdrZc</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/-z4NS2zdrZc.m4a" length="989115" type="audio/x-m4a"/>
-      <pubDate>Sat, 03 Jul 2021 07:35:23 +0000</pubDate>
+      <pubDate>Sat, 03 Jul 2021 07:40:18 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/-z4NS2zdrZc/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -82,7 +133,7 @@ Gracias al ordenador CPC 464 de la empresa Amstrad marcó un hito en la historia
 Desde 1985 hasta 1989 Indescomp publicó, bajo el nombre de Amstrad User, una revista dedicada exclusivamente a los usuarios de Amstrad en España.]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.9icPvZ8V2YQ</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/9icPvZ8V2YQ.m4a" length="124526131" type="audio/x-m4a"/>
-      <pubDate>Sat, 03 Jul 2021 07:35:23 +0000</pubDate>
+      <pubDate>Sat, 03 Jul 2021 07:40:18 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/9icPvZ8V2YQ/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -136,7 +187,7 @@ https://gamebanana.com/gamefiles/17646
 #FNF #FridayNightFunkin]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.1jg5zhiO3dw</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/1jg5zhiO3dw.m4a" length="44654036" type="audio/x-m4a"/>
-      <pubDate>Sat, 03 Jul 2021 07:35:23 +0000</pubDate>
+      <pubDate>Sat, 03 Jul 2021 07:40:18 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/1jg5zhiO3dw/default.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -205,7 +256,7 @@ Get social with MTV @
 MTV UK is your place to watch all your favourites! Live EMAs performances, music artist to follow on MTV Push, latest MTV Movies exclusives and the best from Geordie Shore, Just Tattoo of Us, Teen Mom UK, Ex on The Beach and many many more!]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.PGBeV-Hlqaw</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/PGBeV-Hlqaw.m4a" length="4215244" type="audio/x-m4a"/>
-      <pubDate>Sat, 03 Jul 2021 07:35:23 +0000</pubDate>
+      <pubDate>Sat, 03 Jul 2021 07:40:18 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/PGBeV-Hlqaw/default.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -251,7 +302,7 @@ https://twitter.com/janogarcia_
 https://www.facebook.com/janogarciaesp]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.lN0bdw5nBcw</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/lN0bdw5nBcw.m4a" length="46715104" type="audio/x-m4a"/>
-      <pubDate>Sat, 03 Jul 2021 07:35:23 +0000</pubDate>
+      <pubDate>Sat, 03 Jul 2021 07:40:18 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/lN0bdw5nBcw/default.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -339,7 +390,7 @@ https://cs.harvard.edu/malan
 malan@harvard.edu]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.xFFs9UgOAlE</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/xFFs9UgOAlE.m4a" length="47937502" type="audio/x-m4a"/>
-      <pubDate>Sat, 03 Jul 2021 07:35:23 +0000</pubDate>
+      <pubDate>Sat, 03 Jul 2021 07:40:18 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/xFFs9UgOAlE/default.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
