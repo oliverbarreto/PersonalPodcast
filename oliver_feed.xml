@@ -8,10 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator> </generator>
     <language>es-ES</language>
-    <lastBuildDate>Sat, 10 Jul 2021 20:55:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Jul 2021 22:25:08 +0000</lastBuildDate>
     <itunes:author>oliver</itunes:author>
     <managingEditor>oliver.barreto.online@gmail.com (oliver)</managingEditor>
-    <pubDate>Sat, 10 Jul 2021 20:55:37 +0000</pubDate>
+    <pubDate>Sat, 10 Jul 2021 22:25:08 +0000</pubDate>
     <itunes:category text="News"/>
     <itunes:image href="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png"/>
     <itunes:owner>
@@ -19,6 +19,38 @@
       <itunes:email>oliver.barreto.online@gmail.com</itunes:email>
     </itunes:owner>
     <atom:link href="https://raw.githubusercontent.com/oliverbarreto/PersonalPodcast/main/oliver_feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Why Microsoft keeps beating Apple and Google with Windows - CNBC</title>
+      <description><![CDATA[Microsoft Windows debuted in 1985 and for the past two decades it has been the dominant PC operating system worldwide. In 2020, Windows had almost 83% market share by unit shipments, while Google Chrome OS had 10% and Apple’s Mac OS had 7%, according to Gartner.
+From solitaire to its iconic start button and start up sounds, productivity apps, gaming and corporate computing, Windows changed the way we use computers. The legendary Windows 95 helped propel the company to dominate the market in personal computing. Microsoft has introduced many versions of Windows since its inception with some more memorable than others. It’s competed with IBM, Apple, and Google for market space. According to Microsoft, there are more than 1.3 billion devices running Windows 10 worldwide on a monthly basis.
+Today, Windows only makes up 14% of Microsoft’s business but remains a critical part of it. The company just announced the latest version Windows 11.
+CNBC spoke with former Microsoft employees including Terry Myerson, Michael Cherry, Brad Silverberg and Tandy Trower to get a look back at over three decades of Windows.
+
+» Subscribe to CNBC: https://cnb.cx/SubscribeCNBC
+» Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision
+» Subscribe to CNBC Classic: https://cnb.cx/SubscribeCNBCclassic
+
+About CNBC: From &#x27;Wall Street&#x27; to &#x27;Main Street&#x27; to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Connect with CNBC News Online
+Get the latest news: https://www.cnbc.com/
+Follow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC
+Follow CNBC News on Facebook: https://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: https://cnb.cx/FollowCNBC
+Follow CNBC News on Instagram: https://cnb.cx/InstagramCNBC
+Subscribe to CNBC PRO: https://cnb.cx/2NLi9AN
+
+Why Microsoft keeps beating Apple and Google with Windows
+
+#CNBC]]></description>
+      <guid isPermaLink="false">com.uuebcast.uuid.OcL932W6E1w</guid>
+      <enclosure url="http://oops.hopto.org:9090/static/media/OcL932W6E1w.m4a" length="17209230" type="audio/x-m4a"/>
+      <pubDate>Sat, 10 Jul 2021 22:25:08 +0000</pubDate>
+      <itunes:image href="http://i.ytimg.com/vi/OcL932W6E1w/hqdefault.jpg"/>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:order>0</itunes:order>
+      <itunes:subtitle>by CNBC published on Saturday, July 10 2021 at 17:06:20</itunes:subtitle>
+    </item>
     <item>
       <title>How Apple Silicon M1X Chiplets will DOMINATE the Market! - Max Tech</title>
       <description><![CDATA[Apple is about to TAKE OVER the entire PC market from laptops to high-end server systems using TSMC&#x27;s new 3D Chiplet architecture along with a GENIUS &amp; unique cost-savings solution!
@@ -69,7 +101,7 @@ PRIVACY POLICY and FULL DISCLOSURE:
 -~-~~-~~~-~~-~-]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.A-TzEUlqPj0</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/A-TzEUlqPj0.m4a" length="13150398" type="audio/x-m4a"/>
-      <pubDate>Sat, 10 Jul 2021 20:55:37 +0000</pubDate>
+      <pubDate>Sat, 10 Jul 2021 22:25:08 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/A-TzEUlqPj0/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -104,7 +136,7 @@ Twitter Pablo Fuente → https://twitter.com/PabloFuente
 Instagram El Respeto → https://www.instagram.com/pablofuente/]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.wFpyFk080SI</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/wFpyFk080SI.m4a" length="106109103" type="audio/x-m4a"/>
-      <pubDate>Sat, 10 Jul 2021 20:55:37 +0000</pubDate>
+      <pubDate>Sat, 10 Jul 2021 22:25:08 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/wFpyFk080SI/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -173,7 +205,7 @@ MORE
 Thanks for watching, see you next video!]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.UECWJHxZJNM</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/UECWJHxZJNM.m4a" length="11993310" type="audio/x-m4a"/>
-      <pubDate>Sat, 10 Jul 2021 20:55:37 +0000</pubDate>
+      <pubDate>Sat, 10 Jul 2021 22:25:08 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/UECWJHxZJNM/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -197,7 +229,7 @@ https://www.facebook.com/programmingwithmosh/
 https://twitter.com/moshhamedani]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.pTB0EiLXUC8</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/pTB0EiLXUC8.m4a" length="7347401" type="audio/x-m4a"/>
-      <pubDate>Sat, 10 Jul 2021 20:55:37 +0000</pubDate>
+      <pubDate>Sat, 10 Jul 2021 22:25:08 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/pTB0EiLXUC8/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -248,7 +280,7 @@ EpidemicSound
 #Apple]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.0VfpZe1sMBk</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/0VfpZe1sMBk.m4a" length="18011921" type="audio/x-m4a"/>
-      <pubDate>Sat, 10 Jul 2021 20:55:37 +0000</pubDate>
+      <pubDate>Sat, 10 Jul 2021 22:25:08 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/0VfpZe1sMBk/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -285,7 +317,7 @@ Twitter Pablo Fuente → https://twitter.com/PabloFuente
 Instagram El Respeto → https://www.instagram.com/pablofuente/]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.WSTdVKOBJb8</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/WSTdVKOBJb8.m4a" length="9160558" type="audio/x-m4a"/>
-      <pubDate>Sat, 10 Jul 2021 20:55:37 +0000</pubDate>
+      <pubDate>Sat, 10 Jul 2021 22:25:08 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/WSTdVKOBJb8/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -302,7 +334,7 @@ Steve Jobs narrates the first of Apples &#x27;Think Different&#x27; commercial &
 http://www.nathanhulls.com]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.-z4NS2zdrZc</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/-z4NS2zdrZc.m4a" length="989115" type="audio/x-m4a"/>
-      <pubDate>Sat, 10 Jul 2021 20:55:37 +0000</pubDate>
+      <pubDate>Sat, 10 Jul 2021 22:25:08 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/-z4NS2zdrZc/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -317,7 +349,7 @@ Gracias al ordenador CPC 464 de la empresa Amstrad marcó un hito en la historia
 Desde 1985 hasta 1989 Indescomp publicó, bajo el nombre de Amstrad User, una revista dedicada exclusivamente a los usuarios de Amstrad en España.]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.9icPvZ8V2YQ</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/9icPvZ8V2YQ.m4a" length="124526131" type="audio/x-m4a"/>
-      <pubDate>Sat, 10 Jul 2021 20:55:37 +0000</pubDate>
+      <pubDate>Sat, 10 Jul 2021 22:25:08 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/9icPvZ8V2YQ/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -371,7 +403,7 @@ https://gamebanana.com/gamefiles/17646
 #FNF #FridayNightFunkin]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.1jg5zhiO3dw</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/1jg5zhiO3dw.m4a" length="44654036" type="audio/x-m4a"/>
-      <pubDate>Sat, 10 Jul 2021 20:55:37 +0000</pubDate>
+      <pubDate>Sat, 10 Jul 2021 22:25:08 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/1jg5zhiO3dw/default.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -440,7 +472,7 @@ Get social with MTV @
 MTV UK is your place to watch all your favourites! Live EMAs performances, music artist to follow on MTV Push, latest MTV Movies exclusives and the best from Geordie Shore, Just Tattoo of Us, Teen Mom UK, Ex on The Beach and many many more!]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.PGBeV-Hlqaw</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/PGBeV-Hlqaw.m4a" length="4215244" type="audio/x-m4a"/>
-      <pubDate>Sat, 10 Jul 2021 20:55:37 +0000</pubDate>
+      <pubDate>Sat, 10 Jul 2021 22:25:08 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/PGBeV-Hlqaw/default.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -486,7 +518,7 @@ https://twitter.com/janogarcia_
 https://www.facebook.com/janogarciaesp]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.lN0bdw5nBcw</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/lN0bdw5nBcw.m4a" length="46715104" type="audio/x-m4a"/>
-      <pubDate>Sat, 10 Jul 2021 20:55:37 +0000</pubDate>
+      <pubDate>Sat, 10 Jul 2021 22:25:08 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/lN0bdw5nBcw/default.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -574,7 +606,7 @@ https://cs.harvard.edu/malan
 malan@harvard.edu]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.xFFs9UgOAlE</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/xFFs9UgOAlE.m4a" length="47937502" type="audio/x-m4a"/>
-      <pubDate>Sat, 10 Jul 2021 20:55:37 +0000</pubDate>
+      <pubDate>Sat, 10 Jul 2021 22:25:08 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/xFFs9UgOAlE/default.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
