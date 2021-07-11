@@ -8,10 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator> </generator>
     <language>es-ES</language>
-    <lastBuildDate>Sun, 11 Jul 2021 07:37:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Jul 2021 21:37:53 +0000</lastBuildDate>
     <itunes:author>oliver</itunes:author>
     <managingEditor>oliver.barreto.online@gmail.com (oliver)</managingEditor>
-    <pubDate>Sun, 11 Jul 2021 07:37:01 +0000</pubDate>
+    <pubDate>Sun, 11 Jul 2021 21:37:53 +0000</pubDate>
     <itunes:category text="News"/>
     <itunes:image href="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png"/>
     <itunes:owner>
@@ -19,6 +19,23 @@
       <itunes:email>oliver.barreto.online@gmail.com</itunes:email>
     </itunes:owner>
     <atom:link href="https://raw.githubusercontent.com/oliverbarreto/PersonalPodcast/main/oliver_feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>NASA Reestablishes Contact with the Voyager, Almost 12 Billion Miles from Earth! - TheSimplySpace</title>
+      <description><![CDATA[44 years: That&#x27;s how long it&#x27;s been since the Voyager 2 space probe left our blue home planet to subsequently gain new insights into our galactic neighborhood in the endless expanses of space. During this time, NASA&#x27;s unmanned spacecraft penetrated an incredible 12 billion miles into space and passed numerous planets of our solar system during its flight. While Voyager 2 has regularly sent important data to Earth over the past four and a half decades, the connection to the world-famous probe was severed for many months in March of last year. We will now reveal the reasons for this and how the experts of the renowned space agency finally managed to restore the signal to Voyager 2. However, before we get into this topic, we would like to take a look at the spacecraft’s history together with you. In today&#x27;s video, you’ll find out which celestial bodies the probe has already visited during its decades-long flight, which galactic milestones have been recorded in the process and what the future of the venerable space vehicle looks like. 
+
+Subscribe for more! ► https://bit.ly/2Q64mGd
+
+Credit: NASA, ESA, ESO, SpaceX, Wikipedia, Shutterstock, ...
+
+#TheSimplySpaceEN]]></description>
+      <guid isPermaLink="false">com.uuebcast.uuid.aIECQhTB8cY</guid>
+      <enclosure url="http://oops.hopto.org:9090/static/media/aIECQhTB8cY.m4a" length="11358970" type="audio/x-m4a"/>
+      <pubDate>Sun, 11 Jul 2021 21:37:53 +0000</pubDate>
+      <itunes:image href="http://i.ytimg.com/vi/aIECQhTB8cY/hqdefault.jpg"/>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:order>0</itunes:order>
+      <itunes:subtitle>by TheSimplySpace published on Thursday, July  8 2021 at 14:00:00</itunes:subtitle>
+    </item>
     <item>
       <title>How Apple Silicon M1X Chiplets will DOMINATE the Market! - Max Tech</title>
       <description><![CDATA[Apple is about to TAKE OVER the entire PC market from laptops to high-end server systems using TSMC&#x27;s new 3D Chiplet architecture along with a GENIUS &amp; unique cost-savings solution!
@@ -69,7 +86,7 @@ PRIVACY POLICY and FULL DISCLOSURE:
 -~-~~-~~~-~~-~-]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.A-TzEUlqPj0</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/A-TzEUlqPj0.m4a" length="13150398" type="audio/x-m4a"/>
-      <pubDate>Sun, 11 Jul 2021 07:37:01 +0000</pubDate>
+      <pubDate>Sun, 11 Jul 2021 21:37:53 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/A-TzEUlqPj0/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -104,7 +121,7 @@ Twitter Pablo Fuente → https://twitter.com/PabloFuente
 Instagram El Respeto → https://www.instagram.com/pablofuente/]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.wFpyFk080SI</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/wFpyFk080SI.m4a" length="106109103" type="audio/x-m4a"/>
-      <pubDate>Sun, 11 Jul 2021 07:37:01 +0000</pubDate>
+      <pubDate>Sun, 11 Jul 2021 21:37:53 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/wFpyFk080SI/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -173,7 +190,7 @@ MORE
 Thanks for watching, see you next video!]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.UECWJHxZJNM</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/UECWJHxZJNM.m4a" length="11993310" type="audio/x-m4a"/>
-      <pubDate>Sun, 11 Jul 2021 07:37:01 +0000</pubDate>
+      <pubDate>Sun, 11 Jul 2021 21:37:53 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/UECWJHxZJNM/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -197,7 +214,7 @@ https://www.facebook.com/programmingwithmosh/
 https://twitter.com/moshhamedani]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.pTB0EiLXUC8</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/pTB0EiLXUC8.m4a" length="7347401" type="audio/x-m4a"/>
-      <pubDate>Sun, 11 Jul 2021 07:37:01 +0000</pubDate>
+      <pubDate>Sun, 11 Jul 2021 21:37:53 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/pTB0EiLXUC8/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -248,7 +265,7 @@ EpidemicSound
 #Apple]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.0VfpZe1sMBk</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/0VfpZe1sMBk.m4a" length="18011921" type="audio/x-m4a"/>
-      <pubDate>Sun, 11 Jul 2021 07:37:01 +0000</pubDate>
+      <pubDate>Sun, 11 Jul 2021 21:37:53 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/0VfpZe1sMBk/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -285,7 +302,7 @@ Twitter Pablo Fuente → https://twitter.com/PabloFuente
 Instagram El Respeto → https://www.instagram.com/pablofuente/]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.WSTdVKOBJb8</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/WSTdVKOBJb8.m4a" length="9160558" type="audio/x-m4a"/>
-      <pubDate>Sun, 11 Jul 2021 07:37:01 +0000</pubDate>
+      <pubDate>Sun, 11 Jul 2021 21:37:53 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/WSTdVKOBJb8/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -302,7 +319,7 @@ Steve Jobs narrates the first of Apples &#x27;Think Different&#x27; commercial &
 http://www.nathanhulls.com]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.-z4NS2zdrZc</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/-z4NS2zdrZc.m4a" length="989115" type="audio/x-m4a"/>
-      <pubDate>Sun, 11 Jul 2021 07:37:01 +0000</pubDate>
+      <pubDate>Sun, 11 Jul 2021 21:37:53 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/-z4NS2zdrZc/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -317,7 +334,7 @@ Gracias al ordenador CPC 464 de la empresa Amstrad marcó un hito en la historia
 Desde 1985 hasta 1989 Indescomp publicó, bajo el nombre de Amstrad User, una revista dedicada exclusivamente a los usuarios de Amstrad en España.]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.9icPvZ8V2YQ</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/9icPvZ8V2YQ.m4a" length="124526131" type="audio/x-m4a"/>
-      <pubDate>Sun, 11 Jul 2021 07:37:01 +0000</pubDate>
+      <pubDate>Sun, 11 Jul 2021 21:37:53 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/9icPvZ8V2YQ/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -371,7 +388,7 @@ https://gamebanana.com/gamefiles/17646
 #FNF #FridayNightFunkin]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.1jg5zhiO3dw</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/1jg5zhiO3dw.m4a" length="44654036" type="audio/x-m4a"/>
-      <pubDate>Sun, 11 Jul 2021 07:37:01 +0000</pubDate>
+      <pubDate>Sun, 11 Jul 2021 21:37:53 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/1jg5zhiO3dw/default.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -440,7 +457,7 @@ Get social with MTV @
 MTV UK is your place to watch all your favourites! Live EMAs performances, music artist to follow on MTV Push, latest MTV Movies exclusives and the best from Geordie Shore, Just Tattoo of Us, Teen Mom UK, Ex on The Beach and many many more!]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.PGBeV-Hlqaw</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/PGBeV-Hlqaw.m4a" length="4215244" type="audio/x-m4a"/>
-      <pubDate>Sun, 11 Jul 2021 07:37:01 +0000</pubDate>
+      <pubDate>Sun, 11 Jul 2021 21:37:53 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/PGBeV-Hlqaw/default.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -486,7 +503,7 @@ https://twitter.com/janogarcia_
 https://www.facebook.com/janogarciaesp]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.lN0bdw5nBcw</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/lN0bdw5nBcw.m4a" length="46715104" type="audio/x-m4a"/>
-      <pubDate>Sun, 11 Jul 2021 07:37:01 +0000</pubDate>
+      <pubDate>Sun, 11 Jul 2021 21:37:53 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/lN0bdw5nBcw/default.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -574,7 +591,7 @@ https://cs.harvard.edu/malan
 malan@harvard.edu]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.xFFs9UgOAlE</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/xFFs9UgOAlE.m4a" length="47937502" type="audio/x-m4a"/>
-      <pubDate>Sun, 11 Jul 2021 07:37:01 +0000</pubDate>
+      <pubDate>Sun, 11 Jul 2021 21:37:53 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/xFFs9UgOAlE/default.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
