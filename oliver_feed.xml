@@ -8,10 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator> </generator>
     <language>es-ES</language>
-    <lastBuildDate>Wed, 20 Oct 2021 16:15:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Oct 2021 16:15:47 +0000</lastBuildDate>
     <itunes:author>oliver</itunes:author>
     <managingEditor>oliver.barreto.online@gmail.com (oliver)</managingEditor>
-    <pubDate>Wed, 20 Oct 2021 16:15:37 +0000</pubDate>
+    <pubDate>Wed, 20 Oct 2021 16:15:47 +0000</pubDate>
     <itunes:category text="News"/>
     <itunes:image href="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png"/>
     <itunes:owner>
@@ -19,45 +19,6 @@
       <itunes:email>oliver.barreto.online@gmail.com</itunes:email>
     </itunes:owner>
     <atom:link href="https://raw.githubusercontent.com/oliverbarreto/PersonalPodcast/main/oliver_feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>NEW M1 Pro and M1 Max MacBook Pros: What Apple DIDN'T Say! - Luke Miani</title>
-      <description><![CDATA[Apple left out some really interesting details on the new MacBook Pros that came out today, so in this video we&#x27;re going to explore some of those and talk about the new MacBook Pros as a whole; new Liquid Retina XDR displays, a notch, no Touch Bar, M1 Pro and M1 Max, 32 GPU cores, the list goes on and on!
-
-Time Stamps
-0:00 Intro
-2:08 New design details
-4:09 miniLED and ProMotion displays!
-5:07 M1 Pro and M1 Max
-5:31 Hidden GPU options
-6:40 Performance graph investigation
-8:16 Can Apple take on Nvidia?!
-10:57 Other tidbits they didn’t talk about 
-13:07 wrap-up
-
-
-Follow me on Twitter: https://twitter.com/LukeMiani
-
-Follow me on Twitch: https://www.twitch.tv/lukemiani
-
-Join my Subreddit! https://www.reddit.com/r/lukemianiyoutube
-
-Gear: 
-iFixit Pro Toolkit: https://amzn.to/3bYIzdM
-Panasonic Lumix GH5: https://amzn.to/3b3oMtj
-Leica 12-60MM Lens: https://amzn.to/3hQ5URf
-Sennheiser MKH 416: https://amzn.to/31zGwt2 
-Zoom H6: https://amzn.to/2ECYSk6
-Sennheiser MKE 440: https://amzn.to/2JRwIRU
-Edelkrone SliderOne V2: https://amzn.to/33mTZmt
-*Amazon Links are affiliate codes and generate small commission to support the channel*]]></description>
-      <guid isPermaLink="false">com.uuebcast.uuid.XrhcOlapnMU</guid>
-      <enclosure url="http://oops.hopto.org:9090/static/media/XrhcOlapnMU.m4a" length="13806825" type="audio/x-m4a"/>
-      <pubDate>Wed, 20 Oct 2021 16:15:37 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/XrhcOlapnMU/hqdefault.jpg"/>
-      <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>0</itunes:order>
-      <itunes:subtitle>by Luke Miani published on Monday, October 18 2021 at 20:45:08</itunes:subtitle>
-    </item>
     <item>
       <title>¡¡Qué CRACK!! Arturo Pérez Reverte en El Hormiguero - El Parte</title>
       <description><![CDATA[Arturo Pérez Reverte acudió a ‘El hormiguero’, el programa de Pablo Motos en Antena 3 y hemos recopilado sus grandes momentos. «¿Me va a cambiar el lenguaje a mí o me va a escribir esto [ su novela] Irene Montero? Deje usted la lengua española, déjemela tranquila».
@@ -73,7 +34,7 @@ Algunos libros de Arturo Pérez-Reverte:
 - La Guerra Civil contada a los jóvenes: https://amzn.to/2WUsL8X]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.ZuNqVWfyJuI</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/ZuNqVWfyJuI.m4a" length="22963732" type="audio/x-m4a"/>
-      <pubDate>Wed, 20 Oct 2021 16:15:37 +0000</pubDate>
+      <pubDate>Wed, 20 Oct 2021 16:15:47 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/ZuNqVWfyJuI/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -142,7 +103,7 @@ Our goal and mission at Alpha Leaders is to motivate, inspire, and educate throu
 #alphaleaders #leavealegacy]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.BYGp2UTfI9U</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/BYGp2UTfI9U.m4a" length="9796544" type="audio/x-m4a"/>
-      <pubDate>Wed, 20 Oct 2021 16:15:37 +0000</pubDate>
+      <pubDate>Wed, 20 Oct 2021 16:15:47 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/BYGp2UTfI9U/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -200,7 +161,7 @@ Our goal and mission at Alpha Leaders is to motivate, inspire, and educate throu
 #alphaleaders #leavealegacy]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.7CDGM--Hyu8</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/7CDGM--Hyu8.m4a" length="11665625" type="audio/x-m4a"/>
-      <pubDate>Wed, 20 Oct 2021 16:15:37 +0000</pubDate>
+      <pubDate>Wed, 20 Oct 2021 16:15:47 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/7CDGM--Hyu8/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -267,7 +228,7 @@ MORE
 Thanks for watching, see you next video!]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid._o_aBIiEGkk</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/_o_aBIiEGkk.m4a" length="6994557" type="audio/x-m4a"/>
-      <pubDate>Wed, 20 Oct 2021 16:15:37 +0000</pubDate>
+      <pubDate>Wed, 20 Oct 2021 16:15:47 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/_o_aBIiEGkk/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -280,7 +241,7 @@ Thanks for watching, see you next video!]]></description>
 Learn more about the Harvard Innovation Lab at http://i-lab.harvard.edu/ and follow us on Twitter at http://twitter.com/innovationlab and like us on Facebook at https://www.facebook.com/harvardinnovationlab]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.092JQrye9IM</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/092JQrye9IM.m4a" length="119095027" type="audio/x-m4a"/>
-      <pubDate>Wed, 20 Oct 2021 16:15:37 +0000</pubDate>
+      <pubDate>Wed, 20 Oct 2021 16:15:47 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/092JQrye9IM/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -299,7 +260,7 @@ https://www.twitter.com/DavidGuetta
 https://www.instagram.com/davidguetta]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.oezaifYpfiY</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/oezaifYpfiY.m4a" length="2703962" type="audio/x-m4a"/>
-      <pubDate>Wed, 20 Oct 2021 16:15:37 +0000</pubDate>
+      <pubDate>Wed, 20 Oct 2021 16:15:47 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/oezaifYpfiY/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -321,7 +282,7 @@ Follow me on Instagram - https://instagram.com/snazzyq
 The new Apple TV 4K doesn’t just sport a new remote, it has a new Color Balance feature for color calibration. In a bit of a surprising move, Apple brought this feature to any Apple TV running iOS 14.5 or later. In essence, it uses the Face ID array on your iPhone to measure and analyze the color output of your TV against the baseline targets established by filmmakers and the industry: Rec.709 and Rec.2020 for HDR. The AppleTV will then modify its color output over HDMI to make your display more “color accurate.” The question is: does it really work? Is it better than just calibrating yourself? How does it compare to professional calibration? And is color really the biggest issue that your TV has? Find out this and more—as well as how color, luminance, and chromaticity/locus charts work–in this new Snazzy Labs video!]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.i0oQKsYc-tU</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/i0oQKsYc-tU.m4a" length="19199432" type="audio/x-m4a"/>
-      <pubDate>Wed, 20 Oct 2021 16:15:37 +0000</pubDate>
+      <pubDate>Wed, 20 Oct 2021 16:15:47 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/i0oQKsYc-tU/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -406,7 +367,7 @@ Futur Theme Music: Adam Sanborne http://www.adamsanborne.com
 Typefaces: Futura, DIN, Helvetica Now, Calibre, Knockout, Champion Gothic]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.lrM5CRg-O0I</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/lrM5CRg-O0I.m4a" length="5764179" type="audio/x-m4a"/>
-      <pubDate>Wed, 20 Oct 2021 16:15:37 +0000</pubDate>
+      <pubDate>Wed, 20 Oct 2021 16:15:47 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/lrM5CRg-O0I/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -508,7 +469,7 @@ Futur Theme Music: Adam Sanborne http://www.adamsanborne.com
 Typefaces: Futura, DIN, Helvetica Now, Calibre, Knockout, Champion Gothic]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.XH-wD0Jbo5Y</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/XH-wD0Jbo5Y.m4a" length="25090634" type="audio/x-m4a"/>
-      <pubDate>Wed, 20 Oct 2021 16:15:37 +0000</pubDate>
+      <pubDate>Wed, 20 Oct 2021 16:15:47 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/XH-wD0Jbo5Y/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -525,7 +486,7 @@ Credit: NASA, ESA, ESO, SpaceX, Wikipedia, Shutterstock, ...
 #TheSimplySpaceEN]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.aIECQhTB8cY</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/aIECQhTB8cY.m4a" length="11358970" type="audio/x-m4a"/>
-      <pubDate>Wed, 20 Oct 2021 16:15:37 +0000</pubDate>
+      <pubDate>Wed, 20 Oct 2021 16:15:47 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/aIECQhTB8cY/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -560,7 +521,7 @@ Twitter Pablo Fuente → https://twitter.com/PabloFuente
 Instagram El Respeto → https://www.instagram.com/pablofuente/]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.wFpyFk080SI</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/wFpyFk080SI.m4a" length="106109103" type="audio/x-m4a"/>
-      <pubDate>Wed, 20 Oct 2021 16:15:37 +0000</pubDate>
+      <pubDate>Wed, 20 Oct 2021 16:15:47 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/wFpyFk080SI/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -584,7 +545,7 @@ https://www.facebook.com/programmingwithmosh/
 https://twitter.com/moshhamedani]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.pTB0EiLXUC8</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/pTB0EiLXUC8.m4a" length="7347401" type="audio/x-m4a"/>
-      <pubDate>Wed, 20 Oct 2021 16:15:37 +0000</pubDate>
+      <pubDate>Wed, 20 Oct 2021 16:15:47 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/pTB0EiLXUC8/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -621,7 +582,7 @@ Twitter Pablo Fuente → https://twitter.com/PabloFuente
 Instagram El Respeto → https://www.instagram.com/pablofuente/]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.WSTdVKOBJb8</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/WSTdVKOBJb8.m4a" length="9160558" type="audio/x-m4a"/>
-      <pubDate>Wed, 20 Oct 2021 16:15:37 +0000</pubDate>
+      <pubDate>Wed, 20 Oct 2021 16:15:47 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/WSTdVKOBJb8/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -638,7 +599,7 @@ Steve Jobs narrates the first of Apples &#x27;Think Different&#x27; commercial &
 http://www.nathanhulls.com]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.-z4NS2zdrZc</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/-z4NS2zdrZc.m4a" length="989115" type="audio/x-m4a"/>
-      <pubDate>Wed, 20 Oct 2021 16:15:37 +0000</pubDate>
+      <pubDate>Wed, 20 Oct 2021 16:15:47 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/-z4NS2zdrZc/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -653,7 +614,7 @@ Gracias al ordenador CPC 464 de la empresa Amstrad marcó un hito en la historia
 Desde 1985 hasta 1989 Indescomp publicó, bajo el nombre de Amstrad User, una revista dedicada exclusivamente a los usuarios de Amstrad en España.]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.9icPvZ8V2YQ</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/9icPvZ8V2YQ.m4a" length="124526131" type="audio/x-m4a"/>
-      <pubDate>Wed, 20 Oct 2021 16:15:37 +0000</pubDate>
+      <pubDate>Wed, 20 Oct 2021 16:15:47 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/9icPvZ8V2YQ/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -707,7 +668,7 @@ https://gamebanana.com/gamefiles/17646
 #FNF #FridayNightFunkin]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.1jg5zhiO3dw</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/1jg5zhiO3dw.m4a" length="44654036" type="audio/x-m4a"/>
-      <pubDate>Wed, 20 Oct 2021 16:15:37 +0000</pubDate>
+      <pubDate>Wed, 20 Oct 2021 16:15:47 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/1jg5zhiO3dw/default.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -776,7 +737,7 @@ Get social with MTV @
 MTV UK is your place to watch all your favourites! Live EMAs performances, music artist to follow on MTV Push, latest MTV Movies exclusives and the best from Geordie Shore, Just Tattoo of Us, Teen Mom UK, Ex on The Beach and many many more!]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.PGBeV-Hlqaw</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/PGBeV-Hlqaw.m4a" length="4215244" type="audio/x-m4a"/>
-      <pubDate>Wed, 20 Oct 2021 16:15:37 +0000</pubDate>
+      <pubDate>Wed, 20 Oct 2021 16:15:47 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/PGBeV-Hlqaw/default.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -822,7 +783,7 @@ https://twitter.com/janogarcia_
 https://www.facebook.com/janogarciaesp]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.lN0bdw5nBcw</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/lN0bdw5nBcw.m4a" length="46715104" type="audio/x-m4a"/>
-      <pubDate>Wed, 20 Oct 2021 16:15:37 +0000</pubDate>
+      <pubDate>Wed, 20 Oct 2021 16:15:47 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/lN0bdw5nBcw/default.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -910,7 +871,7 @@ https://cs.harvard.edu/malan
 malan@harvard.edu]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.xFFs9UgOAlE</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/xFFs9UgOAlE.m4a" length="47937502" type="audio/x-m4a"/>
-      <pubDate>Wed, 20 Oct 2021 16:15:37 +0000</pubDate>
+      <pubDate>Wed, 20 Oct 2021 16:15:47 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/xFFs9UgOAlE/default.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
