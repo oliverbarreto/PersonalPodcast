@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>OnlyPodcasts in the Building</title>
+    <title>Miguel's Podcast</title>
     <link>http://oops.hopto.org:9090/miguel/publicprofile</link>
-    <description>I publish here my notes and studying documents !!!</description>
+    <description>Historia de España</description>
     <itunes:explicit>yes</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator> </generator>
     <language>es-ES</language>
-    <lastBuildDate>Sun, 24 Oct 2021 19:54:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Nov 2021 18:15:32 +0000</lastBuildDate>
     <itunes:author>miguel</itunes:author>
     <managingEditor>miguel.barretoacosta@gmail.com (miguel)</managingEditor>
-    <pubDate>Sun, 24 Oct 2021 19:54:07 +0000</pubDate>
+    <pubDate>Tue, 02 Nov 2021 18:15:32 +0000</pubDate>
     <itunes:category text="News"/>
     <itunes:image href="/static/channel_logos/miguel.png"/>
     <itunes:owner>
@@ -25,7 +25,7 @@
 - Bloque 2: La Edad Media: Tres culturas y un mapa político en constante cambio (711-1474)]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.ITBJ1SXrB80</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/ITBJ1SXrB80.m4a" length="18304680" type="audio/x-m4a"/>
-      <pubDate>Sun, 24 Oct 2021 19:54:07 +0000</pubDate>
+      <pubDate>Tue, 02 Nov 2021 18:15:32 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/ITBJ1SXrB80/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
