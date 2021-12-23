@@ -8,10 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator> </generator>
     <language>es-ES</language>
-    <lastBuildDate>Thu, 23 Dec 2021 16:25:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Dec 2021 20:27:16 +0000</lastBuildDate>
     <itunes:author>oliver</itunes:author>
     <managingEditor>oliver.barreto.online@gmail.com (oliver)</managingEditor>
-    <pubDate>Thu, 23 Dec 2021 16:25:59 +0000</pubDate>
+    <pubDate>Thu, 23 Dec 2021 20:27:16 +0000</pubDate>
     <itunes:category text="News"/>
     <itunes:image href="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png"/>
     <itunes:owner>
@@ -19,6 +19,68 @@
       <itunes:email>oliver.barreto.online@gmail.com</itunes:email>
     </itunes:owner>
     <atom:link href="https://raw.githubusercontent.com/oliverbarreto/PersonalPodcast/main/oliver_feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Apple's 2022 Mac Roadmap — Revealed! - Rene Ritchie</title>
+      <description><![CDATA[All the New 2022 Macs! All of them!
+🔥 HOLIDAY SALE! CuriosityStream &amp; Nebula for less than $12 a YEAR! https://curiositystream.com/reneritchie/
+
+New M2 MacBook Air. M2 MacBook Pro. Dual M1 Max iMac Pro. M1 Max Mac mini Pro. Quad M1 Max Mac Pro. And maybe, just maybe, a new Xeon AMD Mac Pro. Wait what?!
+
+This is everything we&#x27;re expecting from Apple&#x27;s Mac lineup in 2022! Let&#x27;s go!
+
+🔔 SUBSCRIBE  https://www.youtube.com/reneritchie?sub_confirmation=1
+
+👀 2022 Apple Product Previews: https://www.youtube.com/watch?v=QjqKeuokwco&amp;list=PL3XJJi5sAjD0PDlmVTnvuAWBbEmiJ9CRM
+
+🖥 Latest M1 &amp; M2 Mac: https://www.youtube.com/watch?v=7z8Xy0SsWqk&amp;list=PL3XJJi5sAjD21b1y8tLo8ZU8anXBYzw-9
+
+🍪 Latest Apple Silicon: https://www.youtube.com/playlist?list=PL3XJJi5sAjD3IOyW5k_CObxQse3JlPI4A
+
+🔗 LINKS
+
+DylanDTK on Twitter: https://twitter.com/dylandkt
+
+Mark Gurman on Bloomberg: https://www.bloomberg.com/authors/AS7Hj1mBMGM/mark-gurman
+
+Jon Prosser on Front Page Tech: https://www.youtube.com/user/FrontPageTech
+
+Kuo Ming-Chi via MacRumors: https://www.macrumors.com/guide/ming-chi-kuo/
+
+🙏  PATREON THANK YOU!
+
+Get access to exclusive Discord, previews, even your name in this description or credits! https://www.patreon.com/reneritchie 
+
+Jacob Uribe, John Malkin, Ryan Parman, Roy Burns, Henk van Ess, Paco Arango, Rich Stakounis, Chad Potts, Daniel Pinto, Rod Gray, Daniel Z Wilkerson, Daniel Pasco, Jeffrey David Marraccini, Steven Kaplan, Mark Lussier, Martin Perry, Christopher Wiggins, Dude, Jon Wheeler, Josef, Frederick Lakes Jr., Steven Perry, Michael Dreves, Sam Fingold, Sven Jasper, Kyle Giglio
+
+🚨 DISCLAIMER
+
+This channel does not produce sponsored or paid reviews. Companies occasionally loan sample products to facilitate reviews but provide no payment and get no editorial input, content approval, or advanced previews. They see them for the first time when you do. 
+
+Links may contain referrals for affiliate programs that provide this channel with a tiny commission should you make a purchase. They likewise receive zero editorial input or consideration.
+
+🍎 Some video and images courtesy of Apple Inc.
+📷 Some video and imagery supplied by Getty Images and/or AP Archives
+🎸 Some music supplied by Epidemic
+
+MORE
+
+⭐️ Nebula: https://watchnebula.com/reneritchie
+🐦 Twitter: https://twitter.com/reneritchie
+📸 Instagram: https://instagram.com/reneritchie
+🌎 Web: https://www.reneritchie.net
+🍎 Podcasts: http://apple.co/reneritchie
+🌥 Overcast: https://overcast.fm/p1644160-NUVafv
+👖 Pocket Cast: https://pca.st/reneritchie
+
+Thanks for watching, see you next video!]]></description>
+      <guid isPermaLink="false">com.uuebcast.uuid.ykE2uKI6S-I</guid>
+      <enclosure url="http://oops.hopto.org:9090/static/media/ykE2uKI6S-I.m4a" length="9160933" type="audio/x-m4a"/>
+      <pubDate>Thu, 23 Dec 2021 20:27:16 +0000</pubDate>
+      <itunes:image href="http://i.ytimg.com/vi/ykE2uKI6S-I/hqdefault.jpg"/>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:order>0</itunes:order>
+      <itunes:subtitle>by Rene Ritchie published on Thursday, December 23 2021 at 14:59:07</itunes:subtitle>
+    </item>
     <item>
       <title>Jordan Peterson's Ultimate Advice for Students and College Grads - STOP WASTING TIME - Motivation2Study</title>
       <description><![CDATA[Stop Wasting Time! This is Jordan Peterson&#x27;s Ultimate Advice for Students, College Grads, and Everyone Alive!
@@ -99,7 +161,7 @@ Help us caption &amp; translate this video!
 https://amara.org/v/kPPf/]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.wsNzAuYDgy0</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/wsNzAuYDgy0.m4a" length="14889549" type="audio/x-m4a"/>
-      <pubDate>Thu, 23 Dec 2021 16:25:59 +0000</pubDate>
+      <pubDate>Thu, 23 Dec 2021 20:27:16 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/wsNzAuYDgy0/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -110,7 +172,7 @@ https://amara.org/v/kPPf/]]></description>
       <description><![CDATA[Iker reúne a los especialistas ante la explosión Ómicron detectada hoy.]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.uRlkrOFnWbE</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/uRlkrOFnWbE.m4a" length="144225007" type="audio/x-m4a"/>
-      <pubDate>Thu, 23 Dec 2021 16:25:59 +0000</pubDate>
+      <pubDate>Thu, 23 Dec 2021 20:27:16 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/uRlkrOFnWbE/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -125,7 +187,7 @@ El enlace del libro lo tienen disponible aquí:
 https://amz.run/51A5]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.y3KC9urhPt8</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/y3KC9urhPt8.m4a" length="9322898" type="audio/x-m4a"/>
-      <pubDate>Thu, 23 Dec 2021 16:25:59 +0000</pubDate>
+      <pubDate>Thu, 23 Dec 2021 20:27:16 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/y3KC9urhPt8/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -144,7 +206,7 @@ http://astore.amazon.co.uk/pig-peppa-21
 http://astore.amazon.co.uk/leapster-21]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.NQ5ku4z1pjs</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/NQ5ku4z1pjs.m4a" length="1980711" type="audio/x-m4a"/>
-      <pubDate>Thu, 23 Dec 2021 16:25:59 +0000</pubDate>
+      <pubDate>Thu, 23 Dec 2021 20:27:16 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/NQ5ku4z1pjs/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -191,7 +253,7 @@ http://www.youtube.com/c/DanOlsen
 #DanOlsen #LeanProductMeetup #ProductManagement]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.gCYFmrvPI8Q</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/gCYFmrvPI8Q.m4a" length="101128028" type="audio/x-m4a"/>
-      <pubDate>Thu, 23 Dec 2021 16:25:59 +0000</pubDate>
+      <pubDate>Thu, 23 Dec 2021 20:27:16 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/gCYFmrvPI8Q/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -212,7 +274,7 @@ Algunos libros de Arturo Pérez-Reverte:
 - La Guerra Civil contada a los jóvenes: https://amzn.to/2WUsL8X]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.ZuNqVWfyJuI</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/ZuNqVWfyJuI.m4a" length="22963732" type="audio/x-m4a"/>
-      <pubDate>Thu, 23 Dec 2021 16:25:59 +0000</pubDate>
+      <pubDate>Thu, 23 Dec 2021 20:27:16 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/ZuNqVWfyJuI/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -281,7 +343,7 @@ Our goal and mission at Alpha Leaders is to motivate, inspire, and educate throu
 #alphaleaders #leavealegacy]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.BYGp2UTfI9U</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/BYGp2UTfI9U.m4a" length="9796544" type="audio/x-m4a"/>
-      <pubDate>Thu, 23 Dec 2021 16:25:59 +0000</pubDate>
+      <pubDate>Thu, 23 Dec 2021 20:27:16 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/BYGp2UTfI9U/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -339,7 +401,7 @@ Our goal and mission at Alpha Leaders is to motivate, inspire, and educate throu
 #alphaleaders #leavealegacy]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.7CDGM--Hyu8</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/7CDGM--Hyu8.m4a" length="11665625" type="audio/x-m4a"/>
-      <pubDate>Thu, 23 Dec 2021 16:25:59 +0000</pubDate>
+      <pubDate>Thu, 23 Dec 2021 20:27:16 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/7CDGM--Hyu8/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -406,7 +468,7 @@ MORE
 Thanks for watching, see you next video!]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid._o_aBIiEGkk</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/_o_aBIiEGkk.m4a" length="6994557" type="audio/x-m4a"/>
-      <pubDate>Thu, 23 Dec 2021 16:25:59 +0000</pubDate>
+      <pubDate>Thu, 23 Dec 2021 20:27:16 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/_o_aBIiEGkk/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -419,7 +481,7 @@ Thanks for watching, see you next video!]]></description>
 Learn more about the Harvard Innovation Lab at http://i-lab.harvard.edu/ and follow us on Twitter at http://twitter.com/innovationlab and like us on Facebook at https://www.facebook.com/harvardinnovationlab]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.092JQrye9IM</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/092JQrye9IM.m4a" length="119095027" type="audio/x-m4a"/>
-      <pubDate>Thu, 23 Dec 2021 16:25:59 +0000</pubDate>
+      <pubDate>Thu, 23 Dec 2021 20:27:16 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/092JQrye9IM/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -438,7 +500,7 @@ https://www.twitter.com/DavidGuetta
 https://www.instagram.com/davidguetta]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.oezaifYpfiY</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/oezaifYpfiY.m4a" length="2703962" type="audio/x-m4a"/>
-      <pubDate>Thu, 23 Dec 2021 16:25:59 +0000</pubDate>
+      <pubDate>Thu, 23 Dec 2021 20:27:16 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/oezaifYpfiY/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -523,7 +585,7 @@ Futur Theme Music: Adam Sanborne http://www.adamsanborne.com
 Typefaces: Futura, DIN, Helvetica Now, Calibre, Knockout, Champion Gothic]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.lrM5CRg-O0I</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/lrM5CRg-O0I.m4a" length="5764179" type="audio/x-m4a"/>
-      <pubDate>Thu, 23 Dec 2021 16:25:59 +0000</pubDate>
+      <pubDate>Thu, 23 Dec 2021 20:27:16 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/lrM5CRg-O0I/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -625,7 +687,7 @@ Futur Theme Music: Adam Sanborne http://www.adamsanborne.com
 Typefaces: Futura, DIN, Helvetica Now, Calibre, Knockout, Champion Gothic]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.XH-wD0Jbo5Y</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/XH-wD0Jbo5Y.m4a" length="25090634" type="audio/x-m4a"/>
-      <pubDate>Thu, 23 Dec 2021 16:25:59 +0000</pubDate>
+      <pubDate>Thu, 23 Dec 2021 20:27:16 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/XH-wD0Jbo5Y/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -649,7 +711,7 @@ https://www.facebook.com/programmingwithmosh/
 https://twitter.com/moshhamedani]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.pTB0EiLXUC8</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/pTB0EiLXUC8.m4a" length="7347401" type="audio/x-m4a"/>
-      <pubDate>Thu, 23 Dec 2021 16:25:59 +0000</pubDate>
+      <pubDate>Thu, 23 Dec 2021 20:27:16 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/pTB0EiLXUC8/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -666,7 +728,7 @@ Steve Jobs narrates the first of Apples &#x27;Think Different&#x27; commercial &
 http://www.nathanhulls.com]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.-z4NS2zdrZc</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/-z4NS2zdrZc.m4a" length="989115" type="audio/x-m4a"/>
-      <pubDate>Thu, 23 Dec 2021 16:25:59 +0000</pubDate>
+      <pubDate>Thu, 23 Dec 2021 20:27:16 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/-z4NS2zdrZc/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -681,7 +743,7 @@ Gracias al ordenador CPC 464 de la empresa Amstrad marcó un hito en la historia
 Desde 1985 hasta 1989 Indescomp publicó, bajo el nombre de Amstrad User, una revista dedicada exclusivamente a los usuarios de Amstrad en España.]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.9icPvZ8V2YQ</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/9icPvZ8V2YQ.m4a" length="124526131" type="audio/x-m4a"/>
-      <pubDate>Thu, 23 Dec 2021 16:25:59 +0000</pubDate>
+      <pubDate>Thu, 23 Dec 2021 20:27:16 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/9icPvZ8V2YQ/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -735,7 +797,7 @@ https://gamebanana.com/gamefiles/17646
 #FNF #FridayNightFunkin]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.1jg5zhiO3dw</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/1jg5zhiO3dw.m4a" length="44654036" type="audio/x-m4a"/>
-      <pubDate>Thu, 23 Dec 2021 16:25:59 +0000</pubDate>
+      <pubDate>Thu, 23 Dec 2021 20:27:16 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/1jg5zhiO3dw/default.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -804,7 +866,7 @@ Get social with MTV @
 MTV UK is your place to watch all your favourites! Live EMAs performances, music artist to follow on MTV Push, latest MTV Movies exclusives and the best from Geordie Shore, Just Tattoo of Us, Teen Mom UK, Ex on The Beach and many many more!]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.PGBeV-Hlqaw</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/PGBeV-Hlqaw.m4a" length="4215244" type="audio/x-m4a"/>
-      <pubDate>Thu, 23 Dec 2021 16:25:59 +0000</pubDate>
+      <pubDate>Thu, 23 Dec 2021 20:27:16 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/PGBeV-Hlqaw/default.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -850,7 +912,7 @@ https://twitter.com/janogarcia_
 https://www.facebook.com/janogarciaesp]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.lN0bdw5nBcw</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/lN0bdw5nBcw.m4a" length="46715104" type="audio/x-m4a"/>
-      <pubDate>Thu, 23 Dec 2021 16:25:59 +0000</pubDate>
+      <pubDate>Thu, 23 Dec 2021 20:27:16 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/lN0bdw5nBcw/default.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -938,7 +1000,7 @@ https://cs.harvard.edu/malan
 malan@harvard.edu]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.xFFs9UgOAlE</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/xFFs9UgOAlE.m4a" length="47937502" type="audio/x-m4a"/>
-      <pubDate>Thu, 23 Dec 2021 16:25:59 +0000</pubDate>
+      <pubDate>Thu, 23 Dec 2021 20:27:16 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/xFFs9UgOAlE/default.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
