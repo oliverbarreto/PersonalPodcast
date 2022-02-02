@@ -8,10 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator> </generator>
     <language>es-ES</language>
-    <lastBuildDate>Wed, 02 Feb 2022 07:02:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Feb 2022 22:48:53 +0000</lastBuildDate>
     <itunes:author>oliver</itunes:author>
     <managingEditor>oliver.barreto.online@gmail.com (oliver)</managingEditor>
-    <pubDate>Wed, 02 Feb 2022 07:02:06 +0000</pubDate>
+    <pubDate>Wed, 02 Feb 2022 22:48:53 +0000</pubDate>
     <itunes:category text="News"/>
     <itunes:image href="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png"/>
     <itunes:owner>
@@ -19,70 +19,6 @@
       <itunes:email>oliver.barreto.online@gmail.com</itunes:email>
     </itunes:owner>
     <atom:link href="https://raw.githubusercontent.com/oliverbarreto/PersonalPodcast/main/oliver_feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Cómo usar CLEAN CODE en SWIFT y XCODE - MoureDev by Brais Moure</title>
-      <description><![CDATA[Aplica las técnicas de Clean Code (código limpio) en Swift y Xcode de forma simple utilizando SwiftLint.
-
-🖥   HOSTINGER | Crea tu WEB personal con dominio personalizado y hosting de calidad y a bajo coste:
-• https://hostinger.com/mouredev (Cupón descuento -7% &quot;MOUREDEV&quot;)
-
-📘  Compra el libro CLEAN CODE:
-• Español: https://amzn.to/3g2AhEr
-• Inglés: https://amzn.to/33R7FvK
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-🔗  Redes y enlaces de interés | https://moure.dev
-👾  Discord | https://mouredev.com/discord
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-🕹  Twitch | https://twitch.tv/mouredev (directos de Lunes a Viernes)
-🐦  Twitter | https://twitter.com/mouredev
-📷  Instagram | https://instagram.com/mouredev
-🎶  TikTok | https://tiktok.com/@mouredev
-📩  Newsletter | http://newsletter.mouredev.com
-👕  Merchandising | https://tienda.mouredev.com
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-🔔  SUSCRÍBETE Y ACTIVA LA CAMPANA | https://goo.gl/afPz3g
-🏆  COLABORA CON EL CANAL | https://www.youtube.com/mouredevapps/join
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-💻  MI EQUIPO/SETUP:
-https://mouredev.com/setup
-https://www.amazon.es/shop/mouredev
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-🎓  CURSO COMPLETO iOS 15 y Swift 5.5  DESDE CERO:
-https://www.udemy.com/course/swift_ios/?referralCode=04756B8423CBE177B930
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-⏳  TWITIMER, LA APP PARA APRENDER PROGRAMACIÓN DE LA COMUNIDAD:
-https://twitimer.com
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-⭐️  DESCUENTOS Y COLABORADORES:
-• Elgato: https://e.lga.to/MoureDev
-• Macnificos | https://macnificos.com/tienda/?tt=31560_12_407642_&amp;r=%2F
-• Wetaca: https://mouredev.com/wetaca (Cupón &quot;MOUREDEV&quot; -10€/20€)
-• MacPaw | https://macpaw.audw.net/c/2550109/94160/1733
-• ClickUp | https://clickup.com?fp_ref=brais66&amp;promo=MOUREDEV
-• GitKraken | https://www.gitkraken.com/invite/cZWhJq1v
-• NordVPN | https://nordvpn.org/mouredev
-• CodelyTV Pro | https://codely.tv/pro/mouredev 
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-🔗  RECURSOS VÍDEO:
-• SwiftLint GitHub: https://github.com/realm/SwiftLint
-• Reglas SwiftLint: https://realm.github.io/SwiftLint/rule-directory.html
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-⏱  ÍNDICE:
-00:00 | Introducción
-01:24 | Colaboración Hostinger
-02:10 | Clean Code / Código Limpio
-03:56 | SwfitLint
-08:13 | Conclusiones
-
-#CleanCode #Swift #Xcode]]></description>
-      <guid isPermaLink="false">com.uuebcast.uuid.0jdUYU3uoZs</guid>
-      <enclosure url="http://oops.hopto.org:9090/static/media/0jdUYU3uoZs.m4a" length="9141481" type="audio/x-m4a"/>
-      <pubDate>Wed, 02 Feb 2022 07:02:06 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/0jdUYU3uoZs/hqdefault.jpg"/>
-      <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>0</itunes:order>
-      <itunes:subtitle>by MoureDev by Brais Moure published on Friday, January 28 2022 at 16:30:00</itunes:subtitle>
-    </item>
     <item>
       <title>Tom Brady controlled his own ending, not mentioning the Pats is a non-story — Colin | NFL | THE HERD - The Herd with Colin Cowherd</title>
       <description><![CDATA[Tom Brady has officially announced his retirement after 22 season in the NFL. Colin Cowherd reflects on Brady&#x27;s historic career, and praises the quarterback for controlling his ending as masterfully as he controlled the trajectory of his career. Plus, Colin breaks down why Brady not mentioning the New England Patriots in his retirement post is a non-story.
@@ -120,7 +56,7 @@ The Herd with Colin Cowherd
 https://www.youtube.com/c/colincowherd]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.O6G54x5P7JI</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/O6G54x5P7JI.m4a" length="12344653" type="audio/x-m4a"/>
-      <pubDate>Wed, 02 Feb 2022 07:02:06 +0000</pubDate>
+      <pubDate>Wed, 02 Feb 2022 22:48:53 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/O6G54x5P7JI/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -149,7 +85,7 @@ https://twitter.com/janogarcia_
 https://www.facebook.com/janogarciaesp]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.gp8k1ZwzDtU</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/gp8k1ZwzDtU.m4a" length="68930194" type="audio/x-m4a"/>
-      <pubDate>Wed, 02 Feb 2022 07:02:06 +0000</pubDate>
+      <pubDate>Wed, 02 Feb 2022 22:48:53 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/gp8k1ZwzDtU/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -160,7 +96,7 @@ https://www.facebook.com/janogarciaesp]]></description>
       <description><![CDATA[Adiós a Pablo Fuente #LaEstirpedelosLibres #endirecto]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.aA7i9tIR6sg</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/aA7i9tIR6sg.m4a" length="162411157" type="audio/x-m4a"/>
-      <pubDate>Wed, 02 Feb 2022 07:02:06 +0000</pubDate>
+      <pubDate>Wed, 02 Feb 2022 22:48:53 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/aA7i9tIR6sg/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -229,7 +165,7 @@ Here is another good summary of this book by Ali Abdaal - https://www.youtube.co
 Thankyou for watching this animated summary of Atomic Habits. Please Subscribe :)]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.PZ7lDrwYdZc</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/PZ7lDrwYdZc.m4a" length="27361601" type="audio/x-m4a"/>
-      <pubDate>Wed, 02 Feb 2022 07:02:06 +0000</pubDate>
+      <pubDate>Wed, 02 Feb 2022 22:48:53 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/PZ7lDrwYdZc/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -243,7 +179,7 @@ Thankyou for watching this animated summary of Atomic Habits. Please Subscribe :
 Interested in joining my paid coaching program and getting support to get your software development career started? If you consider yourself an action-taker, you&#x27;re ready to invest in your career and you&#x27;re committed to putting in the work then book your intake call at https://andysterkowitz.link/call-00068]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.jzaz7oH15IU</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/jzaz7oH15IU.m4a" length="7254073" type="audio/x-m4a"/>
-      <pubDate>Wed, 02 Feb 2022 07:02:06 +0000</pubDate>
+      <pubDate>Wed, 02 Feb 2022 22:48:53 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/jzaz7oH15IU/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -263,7 +199,7 @@ Just a heads up; I misspoke when I said 1 month free trial....it is not a 1 mont
 I&#x27;m a  participant in Edabit&#x27;s affiliate program. Edabit offers a small commission on memberships sold through their affiliate links. Signing up for a paid program via my Edabit affiliation link above supports my cause at no additional cost to you.]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.AOGxYOtgHwE</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/AOGxYOtgHwE.m4a" length="6624698" type="audio/x-m4a"/>
-      <pubDate>Wed, 02 Feb 2022 07:02:06 +0000</pubDate>
+      <pubDate>Wed, 02 Feb 2022 22:48:53 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/AOGxYOtgHwE/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -304,7 +240,7 @@ Sign up for my newsletter written to YOU at: https://melrobbins.com/newsletter/�
 Get three free guides + my Mindset Reset​​​ program at https://melrobbins.com/mindsetreset/​]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.V7AUzIfbwNo</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/V7AUzIfbwNo.m4a" length="7122349" type="audio/x-m4a"/>
-      <pubDate>Wed, 02 Feb 2022 07:02:06 +0000</pubDate>
+      <pubDate>Wed, 02 Feb 2022 22:48:53 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/V7AUzIfbwNo/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -327,7 +263,7 @@ Subreddit: https://reddit.com/r/betterideas
 The YouTube gear I use: https://kit.co/betterideas]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.Olzc15hIcyI</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/Olzc15hIcyI.m4a" length="13593056" type="audio/x-m4a"/>
-      <pubDate>Wed, 02 Feb 2022 07:02:06 +0000</pubDate>
+      <pubDate>Wed, 02 Feb 2022 22:48:53 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/Olzc15hIcyI/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -368,7 +304,7 @@ Hi! I’m Ryan and I Animate Podcasts/Lectures about self-improvement, being a b
 #Jordanpeterson #Improve]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.ch55SHnLs_M</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/ch55SHnLs_M.m4a" length="2273633" type="audio/x-m4a"/>
-      <pubDate>Wed, 02 Feb 2022 07:02:06 +0000</pubDate>
+      <pubDate>Wed, 02 Feb 2022 22:48:53 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/ch55SHnLs_M/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -454,7 +390,7 @@ Help us caption &amp; translate this video!
 https://amara.org/v/kPPf/]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.wsNzAuYDgy0</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/wsNzAuYDgy0.m4a" length="14889549" type="audio/x-m4a"/>
-      <pubDate>Wed, 02 Feb 2022 07:02:06 +0000</pubDate>
+      <pubDate>Wed, 02 Feb 2022 22:48:53 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/wsNzAuYDgy0/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -465,7 +401,7 @@ https://amara.org/v/kPPf/]]></description>
       <description><![CDATA[Iker reúne a los especialistas ante la explosión Ómicron detectada hoy.]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.uRlkrOFnWbE</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/uRlkrOFnWbE.m4a" length="144225007" type="audio/x-m4a"/>
-      <pubDate>Wed, 02 Feb 2022 07:02:06 +0000</pubDate>
+      <pubDate>Wed, 02 Feb 2022 22:48:53 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/uRlkrOFnWbE/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -480,7 +416,7 @@ El enlace del libro lo tienen disponible aquí:
 https://amz.run/51A5]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.y3KC9urhPt8</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/y3KC9urhPt8.m4a" length="9322898" type="audio/x-m4a"/>
-      <pubDate>Wed, 02 Feb 2022 07:02:06 +0000</pubDate>
+      <pubDate>Wed, 02 Feb 2022 22:48:53 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/y3KC9urhPt8/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -499,7 +435,7 @@ http://astore.amazon.co.uk/pig-peppa-21
 http://astore.amazon.co.uk/leapster-21]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.NQ5ku4z1pjs</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/NQ5ku4z1pjs.m4a" length="1980711" type="audio/x-m4a"/>
-      <pubDate>Wed, 02 Feb 2022 07:02:06 +0000</pubDate>
+      <pubDate>Wed, 02 Feb 2022 22:48:53 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/NQ5ku4z1pjs/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -546,7 +482,7 @@ http://www.youtube.com/c/DanOlsen
 #DanOlsen #LeanProductMeetup #ProductManagement]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.gCYFmrvPI8Q</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/gCYFmrvPI8Q.m4a" length="101128028" type="audio/x-m4a"/>
-      <pubDate>Wed, 02 Feb 2022 07:02:06 +0000</pubDate>
+      <pubDate>Wed, 02 Feb 2022 22:48:53 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/gCYFmrvPI8Q/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -567,7 +503,7 @@ Algunos libros de Arturo Pérez-Reverte:
 - La Guerra Civil contada a los jóvenes: https://amzn.to/2WUsL8X]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.ZuNqVWfyJuI</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/ZuNqVWfyJuI.m4a" length="22963732" type="audio/x-m4a"/>
-      <pubDate>Wed, 02 Feb 2022 07:02:06 +0000</pubDate>
+      <pubDate>Wed, 02 Feb 2022 22:48:53 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/ZuNqVWfyJuI/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -636,7 +572,7 @@ Our goal and mission at Alpha Leaders is to motivate, inspire, and educate throu
 #alphaleaders #leavealegacy]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.BYGp2UTfI9U</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/BYGp2UTfI9U.m4a" length="9796544" type="audio/x-m4a"/>
-      <pubDate>Wed, 02 Feb 2022 07:02:06 +0000</pubDate>
+      <pubDate>Wed, 02 Feb 2022 22:48:53 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/BYGp2UTfI9U/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -694,7 +630,7 @@ Our goal and mission at Alpha Leaders is to motivate, inspire, and educate throu
 #alphaleaders #leavealegacy]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.7CDGM--Hyu8</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/7CDGM--Hyu8.m4a" length="11665625" type="audio/x-m4a"/>
-      <pubDate>Wed, 02 Feb 2022 07:02:06 +0000</pubDate>
+      <pubDate>Wed, 02 Feb 2022 22:48:53 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/7CDGM--Hyu8/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -761,7 +697,7 @@ MORE
 Thanks for watching, see you next video!]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid._o_aBIiEGkk</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/_o_aBIiEGkk.m4a" length="6994557" type="audio/x-m4a"/>
-      <pubDate>Wed, 02 Feb 2022 07:02:06 +0000</pubDate>
+      <pubDate>Wed, 02 Feb 2022 22:48:53 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/_o_aBIiEGkk/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -774,7 +710,7 @@ Thanks for watching, see you next video!]]></description>
 Learn more about the Harvard Innovation Lab at http://i-lab.harvard.edu/ and follow us on Twitter at http://twitter.com/innovationlab and like us on Facebook at https://www.facebook.com/harvardinnovationlab]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.092JQrye9IM</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/092JQrye9IM.m4a" length="119095027" type="audio/x-m4a"/>
-      <pubDate>Wed, 02 Feb 2022 07:02:06 +0000</pubDate>
+      <pubDate>Wed, 02 Feb 2022 22:48:53 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/092JQrye9IM/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -793,7 +729,7 @@ https://www.twitter.com/DavidGuetta
 https://www.instagram.com/davidguetta]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.oezaifYpfiY</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/oezaifYpfiY.m4a" length="2703962" type="audio/x-m4a"/>
-      <pubDate>Wed, 02 Feb 2022 07:02:06 +0000</pubDate>
+      <pubDate>Wed, 02 Feb 2022 22:48:53 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/oezaifYpfiY/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -878,7 +814,7 @@ Futur Theme Music: Adam Sanborne http://www.adamsanborne.com
 Typefaces: Futura, DIN, Helvetica Now, Calibre, Knockout, Champion Gothic]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.lrM5CRg-O0I</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/lrM5CRg-O0I.m4a" length="5764179" type="audio/x-m4a"/>
-      <pubDate>Wed, 02 Feb 2022 07:02:06 +0000</pubDate>
+      <pubDate>Wed, 02 Feb 2022 22:48:53 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/lrM5CRg-O0I/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -980,7 +916,7 @@ Futur Theme Music: Adam Sanborne http://www.adamsanborne.com
 Typefaces: Futura, DIN, Helvetica Now, Calibre, Knockout, Champion Gothic]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.XH-wD0Jbo5Y</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/XH-wD0Jbo5Y.m4a" length="25090634" type="audio/x-m4a"/>
-      <pubDate>Wed, 02 Feb 2022 07:02:06 +0000</pubDate>
+      <pubDate>Wed, 02 Feb 2022 22:48:53 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/XH-wD0Jbo5Y/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -1004,7 +940,7 @@ https://www.facebook.com/programmingwithmosh/
 https://twitter.com/moshhamedani]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.pTB0EiLXUC8</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/pTB0EiLXUC8.m4a" length="7347401" type="audio/x-m4a"/>
-      <pubDate>Wed, 02 Feb 2022 07:02:06 +0000</pubDate>
+      <pubDate>Wed, 02 Feb 2022 22:48:53 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/pTB0EiLXUC8/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -1021,7 +957,7 @@ Steve Jobs narrates the first of Apples &#x27;Think Different&#x27; commercial &
 http://www.nathanhulls.com]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.-z4NS2zdrZc</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/-z4NS2zdrZc.m4a" length="989115" type="audio/x-m4a"/>
-      <pubDate>Wed, 02 Feb 2022 07:02:06 +0000</pubDate>
+      <pubDate>Wed, 02 Feb 2022 22:48:53 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/-z4NS2zdrZc/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -1036,7 +972,7 @@ Gracias al ordenador CPC 464 de la empresa Amstrad marcó un hito en la historia
 Desde 1985 hasta 1989 Indescomp publicó, bajo el nombre de Amstrad User, una revista dedicada exclusivamente a los usuarios de Amstrad en España.]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.9icPvZ8V2YQ</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/9icPvZ8V2YQ.m4a" length="124526131" type="audio/x-m4a"/>
-      <pubDate>Wed, 02 Feb 2022 07:02:06 +0000</pubDate>
+      <pubDate>Wed, 02 Feb 2022 22:48:53 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/9icPvZ8V2YQ/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -1090,7 +1026,7 @@ https://gamebanana.com/gamefiles/17646
 #FNF #FridayNightFunkin]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.1jg5zhiO3dw</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/1jg5zhiO3dw.m4a" length="44654036" type="audio/x-m4a"/>
-      <pubDate>Wed, 02 Feb 2022 07:02:06 +0000</pubDate>
+      <pubDate>Wed, 02 Feb 2022 22:48:53 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/1jg5zhiO3dw/default.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -1159,7 +1095,7 @@ Get social with MTV @
 MTV UK is your place to watch all your favourites! Live EMAs performances, music artist to follow on MTV Push, latest MTV Movies exclusives and the best from Geordie Shore, Just Tattoo of Us, Teen Mom UK, Ex on The Beach and many many more!]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.PGBeV-Hlqaw</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/PGBeV-Hlqaw.m4a" length="4215244" type="audio/x-m4a"/>
-      <pubDate>Wed, 02 Feb 2022 07:02:06 +0000</pubDate>
+      <pubDate>Wed, 02 Feb 2022 22:48:53 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/PGBeV-Hlqaw/default.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -1205,7 +1141,7 @@ https://twitter.com/janogarcia_
 https://www.facebook.com/janogarciaesp]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.lN0bdw5nBcw</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/lN0bdw5nBcw.m4a" length="46715104" type="audio/x-m4a"/>
-      <pubDate>Wed, 02 Feb 2022 07:02:06 +0000</pubDate>
+      <pubDate>Wed, 02 Feb 2022 22:48:53 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/lN0bdw5nBcw/default.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -1293,7 +1229,7 @@ https://cs.harvard.edu/malan
 malan@harvard.edu]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.xFFs9UgOAlE</guid>
       <enclosure url="http://oops.hopto.org:9090/static/media/xFFs9UgOAlE.m4a" length="47937502" type="audio/x-m4a"/>
-      <pubDate>Wed, 02 Feb 2022 07:02:06 +0000</pubDate>
+      <pubDate>Wed, 02 Feb 2022 22:48:53 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/xFFs9UgOAlE/default.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
