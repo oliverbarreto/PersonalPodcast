@@ -8,10 +8,9 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator> </generator>
     <language>es-ES</language>
-    <lastBuildDate>Tue, 02 Nov 2021 18:15:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Jul 2022 21:53:06 +0000</lastBuildDate>
     <itunes:author>miguel</itunes:author>
     <managingEditor>miguel.barretoacosta@gmail.com (miguel)</managingEditor>
-    <pubDate>Tue, 02 Nov 2021 18:15:32 +0000</pubDate>
     <itunes:category text="News"/>
     <itunes:image href="/static/channel_logos/miguel.png"/>
     <itunes:owner>
@@ -19,17 +18,5 @@
       <itunes:email>miguel.barretoacosta@gmail.com</itunes:email>
     </itunes:owner>
     <atom:link href="https://raw.githubusercontent.com/oliverbarreto/PersonalPodcast/main/miguel_feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Bloque 1 y Bloque 2 - Miguel Studies</title>
-      <description><![CDATA[- Bloque 1: La Península Ibérica Desde Los Primeros Humanos Hasta La Desaparición De La Monarquía Visigoda (711)
-- Bloque 2: La Edad Media: Tres culturas y un mapa político en constante cambio (711-1474)]]></description>
-      <guid isPermaLink="false">com.uuebcast.uuid.ITBJ1SXrB80</guid>
-      <enclosure url="http://oops.hopto.org:9090/static/media/ITBJ1SXrB80.m4a" length="18304680" type="audio/x-m4a"/>
-      <pubDate>Tue, 02 Nov 2021 18:15:32 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/ITBJ1SXrB80/hqdefault.jpg"/>
-      <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>0</itunes:order>
-      <itunes:subtitle>by Miguel Studies published on Saturday, October 23 2021 at 18:29:35</itunes:subtitle>
-    </item>
   </channel>
 </rss>
