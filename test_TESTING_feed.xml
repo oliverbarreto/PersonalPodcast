@@ -1,1 +1,43 @@
-This is a new file
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Personal Podcast</title>
+    <link>http://192.168.1.37:5000/test/publicprofile</link>
+    <description>I publish interesting things !!!</description>
+    <itunes:explicit>yes</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator> </generator>
+    <language>es-ES</language>
+    <lastBuildDate>Wed, 01 Feb 2023 15:33:23 +0000</lastBuildDate>
+    <itunes:author>test</itunes:author>
+    <managingEditor>oliver.barreto@gmail.com (test)</managingEditor>
+    <pubDate>Wed, 01 Feb 2023 15:33:23 +0000</pubDate>
+    <itunes:category text="News"/>
+    <itunes:image href="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png"/>
+    <itunes:owner>
+      <itunes:name>test</itunes:name>
+      <itunes:email>oliver.barreto@gmail.com</itunes:email>
+    </itunes:owner>
+    <atom:link href="https://raw.githubusercontent.com/oliverbarreto/PersonalPodcast/main/test_feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>How To Make iPhone Apps Faster | My Custom Workflow [Swift 5, Xcode 12] - Aryaman Sharda</title>
+      <description><![CDATA[Check out my eBook - Ace The iOS Interview (https://aryamansharda.gumroad.com/l/tcvck)
+
+I released my first app on the App Store back in 2013 and it took me 3 months to make and it was absolutely awful. Since then I&#x27;ve improved a lot and had the opportunity to work on dozens of iOS apps both professionally and personally as side projects.
+
+So, I wanted to share my current workflow for quickly ideating and creating new iOS apps and show you how I was able to release my last 3 iOS apps from start to finish in just one week, respectively.
+
+We&#x27;ll cover my ideation process, my development tools, and my post-launch analytics workflows as well. 
+
+Blog: https://digitalbunker.dev/
+Twitter: https://twitter.com/aryamansharda]]></description>
+      <guid isPermaLink="false">com.uuebcast.uuid.yok5XfEnJXA</guid>
+      <enclosure url="http://192.168.1.37:5000/static/media/yok5XfEnJXA.m4a" length="7795368" type="audio/x-m4a"/>
+      <pubDate>Wed, 01 Feb 2023 15:33:23 +0000</pubDate>
+      <itunes:image href="http://i.ytimg.com/vi/yok5XfEnJXA/hqdefault.jpg"/>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:order>0</itunes:order>
+      <itunes:subtitle>by Aryaman Sharda published on Saturday, July 10 2021 at 07:54:24</itunes:subtitle>
+    </item>
+  </channel>
+</rss>
