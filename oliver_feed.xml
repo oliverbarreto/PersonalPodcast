@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>My Personal Podcast Channel</title>
-    <link>http://oliverbarreto.com</link>
-    <description>I publish interesting things in my own podcast from Youtube channels !!!</description>
+    <title>Oliver's Personal Podcast</title>
+    <link>http://oops.hopto.org:9090/oliver/publicprofile</link>
+    <description>I publish interesting things !!!</description>
     <itunes:explicit>yes</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator> </generator>
     <language>es-ES</language>
-    <lastBuildDate>Fri, 20 Jan 2023 16:28:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Feb 2023 08:13:38 +0000</lastBuildDate>
     <itunes:author>oliver</itunes:author>
     <managingEditor>oliver.barreto.online@gmail.com (oliver)</managingEditor>
-    <pubDate>Fri, 20 Jan 2023 16:28:37 +0000</pubDate>
+    <pubDate>Fri, 03 Feb 2023 08:13:38 +0000</pubDate>
     <itunes:category text="News"/>
     <itunes:image href="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png"/>
     <itunes:owner>
@@ -20,1001 +20,26 @@
     </itunes:owner>
     <atom:link href="https://raw.githubusercontent.com/oliverbarreto/PersonalPodcast/main/oliver_feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Satya Nadella: Microsoft's Products Will Soon Access Open AI Tools Like ChatGPT | WSJ - Wall Street Journal</title>
-      <description><![CDATA[Microsoft CEO Satya Nadella discusses the company expanding access to OpenAI tools and the growing capabilities of ChatGPT at WSJ’s Journal House during the 2023 World Economic Forum.
+      <title>¡Ricky Rubio contra Aldama! - NBA SPAIN</title>
+      <description><![CDATA[Ricky &amp; Aldama: ¡Los dos en la pista!
 
-Photo: Richard King for the Wall Street Journal
+Aldama: 21 puntos, 10 rebotes y 4 triples
+Ricky:: 13 puntos, 4 asistencias, 2 rebotes y 2 recuperaciones
 
-#Microsoft #AI #WSJ]]></description>
-      <guid isPermaLink="false">com.uuebcast.uuid.UNbyT7wPwk4</guid>
-      <enclosure url="http://oops.hopto.org:9090/static/media/UNbyT7wPwk4.m4a" length="30787236" type="audio/x-m4a"/>
-      <pubDate>Fri, 20 Jan 2023 16:28:37 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/UNbyT7wPwk4/hqdefault.jpg"/>
+Victoria de los Cavs
+
+
+ MEJOR APP de la NBA con descuentos y beneficios. Es gratis https://spain.id.nba.com/?utm_source=Facebook&amp;utm_medium=Facebook
+Prueba gratuita de NBA League Pass https://on.nba.com/leaguepass114
+Síguenos en Twitter: https://twitter.com/NBAspain
+No te pierdas nada en Facebook: https://www.facebook.com/NBASPAIN]]></description>
+      <guid isPermaLink="false">com.uuebcast.uuid.cQYcjkq5OBI</guid>
+      <enclosure url="http://oops.hopto.org:9090/static/media/cQYcjkq5OBI.m4a" length="2167680" type="audio/x-m4a"/>
+      <pubDate>Fri, 03 Feb 2023 08:13:38 +0000</pubDate>
+      <itunes:image href="http://i.ytimg.com/vi/cQYcjkq5OBI/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
-      <itunes:subtitle>by Wall Street Journal published on Tuesday, January 17 2023 at 20:30:20</itunes:subtitle>
-    </item>
-    <item>
-      <title>What if Still D.R.E. Was By HANS ZIMMER?! - Lionel Yu Performances</title>
-      <description><![CDATA[To be notified of my concerts or download exclusive sheet music, visit my website: https://www.thebasicsofmusic.com/
-
-Still Dre becomes a movie soundtrack banger with some cinematic drums, war horns, epic strings and tons of effects!
-
------------------------------------------------------------------------------------
-
-Stream This Song
-Spotify ►►  https://bit.ly/stillDreSpotify
-Apple ►► http://apple.co/3aTT83q
-Stream on other platforms ►► https://ffm.to/stilldre
-
------------------------------------------------------------------------------------
-
-Sheet music here (piano part) ►► https://www.musicnotes.com/l/R9Vm4
-kodeblooded YT Channel ►► http://bit.ly/3nZi11n
-
------------------------------------------------------------------------------------
-
-Follow me:
-TWITCH  ►► https://twitch.tv/musicalbasics
-DISCORD  ►► https://discord.gg/musicalbasics
-
------------------------------------------------------------------------------------
-
-Stream My Music :)
-
-Spotify  ►► http://bit.ly/MBPiano_Spotify
-Apple Music  ►► https://bit.ly/MB_AppleMusic
-Any other music service just search for MusicalBasics
-
------------------------------------------------------------------------------------
-
-Thank you to my supporters on Patreon ►► http://bit.ly/MB_Patreon
-
------------------------------------------------------------------------------------
-
-Thanks For Watching!
-
-#Music #Piano #Epic #Virtuoso]]></description>
-      <guid isPermaLink="false">com.uuebcast.uuid.jDQ4TDg7kN4</guid>
-      <enclosure url="http://oops.hopto.org:9090/static/media/jDQ4TDg7kN4.m4a" length="3200701" type="audio/x-m4a"/>
-      <pubDate>Fri, 20 Jan 2023 16:28:37 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/jDQ4TDg7kN4/hqdefault.jpg"/>
-      <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>0</itunes:order>
-      <itunes:subtitle>by Lionel Yu Performances published on Tuesday, June 30 2020 at 14:00:30</itunes:subtitle>
-    </item>
-    <item>
-      <title>How ChatGPT changed everything: Thoughts from the frontline of the AI/ML revolution - Intercom</title>
-      <description><![CDATA[This week OpenAI released ChatGPT, its prototype AI chatbot. On this episode of Intercom on Product, Intercom Co-Founder and Chief Strategy Officer Des Traynor sits down to chat with our Director of Machine Learning, Fergal Reid for reaction and analysis on the implications of ChatGPT and what the future holds.
-
-Chapters
-0:00 What is ChatGPT?
-4:41 The internet reacts
-6:10 Is GPT producing creative work?
-7:45 GPT and Facts
-9:28 Effect on peoples jobs
-13:31 Hallucinations
-21:26 How to improve language models
-26:01 Is this bigger than Google?
-29:30 Customer Support
-42:06 Smart Replies 
-45:28 What other industries will be effected?
-50:13 Outro
-
-Transcript:
-https://www.intercom.com/blog/podcasts/intercom-on-product-chatgpt-ai-ml-revolution/
-
-Follow the people:
-https://twitter.com/destraynor
-https://twitter.com/fergal_reid
-
-Follow the podcast:
-https://podcasts.apple.com/us/podcast/intercom-on-product/id1462264923
-https://open.spotify.com/show/6d9s4PBzvdESARqUadlCpo
-https://www.youtube.com/playlist?list=PLlCIldMZCaFrcO10XuO7JtPpsZ7EyK0fg
-https://rss.art19.com/intercom-on-product
-
-Referenced in the episode:
-https://arxiv.org/abs/2210.11610
-https://githubnext.com/projects/hey-github]]></description>
-      <guid isPermaLink="false">com.uuebcast.uuid.SCsSpqZq_xA</guid>
-      <enclosure url="http://oops.hopto.org:9090/static/media/SCsSpqZq_xA.m4a" length="49227191" type="audio/x-m4a"/>
-      <pubDate>Fri, 20 Jan 2023 16:28:37 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/SCsSpqZq_xA/hqdefault.jpg"/>
-      <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>0</itunes:order>
-      <itunes:subtitle>by Intercom published on Friday, December  9 2022 at 14:09:19</itunes:subtitle>
-    </item>
-    <item>
-      <title>David Guetta &amp; Bebe Rexha - I'm Good (Blue) [Live Performance] - David Guetta</title>
-      <description><![CDATA[Listen to &quot;I&#x27;m Good (Blue)&quot; by David Guetta &amp; Bebe Rexha: https://davidguetta.lnk.to/ImGood
-
-🔔 Subscribe to be notified for new videos ➡️ https://davidguetta.lnk.to/YouTube​ 🔔 
-
-#davidguetta #beberexha #imgood 
-
-David Guetta &amp; Bebe Rexha - I’m Good (Blue)
-(David Guetta, Kamille, Phil Plested, Bebe Rexha, Massimo Gabutti, Maurizio Lobina, Gianfranco Randone)
-Produced by David Guetta &amp; Timofey Reznikov
-Additional production by Ahh
-Mixed by Serban Ghenea at MixStar Studios, Virginia Beach, VA
-Publishers: JackBack Publishing Ltd, admin by Write Here Music (SACEM)/Reservoir Music (ASCAP); BMG rights management (uk) Ltd; Hotel Cabana Limited/Sony Music Publishing; BMG Platinum Songs US (BMI)/Kiss Me lf You Can Music (BMI), admin by BMG Rights Management (US) LLC; GZ2538 srl (SIAE)
-Bebe Rexha appears courtesy of Warner Bros
-(P) &amp; (C) 2022 What A DJ Ltd, Under License to Warner Music UK Limited
-
-Follow David Guetta:
-Instagram: https://www.instagram.com/davidguetta/
-TikTok: https://www.tiktok.com/@davidguetta
-Twitter: https://twitter.com/DavidGuetta
-Facebook: https://www.facebook.com/DavidGuetta/
-Website: https://davidguetta.com/ 
-
-Follow Bebe Rexha:
-Instagram: https://www.instagram.com/beberexha/
-TikTok: https://www.tiktok.com/@beberexha
-Twitter: https://twitter.com/BebeRexha
-Facebook: https://www.facebook.com/beberexha
-Website: https://www.beberexha.com/
-
-Lyrics:
-I’m good yeah I’m feeling alright,
-Baby imma have the best f*cking night of my life,
-And wherever it takes me I’m down for the ride,
-Baby don’t you know I’m good yeah I’m feeling alright,
- 
-Cos I’m good yeah I’m feeling alright,
-Baby imma have the best f*cking night of my life,
-And wherever it takes me I’m down for the ride,
-Baby don’t you know I’m good yeah I’m feeling alright,
- 
-don’t you know I’m good yeah I’m feeling alright,
- 
-you know I’m down for whatever tonight,
-I don’t need the finer things in life,
-No matter where I go It’s a good time, 
-And I, I don’t need to sit in VIP,
-Middle of the floor that’s where I’ll be,
-Don’t got a lot but that’s enough for me,
- 
-Cos I’m good yeah I’m feeling alright,
-Baby imma have the best f*cking night of my life,
-And wherever it takes me I’m down for the ride,
-Baby don’t you know I’m good yeah I’m feeling alright,
- 
-I’m Good, 
-Good
-I’m Good
-don’t you know I’m good yeah I’m feeling alright,
- 
-So I just let it go, let it go, oh na na na, 
-No I don’t care no more, care no more, oh na na na,
-So come on, let me know, let me know, put you hands up, na na na,
-No baby nothings gonna stop us tonight
- 
-Cos I’m good yeah I’m feeling alright,
-Baby imma have the best f*cking night of my life,
-And wherever it takes me I’m down for the ride,
-Baby don’t you know I’m good yeah I’m feeling alright]]></description>
-      <guid isPermaLink="false">com.uuebcast.uuid.kXhBKjDKF84</guid>
-      <enclosure url="http://oops.hopto.org:9090/static/media/kXhBKjDKF84.m4a" length="2830787" type="audio/x-m4a"/>
-      <pubDate>Fri, 20 Jan 2023 16:28:37 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/kXhBKjDKF84/hqdefault.jpg"/>
-      <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>0</itunes:order>
-      <itunes:subtitle>by David Guetta published on Monday, October 24 2022 at 14:40:22</itunes:subtitle>
-    </item>
-    <item>
-      <title>David Guetta | United at Home - Dubai Edition - David Guetta</title>
-      <description><![CDATA[DONATE NOW ON https://davidguetta.com/donate
-Stream/Download: https://apple.co/3dhLQaC 
-
-United At Home / Fundraising Live From Dubai
-Saturday February 6 • 3PM CET
-
-DUBAI 6PM • CAIRO 4PM • MOSCOW &amp; RIYADH 5PM • MUMBAI 7:30PM • HONG KONG 10PM • TOKYO 11PM • PARIS 3PM • LONDON 2PM • NEW YORK 9AM
-
- #UnitedatHome #StayHome #WithMe
-
-00:00 Intro
-02:25 David Guetta feat Sia - Titanium (Future Rave Remix) 
-07:15 Camelphat &amp; Will Easton - Witching Hour (David Guetta Rework 2020)
-10:05 David Guetta - Play Hard (feat Ne-Yo &amp; Akon) (Future Rave Remix)
-13:18 David Guetta feat Sia - Let’s Love (Future Rave Remix) 
-16:10 David Guetta &amp; MORTEN - Air
-19:47 David Guetta &amp; MORTEN - Dreams (feat Lanie Gardner) (extended)
-23:32 Jack Back - Amsterdam
-27:05 David Guetta feat Chris Willis - Love Is Gone (2020 David Guetta Remix)
-29:30 David Guetta - You Can’t Change Me
-34:45 Jack Back - Permanence
-38:50 Oxia - Domino (2021 David Guetta Remix)
-41:20 David Guetta &amp; Kid Cudi - Memories (2021 Remix)
-45:00 David Guetta feat AKON - Sexy Bitch (David Guetta Techy Remix)
-48:34 Florence + The Machine - Spectrum (Say My Name) (David Guetta Remix)
-51:56 David Guetta - When love takes over (feat Kelly Rowland) (Future Rave Remix)
-55:00 David Guetta &amp; MORTEN - Odyssey
-59:37 Energy 52 - Cafe Del Mar (Tale Of Us Renaissance Remix) [David Guetta Rework]
-01:03:30 Outro]]></description>
-      <guid isPermaLink="false">com.uuebcast.uuid.xaurMcGqZHU</guid>
-      <enclosure url="http://oops.hopto.org:9090/static/media/xaurMcGqZHU.m4a" length="63212233" type="audio/x-m4a"/>
-      <pubDate>Fri, 20 Jan 2023 16:28:37 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/xaurMcGqZHU/hqdefault.jpg"/>
-      <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>0</itunes:order>
-      <itunes:subtitle>by David Guetta published on Saturday, February  6 2021 at 15:18:07</itunes:subtitle>
-    </item>
-    <item>
-      <title>David Guetta | United at Home - Paris Edition from the Louvre - David Guetta</title>
-      <description><![CDATA[DONATE NOW
-on https://davidguetta.com/donate
-
-In partnership with @PlayStationFrance &amp; @xiaomi.france 
-
-After raising $1.5 million (USD) for charities and amassing over 50 million views in Miami and New York, “United At Home” continues from the iconic city of Paris with a phenomenal production in front of the Louvre museum’ glass pyramid. In an effort to unite people around the globe, David Guetta is inviting everyone to join him in celebrating NYE and spreading the holidays spirit to benefit UNICEF, Les Restos du Coeur and the Musée du Louvre.
-
-00:00 Intro
-00:42 David Guetta &amp; MORTEN - Dreams (feat Lanie Gardner) (extended)
-05:06 David Guetta feat Sia - Titanium (Future Rave Remix)
-08:59 Jack back - Permanence
-13:04 David Guetta &amp; MORTEN - Save My Life VS Fatboy Slim - Sunset (Bird Of Prey) [David Guetta Mashup]
-15:36 David Guetta - Play Hard (feat Ne-Yo &amp; Akon) (Future Rave Remix)
-18:40 David Guetta &amp; MORTEN - VS Everything But The Girl - Missing Nothing (David Guetta &amp; DJs From Mars Bootleg)
-20:26 David Guetta feat Chris Willis - Love Is Gone (2020 David Guetta Remix)
-23:51 Oxia - Domino (2021 David Guetta Remix)
-26:21 David Guetta &amp; Kid Cudi - Memories (2021 Remix)
-29:21 David Guetta &amp; Sam Martin - Lovers On The Sun (David Guetta 2020 Remix)
-32:06 David Guetta &amp; MORTEN - Make It To Heaven (with Raye)
-35:40 David Guetta - When love takes over (feat Kelly Rowland) (Future Rave Remix)
-38:11 David Guetta &amp; MORTEN - Alive VS Daft Punk feat Pharrell Williams &amp; Nile Rodgers (Accapella) - Get Lucky (David Guetta &amp; DJs From Mars Bootleg)
-39:56 David Guetta &amp; MORTEN - Kill Me Slow43:47 David Guetta feat Chris Willis - Love Don’t Let Me Go (Future Rave Remix)
-45:19 Camelphat &amp; Yanis &amp; Foals - Hypercolour (Arbat Remix) [David Guetta Rework]
-49:01 Energy 52 - Cafe Del Mar (Tale Of Us Renaissance Remix) [David Guetta Rework]
-51:39 David Guetta feat AKON - Sexy Bitch (David Guetta Techy Remix)
-54:41 Florence + The Machine - Spectrum (Say My Name) (David Guetta Remix)
-58:12 Black Coffee &amp; David Guetta - Drive (feat Delilah Montagu) (David Guetta &amp; Morten Future Rave Remix)
-1:02:04 David Guetta feat Sia - Let’s Love (Future Rave Remix) 
-1:04:51 David Guetta - Without You (feat Usher)
-
-Follow David Guetta:
-https://www.davidguetta.com
-https://facebook.com/DavidGuetta
-https://www.twitter.com/DavidGuetta
-https://www.instagram.com/davidguetta
-
-Follow the Louvre:
-https://www.instagram.com/museelouvre/
-https://twitter.com/MuseeLouvre
-https://www.facebook.com/museedulouvre/
-https://www.youtube.com/channel/UCafm6w_rPndqAtokQy04Jdw
-https://www.linkedin.com/company/musee-du-louvre/]]></description>
-      <guid isPermaLink="false">com.uuebcast.uuid.9X6hH-Z1Tyw</guid>
-      <enclosure url="http://oops.hopto.org:9090/static/media/9X6hH-Z1Tyw.m4a" length="67983649" type="audio/x-m4a"/>
-      <pubDate>Fri, 20 Jan 2023 16:28:37 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/9X6hH-Z1Tyw/hqdefault.jpg"/>
-      <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>0</itunes:order>
-      <itunes:subtitle>by David Guetta published on Friday, January  1 2021 at 00:27:24</itunes:subtitle>
-    </item>
-    <item>
-      <title>The Scrum Guide  - Audio Version - 2020 - Agile Games With James</title>
-      <description><![CDATA[This is me reading the Scrum Guide as seen on Scrumguides.org. It was last updated on Nov 2020. I hope this helps others learn and study for their certifications. I hope to pass on some of the value of my learning to others wishing to change careers and learn Agile. Keep on learning!
-
-This is the link to the Scrum Guide
-https://www.scrumguides.org/
-Would love to have you as a subscriber. 
-https://www.youtube.com/channel/UC74TnAg2s21v0C86staZiyA?sub_confirmation=1
-
-Like this audio Guide? Want to watch others? 
-Here is the playlist that all my audio guides will be linked to
-https://www.youtube.com/playlist?list=PLSOhDVKY1i0iilru_m-9-wMk7O15yd3en
-
-🖱️🖱️🖱️ Miro Link 🖱️🖱️🖱️
-https://miro.grsm.io/AGWJ
-
-=============================================
-
-💰💰💰 Support the channel? 💰💰💰 
-Buy me a coffee https://www.buymeacoffee.com/AGWJ
-Buy the Swag! Swaaaaaaaag! -  https://shop.spreadshirt.com/agile-games-with-james/
-
-📕 📗 📘 The Flow System Training -  Coupon Code  📕 📗 📘 
- 
-10% Discount on The Flow System Foundations Course
-COUPON CODE:  agilejames10  ​ ​
-
-Silver Plan -  https://pdn.thinkific.com/bundles/tfs-foundations-silver?ref=54960c
-
-Gold Plan -  https://pdn.thinkific.com/bundles/tfs-foundations-community?ref=54960c
-
-Platinum Plan -  https://pdn.thinkific.com/bundles/tfs-foundations-platinum?ref=54960c
-
-🦋🦋🦋 Social Links 🦋🦋🦋
-Facebook -  https://www.facebook.com/Agile-Games-With-James-107650594041087
-LinkedIn -  https://www.linkedin.com/in/agilegameswithjames/
-Website - http://agilegameswithjames.com/
-Youtube - https://www.youtube.com/c/agilegameswithjame
-
-=============================================
-📙📙📙 Book Recommendations  📙📙📙
- (We recommend these books for further study…)
-
-Agile Project Management with Scrum (Developer Best Practices)  - https://amzn.to/2XvlpHY
-
-Coaching Agile Teams: A Companion for ScrumMasters, Agile Coaches, and Project Managers in Transition (Addison-Wesley Signature Series (Cohn))  - https://amzn.to/2JoyFpk
-
-Scrum Mastery: From Good to Great Servant-Leadership  - https://amzn.to/2G0ia0w
-
-Agile Retrospectives: Making Good Teams Great - https://amzn.to/2XxvrZ7
-
-=============================================
-
-🎞️🎞️🎞️ Video Shortcuts 🎞️🎞️🎞️
-(Click the time to jump to the section of interest) 
-MOBILE USERS - There is a comment pinned to this video, in the comments section, where the links will work. Not sure why the timestamps in the description do not work for mobile, they work on Desktop only in the description.  See my comment below for working timestamps for mobile viewing.
-
-My intro -  0:00
-The Scrum Guide  - 00:41
-Purpose of the Scrum Guide -00:49
-Scrum Definition - 02:34 
-Scrum Theory -04:02
-Transparency -04:54
-Inspection -05:23
-Adaptation -05:49
-Scrum Values -06:21
-Scrum Team -07:39
-Developer -09:27
-Product Owner -10:01
-Scrum Master -11:13
-Scrum Events -13:07
-The Sprint -13:41
-Sprint Planning -15:26
-Daily Scrum -17:47
-Sprint Review -18:57
-Sprint Retrospective -19:50
-Scrum Artifacts -20:52
-Product Backlog - 21:35
-Commitment: Product Goal - 22:31
-Sprint Backlog -23:13
-Commitment: Sprint Goal - 23:53
-Increment -  24:39
-Commitment: Definition of Done - 25:24
-End Note -  26:34
-Acknowledgments - 26:56
-People -  26:58
-
-=============================================
-Creative Commons License 
-
-Title - “The Scrum Guide”
-Author - “Ken Schwaber and Jeff Sutherland”
-Source - “https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf#zoom=100”
-License - “© 2020 Ken Schwaber and Jeff Sutherland This publication is offered for license under the Attribution Share-Alike license of Creative Commons, accessible at https://creativecommons.org/licenses/by-sa/4.0/legalcode and also described in summary form at https://creativecommons.org/licenses/by-sa/4.0/. By utilizing this Scrum Guide, you acknowledge and agree that you have read and agree to be bound by the terms of the Attribution Share-Alike license of Creative Commons.
-
-
-=============================================
-Thanks again
-keep on learning!]]></description>
-      <guid isPermaLink="false">com.uuebcast.uuid.G8jE3pGfGZE</guid>
-      <enclosure url="http://oops.hopto.org:9090/static/media/G8jE3pGfGZE.m4a" length="26878506" type="audio/x-m4a"/>
-      <pubDate>Fri, 20 Jan 2023 16:28:37 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/G8jE3pGfGZE/hqdefault.jpg"/>
-      <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>0</itunes:order>
-      <itunes:subtitle>by Agile Games With James published on Saturday, November 21 2020 at 06:20:03</itunes:subtitle>
-    </item>
-    <item>
-      <title>Webinar: Guide to Customer Development by Microsoft Product Leader, Christopher Gill - Product School</title>
-      <description><![CDATA[👉 Subscribe here: http://bit.ly/2rCsYZD
-📆 Check out upcoming events: http://prdct.school/LI_events
-🗣 Read speaker&#x27;s bio: https://prdct.school/3drkEII
-ℹ Find out more about us: https://bit.ly/3DqzkRi 
-
-ABOUT THE SPEAKER:
-Christopher Gill is a passionate Product Leader currently building for NuGet and Visual Studio Marketplace at Microsoft. Throughout his three years at the company, he has also shared his knowledge through multiple Microsoft conferences and webinars. He got a job here as a PM right after graduating from The University of Texas at Austin, where he was studying for his Bachelor&#x27;s in Computer Software Engineering.
-
-ABOUT US:
-Founded in 2014, Product School is the global leader in Product Management training with a community of over one million product professionals.
-
-Our certifications are the most industry-recognized credentials by employers hiring product managers. All of our instructors are senior-level Product Managers working at top Silicon Valley companies including Google, Facebook, Netflix, Airbnb, PayPal, Uber, and Amazon. 
-
-Designed to fit into work schedules, our live, online classes are held in the evenings or on weekends to ensure that both instructors and students can maintain their full-time jobs. You’ll learn how to build digital products from end to end, lead cross-functional teams and land your next product job or promotion.
-See our upcoming courses here: https://bit.ly/3DqzkRi
-
-In addition to classes, we host daily online events with top industry professionals about Product Management. Click here to see what we have coming up: https://bit.ly/3Lt4hr0
-
-We are committed to pushing the product management industry forward. We published the Amazon bestseller, The Product Book (Get your copy here: https://bit.ly/3DsKdC9) host over 1,000 free events per year, The Proddy Awards, and ProductCon, the largest multi-city conference in the world for product managers.
-
-#ProductManagement #ProductSchool #Upskill #TechEducation #Business #ProdMgmt #PMCertificate #ProductManager #Product #PM #IT #Management #PMP #FinTech]]></description>
-      <guid isPermaLink="false">com.uuebcast.uuid.LMlCNtolbqg</guid>
-      <enclosure url="http://oops.hopto.org:9090/static/media/LMlCNtolbqg.m4a" length="23749783" type="audio/x-m4a"/>
-      <pubDate>Fri, 20 Jan 2023 16:28:37 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/LMlCNtolbqg/hqdefault.jpg"/>
-      <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>0</itunes:order>
-      <itunes:subtitle>by Product School published on Sunday, August 21 2022 at 15:00:12</itunes:subtitle>
-    </item>
-    <item>
-      <title>The procrastination cure you don't want to hear - Better Ideas</title>
-      <description><![CDATA[To get a 1 year supply of Vitamin D + 5 individual travel packs FREE with your first purchase, go to https://athleticgreens.com/betterideas
-
-The weird study I for some reason thought was hard to say:
-https://www.science.org/content/article/people-would-rather-be-electrically-shocked-left-alone-their-thoughts
-
-My second channel: https://www.youtube.com/joeyschweitzer
-Instagram: https://instagram.com/betterideas
-The Gear I Use: https://kit.co/betterideas]]></description>
-      <guid isPermaLink="false">com.uuebcast.uuid.iow5V3Qlvwo</guid>
-      <enclosure url="http://oops.hopto.org:9090/static/media/iow5V3Qlvwo.m4a" length="10142334" type="audio/x-m4a"/>
-      <pubDate>Fri, 20 Jan 2023 16:28:37 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/iow5V3Qlvwo/hqdefault.jpg"/>
-      <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>0</itunes:order>
-      <itunes:subtitle>by Better Ideas published on Friday, July 29 2022 at 20:18:08</itunes:subtitle>
-    </item>
-    <item>
-      <title>7 Books You Should Read That Are NOT About Software Development - ArjanCodes</title>
-      <description><![CDATA[🛒 RECOMMENDED BOOKS &amp; GEAR: https://kit.co/arjancodes.
-
-Here are 7 books that are not about software development but that are really nice to read and will help you grow as a software developer. Also, if you want me to cover the pile of books on the left as well, let me know in the comments!
-
-💡 Get my FREE 7-step guide to help you consistently design great software: https://arjancodes.com/designguide.
-
-🎓 Sign up to Brilliant now and get 20% off the annual subscription: https://brilliant.sjv.io/arjancodes.
-
-👍 If you enjoyed this content, give this video a like. If you want to watch more of my upcoming videos, consider subscribing to my channel!
-
-💬 Discord: https://discord.arjancodes.com
-🐦Twitter: https://twitter.com/arjancodes
-🌍LinkedIn: https://www.linkedin.com/company/arjancodes
-🕵Facebook: https://www.facebook.com/arjancodes
-
-👀 Code reviewers:
-- Yoriz
-- Ryan Laursen
-- James Dooley
-- Dale Hagglund
-
-🎥 Video edited by Mark Bacskai: https://www.instagram.com/bacskaimark
-
-🔖 Chapters:
-0:00 Intro
-2:16 #1: The subtle art of not giving a f*ck
-4:45 #2: The elephant in the brain
-6:42 #3: Atomic habits
-8:11 #4: Never split the difference
-10:45 #5: Principles
-13:32 #6: The E-myth revisited
-16:38 #7: Bad blood
-
-#arjancodes #softwaredesign #python
-
-DISCLAIMER - The links in this description might be affiliate links. If you purchase a product or service through one of those links, I may receive a small commission. There is no additional charge to you. Thanks for supporting my channel so I can continue to provide you with free content each week!]]></description>
-      <guid isPermaLink="false">com.uuebcast.uuid.EAlaJN2oilY</guid>
-      <enclosure url="http://oops.hopto.org:9090/static/media/EAlaJN2oilY.m4a" length="17733803" type="audio/x-m4a"/>
-      <pubDate>Fri, 20 Jan 2023 16:28:37 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/EAlaJN2oilY/hqdefault.jpg"/>
-      <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>0</itunes:order>
-      <itunes:subtitle>by ArjanCodes published on Friday, July 22 2022 at 15:00:13</itunes:subtitle>
-    </item>
-    <item>
-      <title>El Faro de Mara Torres | Antoni Daimiel | 21/06/2022 - El Faro Cadena SER</title>
-      <description><![CDATA[La relación de Antoni Daimiel con el periodismo nace por las imitaciones que hacía de los presentadores de informativos y de su pasión por el baloncesto. Lo que muchos no pueden imaginar es que esta leyenda en las retransmisiones de la NBA, escribiera unas redacciones para el cura de su colegio de Valladolid y que luego éste se las plagiara en misa: &quot;Don Alejandro me pedía que escribiera sobre la caridad o el amor fraternal y en una misa descubrí que estaba diciendo lo que yo había redactado&quot;.
-&quot;¿En qué momento te encuentras?&quot; pregunta Mara Torres al periodista: &quot;¿Puedo ser sincero, no? Estamos aquí para ello... A nivel personal muy bien y en términos profesionales me siento un privilegiado, pero estoy bastante decepcionado con lo que veo, si tuviera dinero, me divorciaría del periodismo deportivo&quot;.]]></description>
-      <guid isPermaLink="false">com.uuebcast.uuid.G8IxW9MqU30</guid>
-      <enclosure url="http://oops.hopto.org:9090/static/media/G8IxW9MqU30.m4a" length="31488043" type="audio/x-m4a"/>
-      <pubDate>Fri, 20 Jan 2023 16:28:37 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/G8IxW9MqU30/hqdefault.jpg"/>
-      <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>0</itunes:order>
-      <itunes:subtitle>by El Faro Cadena SER published on Wednesday, June 22 2022 at 00:34:49</itunes:subtitle>
-    </item>
-    <item>
-      <title>How Apple Lost Its Soul — 'After Steve' Review - Rene Ritchie</title>
-      <description><![CDATA[🔥 https://curiositystream.com/reneritchie/ NO ADS + Bonus Videos! Get CuriosityStream + Nebula bundle for less than $12 a YEAR! 
-
-There’s this new book out with the YouTube click-bait-worthy title of &#x27;After Steve, How Apple Became a Trillion Dollar Company and Lost Its Soul&#x27;. Basically, casting Tim as a neglectful father who never gave Jony the support or protection he needed, and Jony as a spoiled and detached diva, who fell increasingly out of touch with Apple, customers, and regular humans… But is any of that true? Some of it? I’ve had a review copy for a couple of weeks. I’ve read it twice. I’ve spoken to Tim and Jony — and Tripp! — In the past. And as someone who’s covered Apple day-in, day-out for almost 15 years, I’m going to tell you just exactly what I think!
-
-🚀 More Apple explainers: https://www.youtube.com/playlist?list=PL3XJJi5sAjD1WsfzDYrLjKB_GgxScYWXK
-
-🔔 SUBSCRIBE  https://www.youtube.com/reneritchie?sub_confirmation=1
-
-🙏  PATREON THANK YOU!
-
-Get access to exclusive Discord, previews, even your name in this description or credits! https://www.patreon.com/reneritchie 
-
-James Hillhouse, Rick Vink, John Malkin, Ryan Parman, Paco Arango, Chad Potts, Shashank, Richard Urbano, Rod Gray, Daniel Pasco, Mark Lussier, Martin Perry, Christopher Wiggins, Dude, Jon Wheeler, Josef, Frederick Lakes Jr., Aziz Rahman, Sven Jasper
-
-🔗 LINKS
-
-After Steve on Amazon: https://www.amazon.com/After-Steve-Became-Trillion-Dollar-Company/dp/B09CF3B8VH/
-
-🗂 CHAPTERS
-
-🚨 ETHICS &amp; DISCLAIMER
-
-This channel does not produce sponsored or paid reviews. Companies occasionally loan sample products to facilitate reviews but provide no payment and get no editorial input, content approval, or advanced previews. They see them for the first time when you do. 
-
-Links may contain referrals for affiliate programs that provide this channel with a tiny commission should you make a purchase. They likewise receive zero editorial input or consideration.
-
-🍎 Some video and images courtesy of Apple Inc.
-📷 Some video and imagery supplied by Getty Images and/or AP Archives
-🎸 Some music supplied by Epidemic
-
-MORE
-
-⭐️ Nebula: https://nebula.app/reneritchie
-🐦 Twitter: https://twitter.com/reneritchie
-📸 Instagram: https://instagram.com/reneritchie
-🌎 Web: https://www.reneritchie.net
-🍎 Podcasts: http://apple.co/reneritchie
-🌥 Overcast: https://overcast.fm/p1644160-NUVafv
-👖 Pocket Cast: https://pca.st/reneritchie
-
-Thanks for watching, see you next video!]]></description>
-      <guid isPermaLink="false">com.uuebcast.uuid.eaauj2EskNA</guid>
-      <enclosure url="http://oops.hopto.org:9090/static/media/eaauj2EskNA.m4a" length="17268186" type="audio/x-m4a"/>
-      <pubDate>Fri, 20 Jan 2023 16:28:37 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/eaauj2EskNA/hqdefault.jpg"/>
-      <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>0</itunes:order>
-      <itunes:subtitle>by Rene Ritchie published on Thursday, May  5 2022 at 23:15:09</itunes:subtitle>
-    </item>
-    <item>
-      <title>Así nos hackean. - Jano García</title>
-      <description><![CDATA[Esta nueva entrega es posible gracias a los colaboradores de Youtube, Patreon e iVoox. Colabora para que pueda continuar en:
-
-https://www.youtube.com/channel/UCb2TOOLwTwgAfJ7OeGyAwVw/join
-
-https://www.patreon.com/janogarcia
-
-https://www.paypal.me/janogarcia
-
-https://www.ivoox.com/podcast-en-libertad_sq_f1781509_1.html
-
-Si desean seguirme o adquirir mis libros, aquí tienen toda la información necesaria para ello:
-
-https://amzn.to/3goa7fR
-
-https://www.instagram.com/ellibrepensador
-
-https://twitter.com/janogarcia_
-
-https://www.facebook.com/janogarciaesp
-
-https://m.twitch.tv/janogarcia89]]></description>
-      <guid isPermaLink="false">com.uuebcast.uuid.eJ0JB6zN2ZE</guid>
-      <enclosure url="http://oops.hopto.org:9090/static/media/eJ0JB6zN2ZE.m4a" length="59597445" type="audio/x-m4a"/>
-      <pubDate>Fri, 20 Jan 2023 16:28:37 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/eJ0JB6zN2ZE/hqdefault.jpg"/>
-      <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>0</itunes:order>
-      <itunes:subtitle>by Jano García published on Sunday, May  8 2022 at 08:00:28</itunes:subtitle>
-    </item>
-    <item>
-      <title>Steve Jobs - Courage - stevenote</title>
-      <description><![CDATA[This is a clip from the D8 Conference, recorded in 2010.
-Steve Jobs is talking about the courage it takes to remove certain pieces of technology from Apple products. This happened after the iPad was introduced without support for Flash, just as the iPhone, back in 2007.
-
-This clip adds some perspective into the debate of Apple&#x27;s new AirPod and the decision to remove the traditional analog audio connector from the iPhone 7. This kind of decision is not new to Apple.
-
-The interview occurred 6 years ago, and Steve Jobs was already using the word &quot;courage&quot; to explain why the company does things the way it does.]]></description>
-      <guid isPermaLink="false">com.uuebcast.uuid.65_PmYipnpk</guid>
-      <enclosure url="http://oops.hopto.org:9090/static/media/65_PmYipnpk.m4a" length="3395775" type="audio/x-m4a"/>
-      <pubDate>Fri, 20 Jan 2023 16:28:37 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/65_PmYipnpk/hqdefault.jpg"/>
-      <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>0</itunes:order>
-      <itunes:subtitle>by stevenote published on Thursday, September  8 2016 at 12:53:46</itunes:subtitle>
-    </item>
-    <item>
-      <title>TENER MÁS DE 40 AÑOS PUEDE SER UNA VENTAJA - Vlog de Marc Vidal - Marc Vidal</title>
-      <description><![CDATA[Si tienes más de 40 tienes una ventaja. Si no los tienes, te interesa saber cual también. Es difícil reconocerla pero posees la capacidad de comprender que es eso de un mundo analógico que se ha ido adaptando a lo digital. Los que nacieron en ese universo automático no conocen la transición. Tú, que tienes más de 40 años, lo digital, la robótica, la inteligencia artificial te exige mesa y mantel. Para entenderla, para comprenderla, para disfrutarla.
-
-¿Te olvidaste subscribir? 📽️  → https://cutt.ly/fkEtYgX
-
-📌  Sígueme en LinkedIn → https://lnkd.in/gREtH9W
-📘  Mi último libro → https://lnkd.in/d_ddidM​
-
-También puedes seguirme en:
-📷  Instagram → https://lnkd.in/dNvTFaQ​
-🐦  Twitter → https://lnkd.in/d3ZU6Nw​
-🔗  Blog → https://www.marcvidal.net]]></description>
-      <guid isPermaLink="false">com.uuebcast.uuid.eOgPdX37Fi4</guid>
-      <enclosure url="http://oops.hopto.org:9090/static/media/eOgPdX37Fi4.m4a" length="7640163" type="audio/x-m4a"/>
-      <pubDate>Fri, 20 Jan 2023 16:28:37 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/eOgPdX37Fi4/hqdefault.jpg"/>
-      <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>0</itunes:order>
-      <itunes:subtitle>by Marc Vidal published on Tuesday, February  9 2021 at 12:33:44</itunes:subtitle>
-    </item>
-    <item>
-      <title>5 habits that make you feel incredible - Better Ideas</title>
-      <description><![CDATA[To get a 1 year supply of Vitamin D + 5 individual travel packs FREE with your first purchase, go to https://athleticgreens.com/betterideas
-
-Grab the new merch before it&#x27;s gone: 
-https://betterideas.com
-
----Orders close March 18---
-
-My second channel: https://www.youtube.com/joeyschweitzer
-Instagram: https://instagram.com/joeyschweitzer​
-Twitter: https://twitter.com/joeyschweitz​
-Subreddit: https://reddit.com/r/betterideas
-
-My Filmmaking Equipment: https://kit.co/betterideas
-
-My productivity desk:
-- 4K Monitor: https://geni.us/ultrafine4k
-- MacBook: https://geni.us/timcookpro
-- Razer Blade: https://geni.us/razerblade14
-- Keyboard: https://geni.us/keychronkb
-- Mouse: https://geni.us/razerdeathadder
-- Speakers: https://geni.us/edifier
-- Headphones: https://geni.us/beyerdynamics
-- Audio interface: https://geni.us/scarlettusb]]></description>
-      <guid isPermaLink="false">com.uuebcast.uuid.uXdM_hfAS2s</guid>
-      <enclosure url="http://oops.hopto.org:9090/static/media/uXdM_hfAS2s.m4a" length="16937497" type="audio/x-m4a"/>
-      <pubDate>Fri, 20 Jan 2023 16:28:37 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/uXdM_hfAS2s/hqdefault.jpg"/>
-      <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>0</itunes:order>
-      <itunes:subtitle>by Better Ideas published on Monday, March 14 2022 at 18:15:39</itunes:subtitle>
-    </item>
-    <item>
-      <title>Inaction Is A Slow Death - Better Ideas</title>
-      <description><![CDATA[Grab the new merch before it&#x27;s gone: 
-https://betterideas.com
-
----Orders close March 18---
-
-Soundtrack: https://youtu.be/SleeNttNzww]]></description>
-      <guid isPermaLink="false">com.uuebcast.uuid.RIVVQkZtnAU</guid>
-      <enclosure url="http://oops.hopto.org:9090/static/media/RIVVQkZtnAU.m4a" length="5262846" type="audio/x-m4a"/>
-      <pubDate>Fri, 20 Jan 2023 16:28:37 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/RIVVQkZtnAU/hqdefault.jpg"/>
-      <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>0</itunes:order>
-      <itunes:subtitle>by Better Ideas published on Friday, February 25 2022 at 19:27:07</itunes:subtitle>
-    </item>
-    <item>
-      <title>El nuevo orden mundial, con Pedro Baños. - Jano García</title>
-      <description><![CDATA[Esta nueva entrega es posible gracias a los colaboradores de Youtube, Patreon e iVoox. Colabora para que pueda continuar en:
-
-https://www.youtube.com/channel/UCb2TOOLwTwgAfJ7OeGyAwVw/join
-
-https://www.patreon.com/janogarcia
-
-https://www.paypal.me/janogarcia
-
-https://www.ivoox.com/podcast-en-libertad_sq_f1781509_1.html
-
-Si desean seguirme o adquirir mis libros, aquí tienen toda la información necesaria para ello:
-
-https://amzn.to/3rttIkY
-
-https://www.instagram.com/ellibrepensador
-
-https://twitter.com/janogarcia_
-
-https://www.facebook.com/janogarciaesp
-
----- El nuevo libro de Pedro Baños:
-
-https://www.amazon.es/El-poder-estratega-lee-Maquiavelo-ebook/dp/B09QMFSZ3Z]]></description>
-      <guid isPermaLink="false">com.uuebcast.uuid.bXAYOr5mS5I</guid>
-      <enclosure url="http://oops.hopto.org:9090/static/media/bXAYOr5mS5I.m4a" length="94342897" type="audio/x-m4a"/>
-      <pubDate>Fri, 20 Jan 2023 16:28:37 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/bXAYOr5mS5I/hqdefault.jpg"/>
-      <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>0</itunes:order>
-      <itunes:subtitle>by Jano García published on Sunday, January 30 2022 at 09:00:25</itunes:subtitle>
-    </item>
-    <item>
-      <title>How to Get Your First 1000 Subscribers on YouTube — 5 Tips - Think Media</title>
-      <description><![CDATA[5 tips on how to get 1000 subscribers on YouTube fast! ****** JOIN THE FREE YOUTUBE INFLUENCE CHALLENGE ⏰ Learn how to start and grow a high impact and high profit YouTube channel in 2020! ➡️ http://TubeInfluence.com
-
-📝Videos and Resources Mentioned in This Video 📝
-
-1. If you&#x27;re a creator, business owner, influencer, or entrepreneur, we want to invite you to participate in this free 7 day YouTube challenge. SIGN UP FREE HERE 👉 http://TubeInfluence.com
-
-2. (Free Video) 🔴 How to Get Your First 100 Subscribers on YouTube and Beyond! 
-https://youtu.be/bnzj8M8IRKo
-
-3. 📕 Want a copy of YouTube Secrets audio book for FREE? Right now when you sign up for a FREE 30-day trial of Audible, you can also get a complimentary copy of the #1 best-selling YouTube Strategy book in the world. Download your copy today at  ➡️ http://TubeSecretsAudio.com     
-
-QUESTION — Have a question about Online Video, Video Production, Tech, Marketing, or Anything Else? Post in comments section of this video!
-
-Subscribe to Think Media Here: https://www.youtube.com/THiNKmediaTV
-
-Sean Cannell on Social Media:
-http://seancannell.com
-https://www.linkedin.com/in/seancannell/
-https://twitter.com/seancannell
-https://instagram.com/seancannell
-https://www.facebook.com/seanthinks
-
----------Cameras and Gear Used To Shoot This Video -------
-
-Video Gear Used for This Live Stream:
-https://kit.co/SeanCannell/pro-youtube-live-streaming-gear
-
-
-About:
-In this video Sean Cannell from Think Media and Video Influencers shares 5 tips on how to get your first 1000 YouTube subscribers.  
-
- #thinkmedia #thinkmarketing #seancannell
-
-All Rights Reserved.
-Copyright, Liability Waiver and Disclaimers
-
-Disclaimer: Please see the link for our disclaimer policy for all of our videos on the Think Media and Think Marketing YouTube channels.  https://www.seancannell.com/youtube-disclaimer]]></description>
-      <guid isPermaLink="false">com.uuebcast.uuid.pnkVZm2ijfY</guid>
-      <enclosure url="http://oops.hopto.org:9090/static/media/pnkVZm2ijfY.m4a" length="42737551" type="audio/x-m4a"/>
-      <pubDate>Fri, 20 Jan 2023 16:28:37 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/pnkVZm2ijfY/hqdefault.jpg"/>
-      <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>0</itunes:order>
-      <itunes:subtitle>by Think Media published on Thursday, May  7 2020 at 01:21:54</itunes:subtitle>
-    </item>
-    <item>
-      <title>How to become 37.78 times better at anything | Atomic Habits summary (by James Clear) - Escaping Ordinary (B.C Marx)</title>
-      <description><![CDATA[Atomic Habits can help you improve every day, no matter what your goals are. As one of the world&#x27;s leading experts on habit formation, James Clear reveals practical strategies that will help you form good habits, break bad ones, and master tiny behaviors that lead to big changes.
-
-If you&#x27;re having trouble changing your habits, the problem isn&#x27;t you. Instead, the issue is with your system. There is a reason bad habits repeat themselves over and over again, it&#x27;s not that you are not willing to change, but that you have the wrong system for changing.
- 
-“You do not rise to the level of your goals. You fall to the level of your systems” - James Clear 
-
-I’m a huge fan of this book, and as soon as I read it I knew it was going to make a big difference in my life, so I couldn’t wait to make a video on this book and share my ideas.
-
-Here is a link to James Clear’s website, where I found he uploads a tonne of useful posts on motivation, habit formation and human psychology.
-
-https://jamesclear.com/
-
-
-If you liked this summary and you want to go deeper into Atomic Habits, here is a link to the book (Nothing Beats the book!)
-
-📕Atomic Habits by James Clear - https://amzn.to/2Yk6ulK
-
-If you are more into Audiobooks, here is a link to that. You can get this audiobook for free if you sign up for a free Audible trial with the link below. 
-
-🎧Grab Atomic Habits audiobook on an Audible trial with 2 free books - https://amzn.to/3A5r32l
-
-
-🗎If you want to help out my channel, please consider grabbing the PDF mindmap and illustrations I made to go along with this summary - https://escapingordinary.gumroad.com/
-
-Lessons you will learn from reading Atomic Habits
-  •  How to make time for new habits ;
-  •  How to overcome a lack of motivation and willpower;
-  •  How to design your environment to make success easier;
-  •  How to get back on track if your habits break down
-  •  How to overcome the plateau of latent potential
-  
-
-★★★ TIMESTAMPS ★★★
-00:00 Introduction
-01:32 Atomic Habits 
-07:15 Law 1 - Make it Obvious
-11:06 Law 2 - Make it Attractive
-15:38 Law 3 - Make it Easy
-18:13 Law 4 - Make it Satisfying
-21:35 How I personally use this book
-
-
-
-Here are some of the other summaries and non fiction book recommendations you can find on this channel 
-
-The Laws of Human Nature (Detailed Summary) -https://youtu.be/uhWzVdGmX2w
-
-The 7 Habits of Highly Effective people (Detailed Summary) https://youtu.be/A-LJ6wvk7Cw
- 
-The Four Agreements (Detailed Summary) https://youtu.be/gpwuq5wOvwI
- 
-Limitless by Jim Kwik (Detailed Summary) https://youtu.be/naEkf_As9kU
-
-Rich Dad Poor Dad | (Detailed Summary)  https://youtu.be/eDa1U9qJKxo
-
-Here is another good summary of this book by Ali Abdaal - https://www.youtube.com/watch?v=YT7tQzmGRLA
- 
-
-Thankyou for watching this animated summary of Atomic Habits. Please Subscribe :)]]></description>
-      <guid isPermaLink="false">com.uuebcast.uuid.PZ7lDrwYdZc</guid>
-      <enclosure url="http://oops.hopto.org:9090/static/media/PZ7lDrwYdZc.m4a" length="27361601" type="audio/x-m4a"/>
-      <pubDate>Fri, 20 Jan 2023 16:28:37 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/PZ7lDrwYdZc/hqdefault.jpg"/>
-      <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>0</itunes:order>
-      <itunes:subtitle>by Escaping Ordinary (B.C Marx) published on Wednesday, October  6 2021 at 11:00:04</itunes:subtitle>
-    </item>
-    <item>
-      <title>Before you waste another year of your life, watch this | Mel Robbins - Mel Robbins</title>
-      <description><![CDATA[Learn the 5 ways to get UNSHAKEABLE CONFIDENCE in this FREE training from international bestselling author, Mel Robbins: https://bit.ly/3qKyaKt
----
-You’ve spent a lifetime waking up and standing in front of a mirror.
-
-And every time you look back at your reflection, you’re either picking yourself apart, critique yourself, or ignoring yourself.
-
-It’s time to stop.
-
-Before you waste another year beating yourself up and tearing yourself down - I want you to try high fiving your reflection instead of picking it apart.
-
-When you start high fiving yourself, you start to build a partnership with yourself. You begin to start trusting yourself, cheering for yourself, and LOVING yourself.
-
-You’re so good at supporting and cheering for other people in your life. It’s time to start giving that to yourself. ❤️
-
-You can watch my full conversation with @Rich Roll on his podcast here: https://www.youtube.com/watch?v=T6_RCZ54gy4
-
----
-Subscribe to the channel here: https://www.youtube.com/melrobbins​?sub_confirmation=1
----
-Get my #1 NEW book, The High 5 Habit, here: http://high5habit.com
----
-Follow me here:
-Instagram: https://www.instagram.com/melrobbins/​
-Facebook: http://facebook.com/melrobbins​
-Website: http://melrobbins.com​
-Twitter: http://twitter.com/melrobbins​
-TikTok: http://vm.tiktok.com/ZMdVcc93n/
----
-Sign up for my newsletter written to YOU at: https://melrobbins.com/newsletter/​
----
-Get three free guides + my Mindset Reset​​​ program at https://melrobbins.com/mindsetreset/​]]></description>
-      <guid isPermaLink="false">com.uuebcast.uuid.V7AUzIfbwNo</guid>
-      <enclosure url="http://oops.hopto.org:9090/static/media/V7AUzIfbwNo.m4a" length="7122349" type="audio/x-m4a"/>
-      <pubDate>Fri, 20 Jan 2023 16:28:37 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/V7AUzIfbwNo/hqdefault.jpg"/>
-      <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>0</itunes:order>
-      <itunes:subtitle>by Mel Robbins published on Tuesday, November  9 2021 at 14:45:03</itunes:subtitle>
-    </item>
-    <item>
-      <title>How to change your life in a year - Better Ideas</title>
-      <description><![CDATA[Anker MagGo - The World&#x27;s First Adaptive Magnetic Charging Experience:
-US: https://ankerfast.club/3pqesER
-UK: https://ankerfast.club/3mbAbi1
-DE: https://ankerfast.club/3CayZRm
-
-The New Instagram: https://instagram.com/betterideas
-
-My second channel: https://www.youtube.com/joeyschweitzer
-My personal Insta: https://instagram.com/joeyschweitzer​
-Twitter: https://twitter.com/joeyschweitz​
-Subreddit: https://reddit.com/r/betterideas
-
-The YouTube gear I use: https://kit.co/betterideas]]></description>
-      <guid isPermaLink="false">com.uuebcast.uuid.Olzc15hIcyI</guid>
-      <enclosure url="http://oops.hopto.org:9090/static/media/Olzc15hIcyI.m4a" length="13593056" type="audio/x-m4a"/>
-      <pubDate>Fri, 20 Jan 2023 16:28:37 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/Olzc15hIcyI/hqdefault.jpg"/>
-      <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>0</itunes:order>
-      <itunes:subtitle>by Better Ideas published on Saturday, December 25 2021 at 04:07:43</itunes:subtitle>
-    </item>
-    <item>
-      <title>Jordan Peterson - How to Remember Everything You Read - Better Chapter</title>
-      <description><![CDATA[One reason that many people don’t read much is that they don’t read well. For them, it is slow, hard work and they don’t remember as much as they should. Students, for example,may have to read something several times before they understand and remember what they read.
-
-Why?....Jordan Peterson - How to Remember Everything You Read
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-🎓 ABOUT JORDAN PETERSON  :
-
-This audio clip was taken and edited from Jordan B. Peterson. Jordan Peterson is a Canadian clinical psychologist and a professor of psychology at the University of Toronto. 
-
-Psychology professor Jordan Peterson has become a controversial figure ever since speaking out against Bill C-16 (2016), a law that adds gender expression and gender identity to the Canadian Human Rights Act. 
-
-He has received both praise and criticism after the publication of his self-help book 12 Rules for Life: An Antidote to Chaos (2018). His fans are thankful for the advice he’s given them to take responsibility for their lives. Peterson has become an important inspiration for various men’s groups, an influential voice.
-
-Jordan Peterson gives an EXTREMELY POWERFUL motivational speech on becoming unstoppable in life, showing you the steps we need to take in order to achieve your true potential. If you enjoyed the wonderful life advice, be sure to support Jordan Peterson himself and purchase his latest book, it&#x27;s a great read! 
-
-- ​- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-🔔  JORDAN PETERSON BEST LECTURES
-Here are the most viewed Jordan Peterson 1hr Lectures Shortened into 4 Min videos  https://youtube.com/playlist?list=PLZs8uXWHbVHikhI1mz3Qy5hoVWcAfdrWp
-
-🤯 VIRAL VIDEO
-Watch Jordan Peterson Recent Trending Video (1 Million+ Views ) https://youtu.be/td0GqMp0CSE
-
-🤖 MY FAVOURITE TOOL 
-Discover my New secret weapon for making Ebooks in 60 SECONDS... It even writes the content for you https://bit.ly/INSTANT-EBOOKS
-
-👀 WHO&#x27;S BEHIND THIS ACCOUNT ?
-Hi! I’m Ryan and I Animate Podcasts/Lectures about self-improvement, being a better person, and living a better life. My Greatest goal is to help you live your best life, If you need a friend like this Follow me on Twitter :https://twitter.com/betterchapter_
-
-#Jordanpeterson #Improve]]></description>
-      <guid isPermaLink="false">com.uuebcast.uuid.ch55SHnLs_M</guid>
-      <enclosure url="http://oops.hopto.org:9090/static/media/ch55SHnLs_M.m4a" length="2273633" type="audio/x-m4a"/>
-      <pubDate>Fri, 20 Jan 2023 16:28:37 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/ch55SHnLs_M/hqdefault.jpg"/>
-      <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>0</itunes:order>
-      <itunes:subtitle>by Better Chapter published on Friday, September 24 2021 at 17:45:01</itunes:subtitle>
-    </item>
-    <item>
-      <title>Jordan Peterson's Ultimate Advice for Students and College Grads - STOP WASTING TIME - Motivation2Study</title>
-      <description><![CDATA[Stop Wasting Time! This is Jordan Peterson&#x27;s Ultimate Advice for Students, College Grads, and Everyone Alive!
-►Listen to all our videos on the New Mindset App: https://bit.ly/M2SMindsetApp
- ---------------------------------------------------------------------------------------------------------
-
-►Subscribe for a New Motivational Video every Sunday:
-http://bit.ly/StudyMotivation
-
-►Get Jordan Peterson&#x27;s best selling book: 12 Rules for Life: An Antidote to Chaos: https://amzn.to/2u5boAv
-
- ---------------------------------------------------------------------------------------------------------
-
-Jordan Peterson is North America&#x27;s most popular psychologist. He is a professor at the University of Toronto and focuses on abnormal, social and personality psychology.
-
-https://www.youtube.com/user/JordanPetersonVideos
-https://twitter.com/jordanbpeterson
-https://www.patreon.com/jordanbpeterson
-
-►Follow Motivation2Study:
-
-Facebook: https://www.facebook.com/Motivation2Study/
-Group: https://www.facebook.com/groups/motivation2study/
-https://www.instagram.com/motivation2study/
-Twitter: https://twitter.com/Motivation2S
-Pinterest: https://www.pinterest.com/motivation2study/
-Mindset App: https://bit.ly/M2SMindsetApp
-Website: https://motivation2study.com
-
-►Music: 
-
-Borrtex - Awake the Light
-
-Bandcamp: https://borrtex.bandcamp.com/
-Soundcloud: https://soundcloud.com/user-910809074
-Instagram: https://www.instagram.com/borrtex/
-Youtube: https://www.youtube.com/Borrtex
-iTunes: https://itunes.apple.com/us/artist/bo...
-
- ---------------------------------------------------------------------------------------------------------
-
-►Video footage:
-
-”Game Addiction” by Mick Triel, is a derivative work licensed under CC BY. https://vimeo.com/48591734
-
-For all video footage used, please see the credits at the end of the video.
- ---------------------------------------------------------------------------------------------------------
-
-▶Submit to M2S:
-
-Speeches: http://bit.ly/M2SSpeakerSubmissions
-Music or Footage: http://bit.ly/M2SMusicandFootage
-Business Inquiries: http://bit.ly/M2SBuisnessInquiries
-
-▶Join Our Email List and get Exclusive Updates, Discounts and Students Deals:
-http://bit.ly/M2SNewsLetter 
-________________________________________________________________
-
-🎧 Listen to all our videos on the New Mindset App: https://bit.ly/M2SMindsetApp
-
-📘 Recommended Reading List 
-https://amzn.to/2v6QPY0
-Amazing Authors like James Clear, Dale Carnegie, Stephen R. Covey, Nick Winter, Steven Pressfield, Charles Duhigg, Cal Newport, and more!
-
-📕 Recommended Student Supplies &amp; Tools 
-https://amzn.to/3705IIy
-Higher Performance Planner, Pens, Highlighters, Notebooks, Backpacks, and more!
-
-💌 Amazon Prime Student 6-mo Free Trial: https://amzn.to/2OuYEzK
-
-☀️ Recommended Morning Journal 
-Habitnest: http://bit.ly/YourMorningSidekickJournal
-
-Disclaimer: Please note some links above are affiliate links. If you use them and make a purchase we receive a commission. Thank you for your support! 
-
-Help us caption &amp; translate this video!
-
-https://amara.org/v/kPPf/]]></description>
-      <guid isPermaLink="false">com.uuebcast.uuid.wsNzAuYDgy0</guid>
-      <enclosure url="http://oops.hopto.org:9090/static/media/wsNzAuYDgy0.m4a" length="14889549" type="audio/x-m4a"/>
-      <pubDate>Fri, 20 Jan 2023 16:28:37 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/wsNzAuYDgy0/hqdefault.jpg"/>
-      <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>0</itunes:order>
-      <itunes:subtitle>by Motivation2Study published on Monday, July  9 2018 at 01:00:01</itunes:subtitle>
+      <itunes:subtitle>by NBA SPAIN published on Friday, February  3 2023 at 06:31:11</itunes:subtitle>
     </item>
     <item>
       <title>In The Night Garden Theme | Intro | Music | Titles - Cbeebies - High Quality - waybuloouk</title>
@@ -1028,453 +53,66 @@ http://astore.amazon.co.uk/waybuloo-shop-21
 http://astore.amazon.co.uk/pig-peppa-21
 http://astore.amazon.co.uk/leapster-21]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.NQ5ku4z1pjs</guid>
-      <enclosure url="http://oops.hopto.org:9090/static/media/NQ5ku4z1pjs.m4a" length="1980711" type="audio/x-m4a"/>
-      <pubDate>Fri, 20 Jan 2023 16:28:37 +0000</pubDate>
+      <enclosure url="http://192.168.1.37:5000/static/media/NQ5ku4z1pjs.m4a" length="1980711" type="audio/x-m4a"/>
+      <pubDate>Fri, 03 Feb 2023 08:13:38 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/NQ5ku4z1pjs/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
       <itunes:subtitle>by waybuloouk published on Saturday, September 26 2009 at 17:55:07</itunes:subtitle>
     </item>
     <item>
-      <title>"Product is Hard" by Inspired Author Marty Cagan of SVPG at Lean Product Meetup - Dan Olsen</title>
-      <description><![CDATA[Marty Cagan shares product management advice from his second edition of his book INSPIRED: How to Create Tech Products Customers Love and the all new second edition was just released at Lean Product Meetup on January 25, 2018
+      <title>El valor de la humildad, el esfuerzo y el trabajo, con Toni Nadal.</title>
+      <description><![CDATA[Esta nueva entrega es posible gracias a los colaboradores de Youtube, Patreon e iVoox. Colabora para que pueda continuar en:
 
-Marty Cagan is founder of the Silicon Valley Product Group. Before founding the Silicon Valley Product Group to pursue his interests in helping others create successful products through his writing, speaking, advising and coaching, Marty served as a product executive for some of the most successful companies in the world, including Hewlett-Packard, Netscape, and eBay.
+https://www.youtube.com/channel/UCb2TOOLwTwgAfJ7OeGyAwVw/join
 
-If you haven&#x27;t yet, check out Marty&#x27;s great articles on product management (http://svpg.com/articles/).
+https://www.patreon.com/janogarcia
 
-If you would like to see more videos like this check out the followings talks from past months: 
+https://www.ivoox.com/podcast-en-libertad_sq_f1781509_1.html
 
-▶ Dan Olsen&#x27;s Product-Market Fit talk at Mind the Product SF 2018:
-https://www.youtube.com/watch?v=bDUrQlmwox4 
+https://www.paypal.me/janogarcia
 
-▶ Jake Knapp about his new book “Make Time” :
- https://www.youtube.com/watch?v=q4Sx9o85y-s
+Si desean seguirme o adquirir mis libros, aquí tienen toda la información necesaria para ello:
 
-▶ Box CEO Aaron Levie Interview: 
- https://www.youtube.com/watch?v=cJC_JuxRgIg
+https://www.amazon.es/kindle-dbs/entity/author/B0755PWSXK?_encoding=UTF8&amp;node=831435031&amp;offse
 
-▶ “Beyond Lean and Agile”  by Marty Cagan:
-https://www.youtube.com/watch?v=7LYLhxb8Vwc
+https://m.twitch.tv/janogarcia89
 
-▶ “Jobs to Be Done” by Tony Ulwick: 
-https://www.youtube.com/watch?v=qQFUHapOJsQ
+https://www.instagram.com/ellibrepensador
 
-▶ Using Data to Set Your Product Strategy by Justin Bauer, who is the VP of Product at Amplitude:  
-https://www.youtube.com/watch?v=H8XQVQy8Xiw  
+https://twitter.com/janogarcia_
 
-▶ For upcoming videos like this, subscribe to our channel: 
-http://www.youtube.com/c/DanOlsen 
-
-
-▶ This video was produced by Coreography https://coreography.com. 
-
-▶ Lean Product was founded by Dan Olsen https://dan-olsen.com. 
-
-▶ Learn more about Lean Product Meetups at https://meetup.com/lean-product 
-
-#DanOlsen #LeanProductMeetup #ProductManagement]]></description>
-      <guid isPermaLink="false">com.uuebcast.uuid.gCYFmrvPI8Q</guid>
-      <enclosure url="http://oops.hopto.org:9090/static/media/gCYFmrvPI8Q.m4a" length="101128028" type="audio/x-m4a"/>
-      <pubDate>Fri, 20 Jan 2023 16:28:37 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/gCYFmrvPI8Q/hqdefault.jpg"/>
+https://www.facebook.com/janogarciaesp]]></description>
+      <guid isPermaLink="false">com.uuebcast.uuid.lN0bdw5nBcw</guid>
+      <enclosure url="http://192.168.1.37:5000/static/media/lN0bdw5nBcw.m4a" length="46715104" type="audio/x-m4a"/>
+      <pubDate>Fri, 03 Feb 2023 08:13:38 +0000</pubDate>
+      <itunes:image href="http://i.ytimg.com/vi/lN0bdw5nBcw/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
-      <itunes:subtitle>by Dan Olsen published on Friday, February 23 2018 at 09:11:19</itunes:subtitle>
+      <itunes:subtitle>Esta nueva entrega es posible gracias a los colaboradores de Youtube, Patreon e iVoox. Colabora para que pueda continuar en:
+
+https://www.youtube.com/channel/UCb2TOOLwTwgAfJ7OeGyAwVw/join
+
+https://www.patreon.com/janogarcia
+
+https://www.ivoox.com/podcast-en-libertad_sq_f1781509_1.html
+
+https://www.paypal.me/janogarcia
+
+Si desean seguirme o adquirir mis libros, aquí tienen toda la información necesaria para ello:
+
+https://www.amazon.es/kindle-dbs/entity/author/B0755PWSXK?_encoding=UTF8&amp;node=831435031&amp;offse
+
+https://m.twitch.tv/janogarcia89
+
+https://www.instagram.com/ellibrepensador
+
+https://twitter.com/janogarcia_
+
+https://www.facebook.com/janogarciaesp</itunes:subtitle>
     </item>
     <item>
-      <title>¡¡Qué CRACK!! Arturo Pérez Reverte en El Hormiguero - El Parte</title>
-      <description><![CDATA[Arturo Pérez Reverte acudió a ‘El hormiguero’, el programa de Pablo Motos en Antena 3 y hemos recopilado sus grandes momentos. «¿Me va a cambiar el lenguaje a mí o me va a escribir esto [ su novela] Irene Montero? Deje usted la lengua española, déjemela tranquila».
-
-¡Danos LIKE y SUSCRÍBETE para colaborar con el canal! https://cutt.ly/eg8lvMR
-Colabora por Paypal para la supervivencia del canal: https://www.paypal.me/elparte
-Algunos libros de Arturo Pérez-Reverte: 
-- El italiano: una novela de amor, mar y guerra: https://amzn.to/3FDicbU
-- Siri: https://amzn.to/3iIUhhg
-- Los perros duros no bailan: https://amzn.to/3oJATEw
-- Cabo Trafalgar: https://amzn.to/3mzbCKP
-- Una historia de España: https://amzn.to/3FsPp9P
-- La Guerra Civil contada a los jóvenes: https://amzn.to/2WUsL8X]]></description>
-      <guid isPermaLink="false">com.uuebcast.uuid.ZuNqVWfyJuI</guid>
-      <enclosure url="http://oops.hopto.org:9090/static/media/ZuNqVWfyJuI.m4a" length="22963732" type="audio/x-m4a"/>
-      <pubDate>Fri, 20 Jan 2023 16:28:37 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/ZuNqVWfyJuI/hqdefault.jpg"/>
-      <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>0</itunes:order>
-      <itunes:subtitle>by El Parte published on Friday, October  8 2021 at 11:49:29</itunes:subtitle>
-    </item>
-    <item>
-      <title>WINNERS MINDSET - Kobe Bryant (Motivational Video) - Alpha Leaders</title>
-      <description><![CDATA[Kobe Bryant shares his story and best advice in this inspirational &amp; motivational video. One of the most powerful and motivational videos we have ever made. Kobe Bryant shares his mentality and how he was able to accomplish great things on and off the court. We hope this video inspires you to go out and accomplish your goals. In memory of Kobe Bryant 🙏
-
-Subscribe to our channel for the best motivational content here: 
-https://bit.ly/2T7goR6
-
-If you found this video helpful and know of someone that would benefit from this video, please share it. 
-
-______________________________________
-
-▶︎ Speakers:
-Kobe Bryant
-Facebook: https://www.facebook.com/Kobe/
-Instagram: https://www.instagram.com/kobebryant/
-Twitter: https://twitter.com/kobebryant?lang=en
-
-Valuetainment:
-YouTube: https://www.youtube.com/user/patrickbetdavid
-Facebook: https://www.facebook.com/PatrickBetDavid.Valuetainment?ref=hl
-Instagram: https://www.instagram.com/patrickbetdavid/
-Twitter: https://twitter.com/patrickbetdavid
-
-Lewis Howes:
-YouTube: https://www.youtube.com/user/lewishowes
-Facebook: https://www.facebook.com/lewishowes/
-Instagram: https://www.instagram.com/lewishowes/
-Twitter: https://twitter.com/LewisHowes
-
-The Jordan Harbinger Show
-YouTube: https://www.youtube.com/channel/UCGLcx_fFZ3GlLXO5anHSm9w
-Facebook: https://www.facebook.com/thejordanharbingershow
-Instagram: https://www.instagram.com/jordanharbinger/
-Twitter: https://twitter.com/jordanharbinger
-
-TheLeapTV
-YouTube: https://www.youtube.com/user/TheLeapTV/featured
-Facebook: https://www.facebook.com/david.belasco
-Instagram: https://www.instagram.com/davidbelasco/
-Twitter: https://twitter.com/davebelasco
-
-_____________________________________
-
-▶︎ Music: Music licensed through Envato Elements (Audio Jungle)
-_____________________________________
-
-▶︎ Video Footage: All video footage is licensed through various stock footage websites. This includes Artgrid, Storyblocks, FilmPac, and other stock footage websites.
-
-▶︎ Disclaimer:
-This video was fully edited and licensed by the team at Alpha Leaders
-
-____________________________________
- 
-▶︎ Follow Alpha Leaders 
-YouTube: https://bit.ly/2T7goR6
-Instagram: https://www.instagram.com/alpha_leade...
-
-Our Mission: 
-Our goal and mission at Alpha Leaders is to motivate, inspire, and educate through our content. You will find anything from motivational speeches, educational content, ideas from innovators and entrepreneurs, and much more!
-
-#alphaleaders #leavealegacy]]></description>
-      <guid isPermaLink="false">com.uuebcast.uuid.BYGp2UTfI9U</guid>
-      <enclosure url="http://oops.hopto.org:9090/static/media/BYGp2UTfI9U.m4a" length="9796544" type="audio/x-m4a"/>
-      <pubDate>Fri, 20 Jan 2023 16:28:37 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/BYGp2UTfI9U/hqdefault.jpg"/>
-      <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>0</itunes:order>
-      <itunes:subtitle>by Alpha Leaders published on Monday, January 18 2021 at 17:00:05</itunes:subtitle>
-    </item>
-    <item>
-      <title>OUTWORK EVERYONE - Kobe Bryant (Motivational Video) - Alpha Leaders</title>
-      <description><![CDATA[In memory of Kobe Bryant 🙏
-
-Subscribe to our channel for the best motivational content here: 
-https://bit.ly/2T7goR6
-
-If you found this video helpful and know of someone that would benefit from this video, please share it. 
-
-______________________________________
-
-▶︎ Speakers:
-Kobe Bryant
-Facebook: https://www.facebook.com/Kobe/
-Instagram: https://www.instagram.com/kobebryant/
-Twitter: https://twitter.com/kobebryant?lang=en
-
-▶︎ Credit:
-Valuetainment:
-YouTube: https://www.youtube.com/user/patrickbetdavid
-Facebook: https://www.facebook.com/PatrickBetDavid.Valuetainment?ref=hl
-Instagram: https://www.instagram.com/patrickbetdavid/
-Twitter: https://twitter.com/patrickbetdavid
-
-Lewis Howes:
-YouTube: https://www.youtube.com/user/lewishowes
-Facebook: https://www.facebook.com/lewishowes/
-Instagram: https://www.instagram.com/lewishowes/
-Twitter: https://twitter.com/LewisHowes
-
-_____________________________________
-
-▶︎ Music: Music licensed through Envato Elements (Audio Jungle) and Soundstripe
-_____________________________________
-
-▶︎ Video Footage: All video footage is licensed through various stock footage websites. This includes Artgrid, Storyblocks, FilmPac, and other stock footage websites.
-
-▶︎ Disclaimer:
-This video was fully edited and licensed by the team at Alpha Leaders
-
-____________________________________
- 
-▶︎ Follow Alpha Leaders 
-YouTube: https://bit.ly/2T7goR6
-Instagram: https://www.instagram.com/alpha_leade...
-
-Our Mission: 
-Our goal and mission at Alpha Leaders is to motivate, inspire, and educate through our content. You will find anything from motivational speeches, educational content, ideas from innovators and entrepreneurs, and much more!
-
-#alphaleaders #leavealegacy]]></description>
-      <guid isPermaLink="false">com.uuebcast.uuid.7CDGM--Hyu8</guid>
-      <enclosure url="http://oops.hopto.org:9090/static/media/7CDGM--Hyu8.m4a" length="11665625" type="audio/x-m4a"/>
-      <pubDate>Fri, 20 Jan 2023 16:28:37 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/7CDGM--Hyu8/hqdefault.jpg"/>
-      <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>0</itunes:order>
-      <itunes:subtitle>by Alpha Leaders published on Tuesday, January 26 2021 at 17:01:16</itunes:subtitle>
-    </item>
-    <item>
-      <title>Harvard i-lab | Startup Secrets: Turning Products into Companies - Harvard Innovation Labs</title>
-      <description><![CDATA[You&#x27;ve figured out your value prop, you&#x27;ve got a great product under development. Now what? How can you develop a roadmap to build a company? VCs often qualify deals as being a &quot;feature&quot; a &quot;product&quot; or a &quot;company.&quot;  Which do you have and how will you get where you want to go?  During this session we&#x27;ll discuss how to think about designing your product as a foundational element of your business.  Think beyond UX and Architecture to Whole Product, Ecosystems, and Strategic partners.  Formulate how to design your go to market strategy and business model into your product with a modular architecture, distinctive packaging and a frictionless approach.
-
-Learn more about the Harvard Innovation Lab at http://i-lab.harvard.edu/ and follow us on Twitter at http://twitter.com/innovationlab and like us on Facebook at https://www.facebook.com/harvardinnovationlab]]></description>
-      <guid isPermaLink="false">com.uuebcast.uuid.092JQrye9IM</guid>
-      <enclosure url="http://oops.hopto.org:9090/static/media/092JQrye9IM.m4a" length="119095027" type="audio/x-m4a"/>
-      <pubDate>Fri, 20 Jan 2023 16:28:37 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/092JQrye9IM/hqdefault.jpg"/>
-      <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>0</itunes:order>
-      <itunes:subtitle>by Harvard Innovation Labs published on Wednesday, June 12 2013 at 03:41:35</itunes:subtitle>
-    </item>
-    <item>
-      <title>Cardi B - WAP (David Guetta Remix) [feat. Megan Thee Stallion] - David Guetta</title>
-      <description><![CDATA[PRODUCTION TUTORIAL: https://youtu.be/RG7Gop8Pb1Q
-
-#DavidGuetta #CardiB #wap
-
-Follow David Guetta:
-https://www.davidguetta.com
-https://facebook.com/DavidGuetta
-https://www.twitter.com/DavidGuetta
-https://www.instagram.com/davidguetta]]></description>
-      <guid isPermaLink="false">com.uuebcast.uuid.oezaifYpfiY</guid>
-      <enclosure url="http://oops.hopto.org:9090/static/media/oezaifYpfiY.m4a" length="2703962" type="audio/x-m4a"/>
-      <pubDate>Fri, 20 Jan 2023 16:28:37 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/oezaifYpfiY/hqdefault.jpg"/>
-      <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>0</itunes:order>
-      <itunes:subtitle>by David Guetta published on Thursday, September 24 2020 at 18:00:06</itunes:subtitle>
-    </item>
-    <item>
-      <title>Easy Way To Market Yourself and Why You Should Do It - Tell Your Story Part 1 - The Futur</title>
-      <description><![CDATA[How to market yourself to your audience? How can you establish yourself as a thought leader but still makes people like you? What is the best marketing strategy that you can use in long term? 
-
-All of that can be answered in just one phrase: Tell your story.
-But how and why you should tell your story. In this first episode, Chris will show you why telling your story is one of the best way you can do to make people know you, like you and trust you
-
-Want a deeper dive? Typography, Lettering, Sales &amp; Marketing, Social Media and The Business of Design courses available here:
-https://thefutur.com/shop
-
-Mahi
-Offbeat Upstairs
-https://offbeatupstairs.com
-
-Join the Pro Group
-https://thefutur.com/pro-group 
-
-===
-👉Subscribe: https://goo.gl/F2AEbk
-👉See our Academy Channel: https://goo.gl/vB9zoP
-
-🎙 Futur Podcast:  https://thefutur.com/podcast/
-✍️ Futur Blog: https://thefutur.com/blog/
-
-—
-Love the content? Become a sustaining member for $5/mo today.
-https://goo.gl/nwekfL
-
-BOOKLIST – 
-Essential Reading for Creative Professionals: https://bit.ly/biz-booklist
-Essential Design Books: https://bit.ly/futur-design-books
-
-Kits &amp; Proposals:
-https://goo.gl/mSjuWQ
-
-Visit our website: 
-https://www.thefutur.com
-
-FREE resources: 
-https://goo.gl/Qh6gHr
-—
-We love getting your letters. Send it here:
-The Futur
-c/o Chris Do
-1702 Olympic Blvd.
-Santa Monica, CA 90404
-USA
-
-—
-AFFILIATE LINKS*
-
-🙏 Support The Futur by purchasing through our affiliate links:
-Amazon: http://bit.ly/thefuturishere
-Webflow: http://bit.ly/2EbET9l
-Retro Supply Co.: http://bit.ly/2GW8gzR
-Creative Market: https://goo.gl/g4jlTE
-Design Cuts: http://bit.ly/2GSsAR3
-
-✍️ Sharpen your skills by taking a course, using our affiliate links:
-School of Motion: http://bit.ly/futur-som
-Bring Your Own Laptop Tutorials: https://byol.me/thefutur
-Skillshare: https://skl.sh/34z8qVj
-
-🎧 Do you like the music? Check out the music libraries we use in our affiliate links below:
-Epidemic Sound: http://share.epidemicsound.com/thefutur
-Musicbed: http://bit.ly/futurmb
-Artlist: http://bit.ly/2uWdna7
-
-*By making a purchase through any of our affiliate links, we receive a very small commission at no extra cost to you. This helps us on our mission to provide quality education to you. Thank you.
-
-—
-Host: Chris Do
-Producer: Mark Contreras
-Cinematographers/Editors: Stewart Schuster, Ricky Lucas, Jona Garcia
-Social Team: Elle Money, Alex Burlui
-Futur Theme Music: Adam Sanborne http://www.adamsanborne.com
-Typefaces: Futura, DIN, Helvetica Now, Calibre, Knockout, Champion Gothic]]></description>
-      <guid isPermaLink="false">com.uuebcast.uuid.lrM5CRg-O0I</guid>
-      <enclosure url="http://oops.hopto.org:9090/static/media/lrM5CRg-O0I.m4a" length="5764179" type="audio/x-m4a"/>
-      <pubDate>Fri, 20 Jan 2023 16:28:37 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/lrM5CRg-O0I/hqdefault.jpg"/>
-      <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>0</itunes:order>
-      <itunes:subtitle>by The Futur published on Sunday, July 11 2021 at 15:56:40</itunes:subtitle>
-    </item>
-    <item>
-      <title>Reinvent Yourself (2021)– Obstacles Are Opportunities In Disguise - The Futur</title>
-      <description><![CDATA[How come some people are stuck and other are quick to change? How does someone get over obstacles? How do you bring all of your interests together to use as an advantage? How do you pivot?
-
-In this talk from Graphika Manila 2021 you’ll hear Chris tell his story of how we was able to go from graphic design, motion design, and everything in between to going on youtube and teaching millions. He also shares how you can overcome obstacles and use them to your advantage.
-
-00:00 - Start
-1:25 - Agenda
-1:40 - Part 1: Refusal Of The Call
-3:56 - Part 2: The Mentor Appears
-5:20 - Part 3: Crossing The Threshold
-6:03 - Part 4: Trials
-8:25 - Part 5: Outcome
-9:23 - 2 stories of how people used obstacles to their advantage
-12:48 - The O.R.E.O. Formula
-12:58 - Part 6: Conclusion
-25:33 - Resources 
-
-Resources:
-The Innovator&#x27;s Dilemma - https://amzn.to/3qAyV70
-The Good Enough Revolution - https://www.wired.com/2009/08/ff-goodenough/
-The Dip - https://amzn.to/3qA8cHD
-The Obstacle Is The Way by Ryan Holiday - https://amzn.to/2OjIE4p
-The Compound Effect by Darren Hardy - https://amzn.to/3coA1gK
-Goals by Zig Ziglar - https://amzn.to/3vcGLXH
-Atomic Habits* by James Clear - https://amzn.to/3etLA95
-Grit* by Angela Duckworth - https://amzn.to/3etZhoG
-Power of Self Confidence by Brian Tracy - https://amzn.to/3coAdfY
-The Checklist Manifesto* by Atul Gawande - https://amzn.to/3bxFXVJ
-*Highly recommended by friends
-
-Want a deeper dive? Typography, Lettering, Sales &amp; Marketing, Social Media and The Business of Design courses available here:
-https://thefutur.com/shop
-
-===
-👉Subscribe: https://goo.gl/F2AEbk
-👉See our Academy Channel: https://goo.gl/vB9zoP
-
-🎙 Futur Podcast:  https://thefutur.com/podcast/
-✍️ Futur Blog: https://thefutur.com/blog/
-
-—
-Love the content? Become a sustaining member for $5/mo today.
-https://goo.gl/nwekfL
-
-BOOKLIST – 
-Essential Reading for Creative Professionals: https://bit.ly/biz-booklist
-Essential Design Books: https://bit.ly/futur-design-books
-
-Kits &amp; Proposals:
-https://goo.gl/mSjuWQ
-
-Visit our website: 
-https://www.thefutur.com
-
-FREE resources: 
-https://goo.gl/Qh6gHr
-—
-We love getting your letters. Send it here:
-The Futur
-c/o Chris Do
-1702 Olympic Blvd.
-Santa Monica, CA 90404
-USA
-
-—
-AFFILIATE LINKS*
-
-🙏 Support The Futur by purchasing through our affiliate links:
-Amazon: http://bit.ly/thefuturishere
-Webflow: http://bit.ly/2EbET9l
-Retro Supply Co.: http://bit.ly/2GW8gzR
-Creative Market: https://goo.gl/g4jlTE
-Design Cuts: http://bit.ly/2GSsAR3
-
-✍️ Sharpen your skills by taking a course, using our affiliate links:
-School of Motion: http://bit.ly/futur-som
-Bring Your Own Laptop Tutorials: https://byol.me/thefutur
-Skillshare: https://skl.sh/34z8qVj
-
-🎧 Do you like the music? Check out the music libraries we use in our affiliate links below:
-Epidemic Sound: http://share.epidemicsound.com/thefutur
-Musicbed: http://bit.ly/futurmb
-Artlist: http://bit.ly/2uWdna7
-
-*By making a purchase through any of our affiliate links, we receive a very small commission at no extra cost to you. This helps us on our mission to provide quality education to you. Thank you.
-
-—
-Host: Chris Do
-Producer: Mark Contreras
-Cinematographers/Editors: Stewart Schuster, Ricky Lucas, Jona Garcia
-Social Team: Elle Money, Alex Burlui
-Futur Theme Music: Adam Sanborne http://www.adamsanborne.com
-Typefaces: Futura, DIN, Helvetica Now, Calibre, Knockout, Champion Gothic]]></description>
-      <guid isPermaLink="false">com.uuebcast.uuid.XH-wD0Jbo5Y</guid>
-      <enclosure url="http://oops.hopto.org:9090/static/media/XH-wD0Jbo5Y.m4a" length="25090634" type="audio/x-m4a"/>
-      <pubDate>Fri, 20 Jan 2023 16:28:37 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/XH-wD0Jbo5Y/hqdefault.jpg"/>
-      <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>0</itunes:order>
-      <itunes:subtitle>by The Futur published on Tuesday, March 16 2021 at 14:00:16</itunes:subtitle>
-    </item>
-    <item>
-      <title>Object-oriented Programming in 7 minutes | Mosh - Programming with Mosh</title>
-      <description><![CDATA[Get the COMPLETE COURSE: http://bit.ly/2keDCna
-
-4 pillars of object-oriented programming: encapsulation, abstraction, inheritance and polymorphism. 
-
-Subscribe for more videos: 
-https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA?sub_confirmation=1
-
-
-Want to learn more from me? Check out my blog and courses: 
-
-https://codewithmosh.com
-https://programmingwithmosh.com 
-https://www.facebook.com/programmingwithmosh/
-https://twitter.com/moshhamedani]]></description>
-      <guid isPermaLink="false">com.uuebcast.uuid.pTB0EiLXUC8</guid>
-      <enclosure url="http://oops.hopto.org:9090/static/media/pTB0EiLXUC8.m4a" length="7347401" type="audio/x-m4a"/>
-      <pubDate>Fri, 20 Jan 2023 16:28:37 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/pTB0EiLXUC8/hqdefault.jpg"/>
-      <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>0</itunes:order>
-      <itunes:subtitle>by Programming with Mosh published on Friday, March 30 2018 at 00:24:17</itunes:subtitle>
-    </item>
-    <item>
-      <title>Apple Steve Jobs Heres To The Crazy Ones - Nathan Hulls</title>
+      <title>Apple Steve Jobs Heres To The Crazy Ones</title>
       <description><![CDATA[http://www.NathanHulls.com
 
 Steve Jobs narrates the first of Apples &#x27;Think Different&#x27; commercial &quot;Here&#x27;s to the Crazy Ones&quot;. It never aired. Richard Dreyfuss did the voice over for the original spot that aired.
@@ -1483,193 +121,303 @@ Steve Jobs narrates the first of Apples &#x27;Think Different&#x27; commercial &
 
 http://www.nathanhulls.com]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.-z4NS2zdrZc</guid>
-      <enclosure url="http://oops.hopto.org:9090/static/media/-z4NS2zdrZc.m4a" length="989115" type="audio/x-m4a"/>
-      <pubDate>Fri, 20 Jan 2023 16:28:37 +0000</pubDate>
+      <enclosure url="http://192.168.1.37:5000/static/media/-z4NS2zdrZc.m4a" length="989115" type="audio/x-m4a"/>
+      <pubDate>Fri, 03 Feb 2023 08:13:38 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/-z4NS2zdrZc/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
-      <itunes:subtitle>by Nathan Hulls published on Wednesday, September 26 2012 at 03:42:01</itunes:subtitle>
+      <itunes:subtitle>http://www.NathanHulls.com
+
+Steve Jobs narrates the first of Apples 'Think Different' commercial "Here's to the Crazy Ones". It never aired. Richard Dreyfuss did the voice over for the original spot that aired.
+
+"The ones who are crazy enough to think that they can change the world, are the ones who do"
+
+http://www.nathanhulls.com</itunes:subtitle>
     </item>
     <item>
-      <title>Entrevista completa: "El Bill Gates español" #LaEstirpedelosLibres - Canal Iker Jiménez</title>
-      <description><![CDATA[José Luis Domínguez es probablemente el hombre que más contribuyó a la implantación masiva de los ordenadores domésticos en España. Fue el fundador de la empresa Indescomp y el auténtico introductor de la marca Amstrad en nuestro país.
-A principios de los ochenta abandonó su trabajo como agente de seguros con la intención de vender microordenadores. Fue el fundador de Indescomp, una leyenda en la historia del software español gracias a los juegos &#x27;La pulga&#x27; y &#x27;Fred&#x27;.
+      <title>Informe OVNI - Autopsia a la Spirit Box | #MilenioLive​​ | Programa T3x34 (05/06/2021)</title>
+      <description><![CDATA[OVNIS: EL INFORME DE INTELIGENCIA DE EE.UU.
 
-Gracias al ordenador CPC 464 de la empresa Amstrad marcó un hito en la historia de la informática casera española. En Indescomp, a principios de los años 80 y bajo su batuta, se juntaron algunos de los mejores desarrolladores españoles. Casi todos los videojuegos que Indescomp desarrolló para Amstrad CPC fueron publicados bajo el sello de Amsoft, una subsidiaria de Amstrad. 
-Desde 1985 hasta 1989 Indescomp publicó, bajo el nombre de Amstrad User, una revista dedicada exclusivamente a los usuarios de Amstrad en España.]]></description>
-      <guid isPermaLink="false">com.uuebcast.uuid.9icPvZ8V2YQ</guid>
-      <enclosure url="http://oops.hopto.org:9090/static/media/9icPvZ8V2YQ.m4a" length="124526131" type="audio/x-m4a"/>
-      <pubDate>Fri, 20 Jan 2023 16:28:37 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/9icPvZ8V2YQ/hqdefault.jpg"/>
+El Gobierno de Estados Unidos no puede afirmar que los objetos vistos por pilotos de la Armada en vuelos de noviembre de 2004 y marzo de 2015 sean naves extraterrestres, pero tampoco puede explicar qué son. Esta es la principal conclusión del muy esperado informe que las agencias de inteligencia de Washington elaboraron meses después de desclasificar tres vídeos en los que se aprecian estos fenómenos, que tras ser filtrados alimentaron durante años las teorías sobre la existencia de vida inteligente en otros planetas.
+
+Se espera que el documento, que tendrá un apéndice con información clasificada, aporte certezas después de las grandes expectativas que ha creado la investigación llevada a cabo por el Pentágono. Los pilotos que presenciaron los fenómenos aéreos al oeste de la ciudad californiana de San Diego, sobre las islas de San Clemente, describieron un comportamiento errático y luces que desafiaban las reglas de la física provenientes de un objeto con forma de píldora. De acuerdo a los testimonios, las naves no tenían motores o escapes visibles y fueron registradas a más de 9.000 metros de altura y a una gran velocidad.
+
+AUTOPSIA A LA SPIRIT BOX
+
+En la segunda hora, hablaremos sobre la polémica “Spirit Box”. Definida por muchos como un novedoso material para &#x27;parapsicólogos&#x27; que en cuestión de milésimas de segundo barre varias frecuencias de radio, creando ruido blanco. Muchos, incluso aseguran que mediante este extraño aparato, se pueden escuchar voces diciendo palabras e inclusive oraciones completas procedentes del &#x27;Más Allá&#x27;.
+
+Su origen se remonta al año 2002 ideado por Frank Sumption y desde entonces envuelta en una continua polémica, que presenta muchas dudas y sombras en la propia comunidad del misterio. Esta noche nuestro compañero Luis Uriarte procederá a realizar una auténtica &#x27;autopsia&#x27; a esta herramienta para despejar definitivamente la verdad tras la &#x27;Spirit Box&#x27;.
+
+--------------------------------------------------------
+
+WEB:
+• Toda la información en → https://www.ikerjimenez.com/
+
+REDES SOCIALES:
+• Iker Jiménez en Twitter → https://twitter.com/navedelmisterio
+• Iker Jiménez en Instagram → https://www.instagram.com/navedelmisterio_
+• Carmen Porter en Twitter → https://twitter.com/carmenporter_
+• La nave del misterio en Facebook → https://www.facebook.com/navedelmisterio
+
+OTROS CANALES EN YOUTUBE:
+• Con C de Carmen → https://www.youtube.com/c/ElvideoblogdeCarmenPorter
+• Retrofútbol de Iker → https://www.youtube.com/c/retrofutboldeiker]]></description>
+      <guid isPermaLink="false">com.uuebcast.uuid.HiPOAn_DVm4</guid>
+      <enclosure url="http://192.168.1.37:5000/static/media/HiPOAn_DVm4.m4a" length="135632160" type="audio/x-m4a"/>
+      <pubDate>Fri, 03 Feb 2023 08:13:38 +0000</pubDate>
+      <itunes:image href="http://i.ytimg.com/vi/HiPOAn_DVm4/default.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
-      <itunes:subtitle>by Canal Iker Jiménez published on Tuesday, June  8 2021 at 22:26:50</itunes:subtitle>
+      <itunes:subtitle>OVNIS: EL INFORME DE INTELIGENCIA DE EE.UU.
+
+El Gobierno de Estados Unidos no puede afirmar que los objetos vistos por pilotos de la Armada en vuelos de noviembre de 2004 y marzo de 2015 sean naves extraterrestres, pero tampoco puede explicar qué son. Esta es la principal conclusión del muy esperado informe que las agencias de inteligencia de Washington elaboraron meses después de desclasificar tres vídeos en los que se aprecian estos fenómenos, que tras ser filtrados alimentaron durante años las teorías sobre la existencia de vida inteligente en otros planetas.
+
+Se espera que el documento, que tendrá un apéndice con información clasificada, aporte certezas después de las grandes expectativas que ha creado la investigación llevada a cabo por el Pentágono. Los pilotos que presenciaron los fenómenos aéreos al oeste de la ciudad californiana de San Diego, sobre las islas de San Clemente, describieron un comportamiento errático y luces que desafiaban las reglas de la física provenientes de un objeto con forma de píldora. De acuerdo a los testimonios, las naves no tenían motores o escapes visibles y fueron registradas a más de 9.000 metros de altura y a una gran velocidad.
+
+AUTOPSIA A LA SPIRIT BOX
+
+En la segunda hora, hablaremos sobre la polémica “Spirit Box”. Definida por muchos como un novedoso material para 'parapsicólogos' que en cuestión de milésimas de segundo barre varias frecuencias de radio, creando ruido blanco. Muchos, incluso aseguran que mediante este extraño aparato, se pueden escuchar voces diciendo palabras e inclusive oraciones completas procedentes del 'Más Allá'.
+
+Su origen se remonta al año 2002 ideado por Frank Sumption y desde entonces envuelta en una continua polémica, que presenta muchas dudas y sombras en la propia comunidad del misterio. Esta noche nuestro compañero Luis Uriarte procederá a realizar una auténtica 'autopsia' a esta herramienta para despejar definitivamente la verdad tras la 'Spirit Box'.
+
+--------------------------------------------------------
+
+WEB:
+• Toda la información en → https://www.ikerjimenez.com/
+
+REDES SOCIALES:
+• Iker Jiménez en Twitter → https://twitter.com/navedelmisterio
+• Iker Jiménez en Instagram → https://www.instagram.com/navedelmisterio_
+• Carmen Porter en Twitter → https://twitter.com/carmenporter_
+• La nave del misterio en Facebook → https://www.facebook.com/navedelmisterio
+
+OTROS CANALES EN YOUTUBE:
+• Con C de Carmen → https://www.youtube.com/c/ElvideoblogdeCarmenPorter
+• Retrofútbol de Iker → https://www.youtube.com/c/retrofutboldeiker</itunes:subtitle>
     </item>
     <item>
-      <title>Doja Cat - "Say So" Live | MTV EMA 2020</title>
-      <description><![CDATA[Doja Cat brings an incredible rock rendition of her hit track &#x27;Say So&#x27; at the MTV EMA 2020 in London!
+      <title>Apple's WWDC June 7 Event: What to REALISTICALLY Expect!</title>
+      <description><![CDATA[Apple&#x27;s WWDC 2021 Event is coming up soon, so let&#x27;s go through all of the Hardware and Software that we should expect, including iPadOS 15 features and M1X chip Macs!
+Can&#x27;t wait for the M1X? Here&#x27;s the BEST value M1 Mac ➡ https://geni.us/yG9Zb
 
-The 2020 MTV EMAs are hosted by Little Mix and feature performances from Jack Harlow, Alicia Keys, Tate McRae, DaBaby, Karol G, David Guetta, Sam Smith, Maluma, Doja Cat, YUNGBLUD, Zara Larsson, Little Mix, Madison Beer, Why Don&#x27;t We, and 24kGoldn.
+Support us by checking out our Merch! ➡ https://teespring.com/stores/max-tech-store
+Max tech wallpapers ➡ https://bit.ly/2WNc6Qw
 
-#MTVEMA2020 #DojaCat
+Best deals on M1 Macs &amp; iPad Pros on Amazon ⬇️ 
+M1 24&quot; iMac ➡ https://geni.us/rxVfrY6
+M1 MacBook Air ($950 SALE) ➡ https://geni.us/1mJ41T
+M1 MacBook Pro ➡ https://geni.us/GAB4bVA
+M1 iPad Pro 11&quot; ➡ https://geni.us/sOrNb
+M1 iPad Pro 12.9&quot; ➡ https://geni.us/jGLe8br
 
-Subscribe to MTV UK for more great videos and exclusives! https://www.youtube.com/c/MTVUK
+Apple&#x27;s WWDC 2021 Event is coming up on June 7th and there is a TON of speculation on what Apple is gonna be releasing.
 
-Get social with MTV @ 
-💋 Twitter: https://twitter.com/MTVUK 
-🍺 Instagram: http://instagram.com/mtvuk 
-💅 Tumblr: http://mtvuk.tumblr.com
-🍿 Facebook: https://www.facebook.com/mtvuk 
-🎷 Official: http://www.mtv.co.uk
+In this video, we go through the final leaks, rumors and hints that reveal what new hardware and software we should be expecting, including iOS 15, iPadOS 15, WatchOS 8 and MacOS Monterey.
 
-MTV UK is your place to watch all your favourites! Live EMAs performances, music artist to follow on MTV Push, latest MTV Movies exclusives and the best from Geordie Shore, Just Tattoo of Us, Teen Mom UK, Ex on The Beach and many many more!]]></description>
-      <guid isPermaLink="false">com.uuebcast.uuid.PGBeV-Hlqaw</guid>
-      <enclosure url="http://oops.hopto.org:9090/static/media/PGBeV-Hlqaw.m4a" length="4215244" type="audio/x-m4a"/>
-      <pubDate>Fri, 20 Jan 2023 16:28:37 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/PGBeV-Hlqaw/default.jpg"/>
+We also go through the unique features that we&#x27;re excited for that&#x27;ll be coming to the new M1 iPad Pro like Final Cut Pro, Logic and Xcode, and maybe even a RAM limit increase or removal.
+
+We then talk about the likelihood of seeing new redesigned M1X 14 and 16&quot; MacBook Pros, as well as the possibility of seeing a new redesigned M1X Mac Mini.
+
+On top of all of that, we talk about the products that we should NOT be expecting at WWDC 2021!
+
+If you enjoyed this video, Tap Like &amp; Subscribe for more videos like this one! 
+
+
+Max Tech Wallpapers ➡ https://bit.ly/2WNc6Qw
+Buy one of our NEW T-Shirts to help support us! ➡ https://teespring.com/stores/max-tech-store
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Shop on Amazon ➡ https://geni.us/wB2mWqd
+Shop on B&amp;H ➡ https://bhpho.to/2kfoI34
+Shop on Adorama ➡ https://bit.ly/2R7qezq 
+
+10% off unlimited yearly music licensing on Soundstripe (what I use for all my videos) use coupon code &quot;Max&quot; here: http://soundstripe.grsm.io/e/6lv
+
+Shot with (Amazon) ➡ https://geni.us/XE0r
+Lens (B&amp;H) ➡ https://bhpho.to/2DZerxL 
+Mic (Amazon)➡ https://geni.us/83CN3V5
+
+If you enjoy our content please consider supporting us on Patreon. Even $2 a month helps us make more and better content for you!
+https://www.patreon.com/MaxYuryev
+-~-~~-~~~-~~-~-
+PRIVACY POLICY and FULL DISCLOSURE:
+°Max Tech is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees  by advertising and linking to amazon.com
+°Max Tech is a participant in the B&amp;H Photo Video affiliate program that provides an advertising commission if you purchase through our links. 
+°If you purchase something from our affiliate links will get a small commission with no extra cost to you. This makes it possible for us to make more videos. Thank you! 
+°We DO NOT collect, store, use, or share any data about you.
+-~-~~-~~~-~~-~-]]></description>
+      <guid isPermaLink="false">com.uuebcast.uuid.f_ro2RYaujk</guid>
+      <enclosure url="http://192.168.1.37:5000/static/media/f_ro2RYaujk.m4a" length="10201967" type="audio/x-m4a"/>
+      <pubDate>Fri, 03 Feb 2023 08:13:38 +0000</pubDate>
+      <itunes:image href="http://i.ytimg.com/vi/f_ro2RYaujk/default.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
-      <itunes:subtitle>Doja Cat brings an incredible rock rendition of her hit track 'Say So' at the MTV EMA 2020 in London!
+      <itunes:subtitle>Apple's WWDC 2021 Event is coming up soon, so let's go through all of the Hardware and Software that we should expect, including iPadOS 15 features and M1X chip Macs!
+Can't wait for the M1X? Here's the BEST value M1 Mac ➡ https://geni.us/yG9Zb
 
-The 2020 MTV EMAs are hosted by Little Mix and feature performances from Jack Harlow, Alicia Keys, Tate McRae, DaBaby, Karol G, David Guetta, Sam Smith, Maluma, Doja Cat, YUNGBLUD, Zara Larsson, Little Mix, Madison Beer, Why Don't We, and 24kGoldn.
+Support us by checking out our Merch! ➡ https://teespring.com/stores/max-tech-store
+Max tech wallpapers ➡ https://bit.ly/2WNc6Qw
 
-#MTVEMA2020 #DojaCat
+Best deals on M1 Macs &amp; iPad Pros on Amazon ⬇️ 
+M1 24" iMac ➡ https://geni.us/rxVfrY6
+M1 MacBook Air ($950 SALE) ➡ https://geni.us/1mJ41T
+M1 MacBook Pro ➡ https://geni.us/GAB4bVA
+M1 iPad Pro 11" ➡ https://geni.us/sOrNb
+M1 iPad Pro 12.9" ➡ https://geni.us/jGLe8br
 
-Subscribe to MTV UK for more great videos and exclusives! https://www.youtube.com/c/MTVUK
+Apple's WWDC 2021 Event is coming up on June 7th and there is a TON of speculation on what Apple is gonna be releasing.
 
-Get social with MTV @ 
-💋 Twitter: https://twitter.com/MTVUK 
-🍺 Instagram: http://instagram.com/mtvuk 
-💅 Tumblr: http://mtvuk.tumblr.com
-🍿 Facebook: https://www.facebook.com/mtvuk 
-🎷 Official: http://www.mtv.co.uk
+In this video, we go through the final leaks, rumors and hints that reveal what new hardware and software we should be expecting, including iOS 15, iPadOS 15, WatchOS 8 and MacOS Monterey.
 
-MTV UK is your place to watch all your favourites! Live EMAs performances, music artist to follow on MTV Push, latest MTV Movies exclusives and the best from Geordie Shore, Just Tattoo of Us, Teen Mom UK, Ex on The Beach and many many more!</itunes:subtitle>
+We also go through the unique features that we're excited for that'll be coming to the new M1 iPad Pro like Final Cut Pro, Logic and Xcode, and maybe even a RAM limit increase or removal.
+
+We then talk about the likelihood of seeing new redesigned M1X 14 and 16" MacBook Pros, as well as the possibility of seeing a new redesigned M1X Mac Mini.
+
+On top of all of that, we talk about the products that we should NOT be expecting at WWDC 2021!
+
+If you enjoyed this video, Tap Like &amp; Subscribe for more videos like this one! 
+
+
+Max Tech Wallpapers ➡ https://bit.ly/2WNc6Qw
+Buy one of our NEW T-Shirts to help support us! ➡ https://teespring.com/stores/max-tech-store
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Shop on Amazon ➡ https://geni.us/wB2mWqd
+Shop on B&amp;H ➡ https://bhpho.to/2kfoI34
+Shop on Adorama ➡ https://bit.ly/2R7qezq 
+
+10% off unlimited yearly music licensing on Soundstripe (what I use for all my videos) use coupon code "Max" here: http://soundstripe.grsm.io/e/6lv
+
+Shot with (Amazon) ➡ https://geni.us/XE0r
+Lens (B&amp;H) ➡ https://bhpho.to/2DZerxL 
+Mic (Amazon)➡ https://geni.us/83CN3V5
+
+If you enjoy our content please consider supporting us on Patreon. Even $2 a month helps us make more and better content for you!
+https://www.patreon.com/MaxYuryev
+-~-~~-~~~-~~-~-
+PRIVACY POLICY and FULL DISCLOSURE:
+°Max Tech is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees  by advertising and linking to amazon.com
+°Max Tech is a participant in the B&amp;H Photo Video affiliate program that provides an advertising commission if you purchase through our links. 
+°If you purchase something from our affiliate links will get a small commission with no extra cost to you. This makes it possible for us to make more videos. Thank you! 
+°We DO NOT collect, store, use, or share any data about you.
+-~-~~-~~~-~~-~-</itunes:subtitle>
     </item>
     <item>
-      <title>CS50 Lecture by Mark Zuckerberg - 7 December 2005</title>
-      <description><![CDATA[On 7 December 2005, Mark Zuckerberg joined CS50 for a guest lecture about Facebook and computer science. With Professor Michael D. Smith. Shared with permission.
+      <title>iPad Pro vs. iPad Air vs. iPad 8 — Don't Pick WRONG!</title>
+      <description><![CDATA[☎️ SAVE with Ting Mobile and get a $25 service credit 👉http://rene.ting.com
 
-***
+11-inch M1 iPad Pro vs. A14 iPad Air — Which is the best latest-generation iPad for you? And, ok, fine, we&#x27;ll throw in the iPad 8 as well!
 
-HOW TO SUBSCRIBE
+🔔 SUBSCRIBE  https://www.youtube.com/reneritchie?sub_confirmation=1
 
-http://www.youtube.com/subscription_center?add_user=cs50tv
+🖥 New Apple Products for 2021:
+https://www.youtube.com/playlist?list=PL3XJJi5sAjD1NQJsw9AWgBY2dzOWVpNWo
 
-HOW TO TAKE CS50
+💻 Apple Silicon Macs (M1): 
+https://www.youtube.com/playlist?list=PL3XJJi5sAjD1sCicSKd0irf5TnQ1KJvPm
 
-edX: https://cs50.edx.org/
-Harvard Extension School: https://cs50.harvard.edu/extension
-Harvard Summer School: https://cs50.harvard.edu/summer
-OpenCourseWare: https://cs50.harvard.edu/x
+📱 iPhone 13 Coverage:
+https://www.youtube.com/playlist?list=PL3XJJi5sAjD2Os17f8JOjnAB47AY-Xmx2
 
-HOW TO JOIN CS50 COMMUNITIES
+🔗 LINKS
 
-Discord: https://discord.gg/T8QZqRx
-Ed: https://cs50.harvard.edu/x/ed
-Facebook Group: https://www.facebook.com/groups/cs50/
-Faceboook Page: https://www.facebook.com/cs50/
-GitHub: https://github.com/cs50
-Gitter: https://gitter.im/cs50/x
-Instagram: https://instagram.com/cs50
-LinkedIn Group: https://www.linkedin.com/groups/7437240/
-LinkedIn Page: https://www.linkedin.com/school/cs50/
-Quora: https://www.quora.com/topic/CS50
-Slack: https://cs50.edx.org/slack
-Snapchat: https://www.snapchat.com/add/cs50
-Twitter: https://twitter.com/cs50
-YouTube: http://www.youtube.com/cs50
+🙏  PATREON THANK YOU!
 
-HOW TO FOLLOW DAVID J. MALAN
+Get access to exclusive Discord, previews, even your name in this description or credits! https://www.patreon.com/reneritchie 
 
-Facebook: https://www.facebook.com/dmalan
-GitHub: https://github.com/dmalan
-Instagram: https://www.instagram.com/davidjmalan/
-LinkedIn: https://www.linkedin.com/in/malan/
-Quora: https://www.quora.com/profile/David-J-Malan
-Twitter: https://twitter.com/davidjmalan
+Jacob Uribe, John Malkin, Ryan Parman, Roy Burns, Henk van Ess, Paco Arango, Rich Stakounis, Chad Potts, Daniel Pinto, Rod Gray, Daniel Z Wilkerson, Daniel Pasco, Jeffrey David Marraccini, Steven Kaplan, Mark Lussier, Martin Perry, Christopher Wiggins, Dude, Jon Wheeler, Josef, Frederick Lakes Jr., Steven Perry, Michael Dreves, Sam Fingold, Sven Jasper, Kyle Giglio
 
-***
+🍎🎙 APPLE TALK PODCAST
 
-CS50 SHOP
+Apple: https://podcasts.apple.com/ca/podcast/apple-talk/id1532933019?i=1000492160142
 
-https://cs50.harvardshop.com/
+RSS: https://rss.art19.com/apple-talk
+YouTube: https://www.youtube.com/channel/UCrunioydAXI6z5yuJIHk-0Q/
 
-***
+NEBULA subscribers get a bonus topic each week:
 
-LICENSE
+Audio: https://watchnebula.com/apple-talk-podcast
+Video: https://watchnebula.com/apple-talk
 
-CC BY-NC-SA 4.0
-Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License
-https://creativecommons.org/licenses/by-nc-sa/4.0/
+DISCLAIMER
 
-David J. Malan
-https://cs.harvard.edu/malan
-malan@harvard.edu]]></description>
-      <guid isPermaLink="false">com.uuebcast.uuid.xFFs9UgOAlE</guid>
-      <enclosure url="http://oops.hopto.org:9090/static/media/xFFs9UgOAlE.m4a" length="47937502" type="audio/x-m4a"/>
-      <pubDate>Fri, 20 Jan 2023 16:28:37 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/xFFs9UgOAlE/default.jpg"/>
+This channel does not produce sponsored or paid reviews. Companies occasionally make sample products available to facilitate reviews but provide no payment and get no editorial input, content approval, or advanced previews of the reviews. They see them for the first time when you do. 
+
+Links may contain referrals for affiliate programs that provide this channel with a tiny commission should you make a purchase. They likewise receive zero editorial input or consideration.
+
+📷 Some video and imagery supplied by Getty Images
+🎸 Some music supplied by Epidemic
+
+MORE
+
+⭐️ Nebula: https://watchnebula.com/reneritchie
+🐦 Twitter: https://twitter.com/reneritchie
+📸 Instagram: https://instagram.com/reneritchie
+🌎 Web: https://www.reneritchie.net
+🍎 Podcasts: http://apple.co/reneritchie
+🌥 Overcast: https://overcast.fm/p1644160-NUVafv
+👖 Pocket Cast: https://pca.st/reneritchie
+
+Thanks for watching, see you next video!]]></description>
+      <guid isPermaLink="false">com.uuebcast.uuid.tjaxMZ6x824</guid>
+      <enclosure url="http://192.168.1.37:5000/static/media/tjaxMZ6x824.m4a" length="10710735" type="audio/x-m4a"/>
+      <pubDate>Fri, 03 Feb 2023 08:13:38 +0000</pubDate>
+      <itunes:image href="http://i.ytimg.com/vi/tjaxMZ6x824/default.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
-      <itunes:subtitle>On 7 December 2005, Mark Zuckerberg joined CS50 for a guest lecture about Facebook and computer science. With Professor Michael D. Smith. Shared with permission.
+      <itunes:subtitle>☎️ SAVE with Ting Mobile and get a $25 service credit 👉http://rene.ting.com
 
-***
+11-inch M1 iPad Pro vs. A14 iPad Air — Which is the best latest-generation iPad for you? And, ok, fine, we'll throw in the iPad 8 as well!
 
-HOW TO SUBSCRIBE
+🔔 SUBSCRIBE  https://www.youtube.com/reneritchie?sub_confirmation=1
 
-http://www.youtube.com/subscription_center?add_user=cs50tv
+🖥 New Apple Products for 2021:
+https://www.youtube.com/playlist?list=PL3XJJi5sAjD1NQJsw9AWgBY2dzOWVpNWo
 
-HOW TO TAKE CS50
+💻 Apple Silicon Macs (M1): 
+https://www.youtube.com/playlist?list=PL3XJJi5sAjD1sCicSKd0irf5TnQ1KJvPm
 
-edX: https://cs50.edx.org/
-Harvard Extension School: https://cs50.harvard.edu/extension
-Harvard Summer School: https://cs50.harvard.edu/summer
-OpenCourseWare: https://cs50.harvard.edu/x
+📱 iPhone 13 Coverage:
+https://www.youtube.com/playlist?list=PL3XJJi5sAjD2Os17f8JOjnAB47AY-Xmx2
 
-HOW TO JOIN CS50 COMMUNITIES
+🔗 LINKS
 
-Discord: https://discord.gg/T8QZqRx
-Ed: https://cs50.harvard.edu/x/ed
-Facebook Group: https://www.facebook.com/groups/cs50/
-Faceboook Page: https://www.facebook.com/cs50/
-GitHub: https://github.com/cs50
-Gitter: https://gitter.im/cs50/x
-Instagram: https://instagram.com/cs50
-LinkedIn Group: https://www.linkedin.com/groups/7437240/
-LinkedIn Page: https://www.linkedin.com/school/cs50/
-Quora: https://www.quora.com/topic/CS50
-Slack: https://cs50.edx.org/slack
-Snapchat: https://www.snapchat.com/add/cs50
-Twitter: https://twitter.com/cs50
-YouTube: http://www.youtube.com/cs50
+🙏  PATREON THANK YOU!
 
-HOW TO FOLLOW DAVID J. MALAN
+Get access to exclusive Discord, previews, even your name in this description or credits! https://www.patreon.com/reneritchie 
 
-Facebook: https://www.facebook.com/dmalan
-GitHub: https://github.com/dmalan
-Instagram: https://www.instagram.com/davidjmalan/
-LinkedIn: https://www.linkedin.com/in/malan/
-Quora: https://www.quora.com/profile/David-J-Malan
-Twitter: https://twitter.com/davidjmalan
+Jacob Uribe, John Malkin, Ryan Parman, Roy Burns, Henk van Ess, Paco Arango, Rich Stakounis, Chad Potts, Daniel Pinto, Rod Gray, Daniel Z Wilkerson, Daniel Pasco, Jeffrey David Marraccini, Steven Kaplan, Mark Lussier, Martin Perry, Christopher Wiggins, Dude, Jon Wheeler, Josef, Frederick Lakes Jr., Steven Perry, Michael Dreves, Sam Fingold, Sven Jasper, Kyle Giglio
 
-***
+🍎🎙 APPLE TALK PODCAST
 
-CS50 SHOP
+Apple: https://podcasts.apple.com/ca/podcast/apple-talk/id1532933019?i=1000492160142
 
-https://cs50.harvardshop.com/
+RSS: https://rss.art19.com/apple-talk
+YouTube: https://www.youtube.com/channel/UCrunioydAXI6z5yuJIHk-0Q/
 
-***
+NEBULA subscribers get a bonus topic each week:
 
-LICENSE
+Audio: https://watchnebula.com/apple-talk-podcast
+Video: https://watchnebula.com/apple-talk
 
-CC BY-NC-SA 4.0
-Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License
-https://creativecommons.org/licenses/by-nc-sa/4.0/
+DISCLAIMER
 
-David J. Malan
-https://cs.harvard.edu/malan
-malan@harvard.edu</itunes:subtitle>
+This channel does not produce sponsored or paid reviews. Companies occasionally make sample products available to facilitate reviews but provide no payment and get no editorial input, content approval, or advanced previews of the reviews. They see them for the first time when you do. 
+
+Links may contain referrals for affiliate programs that provide this channel with a tiny commission should you make a purchase. They likewise receive zero editorial input or consideration.
+
+📷 Some video and imagery supplied by Getty Images
+🎸 Some music supplied by Epidemic
+
+MORE
+
+⭐️ Nebula: https://watchnebula.com/reneritchie
+🐦 Twitter: https://twitter.com/reneritchie
+📸 Instagram: https://instagram.com/reneritchie
+🌎 Web: https://www.reneritchie.net
+🍎 Podcasts: http://apple.co/reneritchie
+🌥 Overcast: https://overcast.fm/p1644160-NUVafv
+👖 Pocket Cast: https://pca.st/reneritchie
+
+Thanks for watching, see you next video!</itunes:subtitle>
     </item>
   </channel>
 </rss>
