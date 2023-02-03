@@ -8,10 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator> </generator>
     <language>es-ES</language>
-    <lastBuildDate>Fri, 03 Feb 2023 23:20:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Feb 2023 23:20:33 +0000</lastBuildDate>
     <itunes:author>oliver</itunes:author>
     <managingEditor>oliver.barreto.online@gmail.com (oliver)</managingEditor>
-    <pubDate>Fri, 03 Feb 2023 23:20:19 +0000</pubDate>
+    <pubDate>Fri, 03 Feb 2023 23:20:33 +0000</pubDate>
     <itunes:category text="News"/>
     <itunes:image href="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png"/>
     <itunes:owner>
@@ -32,7 +32,7 @@ http://astore.amazon.co.uk/pig-peppa-21
 http://astore.amazon.co.uk/leapster-21]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.NQ5ku4z1pjs</guid>
       <enclosure url="http://lab.oliverbarreto.com/static/media/NQ5ku4z1pjs.m4a" length="1980711" type="audio/x-m4a"/>
-      <pubDate>Fri, 03 Feb 2023 23:20:19 +0000</pubDate>
+      <pubDate>Fri, 03 Feb 2023 23:20:33 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/NQ5ku4z1pjs/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -54,34 +54,11 @@ Síguenos en Twitter: https://twitter.com/NBAspain
 No te pierdas nada en Facebook: https://www.facebook.com/NBASPAIN]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.cQYcjkq5OBI</guid>
       <enclosure url="http://lab.oliverbarreto.com/static/media/cQYcjkq5OBI.m4a" length="2167680" type="audio/x-m4a"/>
-      <pubDate>Fri, 03 Feb 2023 23:20:19 +0000</pubDate>
+      <pubDate>Fri, 03 Feb 2023 23:20:33 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/cQYcjkq5OBI/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
       <itunes:subtitle>by NBA SPAIN published on Friday, February  3 2023 at 06:31:11</itunes:subtitle>
-    </item>
-    <item>
-      <title>Apple Steve Jobs Heres To The Crazy Ones</title>
-      <description><![CDATA[http://www.NathanHulls.com
-
-Steve Jobs narrates the first of Apples &#x27;Think Different&#x27; commercial &quot;Here&#x27;s to the Crazy Ones&quot;. It never aired. Richard Dreyfuss did the voice over for the original spot that aired.
-
-&quot;The ones who are crazy enough to think that they can change the world, are the ones who do&quot;
-
-http://www.nathanhulls.com]]></description>
-      <guid isPermaLink="false">com.uuebcast.uuid.-z4NS2zdrZc</guid>
-      <enclosure url="http://192.168.1.37:5000/static/media/-z4NS2zdrZc.m4a" length="989115" type="audio/x-m4a"/>
-      <pubDate>Fri, 03 Feb 2023 23:20:19 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/-z4NS2zdrZc/hqdefault.jpg"/>
-      <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>0</itunes:order>
-      <itunes:subtitle>http://www.NathanHulls.com
-
-Steve Jobs narrates the first of Apples 'Think Different' commercial "Here's to the Crazy Ones". It never aired. Richard Dreyfuss did the voice over for the original spot that aired.
-
-"The ones who are crazy enough to think that they can change the world, are the ones who do"
-
-http://www.nathanhulls.com</itunes:subtitle>
     </item>
   </channel>
 </rss>
