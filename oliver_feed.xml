@@ -8,10 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator> </generator>
     <language>es-ES</language>
-    <lastBuildDate>Fri, 03 Feb 2023 08:13:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Feb 2023 21:56:13 +0000</lastBuildDate>
     <itunes:author>oliver</itunes:author>
     <managingEditor>oliver.barreto.online@gmail.com (oliver)</managingEditor>
-    <pubDate>Fri, 03 Feb 2023 08:13:38 +0000</pubDate>
+    <pubDate>Fri, 03 Feb 2023 21:56:13 +0000</pubDate>
     <itunes:category text="News"/>
     <itunes:image href="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png"/>
     <itunes:owner>
@@ -19,28 +19,6 @@
       <itunes:email>oliver.barreto.online@gmail.com</itunes:email>
     </itunes:owner>
     <atom:link href="https://raw.githubusercontent.com/oliverbarreto/PersonalPodcast/main/oliver_feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>¡Ricky Rubio contra Aldama! - NBA SPAIN</title>
-      <description><![CDATA[Ricky &amp; Aldama: ¡Los dos en la pista!
-
-Aldama: 21 puntos, 10 rebotes y 4 triples
-Ricky:: 13 puntos, 4 asistencias, 2 rebotes y 2 recuperaciones
-
-Victoria de los Cavs
-
-
- MEJOR APP de la NBA con descuentos y beneficios. Es gratis https://spain.id.nba.com/?utm_source=Facebook&amp;utm_medium=Facebook
-Prueba gratuita de NBA League Pass https://on.nba.com/leaguepass114
-Síguenos en Twitter: https://twitter.com/NBAspain
-No te pierdas nada en Facebook: https://www.facebook.com/NBASPAIN]]></description>
-      <guid isPermaLink="false">com.uuebcast.uuid.cQYcjkq5OBI</guid>
-      <enclosure url="http://oops.hopto.org:9090/static/media/cQYcjkq5OBI.m4a" length="2167680" type="audio/x-m4a"/>
-      <pubDate>Fri, 03 Feb 2023 08:13:38 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/cQYcjkq5OBI/hqdefault.jpg"/>
-      <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>0</itunes:order>
-      <itunes:subtitle>by NBA SPAIN published on Friday, February  3 2023 at 06:31:11</itunes:subtitle>
-    </item>
     <item>
       <title>In The Night Garden Theme | Intro | Music | Titles - Cbeebies - High Quality - waybuloouk</title>
       <description><![CDATA[This is the intro to the popular pre school tv series In The Night Garden. Iggle Piggle, Upsy Daisy, Makka Pakka. 
@@ -54,7 +32,7 @@ http://astore.amazon.co.uk/pig-peppa-21
 http://astore.amazon.co.uk/leapster-21]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.NQ5ku4z1pjs</guid>
       <enclosure url="http://192.168.1.37:5000/static/media/NQ5ku4z1pjs.m4a" length="1980711" type="audio/x-m4a"/>
-      <pubDate>Fri, 03 Feb 2023 08:13:38 +0000</pubDate>
+      <pubDate>Fri, 03 Feb 2023 21:56:13 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/NQ5ku4z1pjs/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -85,7 +63,7 @@ https://twitter.com/janogarcia_
 https://www.facebook.com/janogarciaesp]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.lN0bdw5nBcw</guid>
       <enclosure url="http://192.168.1.37:5000/static/media/lN0bdw5nBcw.m4a" length="46715104" type="audio/x-m4a"/>
-      <pubDate>Fri, 03 Feb 2023 08:13:38 +0000</pubDate>
+      <pubDate>Fri, 03 Feb 2023 21:56:13 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/lN0bdw5nBcw/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -122,7 +100,7 @@ Steve Jobs narrates the first of Apples &#x27;Think Different&#x27; commercial &
 http://www.nathanhulls.com]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.-z4NS2zdrZc</guid>
       <enclosure url="http://192.168.1.37:5000/static/media/-z4NS2zdrZc.m4a" length="989115" type="audio/x-m4a"/>
-      <pubDate>Fri, 03 Feb 2023 08:13:38 +0000</pubDate>
+      <pubDate>Fri, 03 Feb 2023 21:56:13 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/-z4NS2zdrZc/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -164,7 +142,7 @@ OTROS CANALES EN YOUTUBE:
 • Retrofútbol de Iker → https://www.youtube.com/c/retrofutboldeiker]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.HiPOAn_DVm4</guid>
       <enclosure url="http://192.168.1.37:5000/static/media/HiPOAn_DVm4.m4a" length="135632160" type="audio/x-m4a"/>
-      <pubDate>Fri, 03 Feb 2023 08:13:38 +0000</pubDate>
+      <pubDate>Fri, 03 Feb 2023 21:56:13 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/HiPOAn_DVm4/default.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -247,7 +225,7 @@ PRIVACY POLICY and FULL DISCLOSURE:
 -~-~~-~~~-~~-~-]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.f_ro2RYaujk</guid>
       <enclosure url="http://192.168.1.37:5000/static/media/f_ro2RYaujk.m4a" length="10201967" type="audio/x-m4a"/>
-      <pubDate>Fri, 03 Feb 2023 08:13:38 +0000</pubDate>
+      <pubDate>Fri, 03 Feb 2023 21:56:13 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/f_ro2RYaujk/default.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -359,7 +337,7 @@ MORE
 Thanks for watching, see you next video!]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.tjaxMZ6x824</guid>
       <enclosure url="http://192.168.1.37:5000/static/media/tjaxMZ6x824.m4a" length="10710735" type="audio/x-m4a"/>
-      <pubDate>Fri, 03 Feb 2023 08:13:38 +0000</pubDate>
+      <pubDate>Fri, 03 Feb 2023 21:56:13 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/tjaxMZ6x824/default.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
