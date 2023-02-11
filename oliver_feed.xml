@@ -8,10 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator> </generator>
     <language>es-ES</language>
-    <lastBuildDate>Sat, 11 Feb 2023 08:45:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Feb 2023 23:17:22 +0000</lastBuildDate>
     <itunes:author>oliver</itunes:author>
     <managingEditor>oliver.barreto.online@gmail.com (oliver)</managingEditor>
-    <pubDate>Sat, 11 Feb 2023 08:45:08 +0000</pubDate>
+    <pubDate>Sat, 11 Feb 2023 23:17:22 +0000</pubDate>
     <itunes:category text="News"/>
     <itunes:image href="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png"/>
     <itunes:owner>
@@ -19,6 +19,42 @@
       <itunes:email>oliver.barreto.online@gmail.com</itunes:email>
     </itunes:owner>
     <atom:link href="https://raw.githubusercontent.com/oliverbarreto/PersonalPodcast/main/oliver_feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Apple Data Protection — The ugly truth - Rene Ritchie</title>
+      <description><![CDATA[🚀 Visit https://www.brilliant.org/reneritchie to start learning STEM for FREE! First 200 get 20% off their annual premium subscription!
+
+Up until now, Apple kept an encryption key for things like your personal photos and messages stored on their iCloud servers. That meant, if you ever forgot your passcode or otherwise locked yourself out, Apple could recover that data for you. But, side effect, that also meant a government could subpoena them, or a super-villain could theoretically break in and steal them.
+
+Now, in the US, and in more places over the course of the next year, we’ll have the option to turn on Advanced Data Protection for iCloud. In other words, turn off Apple’s ability to access almost everything on iCloud. literally make them throw their key away. Then, just like our health data and passwords have been, our photos and messages will be utterly, completely locked down.
+
+But should they be? Should we actually turn advanced data protection on?
+
+🔐 Passkeys: https://youtu.be/p-8l98O9lhw
+
+🔔 SUBSCRIBE  https://www.youtube.com/reneritchie?sub_confirmation=1
+
+🔗 LINKS
+
+🗂 CHAPTERS
+
+🚨 ETHICS &amp; DISCLAIMER
+
+All opinions are my own. This channel does not produce sponsored or paid reviews. Companies occasionally provide briefings or loan sample products to facilitate reviews but provide no payment and get no editorial input, content approval, or advanced previews. They see them for the first time when you do
+
+Links may contain referrals for affiliate programs that provide this channel with a tiny commission should you make a purchase. They likewise receive zero editorial input or consideration
+
+📝 CREDITS
+
+📷 Some video and images via by Getty Images and/or AP Archives
+🎸 Some music via by Epidemic]]></description>
+      <guid isPermaLink="false">com.uuebcast.uuid.x3f-YjL6yq0</guid>
+      <enclosure url="http://lab.oliverbarreto.com/static/media/x3f-YjL6yq0.m4a" length="8828742" type="audio/x-m4a"/>
+      <pubDate>Sat, 11 Feb 2023 23:17:22 +0000</pubDate>
+      <itunes:image href="http://i.ytimg.com/vi/x3f-YjL6yq0/hqdefault.jpg"/>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:order>0</itunes:order>
+      <itunes:subtitle>by Rene Ritchie published on Sunday, December 25 2022 at 14:08:16</itunes:subtitle>
+    </item>
     <item>
       <title>Troy Aikman Talks Tom Brady's Retirement, Super Bowl Memories &amp; Cowboys 2023 Plan - Green Light with Chris Long</title>
       <description><![CDATA[Troy Aikman joins Chris Long to discuss Tom Brady&#x27;s retirement and how he&#x27;ll transition into broadcasting with FOX. Getting a call from Andy Reid to come out of retirement, favorite Super Bowl memories, and throwing the ball against Deion Sanders.
@@ -42,7 +78,7 @@ Green Light Tube features the best content from the Green Light Podcast with Chr
 www.greenlightpodcast.com]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.eP4raYsxyLo</guid>
       <enclosure url="http://lab.oliverbarreto.com/static/media/eP4raYsxyLo.m4a" length="31079247" type="audio/x-m4a"/>
-      <pubDate>Sat, 11 Feb 2023 08:45:08 +0000</pubDate>
+      <pubDate>Sat, 11 Feb 2023 23:17:22 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/eP4raYsxyLo/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -76,7 +112,7 @@ https://www.instagram.com/jfontech
 #softwareengineer #bigtech #selfdevelopment #newyear #habits #2023 #newyearresolutions #coding #programming]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.QcnMvHpatW4</guid>
       <enclosure url="http://lab.oliverbarreto.com/static/media/QcnMvHpatW4.m4a" length="8461026" type="audio/x-m4a"/>
-      <pubDate>Sat, 11 Feb 2023 08:45:08 +0000</pubDate>
+      <pubDate>Sat, 11 Feb 2023 23:17:22 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/QcnMvHpatW4/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -87,7 +123,7 @@ https://www.instagram.com/jfontech
       <description><![CDATA[The Herd | Tom Brady has strong take on &quot;stupid&quot; Bill Belichick debate | Colin Cowherd reacts]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.TOo7iel3DzA</guid>
       <enclosure url="http://lab.oliverbarreto.com/static/media/TOo7iel3DzA.m4a" length="11465617" type="audio/x-m4a"/>
-      <pubDate>Sat, 11 Feb 2023 08:45:08 +0000</pubDate>
+      <pubDate>Sat, 11 Feb 2023 23:17:22 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/TOo7iel3DzA/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -123,7 +159,7 @@ Links may contain referrals for affiliate programs that provide this channel wit
 🎸 Some music via by Epidemic]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.t5IiITeP7MQ</guid>
       <enclosure url="http://lab.oliverbarreto.com/static/media/t5IiITeP7MQ.m4a" length="7895632" type="audio/x-m4a"/>
-      <pubDate>Sat, 11 Feb 2023 08:45:08 +0000</pubDate>
+      <pubDate>Sat, 11 Feb 2023 23:17:22 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/t5IiITeP7MQ/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -134,7 +170,7 @@ Links may contain referrals for affiliate programs that provide this channel wit
       <description><![CDATA[The Herd | Colin Cowherd&#x27;s reaction to Tom Brady&#x27;s emotional retirement announcement]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.1dxA-wrQ7G8</guid>
       <enclosure url="http://lab.oliverbarreto.com/static/media/1dxA-wrQ7G8.m4a" length="10791478" type="audio/x-m4a"/>
-      <pubDate>Sat, 11 Feb 2023 08:45:08 +0000</pubDate>
+      <pubDate>Sat, 11 Feb 2023 23:17:22 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/1dxA-wrQ7G8/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -151,7 +187,7 @@ Steve Jobs narrates the first of Apples &#x27;Think Different&#x27; commercial &
 http://www.nathanhulls.com]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.-z4NS2zdrZc</guid>
       <enclosure url="http://lab.oliverbarreto.com/static/media/-z4NS2zdrZc.m4a" length="989115" type="audio/x-m4a"/>
-      <pubDate>Sat, 11 Feb 2023 08:45:08 +0000</pubDate>
+      <pubDate>Sat, 11 Feb 2023 23:17:22 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/-z4NS2zdrZc/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -170,7 +206,7 @@ http://astore.amazon.co.uk/pig-peppa-21
 http://astore.amazon.co.uk/leapster-21]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.NQ5ku4z1pjs</guid>
       <enclosure url="http://lab.oliverbarreto.com/static/media/NQ5ku4z1pjs.m4a" length="1980711" type="audio/x-m4a"/>
-      <pubDate>Sat, 11 Feb 2023 08:45:08 +0000</pubDate>
+      <pubDate>Sat, 11 Feb 2023 23:17:22 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/NQ5ku4z1pjs/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -232,7 +268,7 @@ Fun fact: I believe we massively overplay the role of “natural talent” 😮 
 Thanks so much to Endel for sponsoring this video 😀]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.R5i8alK5hPo</guid>
       <enclosure url="http://lab.oliverbarreto.com/static/media/R5i8alK5hPo.m4a" length="8899080" type="audio/x-m4a"/>
-      <pubDate>Sat, 11 Feb 2023 08:45:08 +0000</pubDate>
+      <pubDate>Sat, 11 Feb 2023 23:17:22 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/R5i8alK5hPo/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
