@@ -8,10 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator> </generator>
     <language>es-ES</language>
-    <lastBuildDate>Mon, 20 Mar 2023 18:57:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Apr 2023 17:26:15 +0000</lastBuildDate>
     <itunes:author>oliver</itunes:author>
     <managingEditor>oliver.barreto.online@gmail.com (oliver)</managingEditor>
-    <pubDate>Mon, 20 Mar 2023 18:57:08 +0000</pubDate>
+    <pubDate>Mon, 03 Apr 2023 17:26:15 +0000</pubDate>
     <itunes:category text="News"/>
     <itunes:image href="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png"/>
     <itunes:owner>
@@ -19,6 +19,17 @@
       <itunes:email>oliver.barreto.online@gmail.com</itunes:email>
     </itunes:owner>
     <atom:link href="https://raw.githubusercontent.com/oliverbarreto/PersonalPodcast/main/oliver_feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>TIEMPOS DECISIVOS: EL FINAL DEL PRINCIPIO - Vlog de Marc Vidal - Marc Vidal</title>
+      <description><![CDATA[La historia del dinero, sus usos y sus bancos. Te explico la situación actual y te dejo dos intervenciones en televisión. Ha empezado la fase final del principio. A partir de ahora se desarrollará todo. Esta es la situación actual en la que nos encontramos, sin un patrón establecido y con sistemas monetarios que varían de un país a otro. Y ahora, han decidido emitir CDBCs para que no puedas quejarte.  Como te digo, os dejo con dos vídeos de esta semana. Uno en Horizonte y otro en El Cascabel. De los pocos sitios que me permiten ir. Ya sabes… Espero que os guste. Seguiré subiendo material como pueda aunque me voy unos días con la familia a descansar en esta semana santa. Leed mucho, descansad y comed bien. Nos vemos pronto, os dejo con estas dos intervenciones]]></description>
+      <guid isPermaLink="false">com.uuebcast.uuid.Of5d57GLAiY</guid>
+      <enclosure url="http://lab.oliverbarreto.com/static/media/Of5d57GLAiY.m4a" length="30397215" type="audio/x-m4a"/>
+      <pubDate>Mon, 03 Apr 2023 17:26:15 +0000</pubDate>
+      <itunes:image href="http://i.ytimg.com/vi/Of5d57GLAiY/hqdefault.jpg"/>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:order>0</itunes:order>
+      <itunes:subtitle>by Marc Vidal published on Saturday, April  1 2023 at 19:21:17</itunes:subtitle>
+    </item>
     <item>
       <title>Técnicas para hablar fluido y claro - Teresa Baró • Comunicación de éxito</title>
       <description><![CDATA[Cuando hablas, ¿la gente se queda con la boca abierta o se aburre? Si es lo segundo, prepárate para tomar nota de las mejores técnicas y aprende cómo hablar de forma fluida, sin esfuerzo y sin aburrir a los demás. 
@@ -48,7 +59,7 @@ Linkedin: https://www.linkedin.com/in/teresa-baro-comunicacion-no-verbal/
 ▶ Descubre mis cursos: https://www.teresabaro.com/es/formate/]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.U2lWFRFwZLE</guid>
       <enclosure url="http://lab.oliverbarreto.com/static/media/U2lWFRFwZLE.m4a" length="8771288" type="audio/x-m4a"/>
-      <pubDate>Mon, 20 Mar 2023 18:57:08 +0000</pubDate>
+      <pubDate>Mon, 03 Apr 2023 17:26:15 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/U2lWFRFwZLE/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -71,7 +82,7 @@ Chapters (Powered by https://bit.ly/chapterme-yc) -
 20:43 - Summary]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.u36A-YTxiOw</guid>
       <enclosure url="http://lab.oliverbarreto.com/static/media/u36A-YTxiOw.m4a" length="20513048" type="audio/x-m4a"/>
-      <pubDate>Mon, 20 Mar 2023 18:57:08 +0000</pubDate>
+      <pubDate>Mon, 03 Apr 2023 17:26:15 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/u36A-YTxiOw/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -97,7 +108,7 @@ Chapters (Powered by https://bit.ly/chapterme-yc) -
 15:51 - Outro]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.QRZ_l7cVzzU</guid>
       <enclosure url="http://lab.oliverbarreto.com/static/media/QRZ_l7cVzzU.m4a" length="16389640" type="audio/x-m4a"/>
-      <pubDate>Mon, 20 Mar 2023 18:57:08 +0000</pubDate>
+      <pubDate>Mon, 03 Apr 2023 17:26:15 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/QRZ_l7cVzzU/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -133,7 +144,7 @@ Spotify: https://open.spotify.com/show/3obLU60alE7CGpzNeTS0kN
 #programación #dev #javascript]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.FyfWESyvA2w</guid>
       <enclosure url="http://lab.oliverbarreto.com/static/media/FyfWESyvA2w.m4a" length="63286259" type="audio/x-m4a"/>
-      <pubDate>Mon, 20 Mar 2023 18:57:08 +0000</pubDate>
+      <pubDate>Mon, 03 Apr 2023 17:26:15 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/FyfWESyvA2w/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -144,7 +155,7 @@ Spotify: https://open.spotify.com/show/3obLU60alE7CGpzNeTS0kN
       <description><![CDATA[During a speech about mental health awareness, Vice President Joe Biden joked, &quot;doctors allow you to live; nurses make you want to live&quot; - before quickly clarifying: &quot;male nurses and female nurses.&quot;]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.PcTX04kW3Kw</guid>
       <enclosure url="http://lab.oliverbarreto.com/static/media/PcTX04kW3Kw.m4a" length="1836092" type="audio/x-m4a"/>
-      <pubDate>Mon, 20 Mar 2023 18:57:08 +0000</pubDate>
+      <pubDate>Mon, 03 Apr 2023 17:26:15 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/PcTX04kW3Kw/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -163,7 +174,7 @@ Neuroscientist Dr. Andrew Huberman shares his insights on the five habits that h
  #andrewhuberman #huberman  #speech  #advice #motivation]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.g55rPgT4bj4</guid>
       <enclosure url="http://lab.oliverbarreto.com/static/media/g55rPgT4bj4.m4a" length="6837098" type="audio/x-m4a"/>
-      <pubDate>Mon, 20 Mar 2023 18:57:08 +0000</pubDate>
+      <pubDate>Mon, 03 Apr 2023 17:26:15 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/g55rPgT4bj4/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -192,7 +203,7 @@ Green Light Tube features the best content from the Green Light Podcast with Chr
 www.greenlightpodcast.com]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.eP4raYsxyLo</guid>
       <enclosure url="http://lab.oliverbarreto.com/static/media/eP4raYsxyLo.m4a" length="31079247" type="audio/x-m4a"/>
-      <pubDate>Mon, 20 Mar 2023 18:57:08 +0000</pubDate>
+      <pubDate>Mon, 03 Apr 2023 17:26:15 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/eP4raYsxyLo/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -226,7 +237,7 @@ https://www.instagram.com/jfontech
 #softwareengineer #bigtech #selfdevelopment #newyear #habits #2023 #newyearresolutions #coding #programming]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.QcnMvHpatW4</guid>
       <enclosure url="http://lab.oliverbarreto.com/static/media/QcnMvHpatW4.m4a" length="8461026" type="audio/x-m4a"/>
-      <pubDate>Mon, 20 Mar 2023 18:57:08 +0000</pubDate>
+      <pubDate>Mon, 03 Apr 2023 17:26:15 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/QcnMvHpatW4/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -237,7 +248,7 @@ https://www.instagram.com/jfontech
       <description><![CDATA[The Herd | Tom Brady has strong take on &quot;stupid&quot; Bill Belichick debate | Colin Cowherd reacts]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.TOo7iel3DzA</guid>
       <enclosure url="http://lab.oliverbarreto.com/static/media/TOo7iel3DzA.m4a" length="11465617" type="audio/x-m4a"/>
-      <pubDate>Mon, 20 Mar 2023 18:57:08 +0000</pubDate>
+      <pubDate>Mon, 03 Apr 2023 17:26:15 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/TOo7iel3DzA/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -248,7 +259,7 @@ https://www.instagram.com/jfontech
       <description><![CDATA[The Herd | Colin Cowherd&#x27;s reaction to Tom Brady&#x27;s emotional retirement announcement]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.1dxA-wrQ7G8</guid>
       <enclosure url="http://lab.oliverbarreto.com/static/media/1dxA-wrQ7G8.m4a" length="10791478" type="audio/x-m4a"/>
-      <pubDate>Mon, 20 Mar 2023 18:57:08 +0000</pubDate>
+      <pubDate>Mon, 03 Apr 2023 17:26:15 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/1dxA-wrQ7G8/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -265,7 +276,7 @@ Steve Jobs narrates the first of Apples &#x27;Think Different&#x27; commercial &
 http://www.nathanhulls.com]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.-z4NS2zdrZc</guid>
       <enclosure url="http://lab.oliverbarreto.com/static/media/-z4NS2zdrZc.m4a" length="989115" type="audio/x-m4a"/>
-      <pubDate>Mon, 20 Mar 2023 18:57:08 +0000</pubDate>
+      <pubDate>Mon, 03 Apr 2023 17:26:15 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/-z4NS2zdrZc/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -284,7 +295,7 @@ http://astore.amazon.co.uk/pig-peppa-21
 http://astore.amazon.co.uk/leapster-21]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.NQ5ku4z1pjs</guid>
       <enclosure url="http://lab.oliverbarreto.com/static/media/NQ5ku4z1pjs.m4a" length="1980711" type="audio/x-m4a"/>
-      <pubDate>Mon, 20 Mar 2023 18:57:08 +0000</pubDate>
+      <pubDate>Mon, 03 Apr 2023 17:26:15 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/NQ5ku4z1pjs/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -346,7 +357,7 @@ Fun fact: I believe we massively overplay the role of “natural talent” 😮 
 Thanks so much to Endel for sponsoring this video 😀]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.R5i8alK5hPo</guid>
       <enclosure url="http://lab.oliverbarreto.com/static/media/R5i8alK5hPo.m4a" length="8899080" type="audio/x-m4a"/>
-      <pubDate>Mon, 20 Mar 2023 18:57:08 +0000</pubDate>
+      <pubDate>Mon, 03 Apr 2023 17:26:15 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/R5i8alK5hPo/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
