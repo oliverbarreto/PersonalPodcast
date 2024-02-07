@@ -8,10 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator> </generator>
     <language>es-ES</language>
-    <lastBuildDate>Wed, 07 Feb 2024 10:16:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Feb 2024 20:05:51 +0000</lastBuildDate>
     <itunes:author>oliver</itunes:author>
     <managingEditor>oliver.barreto.online@gmail.com (oliver)</managingEditor>
-    <pubDate>Wed, 07 Feb 2024 10:16:30 +0000</pubDate>
+    <pubDate>Wed, 07 Feb 2024 20:05:51 +0000</pubDate>
     <itunes:category text="News"/>
     <itunes:image href="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png"/>
     <itunes:owner>
@@ -19,25 +19,6 @@
       <itunes:email>oliver.barreto.online@gmail.com</itunes:email>
     </itunes:owner>
     <atom:link href="https://raw.githubusercontent.com/oliverbarreto/PersonalPodcast/main/oliver_feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>ÁREA 51 #CuartoMilenio - Canal Iker Jiménez</title>
-      <description><![CDATA[Los secretos del Área 51, al descubierto
-
-Iker Jiménez y Carmen Porter acaban de regresar de la famosa Área 51. Se trata de un destacamento remoto controlado por la base aérea de Edwards, en el sur del estado de Nevada (Estados Unidos).
-
-Se desconoce el objetivo principal de esta base, aunque lo más probable es que en ella se estén llevando a cabo proyectos de investigación y desarrollo con sistemas de armamento avanzados. Sin embargo, debido al secretismo que la envuelve, son muchas las teorías conspiratorias en torno los objetos volantes no identificados y el Área 51. Iker, Carmen, el escritor Javier Sierra y el periodista Enrique de Vicente intentarán dar respuesta a muchas de las interrogantes que envuelven a este enclave.
-
-💬 | Cuarto Milenio: programas completos disponibles en Cuatro y Mitele.
-→   https://www.cuatro.com/cuarto-milenio/alacarta/
-→   https://www.mitele.es/programas-tv/cuarto-milenio/]]></description>
-      <guid isPermaLink="false">com.uuebcast.uuid.rm-1B64DD-Y</guid>
-      <enclosure url="http://lab.oliverbarreto.com/static/media/rm-1B64DD-Y.m4a" length="74865062" type="audio/x-m4a"/>
-      <pubDate>Wed, 07 Feb 2024 10:16:30 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/rm-1B64DD-Y/hqdefault.jpg"/>
-      <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>0</itunes:order>
-      <itunes:subtitle>by Canal Iker Jiménez published on Wednesday, February  7 2024 at 03:05:09</itunes:subtitle>
-    </item>
     <item>
       <title>Tom Brady Talks Taking On His Newest Challenge &amp; Mahomes GOAT Comparisons | Full Interview - The Pat McAfee Show</title>
       <description><![CDATA[Welcome to The Pat McAfee Show LIVE from Noon-3PM EST Mon-Fri. You can also find us live on ESPN, ESPN+, &amp; TikTok!
@@ -61,7 +42,7 @@ SPONSOR THE SHOW: https://www.patmcafeeshow.com/partnerships
 #PatMcAfee #NFL]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.jx-ana5f428</guid>
       <enclosure url="http://lab.oliverbarreto.com/static/media/jx-ana5f428.m4a" length="30417869" type="audio/x-m4a"/>
-      <pubDate>Wed, 07 Feb 2024 10:16:30 +0000</pubDate>
+      <pubDate>Wed, 07 Feb 2024 20:05:51 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/jx-ana5f428/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
@@ -113,10 +94,10 @@ https://twitimer.com
 #Hacker #Ciberseguridad #HackerLive]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.79JygZ7DUqw</guid>
       <enclosure url="http://lab.oliverbarreto.com/static/media/79JygZ7DUqw.m4a" length="158175987" type="audio/x-m4a"/>
-      <pubDate>Wed, 07 Feb 2024 10:16:30 +0000</pubDate>
+      <pubDate>Wed, 07 Feb 2024 20:05:51 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/79JygZ7DUqw/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>0</itunes:order>
+      <itunes:order>1</itunes:order>
       <itunes:subtitle>by MoureDev by Brais Moure published on Wednesday, October  6 2021 at 19:00:03</itunes:subtitle>
     </item>
     <item>
@@ -162,10 +143,10 @@ https://www.tiktok.com/@iammarkmanson
 Thanks for watching.]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.lz8sUiXAnbs</guid>
       <enclosure url="http://lab.oliverbarreto.com/static/media/lz8sUiXAnbs.m4a" length="36650639" type="audio/x-m4a"/>
-      <pubDate>Wed, 07 Feb 2024 10:16:30 +0000</pubDate>
+      <pubDate>Wed, 07 Feb 2024 20:05:51 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/lz8sUiXAnbs/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>0</itunes:order>
+      <itunes:order>2</itunes:order>
       <itunes:subtitle>by Mark Manson published on Thursday, March  4 2021 at 20:13:55</itunes:subtitle>
     </item>
     <item>
@@ -221,10 +202,10 @@ Twitter: https://twitter.com/BrendonBurchard
 YouTube: https://www.youtube.com/user/BrendonBurchard]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.Q-xVb3V_zqI</guid>
       <enclosure url="http://lab.oliverbarreto.com/static/media/Q-xVb3V_zqI.m4a" length="43989194" type="audio/x-m4a"/>
-      <pubDate>Wed, 07 Feb 2024 10:16:30 +0000</pubDate>
+      <pubDate>Wed, 07 Feb 2024 20:05:51 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/Q-xVb3V_zqI/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>0</itunes:order>
+      <itunes:order>3</itunes:order>
       <itunes:subtitle>by Tom Bilyeu published on Tuesday, August 30 2022 at 13:00:25</itunes:subtitle>
     </item>
     <item>
@@ -265,10 +246,10 @@ Twitter: https://twitter.com/mgawdat
 Instagram: https://www.instagram.com/mo_gawdat/]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.itY6VWpdECc</guid>
       <enclosure url="http://lab.oliverbarreto.com/static/media/itY6VWpdECc.m4a" length="173357430" type="audio/x-m4a"/>
-      <pubDate>Wed, 07 Feb 2024 10:16:30 +0000</pubDate>
+      <pubDate>Wed, 07 Feb 2024 20:05:51 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/itY6VWpdECc/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>0</itunes:order>
+      <itunes:order>4</itunes:order>
       <itunes:subtitle>by Tom Bilyeu published on Tuesday, June 20 2023 at 13:00:27</itunes:subtitle>
     </item>
     <item>
@@ -315,10 +296,10 @@ Twitter: https://twitter.com/TomBilyeu
 Facebook: https://www.facebook.com/tombilyeu]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.9RXdAdjy0_o</guid>
       <enclosure url="http://lab.oliverbarreto.com/static/media/9RXdAdjy0_o.m4a" length="93113761" type="audio/x-m4a"/>
-      <pubDate>Wed, 07 Feb 2024 10:16:30 +0000</pubDate>
+      <pubDate>Wed, 07 Feb 2024 20:05:51 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/9RXdAdjy0_o/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>0</itunes:order>
+      <itunes:order>5</itunes:order>
       <itunes:subtitle>by Tom Bilyeu published on Saturday, March 18 2023 at 13:00:06</itunes:subtitle>
     </item>
     <item>
@@ -362,10 +343,10 @@ Remember, this is the very beginning of a very aggressive revolution. Moving qui
 First of all, let me acknowledge that I’m a pundit here, not an expert. While we’re working feverishly to integrate AI into our company’s workflow, I’m not the guy who can tell you how AI works under the hood. So what follows will be me thinking out loud based on what I’ve learned from the experts in my attempts to use AI in both my daily life and the daily operations of my company.]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.F2LeyULGF2Q</guid>
       <enclosure url="http://lab.oliverbarreto.com/static/media/F2LeyULGF2Q.m4a" length="16948387" type="audio/x-m4a"/>
-      <pubDate>Wed, 07 Feb 2024 10:16:30 +0000</pubDate>
+      <pubDate>Wed, 07 Feb 2024 20:05:51 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/F2LeyULGF2Q/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>0</itunes:order>
+      <itunes:order>6</itunes:order>
       <itunes:subtitle>by Tom Bilyeu published on Wednesday, March 15 2023 at 23:13:01</itunes:subtitle>
     </item>
     <item>
@@ -373,10 +354,10 @@ First of all, let me acknowledge that I’m a pundit here, not an expert. While 
       <description><![CDATA[La historia del dinero, sus usos y sus bancos. Te explico la situación actual y te dejo dos intervenciones en televisión. Ha empezado la fase final del principio. A partir de ahora se desarrollará todo. Esta es la situación actual en la que nos encontramos, sin un patrón establecido y con sistemas monetarios que varían de un país a otro. Y ahora, han decidido emitir CDBCs para que no puedas quejarte.  Como te digo, os dejo con dos vídeos de esta semana. Uno en Horizonte y otro en El Cascabel. De los pocos sitios que me permiten ir. Ya sabes… Espero que os guste. Seguiré subiendo material como pueda aunque me voy unos días con la familia a descansar en esta semana santa. Leed mucho, descansad y comed bien. Nos vemos pronto, os dejo con estas dos intervenciones]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.Of5d57GLAiY</guid>
       <enclosure url="http://lab.oliverbarreto.com/static/media/Of5d57GLAiY.m4a" length="30397215" type="audio/x-m4a"/>
-      <pubDate>Wed, 07 Feb 2024 10:16:30 +0000</pubDate>
+      <pubDate>Wed, 07 Feb 2024 20:05:51 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/Of5d57GLAiY/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>0</itunes:order>
+      <itunes:order>7</itunes:order>
       <itunes:subtitle>by Marc Vidal published on Saturday, April  1 2023 at 19:21:17</itunes:subtitle>
     </item>
     <item>
@@ -408,10 +389,10 @@ Linkedin: https://www.linkedin.com/in/teresa-baro-comunicacion-no-verbal/
 ▶ Descubre mis cursos: https://www.teresabaro.com/es/formate/]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.U2lWFRFwZLE</guid>
       <enclosure url="http://lab.oliverbarreto.com/static/media/U2lWFRFwZLE.m4a" length="8771288" type="audio/x-m4a"/>
-      <pubDate>Wed, 07 Feb 2024 10:16:30 +0000</pubDate>
+      <pubDate>Wed, 07 Feb 2024 20:05:51 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/U2lWFRFwZLE/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>0</itunes:order>
+      <itunes:order>8</itunes:order>
       <itunes:subtitle>by Teresa Baró • Comunicación de éxito published on Thursday, July  7 2022 at 18:00:08</itunes:subtitle>
     </item>
     <item>
@@ -431,10 +412,10 @@ Chapters (Powered by https://bit.ly/chapterme-yc) -
 20:43 - Summary]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.u36A-YTxiOw</guid>
       <enclosure url="http://lab.oliverbarreto.com/static/media/u36A-YTxiOw.m4a" length="20513048" type="audio/x-m4a"/>
-      <pubDate>Wed, 07 Feb 2024 10:16:30 +0000</pubDate>
+      <pubDate>Wed, 07 Feb 2024 20:05:51 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/u36A-YTxiOw/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>0</itunes:order>
+      <itunes:order>9</itunes:order>
       <itunes:subtitle>by Y Combinator published on Thursday, February  9 2023 at 22:44:27</itunes:subtitle>
     </item>
     <item>
@@ -457,10 +438,10 @@ Chapters (Powered by https://bit.ly/chapterme-yc) -
 15:51 - Outro]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.QRZ_l7cVzzU</guid>
       <enclosure url="http://lab.oliverbarreto.com/static/media/QRZ_l7cVzzU.m4a" length="16389640" type="audio/x-m4a"/>
-      <pubDate>Wed, 07 Feb 2024 10:16:30 +0000</pubDate>
+      <pubDate>Wed, 07 Feb 2024 20:05:51 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/QRZ_l7cVzzU/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>0</itunes:order>
+      <itunes:order>10</itunes:order>
       <itunes:subtitle>by Y Combinator published on Wednesday, March 15 2023 at 19:01:04</itunes:subtitle>
     </item>
     <item>
@@ -493,10 +474,10 @@ Spotify: https://open.spotify.com/show/3obLU60alE7CGpzNeTS0kN
 #programación #dev #javascript]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.FyfWESyvA2w</guid>
       <enclosure url="http://lab.oliverbarreto.com/static/media/FyfWESyvA2w.m4a" length="63286259" type="audio/x-m4a"/>
-      <pubDate>Wed, 07 Feb 2024 10:16:30 +0000</pubDate>
+      <pubDate>Wed, 07 Feb 2024 20:05:51 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/FyfWESyvA2w/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>0</itunes:order>
+      <itunes:order>11</itunes:order>
       <itunes:subtitle>by hdeleon.net published on Wednesday, March 15 2023 at 19:21:53</itunes:subtitle>
     </item>
     <item>
@@ -504,10 +485,10 @@ Spotify: https://open.spotify.com/show/3obLU60alE7CGpzNeTS0kN
       <description><![CDATA[During a speech about mental health awareness, Vice President Joe Biden joked, &quot;doctors allow you to live; nurses make you want to live&quot; - before quickly clarifying: &quot;male nurses and female nurses.&quot;]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.PcTX04kW3Kw</guid>
       <enclosure url="http://lab.oliverbarreto.com/static/media/PcTX04kW3Kw.m4a" length="1836092" type="audio/x-m4a"/>
-      <pubDate>Wed, 07 Feb 2024 10:16:30 +0000</pubDate>
+      <pubDate>Wed, 07 Feb 2024 20:05:51 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/PcTX04kW3Kw/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>0</itunes:order>
+      <itunes:order>12</itunes:order>
       <itunes:subtitle>by CBS News published on Monday, June  3 2013 at 19:30:58</itunes:subtitle>
     </item>
     <item>
@@ -523,10 +504,10 @@ Neuroscientist Dr. Andrew Huberman shares his insights on the five habits that h
  #andrewhuberman #huberman  #speech  #advice #motivation]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.g55rPgT4bj4</guid>
       <enclosure url="http://lab.oliverbarreto.com/static/media/g55rPgT4bj4.m4a" length="6837098" type="audio/x-m4a"/>
-      <pubDate>Wed, 07 Feb 2024 10:16:30 +0000</pubDate>
+      <pubDate>Wed, 07 Feb 2024 20:05:51 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/g55rPgT4bj4/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>0</itunes:order>
+      <itunes:order>13</itunes:order>
       <itunes:subtitle>by Diy Things published on Monday, February  6 2023 at 20:25:23</itunes:subtitle>
     </item>
     <item>
@@ -552,10 +533,10 @@ Green Light Tube features the best content from the Green Light Podcast with Chr
 www.greenlightpodcast.com]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.eP4raYsxyLo</guid>
       <enclosure url="http://lab.oliverbarreto.com/static/media/eP4raYsxyLo.m4a" length="31079247" type="audio/x-m4a"/>
-      <pubDate>Wed, 07 Feb 2024 10:16:30 +0000</pubDate>
+      <pubDate>Wed, 07 Feb 2024 20:05:51 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/eP4raYsxyLo/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>0</itunes:order>
+      <itunes:order>14</itunes:order>
       <itunes:subtitle>by Green Light with Chris Long published on Friday, February  3 2023 at 00:52:02</itunes:subtitle>
     </item>
     <item>
@@ -586,10 +567,10 @@ https://www.instagram.com/jfontech
 #softwareengineer #bigtech #selfdevelopment #newyear #habits #2023 #newyearresolutions #coding #programming]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.QcnMvHpatW4</guid>
       <enclosure url="http://lab.oliverbarreto.com/static/media/QcnMvHpatW4.m4a" length="8461026" type="audio/x-m4a"/>
-      <pubDate>Wed, 07 Feb 2024 10:16:30 +0000</pubDate>
+      <pubDate>Wed, 07 Feb 2024 20:05:51 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/QcnMvHpatW4/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>0</itunes:order>
+      <itunes:order>15</itunes:order>
       <itunes:subtitle>by Juan Carlos Fontecha published on Tuesday, December 20 2022 at 06:52:04</itunes:subtitle>
     </item>
     <item>
@@ -597,10 +578,10 @@ https://www.instagram.com/jfontech
       <description><![CDATA[The Herd | Tom Brady has strong take on &quot;stupid&quot; Bill Belichick debate | Colin Cowherd reacts]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.TOo7iel3DzA</guid>
       <enclosure url="http://lab.oliverbarreto.com/static/media/TOo7iel3DzA.m4a" length="11465617" type="audio/x-m4a"/>
-      <pubDate>Wed, 07 Feb 2024 10:16:30 +0000</pubDate>
+      <pubDate>Wed, 07 Feb 2024 20:05:51 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/TOo7iel3DzA/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>0</itunes:order>
+      <itunes:order>16</itunes:order>
       <itunes:subtitle>by UNDISPUTED SHOW published on Tuesday, February  7 2023 at 17:18:34</itunes:subtitle>
     </item>
     <item>
@@ -608,10 +589,10 @@ https://www.instagram.com/jfontech
       <description><![CDATA[The Herd | Colin Cowherd&#x27;s reaction to Tom Brady&#x27;s emotional retirement announcement]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.1dxA-wrQ7G8</guid>
       <enclosure url="http://lab.oliverbarreto.com/static/media/1dxA-wrQ7G8.m4a" length="10791478" type="audio/x-m4a"/>
-      <pubDate>Wed, 07 Feb 2024 10:16:30 +0000</pubDate>
+      <pubDate>Wed, 07 Feb 2024 20:05:51 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/1dxA-wrQ7G8/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>0</itunes:order>
+      <itunes:order>17</itunes:order>
       <itunes:subtitle>by UNDISPUTED SHOW published on Wednesday, February  1 2023 at 17:21:05</itunes:subtitle>
     </item>
     <item>
@@ -625,10 +606,10 @@ Steve Jobs narrates the first of Apples &#x27;Think Different&#x27; commercial &
 http://www.nathanhulls.com]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.-z4NS2zdrZc</guid>
       <enclosure url="http://lab.oliverbarreto.com/static/media/-z4NS2zdrZc.m4a" length="989115" type="audio/x-m4a"/>
-      <pubDate>Wed, 07 Feb 2024 10:16:30 +0000</pubDate>
+      <pubDate>Wed, 07 Feb 2024 20:05:51 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/-z4NS2zdrZc/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>0</itunes:order>
+      <itunes:order>18</itunes:order>
       <itunes:subtitle>by Nathan Hulls published on Wednesday, September 26 2012 at 03:42:01</itunes:subtitle>
     </item>
     <item>
@@ -644,10 +625,10 @@ http://astore.amazon.co.uk/pig-peppa-21
 http://astore.amazon.co.uk/leapster-21]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.NQ5ku4z1pjs</guid>
       <enclosure url="http://lab.oliverbarreto.com/static/media/NQ5ku4z1pjs.m4a" length="1980711" type="audio/x-m4a"/>
-      <pubDate>Wed, 07 Feb 2024 10:16:30 +0000</pubDate>
+      <pubDate>Wed, 07 Feb 2024 20:05:51 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/NQ5ku4z1pjs/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>0</itunes:order>
+      <itunes:order>19</itunes:order>
       <itunes:subtitle>by waybuloouk published on Saturday, September 26 2009 at 17:55:07</itunes:subtitle>
     </item>
     <item>
@@ -706,10 +687,10 @@ Fun fact: I believe we massively overplay the role of “natural talent” 😮 
 Thanks so much to Endel for sponsoring this video 😀]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.R5i8alK5hPo</guid>
       <enclosure url="http://lab.oliverbarreto.com/static/media/R5i8alK5hPo.m4a" length="8899080" type="audio/x-m4a"/>
-      <pubDate>Wed, 07 Feb 2024 10:16:30 +0000</pubDate>
+      <pubDate>Wed, 07 Feb 2024 20:05:51 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/R5i8alK5hPo/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>0</itunes:order>
+      <itunes:order>20</itunes:order>
       <itunes:subtitle>by Liam Porritt published on Tuesday, January 24 2023 at 16:00:21</itunes:subtitle>
     </item>
   </channel>
