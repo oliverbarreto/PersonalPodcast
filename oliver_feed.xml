@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator> </generator>
     <language>es-ES</language>
-    <lastBuildDate>Thu, 08 Feb 2024 08:44:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Feb 2024 08:44:18 +0000</lastBuildDate>
     <itunes:author>oliver</itunes:author>
     <managingEditor>oliver.barreto.online@gmail.com (oliver)</managingEditor>
     <pubDate>Mon, 05 Feb 2024 15:06:54 +0000</pubDate>
@@ -445,42 +445,6 @@ Chapters (Powered by https://bit.ly/chapterme-yc) -
       <itunes:subtitle>by Y Combinator published on Wednesday, March 15 2023 at 19:01:04</itunes:subtitle>
     </item>
     <item>
-      <title>GPT-4, El Futuro de JavaScript, Sueldos en Tech | Raw Radio #3 ft Miguel Ángel Durán (Midudev) - hdeleon.net</title>
-      <description><![CDATA[En este episodio hablaremos con Miguel Ángel Durán (Midudev), quien nos contará de que va la creación de contenido en Twitch, sobre los sueldos en programación, el burnout, el estrés, como ha sido el camino de JavaScript y que nos puede esperar con este lenguaje de Programación, y mucho más.
-
-Redes de Miguel Ángel Durán (Midudev)
-🟣Canal de Twitch: https://www.twitch.tv/midudev
-🔴Canal Youtube: @midudev   
-🌎Conferencia MiduFest: https://www.midufest.com/#ticket
-🌎Sitio Web: https://midu.dev/
-🐦Twitter: https://twitter.com/midudev
-
-Mis Cursos de PROGRAMACIÓN: https://hdeleon.net/cursos-premium/
-
-🖥️ Mi Monitor: https://amzn.to/3dtnDkk
-⌨️ Mi Teclado: https://amzn.to/3BtjKnq
-⌨️ Mi Deck elgato: https://amzn.to/3dvEKC3
-🎧 Mis Orejeras: https://amzn.to/3BwQYm0
-🎤 Mi Micrófono: https://amzn.to/3qPvFHh
-
-Si quieres apoyarme y darme para una cerveza puedes hacerlo por aquí: http://paypal.me/HectorDeLeonGuevara
-
-Puedes apoyarme desde 0.5 USD al mes uniéndote como miembro al canal aquí: https://www.youtube.com/channel/UCDUdeFslCNoM29MAlZOfdWQ/join
-
-Sígueme en Twitter ⇒  https://twitter.com/powerhdeleon
-Mi Sitio web ⇒ http://hdeleon.net
-Spotify: https://open.spotify.com/show/3obLU60alE7CGpzNeTS0kN
-
-#programación #dev #javascript]]></description>
-      <guid isPermaLink="false">com.uuebcast.uuid.FyfWESyvA2w</guid>
-      <enclosure url="http://lab.oliverbarreto.com/static/media/FyfWESyvA2w.m4a" length="63286259" type="audio/x-m4a"/>
-      <pubDate>Sat, 18 Mar 2023 22:35:15 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/FyfWESyvA2w/hqdefault.jpg"/>
-      <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>11</itunes:order>
-      <itunes:subtitle>by hdeleon.net published on Wednesday, March 15 2023 at 19:21:53</itunes:subtitle>
-    </item>
-    <item>
       <title>Neuroscientist: This Simple Skill Will Make You More Powerful In Life | Andrew Huberman - Diy Things</title>
       <description><![CDATA[Neuroscientist: This Simple Skill Will Make You More Powerful In Life | Andrew Huberman
 
@@ -496,7 +460,7 @@ Neuroscientist Dr. Andrew Huberman shares his insights on the five habits that h
       <pubDate>Thu, 16 Feb 2023 21:46:26 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/g55rPgT4bj4/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>12</itunes:order>
+      <itunes:order>11</itunes:order>
       <itunes:subtitle>by Diy Things published on Monday, February  6 2023 at 20:25:23</itunes:subtitle>
     </item>
     <item>
@@ -513,7 +477,7 @@ http://www.nathanhulls.com]]></description>
       <pubDate>Sun, 05 Feb 2023 23:06:14 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/-z4NS2zdrZc/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>13</itunes:order>
+      <itunes:order>12</itunes:order>
       <itunes:subtitle>by Nathan Hulls published on Wednesday, September 26 2012 at 03:42:01</itunes:subtitle>
     </item>
     <item>
@@ -532,7 +496,7 @@ http://astore.amazon.co.uk/leapster-21]]></description>
       <pubDate>Sun, 05 Feb 2023 23:05:10 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/NQ5ku4z1pjs/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>14</itunes:order>
+      <itunes:order>13</itunes:order>
       <itunes:subtitle>by waybuloouk published on Saturday, September 26 2009 at 17:55:07</itunes:subtitle>
     </item>
     <item>
@@ -594,7 +558,7 @@ Thanks so much to Endel for sponsoring this video 😀]]></description>
       <pubDate>Sun, 05 Feb 2023 23:04:35 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/R5i8alK5hPo/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>15</itunes:order>
+      <itunes:order>14</itunes:order>
       <itunes:subtitle>by Liam Porritt published on Tuesday, January 24 2023 at 16:00:21</itunes:subtitle>
     </item>
   </channel>
