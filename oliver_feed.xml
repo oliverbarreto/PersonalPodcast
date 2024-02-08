@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator> </generator>
     <language>es-ES</language>
-    <lastBuildDate>Thu, 08 Feb 2024 08:43:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Feb 2024 08:44:09 +0000</lastBuildDate>
     <itunes:author>oliver</itunes:author>
     <managingEditor>oliver.barreto.online@gmail.com (oliver)</managingEditor>
     <pubDate>Mon, 05 Feb 2024 15:06:54 +0000</pubDate>
@@ -500,17 +500,6 @@ Neuroscientist Dr. Andrew Huberman shares his insights on the five habits that h
       <itunes:subtitle>by Diy Things published on Monday, February  6 2023 at 20:25:23</itunes:subtitle>
     </item>
     <item>
-      <title>The Herd | Tom Brady has strong take on "stupid" Bill Belichick debate | Colin Cowherd reacts - UNDISPUTED SHOW</title>
-      <description><![CDATA[The Herd | Tom Brady has strong take on &quot;stupid&quot; Bill Belichick debate | Colin Cowherd reacts]]></description>
-      <guid isPermaLink="false">com.uuebcast.uuid.TOo7iel3DzA</guid>
-      <enclosure url="http://lab.oliverbarreto.com/static/media/TOo7iel3DzA.m4a" length="11465617" type="audio/x-m4a"/>
-      <pubDate>Tue, 07 Feb 2023 19:35:27 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/TOo7iel3DzA/hqdefault.jpg"/>
-      <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>13</itunes:order>
-      <itunes:subtitle>by UNDISPUTED SHOW published on Tuesday, February  7 2023 at 17:18:34</itunes:subtitle>
-    </item>
-    <item>
       <title>Apple Steve Jobs Heres To The Crazy Ones - Nathan Hulls</title>
       <description><![CDATA[http://www.NathanHulls.com
 
@@ -524,7 +513,7 @@ http://www.nathanhulls.com]]></description>
       <pubDate>Sun, 05 Feb 2023 23:06:14 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/-z4NS2zdrZc/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>14</itunes:order>
+      <itunes:order>13</itunes:order>
       <itunes:subtitle>by Nathan Hulls published on Wednesday, September 26 2012 at 03:42:01</itunes:subtitle>
     </item>
     <item>
@@ -543,7 +532,7 @@ http://astore.amazon.co.uk/leapster-21]]></description>
       <pubDate>Sun, 05 Feb 2023 23:05:10 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/NQ5ku4z1pjs/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>15</itunes:order>
+      <itunes:order>14</itunes:order>
       <itunes:subtitle>by waybuloouk published on Saturday, September 26 2009 at 17:55:07</itunes:subtitle>
     </item>
     <item>
@@ -605,7 +594,7 @@ Thanks so much to Endel for sponsoring this video 😀]]></description>
       <pubDate>Sun, 05 Feb 2023 23:04:35 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/R5i8alK5hPo/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>16</itunes:order>
+      <itunes:order>15</itunes:order>
       <itunes:subtitle>by Liam Porritt published on Tuesday, January 24 2023 at 16:00:21</itunes:subtitle>
     </item>
   </channel>
