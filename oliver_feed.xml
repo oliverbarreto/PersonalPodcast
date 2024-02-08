@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator> </generator>
     <language>es-ES</language>
-    <lastBuildDate>Thu, 08 Feb 2024 00:16:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Feb 2024 08:43:04 +0000</lastBuildDate>
     <itunes:author>oliver</itunes:author>
     <managingEditor>oliver.barreto.online@gmail.com (oliver)</managingEditor>
     <pubDate>Mon, 05 Feb 2024 15:06:54 +0000</pubDate>
@@ -481,17 +481,6 @@ Spotify: https://open.spotify.com/show/3obLU60alE7CGpzNeTS0kN
       <itunes:subtitle>by hdeleon.net published on Wednesday, March 15 2023 at 19:21:53</itunes:subtitle>
     </item>
     <item>
-      <title>Biden: "Doctors allow you to live; nurses make you want to live" - CBS News</title>
-      <description><![CDATA[During a speech about mental health awareness, Vice President Joe Biden joked, &quot;doctors allow you to live; nurses make you want to live&quot; - before quickly clarifying: &quot;male nurses and female nurses.&quot;]]></description>
-      <guid isPermaLink="false">com.uuebcast.uuid.PcTX04kW3Kw</guid>
-      <enclosure url="http://lab.oliverbarreto.com/static/media/PcTX04kW3Kw.m4a" length="1836092" type="audio/x-m4a"/>
-      <pubDate>Sat, 18 Mar 2023 22:34:44 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/PcTX04kW3Kw/hqdefault.jpg"/>
-      <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>12</itunes:order>
-      <itunes:subtitle>by CBS News published on Monday, June  3 2013 at 19:30:58</itunes:subtitle>
-    </item>
-    <item>
       <title>Neuroscientist: This Simple Skill Will Make You More Powerful In Life | Andrew Huberman - Diy Things</title>
       <description><![CDATA[Neuroscientist: This Simple Skill Will Make You More Powerful In Life | Andrew Huberman
 
@@ -507,7 +496,7 @@ Neuroscientist Dr. Andrew Huberman shares his insights on the five habits that h
       <pubDate>Thu, 16 Feb 2023 21:46:26 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/g55rPgT4bj4/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>13</itunes:order>
+      <itunes:order>12</itunes:order>
       <itunes:subtitle>by Diy Things published on Monday, February  6 2023 at 20:25:23</itunes:subtitle>
     </item>
     <item>
@@ -536,7 +525,7 @@ www.greenlightpodcast.com]]></description>
       <pubDate>Sat, 11 Feb 2023 08:45:08 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/eP4raYsxyLo/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>14</itunes:order>
+      <itunes:order>13</itunes:order>
       <itunes:subtitle>by Green Light with Chris Long published on Friday, February  3 2023 at 00:52:02</itunes:subtitle>
     </item>
     <item>
@@ -570,7 +559,7 @@ https://www.instagram.com/jfontech
       <pubDate>Thu, 09 Feb 2023 18:04:47 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/QcnMvHpatW4/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>15</itunes:order>
+      <itunes:order>14</itunes:order>
       <itunes:subtitle>by Juan Carlos Fontecha published on Tuesday, December 20 2022 at 06:52:04</itunes:subtitle>
     </item>
     <item>
@@ -581,7 +570,7 @@ https://www.instagram.com/jfontech
       <pubDate>Tue, 07 Feb 2023 19:35:27 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/TOo7iel3DzA/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>16</itunes:order>
+      <itunes:order>15</itunes:order>
       <itunes:subtitle>by UNDISPUTED SHOW published on Tuesday, February  7 2023 at 17:18:34</itunes:subtitle>
     </item>
     <item>
@@ -592,7 +581,7 @@ https://www.instagram.com/jfontech
       <pubDate>Mon, 06 Feb 2023 08:50:29 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/1dxA-wrQ7G8/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>17</itunes:order>
+      <itunes:order>16</itunes:order>
       <itunes:subtitle>by UNDISPUTED SHOW published on Wednesday, February  1 2023 at 17:21:05</itunes:subtitle>
     </item>
     <item>
@@ -609,7 +598,7 @@ http://www.nathanhulls.com]]></description>
       <pubDate>Sun, 05 Feb 2023 23:06:14 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/-z4NS2zdrZc/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>18</itunes:order>
+      <itunes:order>17</itunes:order>
       <itunes:subtitle>by Nathan Hulls published on Wednesday, September 26 2012 at 03:42:01</itunes:subtitle>
     </item>
     <item>
@@ -628,7 +617,7 @@ http://astore.amazon.co.uk/leapster-21]]></description>
       <pubDate>Sun, 05 Feb 2023 23:05:10 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/NQ5ku4z1pjs/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>19</itunes:order>
+      <itunes:order>18</itunes:order>
       <itunes:subtitle>by waybuloouk published on Saturday, September 26 2009 at 17:55:07</itunes:subtitle>
     </item>
     <item>
@@ -690,7 +679,7 @@ Thanks so much to Endel for sponsoring this video 😀]]></description>
       <pubDate>Sun, 05 Feb 2023 23:04:35 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/R5i8alK5hPo/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>20</itunes:order>
+      <itunes:order>19</itunes:order>
       <itunes:subtitle>by Liam Porritt published on Tuesday, January 24 2023 at 16:00:21</itunes:subtitle>
     </item>
   </channel>
