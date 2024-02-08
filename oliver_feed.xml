@@ -8,10 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator> </generator>
     <language>es-ES</language>
-    <lastBuildDate>Wed, 07 Feb 2024 22:30:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Feb 2024 00:16:37 +0000</lastBuildDate>
     <itunes:author>oliver</itunes:author>
     <managingEditor>oliver.barreto.online@gmail.com (oliver)</managingEditor>
-    <pubDate>Wed, 07 Feb 2024 10:16:30 +0000</pubDate>
+    <pubDate>Mon, 05 Feb 2024 15:06:54 +0000</pubDate>
     <itunes:category text="News"/>
     <itunes:image href="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png"/>
     <itunes:owner>
@@ -19,25 +19,6 @@
       <itunes:email>oliver.barreto.online@gmail.com</itunes:email>
     </itunes:owner>
     <atom:link href="https://raw.githubusercontent.com/oliverbarreto/PersonalPodcast/main/oliver_feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>ÁREA 51 #CuartoMilenio - Canal Iker Jiménez</title>
-      <description><![CDATA[Los secretos del Área 51, al descubierto
-
-Iker Jiménez y Carmen Porter acaban de regresar de la famosa Área 51. Se trata de un destacamento remoto controlado por la base aérea de Edwards, en el sur del estado de Nevada (Estados Unidos).
-
-Se desconoce el objetivo principal de esta base, aunque lo más probable es que en ella se estén llevando a cabo proyectos de investigación y desarrollo con sistemas de armamento avanzados. Sin embargo, debido al secretismo que la envuelve, son muchas las teorías conspiratorias en torno los objetos volantes no identificados y el Área 51. Iker, Carmen, el escritor Javier Sierra y el periodista Enrique de Vicente intentarán dar respuesta a muchas de las interrogantes que envuelven a este enclave.
-
-💬 | Cuarto Milenio: programas completos disponibles en Cuatro y Mitele.
-→   https://www.cuatro.com/cuarto-milenio/alacarta/
-→   https://www.mitele.es/programas-tv/cuarto-milenio/]]></description>
-      <guid isPermaLink="false">com.uuebcast.uuid.rm-1B64DD-Y</guid>
-      <enclosure url="http://lab.oliverbarreto.com/static/media/rm-1B64DD-Y.m4a" length="74865062" type="audio/x-m4a"/>
-      <pubDate>Wed, 07 Feb 2024 10:16:30 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/rm-1B64DD-Y/hqdefault.jpg"/>
-      <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>0</itunes:order>
-      <itunes:subtitle>by Canal Iker Jiménez published on Wednesday, February  7 2024 at 03:05:09</itunes:subtitle>
-    </item>
     <item>
       <title>Tom Brady Talks Taking On His Newest Challenge &amp; Mahomes GOAT Comparisons | Full Interview - The Pat McAfee Show</title>
       <description><![CDATA[Welcome to The Pat McAfee Show LIVE from Noon-3PM EST Mon-Fri. You can also find us live on ESPN, ESPN+, &amp; TikTok!
@@ -64,7 +45,7 @@ SPONSOR THE SHOW: https://www.patmcafeeshow.com/partnerships
       <pubDate>Mon, 05 Feb 2024 15:06:54 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/jx-ana5f428/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>1</itunes:order>
+      <itunes:order>0</itunes:order>
       <itunes:subtitle>by The Pat McAfee Show published on Tuesday, January 30 2024 at 21:30:08</itunes:subtitle>
     </item>
     <item>
@@ -116,7 +97,7 @@ https://twitimer.com
       <pubDate>Sat, 28 Oct 2023 18:02:15 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/79JygZ7DUqw/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>2</itunes:order>
+      <itunes:order>1</itunes:order>
       <itunes:subtitle>by MoureDev by Brais Moure published on Wednesday, October  6 2021 at 19:00:03</itunes:subtitle>
     </item>
     <item>
@@ -165,7 +146,7 @@ Thanks for watching.]]></description>
       <pubDate>Sat, 21 Oct 2023 10:48:08 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/lz8sUiXAnbs/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>3</itunes:order>
+      <itunes:order>2</itunes:order>
       <itunes:subtitle>by Mark Manson published on Thursday, March  4 2021 at 20:13:55</itunes:subtitle>
     </item>
     <item>
@@ -224,7 +205,7 @@ YouTube: https://www.youtube.com/user/BrendonBurchard]]></description>
       <pubDate>Wed, 21 Jun 2023 22:19:40 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/Q-xVb3V_zqI/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>4</itunes:order>
+      <itunes:order>3</itunes:order>
       <itunes:subtitle>by Tom Bilyeu published on Tuesday, August 30 2022 at 13:00:25</itunes:subtitle>
     </item>
     <item>
@@ -268,7 +249,7 @@ Instagram: https://www.instagram.com/mo_gawdat/]]></description>
       <pubDate>Wed, 21 Jun 2023 22:16:50 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/itY6VWpdECc/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>5</itunes:order>
+      <itunes:order>4</itunes:order>
       <itunes:subtitle>by Tom Bilyeu published on Tuesday, June 20 2023 at 13:00:27</itunes:subtitle>
     </item>
     <item>
@@ -318,7 +299,7 @@ Facebook: https://www.facebook.com/tombilyeu]]></description>
       <pubDate>Wed, 21 Jun 2023 22:13:04 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/9RXdAdjy0_o/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>6</itunes:order>
+      <itunes:order>5</itunes:order>
       <itunes:subtitle>by Tom Bilyeu published on Saturday, March 18 2023 at 13:00:06</itunes:subtitle>
     </item>
     <item>
@@ -365,7 +346,7 @@ First of all, let me acknowledge that I’m a pundit here, not an expert. While 
       <pubDate>Wed, 21 Jun 2023 22:11:50 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/F2LeyULGF2Q/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>7</itunes:order>
+      <itunes:order>6</itunes:order>
       <itunes:subtitle>by Tom Bilyeu published on Wednesday, March 15 2023 at 23:13:01</itunes:subtitle>
     </item>
     <item>
@@ -376,7 +357,7 @@ First of all, let me acknowledge that I’m a pundit here, not an expert. While 
       <pubDate>Mon, 03 Apr 2023 17:26:14 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/Of5d57GLAiY/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>8</itunes:order>
+      <itunes:order>7</itunes:order>
       <itunes:subtitle>by Marc Vidal published on Saturday, April  1 2023 at 19:21:17</itunes:subtitle>
     </item>
     <item>
@@ -411,7 +392,7 @@ Linkedin: https://www.linkedin.com/in/teresa-baro-comunicacion-no-verbal/
       <pubDate>Mon, 20 Mar 2023 18:57:08 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/U2lWFRFwZLE/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>9</itunes:order>
+      <itunes:order>8</itunes:order>
       <itunes:subtitle>by Teresa Baró • Comunicación de éxito published on Thursday, July  7 2022 at 18:00:08</itunes:subtitle>
     </item>
     <item>
@@ -434,7 +415,7 @@ Chapters (Powered by https://bit.ly/chapterme-yc) -
       <pubDate>Sun, 19 Mar 2023 17:28:34 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/u36A-YTxiOw/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>10</itunes:order>
+      <itunes:order>9</itunes:order>
       <itunes:subtitle>by Y Combinator published on Thursday, February  9 2023 at 22:44:27</itunes:subtitle>
     </item>
     <item>
@@ -460,7 +441,7 @@ Chapters (Powered by https://bit.ly/chapterme-yc) -
       <pubDate>Sun, 19 Mar 2023 17:15:06 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/QRZ_l7cVzzU/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>11</itunes:order>
+      <itunes:order>10</itunes:order>
       <itunes:subtitle>by Y Combinator published on Wednesday, March 15 2023 at 19:01:04</itunes:subtitle>
     </item>
     <item>
@@ -496,7 +477,7 @@ Spotify: https://open.spotify.com/show/3obLU60alE7CGpzNeTS0kN
       <pubDate>Sat, 18 Mar 2023 22:35:15 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/FyfWESyvA2w/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>12</itunes:order>
+      <itunes:order>11</itunes:order>
       <itunes:subtitle>by hdeleon.net published on Wednesday, March 15 2023 at 19:21:53</itunes:subtitle>
     </item>
     <item>
@@ -507,7 +488,7 @@ Spotify: https://open.spotify.com/show/3obLU60alE7CGpzNeTS0kN
       <pubDate>Sat, 18 Mar 2023 22:34:44 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/PcTX04kW3Kw/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>13</itunes:order>
+      <itunes:order>12</itunes:order>
       <itunes:subtitle>by CBS News published on Monday, June  3 2013 at 19:30:58</itunes:subtitle>
     </item>
     <item>
@@ -526,7 +507,7 @@ Neuroscientist Dr. Andrew Huberman shares his insights on the five habits that h
       <pubDate>Thu, 16 Feb 2023 21:46:26 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/g55rPgT4bj4/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>14</itunes:order>
+      <itunes:order>13</itunes:order>
       <itunes:subtitle>by Diy Things published on Monday, February  6 2023 at 20:25:23</itunes:subtitle>
     </item>
     <item>
@@ -555,7 +536,7 @@ www.greenlightpodcast.com]]></description>
       <pubDate>Sat, 11 Feb 2023 08:45:08 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/eP4raYsxyLo/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>15</itunes:order>
+      <itunes:order>14</itunes:order>
       <itunes:subtitle>by Green Light with Chris Long published on Friday, February  3 2023 at 00:52:02</itunes:subtitle>
     </item>
     <item>
@@ -589,7 +570,7 @@ https://www.instagram.com/jfontech
       <pubDate>Thu, 09 Feb 2023 18:04:47 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/QcnMvHpatW4/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>16</itunes:order>
+      <itunes:order>15</itunes:order>
       <itunes:subtitle>by Juan Carlos Fontecha published on Tuesday, December 20 2022 at 06:52:04</itunes:subtitle>
     </item>
     <item>
@@ -600,7 +581,7 @@ https://www.instagram.com/jfontech
       <pubDate>Tue, 07 Feb 2023 19:35:27 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/TOo7iel3DzA/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>17</itunes:order>
+      <itunes:order>16</itunes:order>
       <itunes:subtitle>by UNDISPUTED SHOW published on Tuesday, February  7 2023 at 17:18:34</itunes:subtitle>
     </item>
     <item>
@@ -611,7 +592,7 @@ https://www.instagram.com/jfontech
       <pubDate>Mon, 06 Feb 2023 08:50:29 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/1dxA-wrQ7G8/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>18</itunes:order>
+      <itunes:order>17</itunes:order>
       <itunes:subtitle>by UNDISPUTED SHOW published on Wednesday, February  1 2023 at 17:21:05</itunes:subtitle>
     </item>
     <item>
@@ -628,7 +609,7 @@ http://www.nathanhulls.com]]></description>
       <pubDate>Sun, 05 Feb 2023 23:06:14 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/-z4NS2zdrZc/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>19</itunes:order>
+      <itunes:order>18</itunes:order>
       <itunes:subtitle>by Nathan Hulls published on Wednesday, September 26 2012 at 03:42:01</itunes:subtitle>
     </item>
     <item>
@@ -647,7 +628,7 @@ http://astore.amazon.co.uk/leapster-21]]></description>
       <pubDate>Sun, 05 Feb 2023 23:05:10 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/NQ5ku4z1pjs/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>20</itunes:order>
+      <itunes:order>19</itunes:order>
       <itunes:subtitle>by waybuloouk published on Saturday, September 26 2009 at 17:55:07</itunes:subtitle>
     </item>
     <item>
@@ -709,7 +690,7 @@ Thanks so much to Endel for sponsoring this video 😀]]></description>
       <pubDate>Sun, 05 Feb 2023 23:04:35 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/R5i8alK5hPo/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>21</itunes:order>
+      <itunes:order>20</itunes:order>
       <itunes:subtitle>by Liam Porritt published on Tuesday, January 24 2023 at 16:00:21</itunes:subtitle>
     </item>
   </channel>
