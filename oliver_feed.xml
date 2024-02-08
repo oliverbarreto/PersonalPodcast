@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator> </generator>
     <language>es-ES</language>
-    <lastBuildDate>Thu, 08 Feb 2024 08:43:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Feb 2024 08:43:33 +0000</lastBuildDate>
     <itunes:author>oliver</itunes:author>
     <managingEditor>oliver.barreto.online@gmail.com (oliver)</managingEditor>
     <pubDate>Mon, 05 Feb 2024 15:06:54 +0000</pubDate>
@@ -529,40 +529,6 @@ www.greenlightpodcast.com]]></description>
       <itunes:subtitle>by Green Light with Chris Long published on Friday, February  3 2023 at 00:52:02</itunes:subtitle>
     </item>
     <item>
-      <title>Best Coding Habits to Adopt in 2023 - Juan Carlos Fontecha</title>
-      <description><![CDATA[Welcome to the new year! As software engineers, it&#x27;s important to continually improve and refine our skills to ensure we are writing high-quality, maintainable code. In this video, we&#x27;ll discuss some good coding habits that you can adopt in the new year to help you become a more efficient and effective programmer. Whether you&#x27;re a seasoned developer or just starting out, I&#x27;m hoping these habits will help you write better code and advance your career!
-
-A couple of you were asking about the keyboard &amp; journal in the thumbnail, so here they are!
-⌨️ Logitech MX Mechanical Mini: https://jfon.tech/thumbnail-keyboard
-📕 Moleskin Classic (Plain): https://jfon.tech/dev-journal
-
-If you&#x27;re interested in the equipment I use to record, I made a kit for it!
-https://jfon.tech/yt-kit
-
-📖 Chapters:
-00:00 Intro
-00:26 Breaking down your tasks
-01:56 Impact of tiny improvements
-03:21 Keeping a Dev Journal 
-05:13 (Type)safety first
-06:31 Eating the frog first
-07:38 Meditate
-
-🚀 Let&#x27;s connect
-https://www.jcfontecha.com
-https://www.twitter.com/jufontech
-https://www.instagram.com/jfontech
-
-#softwareengineer #bigtech #selfdevelopment #newyear #habits #2023 #newyearresolutions #coding #programming]]></description>
-      <guid isPermaLink="false">com.uuebcast.uuid.QcnMvHpatW4</guid>
-      <enclosure url="http://lab.oliverbarreto.com/static/media/QcnMvHpatW4.m4a" length="8461026" type="audio/x-m4a"/>
-      <pubDate>Thu, 09 Feb 2023 18:04:47 +0000</pubDate>
-      <itunes:image href="http://i.ytimg.com/vi/QcnMvHpatW4/hqdefault.jpg"/>
-      <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>14</itunes:order>
-      <itunes:subtitle>by Juan Carlos Fontecha published on Tuesday, December 20 2022 at 06:52:04</itunes:subtitle>
-    </item>
-    <item>
       <title>The Herd | Tom Brady has strong take on "stupid" Bill Belichick debate | Colin Cowherd reacts - UNDISPUTED SHOW</title>
       <description><![CDATA[The Herd | Tom Brady has strong take on &quot;stupid&quot; Bill Belichick debate | Colin Cowherd reacts]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.TOo7iel3DzA</guid>
@@ -570,7 +536,7 @@ https://www.instagram.com/jfontech
       <pubDate>Tue, 07 Feb 2023 19:35:27 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/TOo7iel3DzA/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>15</itunes:order>
+      <itunes:order>14</itunes:order>
       <itunes:subtitle>by UNDISPUTED SHOW published on Tuesday, February  7 2023 at 17:18:34</itunes:subtitle>
     </item>
     <item>
@@ -581,7 +547,7 @@ https://www.instagram.com/jfontech
       <pubDate>Mon, 06 Feb 2023 08:50:29 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/1dxA-wrQ7G8/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>16</itunes:order>
+      <itunes:order>15</itunes:order>
       <itunes:subtitle>by UNDISPUTED SHOW published on Wednesday, February  1 2023 at 17:21:05</itunes:subtitle>
     </item>
     <item>
@@ -598,7 +564,7 @@ http://www.nathanhulls.com]]></description>
       <pubDate>Sun, 05 Feb 2023 23:06:14 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/-z4NS2zdrZc/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>17</itunes:order>
+      <itunes:order>16</itunes:order>
       <itunes:subtitle>by Nathan Hulls published on Wednesday, September 26 2012 at 03:42:01</itunes:subtitle>
     </item>
     <item>
@@ -617,7 +583,7 @@ http://astore.amazon.co.uk/leapster-21]]></description>
       <pubDate>Sun, 05 Feb 2023 23:05:10 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/NQ5ku4z1pjs/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>18</itunes:order>
+      <itunes:order>17</itunes:order>
       <itunes:subtitle>by waybuloouk published on Saturday, September 26 2009 at 17:55:07</itunes:subtitle>
     </item>
     <item>
@@ -679,7 +645,7 @@ Thanks so much to Endel for sponsoring this video 😀]]></description>
       <pubDate>Sun, 05 Feb 2023 23:04:35 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/R5i8alK5hPo/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>19</itunes:order>
+      <itunes:order>18</itunes:order>
       <itunes:subtitle>by Liam Porritt published on Tuesday, January 24 2023 at 16:00:21</itunes:subtitle>
     </item>
   </channel>
