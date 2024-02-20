@@ -8,10 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator> </generator>
     <language>es-ES</language>
-    <lastBuildDate>Mon, 19 Feb 2024 23:41:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2024 06:52:49 +0000</lastBuildDate>
     <itunes:author>oliver</itunes:author>
     <managingEditor>oliver.barreto.online@gmail.com (oliver)</managingEditor>
-    <pubDate>Mon, 19 Feb 2024 23:41:11 +0000</pubDate>
+    <pubDate>Tue, 20 Feb 2024 06:52:49 +0000</pubDate>
     <itunes:category text="News"/>
     <itunes:image href="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png"/>
     <itunes:owner>
@@ -19,6 +19,25 @@
       <itunes:email>oliver.barreto.online@gmail.com</itunes:email>
     </itunes:owner>
     <atom:link href="https://raw.githubusercontent.com/oliverbarreto/PersonalPodcast/main/oliver_feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Designing a Customer-Centric Business Model - Harvard Innovation Labs</title>
+      <description><![CDATA[Simply defined, a business model is how you deliver value to customers and how you make money in return. The most successful business models capture value in concert with the customer. In this session, originally presented in-person at the Harvard Innovation Labs, you’ll learn how to do just that. Michael Skok, founding partner at Underscore VC, will share how to identify your core business value and align your business model to your customer’s success. 
+
+About the Speaker: 
+
+Michael Skok is a founding partner at Underscore VC, a Boston-based firm investing in bold B2B software founders. Since starting his first software business as a teenager, Michael has spent 21 years as an entrepreneur and the past 18 years as a venture investor. During this time, he has founded, worked with, and invested in startups, and created thousands of jobs and billions of dollars of value.  
+
+As an entrepreneur and an investor, Michael has focused on breakthrough technologies and disruptive business models including Open Source, Cloud, IoT, and emerging domains such as Blockchain, Virtual/Augmented Reality, and Artificial Intelligence/Machine Learning. He has served on or is active on many private and public boards such as Acquia, Demandware (now a Salesforce company), Mautic (acquired by Acquia in 2019), Salsify, and Zaius. He has also held leadership roles in many industry groups such as the Software Publishers Association, where he served as chairman for many years. 
+
+In 2015, Michael co-founded Underscore VC to help founders create enduring companies through the power of community. He has a passion for helping the next generation of entrepreneurs succeed by not only backing them with capital but bringing the resources and commitment of an aligned community around them to propel their success. To help achieve this, he has mentored and taught for over 10 years at Harvard University, where he is an Entrepreneur in Residence, and created the Startup Secrets series.]]></description>
+      <guid isPermaLink="false">com.uuebcast.uuid.L1Km-hJt-uI</guid>
+      <enclosure url="http://uuebcast.oliverbarreto.com/static/media/L1Km-hJt-uI.m4a" length="80646602" type="audio/x-m4a"/>
+      <pubDate>Tue, 20 Feb 2024 06:52:49 +0000</pubDate>
+      <itunes:image href="http://i.ytimg.com/vi/L1Km-hJt-uI/hqdefault.jpg"/>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:order>0</itunes:order>
+      <itunes:subtitle>by Harvard Innovation Labs published on Saturday, March 25 2023 at 13:00:12</itunes:subtitle>
+    </item>
     <item>
       <title>CIA Spy On WW3, Jeffrey Epstein, Israel-Hamas, AI &amp; Social Media Brainwashing | Andrew Bustamante - Tom Bilyeu</title>
       <description><![CDATA[Transform Your Life in 90 Days: Take The Impact 90 Challenge  https://bit.ly/47kCfrZ
@@ -78,7 +97,7 @@ Instagram: https://www.instagram.com/tombilyeu/]]></description>
       <pubDate>Mon, 19 Feb 2024 23:41:11 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/l46oWMu3b9M/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>0</itunes:order>
+      <itunes:order>1</itunes:order>
       <itunes:subtitle>by Tom Bilyeu published on Friday, January  5 2024 at 13:00:43</itunes:subtitle>
     </item>
     <item>
@@ -125,7 +144,7 @@ If you don’t risk anything, you risk everything]]></description>
       <pubDate>Mon, 19 Feb 2024 18:40:19 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/jVO7sIQl0e4/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>1</itunes:order>
+      <itunes:order>2</itunes:order>
       <itunes:subtitle>by Rob Moore published on Monday, February  5 2024 at 18:30:36</itunes:subtitle>
     </item>
     <item>
@@ -158,7 +177,7 @@ También puedes adquirir el curso anterior, y cuando se finalice la grabación e
       <pubDate>Sat, 17 Feb 2024 16:14:03 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/hjB5Jsi9Lt8/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>2</itunes:order>
+      <itunes:order>3</itunes:order>
       <itunes:subtitle>by Fernando Herrera published on Sunday, November 19 2023 at 12:00:10</itunes:subtitle>
     </item>
     <item>
@@ -210,7 +229,7 @@ https://twitimer.com
       <pubDate>Sat, 28 Oct 2023 18:02:15 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/79JygZ7DUqw/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>3</itunes:order>
+      <itunes:order>4</itunes:order>
       <itunes:subtitle>by MoureDev by Brais Moure published on Wednesday, October  6 2021 at 19:00:03</itunes:subtitle>
     </item>
     <item>
@@ -259,7 +278,7 @@ Thanks for watching.]]></description>
       <pubDate>Sat, 21 Oct 2023 10:48:08 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/lz8sUiXAnbs/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>4</itunes:order>
+      <itunes:order>5</itunes:order>
       <itunes:subtitle>by Mark Manson published on Thursday, March  4 2021 at 20:13:55</itunes:subtitle>
     </item>
     <item>
@@ -318,7 +337,7 @@ YouTube: https://www.youtube.com/user/BrendonBurchard]]></description>
       <pubDate>Wed, 21 Jun 2023 22:19:40 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/Q-xVb3V_zqI/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>5</itunes:order>
+      <itunes:order>6</itunes:order>
       <itunes:subtitle>by Tom Bilyeu published on Tuesday, August 30 2022 at 13:00:25</itunes:subtitle>
     </item>
     <item>
@@ -362,7 +381,7 @@ Instagram: https://www.instagram.com/mo_gawdat/]]></description>
       <pubDate>Wed, 21 Jun 2023 22:16:50 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/itY6VWpdECc/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>6</itunes:order>
+      <itunes:order>7</itunes:order>
       <itunes:subtitle>by Tom Bilyeu published on Tuesday, June 20 2023 at 13:00:27</itunes:subtitle>
     </item>
     <item>
@@ -412,7 +431,7 @@ Facebook: https://www.facebook.com/tombilyeu]]></description>
       <pubDate>Wed, 21 Jun 2023 22:13:04 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/9RXdAdjy0_o/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>7</itunes:order>
+      <itunes:order>8</itunes:order>
       <itunes:subtitle>by Tom Bilyeu published on Saturday, March 18 2023 at 13:00:06</itunes:subtitle>
     </item>
     <item>
@@ -459,7 +478,7 @@ First of all, let me acknowledge that I’m a pundit here, not an expert. While 
       <pubDate>Wed, 21 Jun 2023 22:11:50 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/F2LeyULGF2Q/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>8</itunes:order>
+      <itunes:order>9</itunes:order>
       <itunes:subtitle>by Tom Bilyeu published on Wednesday, March 15 2023 at 23:13:01</itunes:subtitle>
     </item>
     <item>
@@ -470,7 +489,7 @@ First of all, let me acknowledge that I’m a pundit here, not an expert. While 
       <pubDate>Mon, 03 Apr 2023 17:26:14 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/Of5d57GLAiY/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>9</itunes:order>
+      <itunes:order>10</itunes:order>
       <itunes:subtitle>by Marc Vidal published on Saturday, April  1 2023 at 19:21:17</itunes:subtitle>
     </item>
     <item>
@@ -505,7 +524,7 @@ Linkedin: https://www.linkedin.com/in/teresa-baro-comunicacion-no-verbal/
       <pubDate>Mon, 20 Mar 2023 18:57:08 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/U2lWFRFwZLE/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>10</itunes:order>
+      <itunes:order>11</itunes:order>
       <itunes:subtitle>by Teresa Baró • Comunicación de éxito published on Thursday, July  7 2022 at 18:00:08</itunes:subtitle>
     </item>
     <item>
@@ -528,7 +547,7 @@ Chapters (Powered by https://bit.ly/chapterme-yc) -
       <pubDate>Sun, 19 Mar 2023 17:28:34 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/u36A-YTxiOw/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>11</itunes:order>
+      <itunes:order>12</itunes:order>
       <itunes:subtitle>by Y Combinator published on Thursday, February  9 2023 at 22:44:27</itunes:subtitle>
     </item>
     <item>
@@ -554,7 +573,7 @@ Chapters (Powered by https://bit.ly/chapterme-yc) -
       <pubDate>Sun, 19 Mar 2023 17:15:06 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/QRZ_l7cVzzU/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>12</itunes:order>
+      <itunes:order>13</itunes:order>
       <itunes:subtitle>by Y Combinator published on Wednesday, March 15 2023 at 19:01:04</itunes:subtitle>
     </item>
     <item>
@@ -573,7 +592,7 @@ Neuroscientist Dr. Andrew Huberman shares his insights on the five habits that h
       <pubDate>Thu, 16 Feb 2023 21:46:26 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/g55rPgT4bj4/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>13</itunes:order>
+      <itunes:order>14</itunes:order>
       <itunes:subtitle>by Diy Things published on Monday, February  6 2023 at 20:25:23</itunes:subtitle>
     </item>
     <item>
@@ -590,7 +609,7 @@ http://www.nathanhulls.com]]></description>
       <pubDate>Sun, 05 Feb 2023 23:06:14 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/-z4NS2zdrZc/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>14</itunes:order>
+      <itunes:order>15</itunes:order>
       <itunes:subtitle>by Nathan Hulls published on Wednesday, September 26 2012 at 03:42:01</itunes:subtitle>
     </item>
     <item>
@@ -609,7 +628,7 @@ http://astore.amazon.co.uk/leapster-21]]></description>
       <pubDate>Sun, 05 Feb 2023 23:05:10 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/NQ5ku4z1pjs/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>15</itunes:order>
+      <itunes:order>16</itunes:order>
       <itunes:subtitle>by waybuloouk published on Saturday, September 26 2009 at 17:55:07</itunes:subtitle>
     </item>
     <item>
@@ -671,7 +690,7 @@ Thanks so much to Endel for sponsoring this video 😀]]></description>
       <pubDate>Sun, 05 Feb 2023 23:04:35 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/R5i8alK5hPo/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>16</itunes:order>
+      <itunes:order>17</itunes:order>
       <itunes:subtitle>by Liam Porritt published on Tuesday, January 24 2023 at 16:00:21</itunes:subtitle>
     </item>
   </channel>
