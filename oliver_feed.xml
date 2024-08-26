@@ -8,10 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator> </generator>
     <language>es-ES</language>
-    <lastBuildDate>Mon, 26 Aug 2024 18:17:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2024 18:27:45 +0000</lastBuildDate>
     <itunes:author>oliver</itunes:author>
     <managingEditor>oliver.barreto.online@gmail.com (oliver)</managingEditor>
-    <pubDate>Mon, 26 Aug 2024 18:17:52 +0000</pubDate>
+    <pubDate>Mon, 26 Aug 2024 18:27:45 +0000</pubDate>
     <itunes:category text="News"/>
     <itunes:image href="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png"/>
     <itunes:owner>
@@ -29,7 +29,7 @@ I provide educational content on tech &amp; market and feature Elon Musk and oth
 Recorded: Stanford]]></description>
       <guid isPermaLink="false">com.uuebcast.uuid.mKVFNg3DEng</guid>
       <enclosure url="http://lab.oliverbarreto.com/static/media/mKVFNg3DEng.mp4" length="43102563" type="video/mp4"/>
-      <pubDate>Mon, 26 Aug 2024 18:17:52 +0000</pubDate>
+      <pubDate>Mon, 26 Aug 2024 18:27:45 +0000</pubDate>
       <itunes:image href="https://i.ytimg.com/vi/mKVFNg3DEng/sddefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:order>0</itunes:order>
