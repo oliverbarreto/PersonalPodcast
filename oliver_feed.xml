@@ -8,10 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator> </generator>
     <language>es-ES</language>
-    <lastBuildDate>Sat, 30 Nov 2024 13:07:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2024 22:58:16 +0000</lastBuildDate>
     <itunes:author>oliver</itunes:author>
     <managingEditor>oliver.barreto.online@gmail.com (oliver)</managingEditor>
-    <pubDate>Sat, 30 Nov 2024 13:07:29 +0000</pubDate>
+    <pubDate>Sun, 29 Dec 2024 22:58:16 +0000</pubDate>
     <itunes:category text="News"/>
     <itunes:image href="https://github.com/oliverbarreto/PersonalPodcast/raw/main/site-logo-1400x1400.png"/>
     <itunes:owner>
@@ -19,6 +19,98 @@
       <itunes:email>oliver.barreto.online@gmail.com</itunes:email>
     </itunes:owner>
     <atom:link href="https://raw.githubusercontent.com/oliverbarreto/PersonalPodcast/main/oliver_feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Why great AI products are all about the data  Shaun Clowes (CPO at Confluent) - Lenny's Podcast</title>
+      <description><![CDATA[Shaun Clowes is the chief product officer at Confluent and former CPO at Salesforce’s MuleSoft and at Metromile. He was also the first head of growth at Atlassian, where he led product for Jira Agile and built the first-ever B2B growth team. In our conversation, we discuss:
+• Why most PMs are bad, and how to fix this
+• Why great AI products are all about the data
+• Why he changed his mind about being data-driven
+• How to build your B2B growth team
+• How to choose your next career stop
+• Much more
+
+—
+
+Brought to you by:
+• Enterpret—Transform customer feedback into product growth: https://enterpret.com/lenny
+• BuildBetter—AI for product teams: https://buildbetter.ai/lenny
+• Wix Studio—The web creation platform built for agencies: https://www.wix.com/studio
+
+Find the transcript at: https://www.lennysnewsletter.com/p/why-great-ai-products-are-all-about-the-data-shaun-clowes
+
+Where to find Shaun Clowes:
+• X: https://x.com/ShaunMClowes
+• LinkedIn: https://www.linkedin.com/in/shaun-clowes-80795014/
+• Website: https://shaunclowes.com/about-shaun
+• Reforge: https://www.reforge.com/profiles/shaun-clowes
+
+Where to find Lenny:
+• Newsletter: https://www.lennysnewsletter.com
+• X: https://twitter.com/lennysan
+• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+In this episode, we cover:
+(00:00) Shaun’s background
+(05:08) The state of product management
+(09:33) Becoming a 10x product manager
+(13:23) Specific ways to leverage AI in product management
+(17:15) Feedback rivers 
+(19:20) AI&#x27;s impact on data management
+(24:35) The future of enterprise businesses with AI
+(35:41) Data-driven decision-making
+(45:50) Building effective growth teams
+(50:18) The evolution of product-led growth
+(56:16) Career insights and decision-making
+(01:07:45) Failure corner
+(01:12:32) Final thoughts and lightning round
+
+Referenced:
+• Steve Blank’s website: https://steveblank.com/
+• Getting Out of the Building. 2 Minutes to See Why: https://www.youtube.com/watch?v=TbMgWr1YVfs
+• OpenAI: https://openai.com/
+• Claude: https://claude.ai/
+• Sachin Rekhi on LinkedIn: https://www.linkedin.com/in/sachinrekhi/
+• Video: Building Your Product Intuition with Feedback Rivers: https://www.sachinrekhi.com/video-building-your-product-intuition-with-feedback-rivers
+• Confluent: https://www.confluent.io
+• Workday: https://www.workday.com/
+• Lenny and Friends Summit: https://lennyssummit.com/
+• A conversation with OpenAI’s CPO Kevin Weil, Anthropic’s CPO Mike Krieger, and Sarah Guo: https://www.youtube.com/watch?v=IxkvVZua28k
+• Anthropic: https://www.anthropic.com/
+• Salesforce: https://www.salesforce.com/
+• Atlassian: https://www.atlassian.com/
+• Jira: https://www.atlassian.com/software/jira
+• Ashby: https://www.ashbyhq.com/
+• Occam’s razor: https://en.wikipedia.org/wiki/Occam%27s_razor
+• Breaking the rules of growth: Why Shopify bans KPIs, optimizes for churn, prioritizes intuition, and builds toward a 100-year vision | Archie Abrams (VP Product, Head of Growth at Shopify): https://www.lennysnewsletter.com/p/shopifys-growth-archie-abrams
+• Charlie Munger quote: https://www.goodreads.com/quotes/11903426-show-me-the-incentive-and-i-ll-show-you-the-outcome
+• Elena Verna on how B2B growth is changing, product-led growth, product-led sales, why you should go freemium not trial, what features to make free, and much more: https://www.lennysnewsletter.com/p/elena-verna-on-why-every-company
+• The ultimate guide to product-led sales | Elena Verna: https://www.lennysnewsletter.com/p/the-ultimate-guide-to-product-led
+• Metromile: https://www.metromile.com/
+• Tom Kennedy on LinkedIn: https://www.linkedin.com/in/tom-kennedy-37356b2b/
+• Building Wiz: the fastest-growing startup in history | Raaz Herzberg (CMO and VP Product Strategy): https://www.lennysnewsletter.com/p/building-wiz-raaz-herzberg
+• Wiz: https://www.wiz.io
+• Colin Powell’s 40-70 rule: https://www.42courses.com/blog/home/2019/12/10/colin-powells-40-70-rule
+• Detroiters on Netflix: https://www.netflix.com/title/80165019
+• Glean: https://www.glean.com/
+• Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity: https://www.amazon.com/Radical-Candor-Kick-Ass-Without-Humanity/dp/1250103509
+• Listen: Five Simple Tools to Meet Your Everyday Parenting Challenges: https://www.amazon.com/Listen-Simple-Everyday-Parenting-Challenges/dp/0997459301
+• Empress Falls Canyon and abseiling: https://bmac.com.au/blue-mountains-canyoning/empress-falls-canyon-and-abseiling
+
+Recommended books:
+• The Lean Startup: How Today’s Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses: https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898
+• Inspired: How to Create Products Customers Love: https://www.amazon.com/Inspired-Create-Products-Customers-Love/dp/0981690408
+
+Production and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.
+
+Lenny may be an investor in the companies discussed.]]></description>
+      <guid isPermaLink="false">com.uuebcast.uuid.yVS1gTAQYSU</guid>
+      <enclosure url="http://lab.oliverbarreto.com/static/media/yVS1gTAQYSU.m4a" length="79213794" type="audio/x-m4a"/>
+      <pubDate>Sun, 29 Dec 2024 22:58:16 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/yVS1gTAQYSU/sddefault.jpg"/>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:order>0</itunes:order>
+      <itunes:subtitle>by Lenny's Podcast published on Sunday, December 29 2024 at 04:01:19</itunes:subtitle>
+    </item>
     <item>
       <title>7 Secretos del Lujo que Debes Saber para Ganar Más Dinero (César Val) - Tengo un Plan</title>
       <description><![CDATA[📘 Nuestro libro “Lo que Ellos saben y Tú no” disponible aquí: https://bit.ly/4d14ejr
@@ -68,7 +160,7 @@ MARCAS DE TIEMPO
       <pubDate>Sat, 30 Nov 2024 13:07:29 +0000</pubDate>
       <itunes:image href="https://i.ytimg.com/vi/udwnJ5iJ9_c/sddefault.jpg?v=654be744"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>0</itunes:order>
+      <itunes:order>1</itunes:order>
       <itunes:subtitle>by Tengo un Plan published on Thursday, November  9 2023 at 03:00:09</itunes:subtitle>
     </item>
     <item>
@@ -113,7 +205,7 @@ Images from Freepik.com (premium license), Pixabay, or Wikimedia commons]]></des
       <pubDate>Wed, 20 Nov 2024 22:26:51 +0000</pubDate>
       <itunes:image href="https://i.ytimg.com/vi/V3vhXQy48jo/sddefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>1</itunes:order>
+      <itunes:order>2</itunes:order>
       <itunes:subtitle>by Therapy in a Nutshell published on Thursday, July  1 2021 at 15:00:15</itunes:subtitle>
     </item>
     <item>
@@ -186,7 +278,7 @@ NordVPN -  https://NORDVPN.COM/DOAC]]></description>
       <pubDate>Fri, 15 Nov 2024 09:52:02 +0000</pubDate>
       <itunes:image href="https://i.ytimg.com/vi/2Zg--ouGl7c/sddefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>2</itunes:order>
+      <itunes:order>3</itunes:order>
       <itunes:subtitle>by The Diary Of A CEO published on Thursday, November 14 2024 at 00:00:02</itunes:subtitle>
     </item>
     <item>
@@ -209,7 +301,7 @@ Greg’s Info:
       <pubDate>Sun, 10 Nov 2024 12:33:07 +0000</pubDate>
       <itunes:image href="https://i.ytimg.com/vi/nMORNaE_qe4/sddefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>3</itunes:order>
+      <itunes:order>4</itunes:order>
       <itunes:subtitle>by Greg Kamradt published on Thursday, November  7 2024 at 06:00:51</itunes:subtitle>
     </item>
     <item>
@@ -259,7 +351,7 @@ Possible is an award-winning podcast that sketches out the brightest version of 
       <pubDate>Thu, 31 Oct 2024 17:53:09 +0000</pubDate>
       <itunes:image href="https://i.ytimg.com/vi/KeGYI69sWvw/sddefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>4</itunes:order>
+      <itunes:order>5</itunes:order>
       <itunes:subtitle>by Reid Hoffman published on Wednesday, October 30 2024 at 05:00:17</itunes:subtitle>
     </item>
     <item>
@@ -343,7 +435,7 @@ Bon Charge - http://boncharge.com/diary with code DIARY for 25% off]]></descript
       <pubDate>Thu, 31 Oct 2024 11:56:17 +0000</pubDate>
       <itunes:image href="https://i.ytimg.com/vi/ZkNVSju99HY/sddefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>5</itunes:order>
+      <itunes:order>6</itunes:order>
       <itunes:subtitle>by The Diary Of A CEO published on Thursday, October 31 2024 at 01:00:25</itunes:subtitle>
     </item>
     <item>
@@ -408,7 +500,7 @@ Shopify - http://shopify.com/bartlett]]></description>
       <pubDate>Tue, 29 Oct 2024 21:55:34 +0000</pubDate>
       <itunes:image href="https://i.ytimg.com/vi/VaVC3PAWqLk/sddefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>6</itunes:order>
+      <itunes:order>7</itunes:order>
       <itunes:subtitle>by The Diary Of A CEO published on Monday, October  7 2024 at 00:00:18</itunes:subtitle>
     </item>
     <item>
@@ -445,7 +537,7 @@ AI development, technological advancements, economic impact, United States econo
       <pubDate>Tue, 22 Oct 2024 22:25:53 +0000</pubDate>
       <itunes:image href="https://i.ytimg.com/vi/6twxFu3bL0w/sddefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>7</itunes:order>
+      <itunes:order>8</itunes:order>
       <itunes:subtitle>by Tom Bilyeu published on Tuesday, October 22 2024 at 06:53:40</itunes:subtitle>
     </item>
     <item>
@@ -504,7 +596,7 @@ Linkedin Jobs: linkedin/doac]]></description>
       <pubDate>Tue, 22 Oct 2024 18:41:23 +0000</pubDate>
       <itunes:image href="https://i.ytimg.com/vi/78YN1e8UXdM/sddefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>8</itunes:order>
+      <itunes:order>9</itunes:order>
       <itunes:subtitle>by The Diary Of A CEO published on Thursday, September  5 2024 at 00:00:03</itunes:subtitle>
     </item>
     <item>
@@ -539,7 +631,7 @@ Subtitles for this video were created using [XL8.ai](http://xl8.ai/) machine tra
       <pubDate>Sun, 06 Oct 2024 13:22:58 +0000</pubDate>
       <itunes:image href="https://i.ytimg.com/vi/Q3EE-V-cMog/sddefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>9</itunes:order>
+      <itunes:order>10</itunes:order>
       <itunes:subtitle>by EO published on Tuesday, July  2 2024 at 07:00:30</itunes:subtitle>
     </item>
     <item>
@@ -600,7 +692,7 @@ Or if you prefer there is also a Patreon: https://patreon.com/technovangelist
       <pubDate>Sat, 05 Oct 2024 12:11:18 +0000</pubDate>
       <itunes:image href="https://i.ytimg.com/vi/VDuA5xbkEjo/sddefault.jpg?v=67009598"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>10</itunes:order>
+      <itunes:order>11</itunes:order>
       <itunes:subtitle>by Matt Williams published on Friday, October  4 2024 at 18:30:24</itunes:subtitle>
     </item>
     <item>
@@ -641,7 +733,7 @@ dollar reserve currency, U.S. manufacturing, economic manipulation, public perce
       <pubDate>Tue, 10 Sep 2024 15:27:58 +0000</pubDate>
       <itunes:image href="https://i.ytimg.com/vi/Z8ZrGle8Bss/sddefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>11</itunes:order>
+      <itunes:order>12</itunes:order>
       <itunes:subtitle>by Tom Bilyeu published on Tuesday, September 10 2024 at 06:00:43</itunes:subtitle>
     </item>
     <item>
@@ -652,7 +744,7 @@ dollar reserve currency, U.S. manufacturing, economic manipulation, public perce
       <pubDate>Mon, 02 Sep 2024 07:00:04 +0000</pubDate>
       <itunes:image href="https://i.ytimg.com/vi/EUeryhp8HSQ/sddefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>12</itunes:order>
+      <itunes:order>13</itunes:order>
       <itunes:subtitle>by AI Upload published on Monday, August 26 2024 at 11:19:57</itunes:subtitle>
     </item>
     <item>
@@ -666,7 +758,7 @@ Contact us for licensing questions: http://www.loungev.com/contact/]]></descript
       <pubDate>Wed, 28 Aug 2024 19:20:08 +0000</pubDate>
       <itunes:image href="https://i.ytimg.com/vi/4mEbABPtTv8/sddefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>13</itunes:order>
+      <itunes:order>14</itunes:order>
       <itunes:subtitle>by LoungeV Films - Relaxing Music and Nature Sounds published on Tuesday, January  7 2014 at 14:18:17</itunes:subtitle>
     </item>
     <item>
@@ -710,7 +802,7 @@ Chapters:
       <pubDate>Wed, 28 Aug 2024 16:44:22 +0000</pubDate>
       <itunes:image href="https://i.ytimg.com/vi/fVXl00PrM3s/sddefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>14</itunes:order>
+      <itunes:order>15</itunes:order>
       <itunes:subtitle>by Matthew Berman published on Wednesday, August 28 2024 at 08:41:04</itunes:subtitle>
     </item>
     <item>
@@ -769,7 +861,7 @@ ZOE: http://joinzoe.com with an exclusive code CEO10 for 10% off]]></description
       <pubDate>Wed, 28 Aug 2024 11:29:16 +0000</pubDate>
       <itunes:image href="https://i.ytimg.com/vi/iz_SJ5TpLJ0/sddefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>15</itunes:order>
+      <itunes:order>16</itunes:order>
       <itunes:subtitle>by The Diary Of A CEO published on Thursday, June  6 2024 at 00:00:19</itunes:subtitle>
     </item>
     <item>
@@ -785,7 +877,7 @@ Recorded: Stanford]]></description>
       <pubDate>Wed, 28 Aug 2024 11:26:38 +0000</pubDate>
       <itunes:image href="https://i.ytimg.com/vi/mKVFNg3DEng/sddefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>16</itunes:order>
+      <itunes:order>17</itunes:order>
       <itunes:subtitle>by Financial Wise published on Sunday, August 18 2024 at 06:43:50</itunes:subtitle>
     </item>
     <item>
@@ -802,7 +894,7 @@ andrew bustamante,everyday spy podcast,spy,lex fridman,andrew bustamante podcast
       <pubDate>Sat, 08 Jun 2024 19:43:34 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/bTGfB1iQwW8/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>17</itunes:order>
+      <itunes:order>18</itunes:order>
       <itunes:subtitle>by Andrew Bustamante published on Saturday, June  8 2024 at 15:00:37</itunes:subtitle>
     </item>
     <item>
@@ -834,7 +926,7 @@ Was there anything i missed?
       <pubDate>Sat, 08 Jun 2024 19:30:21 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/om5KAKSSpNg/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>18</itunes:order>
+      <itunes:order>19</itunes:order>
       <itunes:subtitle>by TheAIGRID published on Saturday, June  8 2024 at 13:30:31</itunes:subtitle>
     </item>
     <item>
@@ -882,7 +974,7 @@ CRONOLOGÍA:
       <pubDate>Wed, 05 Jun 2024 20:44:16 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/g14P5_Kaosc/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>19</itunes:order>
+      <itunes:order>20</itunes:order>
       <itunes:subtitle>by Inversión Racional Podcast published on Tuesday, April 23 2024 at 14:24:23</itunes:subtitle>
     </item>
     <item>
@@ -966,7 +1058,7 @@ Themes: Mindset, Finance, World Affairs, Health &amp; Productivity, Future &amp;
       <pubDate>Thu, 02 May 2024 15:49:52 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/-VFz5yO2SO4/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>20</itunes:order>
+      <itunes:order>21</itunes:order>
       <itunes:subtitle>by Tom Bilyeu published on Tuesday, April 30 2024 at 13:00:00</itunes:subtitle>
     </item>
     <item>
@@ -1027,7 +1119,7 @@ Episode link: https://play.headliner.app/episode/20034776?utm_source=youtube]]><
       <pubDate>Mon, 29 Apr 2024 11:46:29 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/VQTsDsPNSTw/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>21</itunes:order>
+      <itunes:order>22</itunes:order>
       <itunes:subtitle>by Stanford Graduate School of Business published on Tuesday, April  2 2024 at 15:03:53</itunes:subtitle>
     </item>
     <item>
@@ -1050,7 +1142,7 @@ Prior to co-founding Flow Research Collective with Steven Kotler, Rian worked wi
       <pubDate>Sun, 28 Apr 2024 07:05:44 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/Q7Phkq0BUXM/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>22</itunes:order>
+      <itunes:order>23</itunes:order>
       <itunes:subtitle>by Rian Doris published on Thursday, March 21 2024 at 12:00:18</itunes:subtitle>
     </item>
     <item>
@@ -1083,7 +1175,7 @@ Y sígueme también en:
       <pubDate>Sat, 27 Apr 2024 16:40:13 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/vPVCdSDH0EY/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>23</itunes:order>
+      <itunes:order>24</itunes:order>
       <itunes:subtitle>by Marc Vidal published on Saturday, April 27 2024 at 15:34:27</itunes:subtitle>
     </item>
     <item>
@@ -1166,7 +1258,7 @@ Themes: Mindset, Finance, World Affairs, Health &amp; Productivity, Future &amp;
       <pubDate>Sat, 27 Apr 2024 16:03:42 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/Vqam_Zu9UBE/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>24</itunes:order>
+      <itunes:order>25</itunes:order>
       <itunes:subtitle>by Tom Bilyeu published on Saturday, April 27 2024 at 13:00:33</itunes:subtitle>
     </item>
     <item>
@@ -1226,7 +1318,7 @@ Shopify: http://shopify.com/bartlett]]></description>
       <pubDate>Sat, 27 Apr 2024 15:03:18 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/IxVNR0Om-lA/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>25</itunes:order>
+      <itunes:order>26</itunes:order>
       <itunes:subtitle>by The Diary Of A CEO published on Thursday, April 25 2024 at 07:00:07</itunes:subtitle>
     </item>
     <item>
@@ -1253,7 +1345,7 @@ Bye!]]></description>
       <pubDate>Fri, 26 Apr 2024 21:50:47 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/vEd-LqBCONg/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>26</itunes:order>
+      <itunes:order>27</itunes:order>
       <itunes:subtitle>by Goda Go published on Monday, March  4 2024 at 13:49:47</itunes:subtitle>
     </item>
     <item>
@@ -1311,7 +1403,7 @@ IMPACT THEORY MERCHANDISE: Check out Impact Theory&#x27;s Merch Shop: http://bit
       <pubDate>Sat, 13 Apr 2024 11:03:07 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/V2K4VqkfRaM/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>27</itunes:order>
+      <itunes:order>28</itunes:order>
       <itunes:subtitle>by Tom Bilyeu published on Tuesday, October 15 2019 at 13:00:10</itunes:subtitle>
     </item>
     <item>
@@ -1351,7 +1443,7 @@ Instagram: https://www.instagram.com/tombilyeu/]]></description>
       <pubDate>Sat, 06 Apr 2024 14:23:55 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/OSV7cxma6_s/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>28</itunes:order>
+      <itunes:order>29</itunes:order>
       <itunes:subtitle>by Tom Bilyeu published on Tuesday, December 12 2023 at 14:00:24</itunes:subtitle>
     </item>
     <item>
@@ -1394,7 +1486,7 @@ Part of spiritual development is to recognize the Satanic tendencies that charac
       <pubDate>Sat, 06 Apr 2024 13:23:20 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/-gYpCIbZjUQ/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>29</itunes:order>
+      <itunes:order>30</itunes:order>
       <itunes:subtitle>by WordToTheWise published on Wednesday, December  7 2022 at 13:00:00</itunes:subtitle>
     </item>
     <item>
@@ -1407,7 +1499,7 @@ Part of spiritual development is to recognize the Satanic tendencies that charac
       <pubDate>Fri, 05 Apr 2024 16:37:14 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/qwaLhSgi7q8/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>30</itunes:order>
+      <itunes:order>31</itunes:order>
       <itunes:subtitle>by Jordan Peterson Clips published on Thursday, April 28 2022 at 19:30:03</itunes:subtitle>
     </item>
     <item>
@@ -1461,7 +1553,7 @@ Instagram: https://www.instagram.com/arthurcbrooks/]]></description>
       <pubDate>Wed, 03 Apr 2024 13:15:59 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/B8O6aTHBBTY/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>31</itunes:order>
+      <itunes:order>32</itunes:order>
       <itunes:subtitle>by Tom Bilyeu published on Tuesday, September 12 2023 at 13:00:09</itunes:subtitle>
     </item>
     <item>
@@ -1523,7 +1615,7 @@ SOCIAL:
       <pubDate>Tue, 19 Mar 2024 19:03:47 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/sY8aFSY2zv4/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>32</itunes:order>
+      <itunes:order>33</itunes:order>
       <itunes:subtitle>by Lex Fridman published on Friday, August 19 2022 at 15:56:20</itunes:subtitle>
     </item>
     <item>
@@ -1583,7 +1675,7 @@ SOCIAL:
       <pubDate>Tue, 19 Mar 2024 19:03:11 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/jvqFAi7vkBc/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>33</itunes:order>
+      <itunes:order>34</itunes:order>
       <itunes:subtitle>by Lex Fridman published on Monday, March 18 2024 at 15:03:19</itunes:subtitle>
     </item>
     <item>
@@ -1665,7 +1757,7 @@ Whoop: https://join.whoop.com/en-uk/CEO]]></description>
       <pubDate>Wed, 06 Mar 2024 17:43:15 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/QVVe2rCHtN0/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>34</itunes:order>
+      <itunes:order>35</itunes:order>
       <itunes:subtitle>by The Diary Of A CEO published on Monday, March  4 2024 at 08:00:55</itunes:subtitle>
     </item>
     <item>
@@ -1715,7 +1807,7 @@ Cinematographers/Editors: Stewart Schuster @RodrigoTasca &amp;  @Tascastudios  M
       <pubDate>Thu, 29 Feb 2024 22:14:23 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/Abi8kwkfZbA/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>35</itunes:order>
+      <itunes:order>36</itunes:order>
       <itunes:subtitle>by The Futur published on Thursday, October 19 2023 at 14:00:05</itunes:subtitle>
     </item>
     <item>
@@ -1806,7 +1898,7 @@ We get a small commission with no extra cost to you.
       <pubDate>Fri, 23 Feb 2024 17:02:37 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/SJPUm4RAtvA/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>36</itunes:order>
+      <itunes:order>37</itunes:order>
       <itunes:subtitle>by Brand Master Academy published on Tuesday, February 13 2024 at 11:29:35</itunes:subtitle>
     </item>
     <item>
@@ -1829,7 +1921,7 @@ https://www.coursera.org/specializations/machine-learning-introduction]]></descr
       <pubDate>Wed, 21 Feb 2024 17:20:07 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/5p248yoa3oE/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>37</itunes:order>
+      <itunes:order>38</itunes:order>
       <itunes:subtitle>by Stanford Online published on Tuesday, August 29 2023 at 22:49:19</itunes:subtitle>
     </item>
     <item>
@@ -1906,7 +1998,7 @@ Themes: Mindset, Finance, World Affairs, Health &amp; Productivity, Future &amp;
       <pubDate>Tue, 20 Feb 2024 21:44:07 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/g6VNAM58a_U/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>38</itunes:order>
+      <itunes:order>39</itunes:order>
       <itunes:subtitle>by Tom Bilyeu published on Tuesday, February 20 2024 at 14:00:26</itunes:subtitle>
     </item>
     <item>
@@ -1971,7 +2063,7 @@ Connect with James:
       <pubDate>Tue, 20 Feb 2024 17:17:11 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/fDHvUviV8nk/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>39</itunes:order>
+      <itunes:order>40</itunes:order>
       <itunes:subtitle>by James Laughlin published on Wednesday, September 13 2023 at 14:23:51</itunes:subtitle>
     </item>
     <item>
@@ -1990,7 +2082,7 @@ In 2015, Michael co-founded Underscore VC to help founders create enduring compa
       <pubDate>Tue, 20 Feb 2024 06:52:49 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/L1Km-hJt-uI/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>40</itunes:order>
+      <itunes:order>41</itunes:order>
       <itunes:subtitle>by Harvard Innovation Labs published on Saturday, March 25 2023 at 13:00:12</itunes:subtitle>
     </item>
     <item>
@@ -2052,7 +2144,7 @@ Instagram: https://www.instagram.com/tombilyeu/]]></description>
       <pubDate>Mon, 19 Feb 2024 23:41:11 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/l46oWMu3b9M/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>41</itunes:order>
+      <itunes:order>42</itunes:order>
       <itunes:subtitle>by Tom Bilyeu published on Friday, January  5 2024 at 13:00:43</itunes:subtitle>
     </item>
     <item>
@@ -2099,7 +2191,7 @@ If you don’t risk anything, you risk everything]]></description>
       <pubDate>Mon, 19 Feb 2024 18:40:19 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/jVO7sIQl0e4/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>42</itunes:order>
+      <itunes:order>43</itunes:order>
       <itunes:subtitle>by Rob Moore published on Monday, February  5 2024 at 18:30:36</itunes:subtitle>
     </item>
     <item>
@@ -2132,7 +2224,7 @@ También puedes adquirir el curso anterior, y cuando se finalice la grabación e
       <pubDate>Sat, 17 Feb 2024 16:14:03 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/hjB5Jsi9Lt8/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>43</itunes:order>
+      <itunes:order>44</itunes:order>
       <itunes:subtitle>by Fernando Herrera published on Sunday, November 19 2023 at 12:00:10</itunes:subtitle>
     </item>
     <item>
@@ -2184,7 +2276,7 @@ https://twitimer.com
       <pubDate>Sat, 28 Oct 2023 18:02:15 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/79JygZ7DUqw/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>44</itunes:order>
+      <itunes:order>45</itunes:order>
       <itunes:subtitle>by MoureDev by Brais Moure published on Wednesday, October  6 2021 at 19:00:03</itunes:subtitle>
     </item>
     <item>
@@ -2233,7 +2325,7 @@ Thanks for watching.]]></description>
       <pubDate>Sat, 21 Oct 2023 10:48:08 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/lz8sUiXAnbs/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>45</itunes:order>
+      <itunes:order>46</itunes:order>
       <itunes:subtitle>by Mark Manson published on Thursday, March  4 2021 at 20:13:55</itunes:subtitle>
     </item>
     <item>
@@ -2292,7 +2384,7 @@ YouTube: https://www.youtube.com/user/BrendonBurchard]]></description>
       <pubDate>Wed, 21 Jun 2023 22:19:40 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/Q-xVb3V_zqI/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>46</itunes:order>
+      <itunes:order>47</itunes:order>
       <itunes:subtitle>by Tom Bilyeu published on Tuesday, August 30 2022 at 13:00:25</itunes:subtitle>
     </item>
     <item>
@@ -2336,7 +2428,7 @@ Instagram: https://www.instagram.com/mo_gawdat/]]></description>
       <pubDate>Wed, 21 Jun 2023 22:16:50 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/itY6VWpdECc/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>47</itunes:order>
+      <itunes:order>48</itunes:order>
       <itunes:subtitle>by Tom Bilyeu published on Tuesday, June 20 2023 at 13:00:27</itunes:subtitle>
     </item>
     <item>
@@ -2386,7 +2478,7 @@ Facebook: https://www.facebook.com/tombilyeu]]></description>
       <pubDate>Wed, 21 Jun 2023 22:13:04 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/9RXdAdjy0_o/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>48</itunes:order>
+      <itunes:order>49</itunes:order>
       <itunes:subtitle>by Tom Bilyeu published on Saturday, March 18 2023 at 13:00:06</itunes:subtitle>
     </item>
     <item>
@@ -2433,7 +2525,7 @@ First of all, let me acknowledge that I’m a pundit here, not an expert. While 
       <pubDate>Wed, 21 Jun 2023 22:11:50 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/F2LeyULGF2Q/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>49</itunes:order>
+      <itunes:order>50</itunes:order>
       <itunes:subtitle>by Tom Bilyeu published on Wednesday, March 15 2023 at 23:13:01</itunes:subtitle>
     </item>
     <item>
@@ -2444,7 +2536,7 @@ First of all, let me acknowledge that I’m a pundit here, not an expert. While 
       <pubDate>Mon, 03 Apr 2023 17:26:14 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/Of5d57GLAiY/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>50</itunes:order>
+      <itunes:order>51</itunes:order>
       <itunes:subtitle>by Marc Vidal published on Saturday, April  1 2023 at 19:21:17</itunes:subtitle>
     </item>
     <item>
@@ -2479,7 +2571,7 @@ Linkedin: https://www.linkedin.com/in/teresa-baro-comunicacion-no-verbal/
       <pubDate>Mon, 20 Mar 2023 18:57:08 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/U2lWFRFwZLE/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>51</itunes:order>
+      <itunes:order>52</itunes:order>
       <itunes:subtitle>by Teresa Baró • Comunicación de éxito published on Thursday, July  7 2022 at 18:00:08</itunes:subtitle>
     </item>
     <item>
@@ -2502,7 +2594,7 @@ Chapters (Powered by https://bit.ly/chapterme-yc) -
       <pubDate>Sun, 19 Mar 2023 17:28:34 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/u36A-YTxiOw/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>52</itunes:order>
+      <itunes:order>53</itunes:order>
       <itunes:subtitle>by Y Combinator published on Thursday, February  9 2023 at 22:44:27</itunes:subtitle>
     </item>
     <item>
@@ -2528,7 +2620,7 @@ Chapters (Powered by https://bit.ly/chapterme-yc) -
       <pubDate>Sun, 19 Mar 2023 17:15:06 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/QRZ_l7cVzzU/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>53</itunes:order>
+      <itunes:order>54</itunes:order>
       <itunes:subtitle>by Y Combinator published on Wednesday, March 15 2023 at 19:01:04</itunes:subtitle>
     </item>
     <item>
@@ -2547,7 +2639,7 @@ Neuroscientist Dr. Andrew Huberman shares his insights on the five habits that h
       <pubDate>Thu, 16 Feb 2023 21:46:26 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/g55rPgT4bj4/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>54</itunes:order>
+      <itunes:order>55</itunes:order>
       <itunes:subtitle>by Diy Things published on Monday, February  6 2023 at 20:25:23</itunes:subtitle>
     </item>
     <item>
@@ -2564,7 +2656,7 @@ http://www.nathanhulls.com]]></description>
       <pubDate>Sun, 05 Feb 2023 23:06:14 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/-z4NS2zdrZc/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>55</itunes:order>
+      <itunes:order>56</itunes:order>
       <itunes:subtitle>by Nathan Hulls published on Wednesday, September 26 2012 at 03:42:01</itunes:subtitle>
     </item>
     <item>
@@ -2583,7 +2675,7 @@ http://astore.amazon.co.uk/leapster-21]]></description>
       <pubDate>Sun, 05 Feb 2023 23:05:10 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/NQ5ku4z1pjs/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>56</itunes:order>
+      <itunes:order>57</itunes:order>
       <itunes:subtitle>by waybuloouk published on Saturday, September 26 2009 at 17:55:07</itunes:subtitle>
     </item>
     <item>
@@ -2645,7 +2737,7 @@ Thanks so much to Endel for sponsoring this video 😀]]></description>
       <pubDate>Sun, 05 Feb 2023 23:04:35 +0000</pubDate>
       <itunes:image href="http://i.ytimg.com/vi/R5i8alK5hPo/hqdefault.jpg"/>
       <itunes:explicit>Yes</itunes:explicit>
-      <itunes:order>57</itunes:order>
+      <itunes:order>58</itunes:order>
       <itunes:subtitle>by Liam Porritt published on Tuesday, January 24 2023 at 16:00:21</itunes:subtitle>
     </item>
   </channel>
